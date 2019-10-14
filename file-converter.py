@@ -1,10 +1,4 @@
 import json
-from rasa.core.validator import Validator
-import warnings
-
-with warnings.catch_warnings():
-    warnings.filterwarnings("ignore", category=FutureWarning)
-
 
 class FileConverter:
     def __init__(self, path, filename):
