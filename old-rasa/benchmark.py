@@ -29,7 +29,7 @@ def rasa_evaluate():
     command += ' --histogram benchmark/histogram'
     command += ' --confmat benchmark/confmat'
     # command += ' --mode crossvalidation'
-    # command += ' --folds 2'
+    command += ' --folds 2'
     print(command)
     os.system(command)
 

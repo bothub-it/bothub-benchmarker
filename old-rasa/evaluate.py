@@ -707,6 +707,78 @@ def remove_duckling_entities(entity_predictions):
     return patched_entity_predictions
 
 
+def run_benchmark(data_path, config_file, n_folds,
+                   report_filename=None,
+                   successes_filename=None,
+                   errors_filename='errors.json',
+                   confmat_filename=None,
+                   intent_hist_filename=None,
+                   component_builder=None):  # pragma: no cover
+    """Evaluate intent classification and entity extraction."""
+
+    nlu_config = config.load(config_file)
+    data = training_data.load_data(data_path)
+    data = drop_intents_below_freq(data, cutoff=5)
+    from collections import defaultdict
+    import tempfile
+    trainer = Trainer(nlu_config)
+    train_results = defaultdict(list)
+    test_results = defaultdict(list)
+    entity_train_results = defaultdict(lambda: defaultdict(list))
+    entity_test_results = defaultdict(lambda: defaultdict(list))
+    tmp_dir = tempfile.mkdtemp()
+    result = {
+        "intent_evaluation": None,
+        "entity_evaluation": None
+    }
+    # get the metadata config from the package data
+    count = 0
+    for train, test in generate_folds(n_folds, data):
+        count += 1
+        interpreter = trainer.train(train)
+        extractors = get_entity_extractors(interpreter)
+        entity_predictions, tokens = get_entity_predictions(interpreter,
+                                                            test)
+
+        if duckling_extractors.intersection(extractors):
+            entity_predictions = remove_duckling_entities(entity_predictions)
+            extractors = remove_duckling_extractors(extractors)
+
+        result = {
+            "intent_evaluation": None,
+            "entity_evaluation": None
+        }
+        report_filename = report_filename + str(count)
+        successes_filename = successes_filename + str(count)
+        errors_filename = errors_filename + str(count)
+        confmat_filename = confmat_filename + str(count)
+        intent_hist_filename = intent_hist_filename + str(count)
+
+        if is_intent_classifier_present(interpreter):
+            intent_targets = get_intent_targets(test)
+            intent_results = get_intent_predictions(
+                intent_targets, interpreter, test)
+
+            logger.info("Intent evaluation results:")
+            result['intent_evaluation'] = evaluate_intents(intent_results,
+                                                           report_filename,
+                                                           successes_filename,
+                                                           errors_filename,
+                                                           confmat_filename,
+                                                           intent_hist_filename)
+
+        if extractors:
+            entity_targets = get_entity_targets(test)
+
+            logger.info("Entity evaluation results:")
+            result['entity_evaluation'] = evaluate_entities(entity_targets,
+                                                            entity_predictions,
+                                                            tokens,
+                                                            extractors)
+
+    return result
+
+
 def run_evaluation(data_path, model,
                    report_filename=None,
                    successes_filename=None,
@@ -973,8 +1045,9 @@ def main():
         print(cmdline_args.errors)
         print(cmdline_args.confmat)
         print(cmdline_args.histogram)
-        run_evaluation(cmdline_args.data,
-                       cmdline_args.model,
+        run_benchmark(cmdline_args.data,
+                       cmdline_args.config,
+                       cmdline_args.folds,
                        cmdline_args.report,
                        cmdline_args.successes,
                        cmdline_args.errors,
