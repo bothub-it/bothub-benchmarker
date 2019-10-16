@@ -4,25 +4,30 @@ from rasa_nlu import config
 import subprocess
 import os
 
+model_name = 'rasa_model'
+
 
 def rasa_train():
-    training_data = load_data('../data/training_data.json')
-    trainer = Trainer(config.load("nlu_config.yml"))
-    trainer.train(training_data)
-    model_directory = trainer.persist('models')
+    command = 'python -m rasa_nlu.train'
+    command += ' --data ../data/ask_ubuntu_training_data.json'
+    command += ' -o models'
+    command += ' --fixed_model_name ' + model_name
+    command += ' --config nlu_config.yml'
+
+    print(command)
+    os.system(command)
 
 
 def rasa_evaluate():
-    command = ''
-    command += 'python -m rasa_nlu.evaluate'
-    command += ' --data ../data/test_data.json'
-    command += ' --model models/default/model_20191015-173038'
+    command = 'python evaluate.py'
+    command += ' --data ../data/ask_ubuntu_test_data.json'
+    command += ' --model models/default/' + model_name
     command += ' --config nlu_config.yml'
-    command += ' --report report'
-    command += ' --successes successes'
-    command += ' --errors errors'
-    command += ' --histogram histogram'
-    command += ' --confmat confmat'
+    command += ' --report benchmark/report'
+    command += ' --successes benchmark/successes'
+    command += ' --errors benchmark/errors'
+    command += ' --histogram benchmark/histogram'
+    command += ' --confmat benchmark/confmat'
     # command += ' --mode crossvalidation'
     # command += ' --folds 2'
     print(command)
@@ -30,15 +35,14 @@ def rasa_evaluate():
 
 
 def rasa_evaluate_cross_val():
-    command = ''
-    command += 'python -m rasa_nlu.evaluate'
-    command += ' --data ../data/AskUbuntuCorpus_rasa.json'
+    command = 'python evaluate.py'
+    command += ' --data ../data/WebApplicationsCorpus_rasa.json'
     command += ' --config nlu_config.yml'
-    command += ' --report report'
-    command += ' --successes successes'
+    # command += ' --report benchmark/report'
+    # command += ' --successes benchmark/successes'
     command += ' --errors errors'
-    command += ' --histogram histogram'
-    command += ' --confmat confmat'
+    # command += ' --histogram histogram'
+    # command += ' --confmat confmat'
     command += ' --mode crossvalidation'
     command += ' --folds 2'
     print(command)
@@ -47,3 +51,4 @@ def rasa_evaluate_cross_val():
 
 # rasa_train()
 rasa_evaluate()
+# rasa_evaluate_cross_val()
