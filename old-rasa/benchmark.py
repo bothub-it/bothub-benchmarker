@@ -34,17 +34,32 @@ def rasa_evaluate():
     os.system(command)
 
 
+def rasa_benchmark():
+    command = 'python evaluate.py'
+    command += ' --data ../data/ask_ubuntu_test_data.json'
+    command += ' --config nlu_config.yml'
+    command += ' --report benchmark/report'
+    command += ' --successes benchmark/successes'
+    command += ' --errors benchmark/errors'
+    command += ' --histogram benchmark/histogram'
+    command += ' --confmat benchmark/confmat'
+    command += ' --mode benchmark'
+    command += ' --folds 2'
+    print(command)
+    os.system(command)
+
+
 def rasa_evaluate_cross_val():
     command = 'python evaluate.py'
     command += ' --data ../data/WebApplicationsCorpus_rasa.json'
     command += ' --config nlu_config.yml'
-    # command += ' --report benchmark/report'
-    # command += ' --successes benchmark/successes'
-    command += ' --errors errors'
-    # command += ' --histogram histogram'
-    # command += ' --confmat confmat'
+    command += ' --report benchmark/report'
+    command += ' --successes benchmark/successes'
+    command += ' --errors benchmark/errors'
+    command += ' --histogram benchmark/histogram'
+    command += ' --confmat benchmark/confmat'
     command += ' --mode crossvalidation'
-    command += ' --folds 2'
+    command += ' --folds 5'
     print(command)
     os.system(command)
 

@@ -35,8 +35,8 @@ def rasa_evaluate_model():
 def rasa_evaluate_cross_val():
     command = ''
     command += 'python -m rasa test nlu'
-    command += ' -u ../data/WebApplicationsCorpus_rasa.json'
-    command += ' --config nlu_config.yml'
+    command += ' -u ../data/ask_ubuntu_test_data.json'
+    command += ' --config config.yml'
     command += ' --out benchmark'
     command += ' --cross-validation'
     command += ' --folds 2'

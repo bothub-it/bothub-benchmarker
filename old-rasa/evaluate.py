@@ -748,11 +748,11 @@ def run_benchmark(data_path, config_file, n_folds,
             "intent_evaluation": None,
             "entity_evaluation": None
         }
-        report_filename = report_filename + str(count)
-        successes_filename = successes_filename + str(count)
-        errors_filename = errors_filename + str(count)
-        confmat_filename = confmat_filename + str(count)
-        intent_hist_filename = intent_hist_filename + str(count)
+        report = report_filename + str(count)
+        successes = successes_filename + str(count)
+        errors = errors_filename + str(count)
+        confmat = confmat_filename + str(count)
+        intent_hist = intent_hist_filename + str(count)
 
         if is_intent_classifier_present(interpreter):
             intent_targets = get_intent_targets(test)
@@ -761,11 +761,11 @@ def run_benchmark(data_path, config_file, n_folds,
 
             logger.info("Intent evaluation results:")
             result['intent_evaluation'] = evaluate_intents(intent_results,
-                                                           report_filename,
-                                                           successes_filename,
-                                                           errors_filename,
-                                                           confmat_filename,
-                                                           intent_hist_filename)
+                                                           report,
+                                                           successes,
+                                                           errors,
+                                                           confmat,
+                                                           intent_hist)
 
         if extractors:
             entity_targets = get_entity_targets(test)
@@ -777,7 +777,6 @@ def run_benchmark(data_path, config_file, n_folds,
                                                             extractors)
 
     return result
-
 
 def run_evaluation(data_path, model,
                    report_filename=None,
@@ -837,7 +836,7 @@ def generate_folds(n, td):
     """Generates n cross validation folds for training data td."""
 
     from sklearn.model_selection import StratifiedKFold
-    skf = StratifiedKFold(n_splits=n, shuffle=True)
+    skf = StratifiedKFold(n_splits=n, shuffle=True, random_state=0)
     x = td.intent_examples
     y = [example.get("intent") for example in x]
     for i_fold, (train_index, test_index) in enumerate(skf.split(x, y)):
@@ -1038,24 +1037,28 @@ def main():
             return_entity_results(entity_results.test, "test")
 
     elif cmdline_args.mode == "evaluation":
-        print(cmdline_args.data)
-        print(cmdline_args.model)
-        print(cmdline_args.report)
-        print(cmdline_args.successes)
-        print(cmdline_args.errors)
-        print(cmdline_args.confmat)
-        print(cmdline_args.histogram)
-        run_benchmark(cmdline_args.data,
-                       cmdline_args.config,
-                       cmdline_args.folds,
+        run_evaluation(cmdline_args.data,
+                       cmdline_args.model,
                        cmdline_args.report,
                        cmdline_args.successes,
                        cmdline_args.errors,
                        cmdline_args.confmat,
                        cmdline_args.histogram)
 
+    elif cmdline_args.mode == "benchmark":
+        run_benchmark(cmdline_args.data,
+                      cmdline_args.config,
+                      cmdline_args.folds,
+                      cmdline_args.report,
+                      cmdline_args.successes,
+                      cmdline_args.errors,
+                      cmdline_args.confmat,
+                      cmdline_args.histogram)
+
     logger.info("Finished evaluation")
 
 
 if __name__ == '__main__':  # pragma: no cover
     main()
+
+
