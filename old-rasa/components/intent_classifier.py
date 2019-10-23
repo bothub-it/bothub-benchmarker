@@ -156,7 +156,6 @@ class intent_classifier_test(Component):
         # aim for 5 examples in each fold
 
         cv_splits = self._num_cv_splits(y)
-        print('DEBUG DOS DESESPERADOS')
         return GridSearchCV(SVC(C=1,
                                 probability=True,
                                 class_weight='balanced',

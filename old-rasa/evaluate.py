@@ -75,10 +75,10 @@ def create_argument_parser():
     parser.add_argument('--errors', required=False, default="errors.json",
                         help="output path to save model errors")
 
-    parser.add_argument('--histogram', required=False, default="hist.png",
+    parser.add_argument('--histogram', required=False,
                         help="output path for the confidence histogram")
 
-    parser.add_argument('--confmat', required=False, default="confmat.png",
+    parser.add_argument('--confmat', required=False,
                         help="output path for the confusion matrix plot")
 
     utils.add_logging_option_arguments(parser, default=logging.INFO)
@@ -313,7 +313,7 @@ def evaluate_intents(intent_results,
         report, precision, f1, accuracy = get_evaluation_metrics(targets,
                                                                  predictions,
                                                                  output_dict=True)
-
+        print(report)
         save_json(report, report_filename)
         logger.info("Classification report saved to {}."
                     .format(report_filename))
@@ -342,8 +342,8 @@ def evaluate_intents(intent_results,
                               title='Intent Confusion matrix',
                               out=confmat_filename)
         plt.show()
-
-        plot_intent_confidences(intent_results,
+        if intent_hist_filename:
+            plot_intent_confidences(intent_results,
                                 intent_hist_filename)
 
         plt.show()
@@ -708,6 +708,25 @@ def remove_duckling_entities(entity_predictions):
     return patched_entity_predictions
 
 
+def sum_reports(reports):
+    size = len(reports)
+    general_report = reports[0]
+    for i in reports:
+        print(i)
+    for report in reports[1:]:
+        print('ITER BEGIN:')
+        for intent in report:
+            print('    ' + intent)
+            for field in report[intent]:
+                print('        ' + field, ': ', general_report[intent][field], ' + ', report[intent][field])
+                general_report[intent][field] += report[intent][field]
+    for intent in general_report:
+        for field in general_report[intent]:
+            general_report[intent][field] /= size
+    save_json(general_report, 'general_report')
+
+
+
 def run_benchmark(data_path, config_file, n_folds,
                    report_filename=None,
                    successes_filename=None,
@@ -735,6 +754,7 @@ def run_benchmark(data_path, config_file, n_folds,
         os.remove(filename)
     except OSError:
         pass
+    reports = []
     for train, test in generate_folds(n_folds, data):
         with open(filename, 'a') as file:
             file.write('TRAIN 1: \n')
@@ -757,24 +777,30 @@ def run_benchmark(data_path, config_file, n_folds,
             "intent_evaluation": None,
             "entity_evaluation": None
         }
-        report = report_filename + str(count)
-        successes = successes_filename + str(count)
-        errors = errors_filename + str(count)
-        confmat = confmat_filename + str(count)
-        intent_hist = intent_hist_filename + str(count)
+        report_filename = report_filename + str(count)
+        successes_filename = successes_filename + str(count)
+        errors_filename = errors_filename + str(count)
+        if confmat_filename:
+            confmat_filename = confmat_filename + str(count)
+        if intent_hist_filename:
+            intent_hist_filename = intent_hist_filename + str(count)
 
         if is_intent_classifier_present(interpreter):
             intent_targets = get_intent_targets(test)
-            intent_results = get_intent_predictions(
-                intent_targets, interpreter, test)
+            intent_results = get_intent_predictions(intent_targets, interpreter, test)
 
             logger.info("Intent evaluation results:")
-            result['intent_evaluation'] = evaluate_intents(intent_results,
-                                                           report,
-                                                           successes,
-                                                           errors,
-                                                           confmat,
-                                                           intent_hist)
+            # result['intent_evaluation'] = evaluate_intents(intent_results,
+            #                                                report_filename,
+            #                                                successes_filename,
+            #                                                errors_filename,
+            #                                                confmat_filename,
+            #                                                intent_hist_filename)
+            num_examples = len(intent_results)
+            intent_results = remove_empty_intent_examples(intent_results)
+            targets, predictions = _targets_predictions_from(intent_results)
+            report, precision, f1, accuracy = get_evaluation_metrics(targets, predictions, output_dict=True)
+            reports.append(report)
 
         if extractors:
             entity_targets = get_entity_targets(test)
@@ -784,93 +810,10 @@ def run_benchmark(data_path, config_file, n_folds,
                                                             entity_predictions,
                                                             tokens,
                                                             extractors)
+    general_report = sum_reports(reports)
 
     return result
 
-
-def run_benchmark_test(data_path, config_file, n_folds,
-                   report_filename=None,
-                   successes_filename=None,
-                   errors_filename='errors.json',
-                   confmat_filename=None,
-                   intent_hist_filename=None,
-                   component_builder=None):  # pragma: no cover
-    """Evaluate intent classification and entity extraction."""
-
-    data = training_data.load_data(data_path)
-    # data = drop_intents_below_freq(data, cutoff=5)
-    from collections import defaultdict
-    # import tempfile
-    # tmp_dir = tempfile.mkdtemp()
-    # result = {
-    #     "intent_evaluation": None,
-    #     "entity_evaluation": None
-    # }
-    # get the metadata config from the package data
-    count = 0
-    filename = 'result3.txt'
-    try:
-        os.remove(filename)
-    except OSError:
-        pass
-    # for train, test in generate_folds(n_folds, data):
-    nlu_config = config.load(config_file)
-    trainer = Trainer(nlu_config)
-    train = training_data.load_data('../data/ask_ubuntu_training_data.json')
-    train = TrainingData(training_examples=train.training_examples, entity_synonyms=train.entity_synonyms, regex_features=train.regex_features)
-
-    test = training_data.load_data('../data/ask_ubuntu_test_data.json')
-    test = TrainingData(training_examples=test.training_examples, entity_synonyms=test.entity_synonyms, regex_features=test.regex_features)
-    with open(filename, 'a') as file:
-        file.write('TRAIN 3: \n')
-        for i in train.training_examples:
-            file.write(str(i.as_dict()) + '\n')
-        file.write('TEST 3: \n')
-        for i in test.training_examples:
-            file.write(str(i.as_dict()) + '\n')
-    count += 1
-    interpreter = trainer.train(train)
-    extractors = get_entity_extractors(interpreter)
-    entity_predictions, tokens = get_entity_predictions(interpreter,
-                                                        test)
-
-    if duckling_extractors.intersection(extractors):
-        entity_predictions = remove_duckling_entities(entity_predictions)
-        extractors = remove_duckling_extractors(extractors)
-
-    result = {
-        "intent_evaluation": None,
-        "entity_evaluation": None
-    }
-    report = report_filename + str(count)
-    successes = successes_filename + str(count)
-    errors = errors_filename + str(count)
-    confmat = confmat_filename + str(count)
-    intent_hist = intent_hist_filename + str(count)
-
-    if is_intent_classifier_present(interpreter):
-        intent_targets = get_intent_targets(test)
-        intent_results = get_intent_predictions(
-            intent_targets, interpreter, test)
-
-        logger.info("Intent evaluation results:")
-        result['intent_evaluation'] = evaluate_intents(intent_results,
-                                                       report,
-                                                       successes,
-                                                       errors,
-                                                       confmat,
-                                                       intent_hist)
-
-    if extractors:
-        entity_targets = get_entity_targets(test)
-
-        logger.info("Entity evaluation results:")
-        result['entity_evaluation'] = evaluate_entities(entity_targets,
-                                                        entity_predictions,
-                                                        tokens,
-                                                        extractors)
-
-    return result
 
 
 def run_evaluation(data_path, model,
@@ -929,7 +872,6 @@ def run_evaluation(data_path, model,
 
 def generate_folds(n, td):
     """Generates n cross validation folds for training data td."""
-    print(td.training_examples)
     from sklearn.model_selection import StratifiedKFold
     n = int(n)
     skf = StratifiedKFold(n_splits=n, shuffle=False, random_state=0)

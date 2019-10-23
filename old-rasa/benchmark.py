@@ -39,10 +39,10 @@ def rasa_benchmark():
     command += ' --report ' + out_directory + '/report'
     command += ' --successes ' + out_directory + '/successes'
     command += ' --errors ' + out_directory + '/errors'
-    command += ' --histogram ' + out_directory + '/histogram'
-    command += ' --confmat ' + out_directory + '/confmat'
+    # command += ' --histogram ' + out_directory + '/histogram'
+    # command += ' --confmat ' + out_directory + '/confmat'
     command += ' --mode benchmark'
-    command += ' --folds 5'
+    command += ' --folds 3'
     print(command)
     os.system(command)
 
@@ -67,8 +67,8 @@ def rasa_evaluate_cross_val():
 
 def main():
     print(' 1 - train  2 - evaluate  3 - benchmark  4 - cross validation  5 - train + evaluate')
-    x = input()
-    x = int(x)
+    # x = input()
+    # x = int(x)
     x = 3
     if x == 1:
         rasa_train()
