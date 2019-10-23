@@ -6,6 +6,7 @@ from __future__ import unicode_literals
 import itertools
 import json
 import logging
+import os
 import shutil
 from collections import defaultdict
 from collections import namedtuple
@@ -718,14 +719,10 @@ def run_benchmark(data_path, config_file, n_folds,
 
     nlu_config = config.load(config_file)
     data = training_data.load_data(data_path)
-    data = drop_intents_below_freq(data, cutoff=5)
+    # data = drop_intents_below_freq(data, cutoff=5)
     from collections import defaultdict
     import tempfile
     trainer = Trainer(nlu_config)
-    train_results = defaultdict(list)
-    test_results = defaultdict(list)
-    entity_train_results = defaultdict(lambda: defaultdict(list))
-    entity_test_results = defaultdict(lambda: defaultdict(list))
     tmp_dir = tempfile.mkdtemp()
     result = {
         "intent_evaluation": None,
@@ -733,7 +730,19 @@ def run_benchmark(data_path, config_file, n_folds,
     }
     # get the metadata config from the package data
     count = 0
+    filename = 'result.txt'
+    try:
+        os.remove(filename)
+    except OSError:
+        pass
     for train, test in generate_folds(n_folds, data):
+        with open(filename, 'a') as file:
+            file.write('TRAIN 1: \n')
+            for i in train.training_examples:
+                file.write(str(i.as_dict()) + '\n')
+            file.write('TEST 1: \n')
+            for i in test.training_examples:
+                file.write(str(i.as_dict()) + '\n')
         count += 1
         interpreter = trainer.train(train)
         extractors = get_entity_extractors(interpreter)
@@ -777,6 +786,92 @@ def run_benchmark(data_path, config_file, n_folds,
                                                             extractors)
 
     return result
+
+
+def run_benchmark_test(data_path, config_file, n_folds,
+                   report_filename=None,
+                   successes_filename=None,
+                   errors_filename='errors.json',
+                   confmat_filename=None,
+                   intent_hist_filename=None,
+                   component_builder=None):  # pragma: no cover
+    """Evaluate intent classification and entity extraction."""
+
+    data = training_data.load_data(data_path)
+    # data = drop_intents_below_freq(data, cutoff=5)
+    from collections import defaultdict
+    # import tempfile
+    # tmp_dir = tempfile.mkdtemp()
+    # result = {
+    #     "intent_evaluation": None,
+    #     "entity_evaluation": None
+    # }
+    # get the metadata config from the package data
+    count = 0
+    filename = 'result3.txt'
+    try:
+        os.remove(filename)
+    except OSError:
+        pass
+    # for train, test in generate_folds(n_folds, data):
+    nlu_config = config.load(config_file)
+    trainer = Trainer(nlu_config)
+    train = training_data.load_data('../data/ask_ubuntu_training_data.json')
+    train = TrainingData(training_examples=train.training_examples, entity_synonyms=train.entity_synonyms, regex_features=train.regex_features)
+
+    test = training_data.load_data('../data/ask_ubuntu_test_data.json')
+    test = TrainingData(training_examples=test.training_examples, entity_synonyms=test.entity_synonyms, regex_features=test.regex_features)
+    with open(filename, 'a') as file:
+        file.write('TRAIN 3: \n')
+        for i in train.training_examples:
+            file.write(str(i.as_dict()) + '\n')
+        file.write('TEST 3: \n')
+        for i in test.training_examples:
+            file.write(str(i.as_dict()) + '\n')
+    count += 1
+    interpreter = trainer.train(train)
+    extractors = get_entity_extractors(interpreter)
+    entity_predictions, tokens = get_entity_predictions(interpreter,
+                                                        test)
+
+    if duckling_extractors.intersection(extractors):
+        entity_predictions = remove_duckling_entities(entity_predictions)
+        extractors = remove_duckling_extractors(extractors)
+
+    result = {
+        "intent_evaluation": None,
+        "entity_evaluation": None
+    }
+    report = report_filename + str(count)
+    successes = successes_filename + str(count)
+    errors = errors_filename + str(count)
+    confmat = confmat_filename + str(count)
+    intent_hist = intent_hist_filename + str(count)
+
+    if is_intent_classifier_present(interpreter):
+        intent_targets = get_intent_targets(test)
+        intent_results = get_intent_predictions(
+            intent_targets, interpreter, test)
+
+        logger.info("Intent evaluation results:")
+        result['intent_evaluation'] = evaluate_intents(intent_results,
+                                                       report,
+                                                       successes,
+                                                       errors,
+                                                       confmat,
+                                                       intent_hist)
+
+    if extractors:
+        entity_targets = get_entity_targets(test)
+
+        logger.info("Entity evaluation results:")
+        result['entity_evaluation'] = evaluate_entities(entity_targets,
+                                                        entity_predictions,
+                                                        tokens,
+                                                        extractors)
+
+    return result
+
 
 def run_evaluation(data_path, model,
                    report_filename=None,
@@ -834,15 +929,22 @@ def run_evaluation(data_path, model,
 
 def generate_folds(n, td):
     """Generates n cross validation folds for training data td."""
-
+    print(td.training_examples)
     from sklearn.model_selection import StratifiedKFold
-    skf = StratifiedKFold(n_splits=n, shuffle=True, random_state=0)
+    n = int(n)
+    skf = StratifiedKFold(n_splits=n, shuffle=False, random_state=0)
     x = td.intent_examples
     y = [example.get("intent") for example in x]
     for i_fold, (train_index, test_index) in enumerate(skf.split(x, y)):
         logger.debug("Fold: {}".format(i_fold))
         train = [x[i] for i in train_index]
         test = [x[i] for i in test_index]
+        # print('TRAIN:')
+        # for i in train:
+        #     print(i.as_dict())
+        # print('TEST:')
+        # for i in test:
+        #     print(i.as_dict())
         yield (TrainingData(training_examples=train,
                             entity_synonyms=td.entity_synonyms,
                             regex_features=td.regex_features),
@@ -893,14 +995,11 @@ def run_cv_evaluation(data, n_folds, nlu_config):
     for train, test in generate_folds(n_folds, data):
         interpreter = trainer.train(train)
 
-        # print(train.training_examples.headers)
-        for i in train.training_examples:
-            print(i.as_dict())
-        print('----------------------------')
-        for i in test.training_examples:
-            print(i.as_dict())
-        # print(test.intent_examples)
-        print('########################################')
+        # for i in train.training_examples:
+        #     print(i.as_dict())
+        # print('----------------------------')
+        # for i in test.training_examples:
+        #     print(i.as_dict())
 
         # calculate train accuracy
         train_results = combine_intent_result(train_results, interpreter,

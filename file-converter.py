@@ -1,5 +1,6 @@
 import json
 
+
 class FileConverter:
     def __init__(self, path, filename):
         self.path = path
@@ -36,7 +37,7 @@ class FileConverter:
 
 
 files_to_convert = ['AskUbuntuCorpus.json', 'ChatbotCorpus.json', 'WebApplicationsCorpus.json']
-for file in files_to_convert:
-    a = FileConverter('git_data/', file)
-    print(file)
+for filename in files_to_convert:
+    a = FileConverter('git_data/', filename)
+    print(filename)
     a.nlu_corpora_to_json()
