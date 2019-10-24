@@ -241,13 +241,14 @@ def collect_nlu_successes(intent_results, successes_filename):
                  for r in intent_results if r.target == r.prediction]
 
     if successes:
-        save_json(successes, successes_filename)
+        # save_json(successes, successes_filename)
         logger.info("Model prediction successes saved to {}."
                     .format(successes_filename))
         logger.debug("\n\nSuccessfully predicted the following"
                      "intents: \n{}".format(successes))
     else:
         logger.info("Your model made no successful predictions")
+    return successes
 
 
 def collect_nlu_errors(intent_results, errors_filename):
@@ -260,13 +261,14 @@ def collect_nlu_errors(intent_results, errors_filename):
               for r in intent_results if r.target != r.prediction]
 
     if errors:
-        save_json(errors, errors_filename)
+        # save_json(errors, errors_filename)
         logger.info("Model prediction errors saved to {}."
                     .format(errors_filename))
         logger.debug("\n\nThese intent examples could not be classified "
                      "correctly: \n{}".format(errors))
     else:
         logger.info("Your model made no errors")
+    return errors
 
 
 def plot_intent_confidences(intent_results, intent_hist_filename):
@@ -314,9 +316,7 @@ def evaluate_intents(intent_results,
                                                                  predictions,
                                                                  output_dict=True)
         print(report)
-        save_json(report, report_filename)
-        logger.info("Classification report saved to {}."
-                    .format(report_filename))
+        # save_json(report, report_filename)
 
     else:
         report, precision, f1, accuracy = get_evaluation_metrics(targets,
@@ -325,11 +325,11 @@ def evaluate_intents(intent_results,
 
     if successes_filename:
         # save classified samples to file for debugging
-        collect_nlu_successes(intent_results, successes_filename)
+        successes = collect_nlu_successes(intent_results, successes_filename)
 
     if errors_filename:
         # log and save misclassified samples to file for debugging
-        collect_nlu_errors(intent_results, errors_filename)
+        errors = collect_nlu_errors(intent_results, errors_filename)
 
     if confmat_filename:
         from sklearn.metrics import confusion_matrix
@@ -708,25 +708,6 @@ def remove_duckling_entities(entity_predictions):
     return patched_entity_predictions
 
 
-def sum_reports(reports):
-    size = len(reports)
-    general_report = reports[0]
-    for i in reports:
-        print(i)
-    for report in reports[1:]:
-        print('ITER BEGIN:')
-        for intent in report:
-            print('    ' + intent)
-            for field in report[intent]:
-                print('        ' + field, ': ', general_report[intent][field], ' + ', report[intent][field])
-                general_report[intent][field] += report[intent][field]
-    for intent in general_report:
-        for field in general_report[intent]:
-            general_report[intent][field] /= size
-    save_json(general_report, 'general_report')
-
-
-
 def run_benchmark(data_path, config_file, n_folds,
                    report_filename=None,
                    successes_filename=None,
@@ -749,20 +730,9 @@ def run_benchmark(data_path, config_file, n_folds,
     }
     # get the metadata config from the package data
     count = 0
-    filename = 'result.txt'
-    try:
-        os.remove(filename)
-    except OSError:
-        pass
     reports = []
+    results = []
     for train, test in generate_folds(n_folds, data):
-        with open(filename, 'a') as file:
-            file.write('TRAIN 1: \n')
-            for i in train.training_examples:
-                file.write(str(i.as_dict()) + '\n')
-            file.write('TEST 1: \n')
-            for i in test.training_examples:
-                file.write(str(i.as_dict()) + '\n')
         count += 1
         interpreter = trainer.train(train)
         extractors = get_entity_extractors(interpreter)
@@ -790,17 +760,12 @@ def run_benchmark(data_path, config_file, n_folds,
             intent_results = get_intent_predictions(intent_targets, interpreter, test)
 
             logger.info("Intent evaluation results:")
-            # result['intent_evaluation'] = evaluate_intents(intent_results,
-            #                                                report_filename,
-            #                                                successes_filename,
-            #                                                errors_filename,
-            #                                                confmat_filename,
-            #                                                intent_hist_filename)
-            num_examples = len(intent_results)
-            intent_results = remove_empty_intent_examples(intent_results)
-            targets, predictions = _targets_predictions_from(intent_results)
-            report, precision, f1, accuracy = get_evaluation_metrics(targets, predictions, output_dict=True)
-            reports.append(report)
+            result['intent_evaluation'] = evaluate_intents(intent_results,
+                                                           report_filename,
+                                                           successes_filename,
+                                                           errors_filename,
+                                                           confmat_filename,
+                                                           intent_hist_filename)
 
         if extractors:
             entity_targets = get_entity_targets(test)
@@ -810,10 +775,8 @@ def run_benchmark(data_path, config_file, n_folds,
                                                             entity_predictions,
                                                             tokens,
                                                             extractors)
-    general_report = sum_reports(reports)
-
-    return result
-
+        results.append(result)
+    return results
 
 
 def run_evaluation(data_path, model,
@@ -1044,6 +1007,52 @@ def return_entity_results(results, dataset_name):
         return_results(result, dataset_name)
 
 
+def sum_results(results):
+    intent_eval = results[0]['intent_evaluation']
+    entity_eval = results[0]['entity_evaluation']
+    general_result = {
+        "intent_evaluation": {
+            "report": intent_eval['report'],
+            "precision": intent_eval['precision'],
+            "f1_score": intent_eval['f1_score'],
+            "accuracy": intent_eval['accuracy']
+        },
+        "entity_evaluation": {
+            "precision": entity_eval['precision'],
+            "f1_score": entity_eval['f1_score'],
+            "accuracy": entity_eval['accuracy']
+        }
+    }
+    size = len(results)
+    for result in results[1:]:
+        # Sum of elements
+        general_result['intent_evaluation']['precision'] += result['intent_evaluation']['precision']
+        general_result['intent_evaluation']['f1_score'] += result['intent_evaluation']['f1_score']
+        general_result['intent_evaluation']['accuracy'] += result['intent_evaluation']['accuracy']
+        report = result['intent_evaluation']['report']
+        for intent in report:
+            for field in report[intent]:
+                general_result['intent_evaluation']['report'][intent][field] += report[intent][field]
+        general_result['entity_evaluation']['precision'] += result['entity_evaluation']['precision']
+        general_result['entity_evaluation']['f1_score'] += result['entity_evaluation']['f1_score']
+        general_result['entity_evaluation']['accuracy'] += result['entity_evaluation']['accuracy']
+
+        # Mean of elements
+        general_result['intent_evaluation']['precision'] /= size
+        general_result['intent_evaluation']['f1_score'] /= size
+        general_result['intent_evaluation']['accuracy'] /= size
+        for intent in general_result['intent_evaluation']['report']:
+            for field in general_result[intent]:
+                general_result[intent][field] /= size
+        general_result['entity_evaluation']['precision'] /= size
+        general_result['entity_evaluation']['f1_score'] /= size
+        general_result['entity_evaluation']['accuracy'] /= size
+
+    return general_result
+
+
+
+
 def main():
     parser = create_argument_parser()
     cmdline_args = parser.parse_args()
@@ -1087,14 +1096,17 @@ def main():
                        cmdline_args.histogram)
 
     elif cmdline_args.mode == "benchmark":
-        run_benchmark(cmdline_args.data,
-                      cmdline_args.config,
-                      cmdline_args.folds,
-                      cmdline_args.report,
-                      cmdline_args.successes,
-                      cmdline_args.errors,
-                      cmdline_args.confmat,
-                      cmdline_args.histogram)
+        result_list = run_benchmark(cmdline_args.data,
+                                cmdline_args.config,
+                                cmdline_args.folds,
+                                cmdline_args.report,
+                                cmdline_args.successes,
+                                cmdline_args.errors,
+                                cmdline_args.confmat,
+                                cmdline_args.histogram)
+        save_json(result_list[0], 'benchmark_result')
+        benchmark_result = sum_results(result_list)
+
 
     logger.info("Finished evaluation")
 

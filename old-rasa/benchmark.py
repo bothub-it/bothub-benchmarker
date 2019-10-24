@@ -30,7 +30,7 @@ def rasa_evaluate():
 
 
 def rasa_benchmark():
-    out_directory = 'benchmark-3'
+    out_directory = 'benchmark'
     if not os.path.exists(out_directory):
         os.mkdir(out_directory)
     command = 'python evaluate.py'
