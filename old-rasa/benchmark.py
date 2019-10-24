@@ -39,8 +39,6 @@ def rasa_benchmark():
     command += ' --report ' + out_directory + '/report'
     command += ' --successes ' + out_directory + '/successes'
     command += ' --errors ' + out_directory + '/errors'
-    # command += ' --histogram ' + out_directory + '/histogram'
-    # command += ' --confmat ' + out_directory + '/confmat'
     command += ' --mode benchmark'
     command += ' --folds 3'
     print(command)

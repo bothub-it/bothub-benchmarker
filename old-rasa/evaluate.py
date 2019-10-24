@@ -1007,12 +1007,11 @@ def return_entity_results(results, dataset_name):
         return_results(result, dataset_name)
 
 
-def sum_results(results):
+def sum_results(results, collect_report=False):
     intent_eval = results[0]['intent_evaluation']
     entity_eval = results[0]['entity_evaluation']['ner_crf']
     general_result = {
         "intent_evaluation": {
-            "report": intent_eval['report'],
             "precision": intent_eval['precision'],
             "f1_score": intent_eval['f1_score'],
             "accuracy": intent_eval['accuracy']
@@ -1025,20 +1024,27 @@ def sum_results(results):
             }
         }
     }
+    if collect_report:
+        general_result['intent_evaluation']['report'] = intent_eval['report']
+
+    # Sum of elements
     size = len(results)
-    print(size)
     for result in results[1:]:
-        # Sum of elements
         intent_eval = result['intent_evaluation']
-        print(general_result['intent_evaluation']['precision'], '  +  ', intent_eval['precision'])
+        # precision, f1_score and accuracy from intent eval
         general_result['intent_evaluation']['precision'] += intent_eval['precision']
         general_result['intent_evaluation']['f1_score'] += intent_eval['f1_score']
         general_result['intent_evaluation']['accuracy'] += intent_eval['accuracy']
-        report = result['intent_evaluation']['report']
-        for intent in report:
-            for field in report[intent]:
-                general_result['intent_evaluation']['report'][intent][field] += report[intent][field]
-        entity_eval = result['entity_evaluation']['ner_crf']
+
+        # report from intent eval
+        if collect_report:
+            report = result['intent_evaluation']['report']
+            for intent in report:
+                for field in report[intent]:
+                    general_result['intent_evaluation']['report'][intent][field] += report[intent][field]
+            entity_eval = result['entity_evaluation']['ner_crf']
+
+        # precision, f1_score and accuracy from entity eval
         general_result['entity_evaluation']['ner_crf']['precision'] += entity_eval['precision']
         general_result['entity_evaluation']['ner_crf']['f1_score'] += entity_eval['f1_score']
         general_result['entity_evaluation']['ner_crf']['accuracy'] += entity_eval['accuracy']
@@ -1047,16 +1053,17 @@ def sum_results(results):
     general_result['intent_evaluation']['precision'] /= size
     general_result['intent_evaluation']['f1_score'] /= size
     general_result['intent_evaluation']['accuracy'] /= size
-    for intent in general_result['intent_evaluation']['report']:
-        for field in general_result['intent_evaluation']['report'][intent]:
-            general_result['intent_evaluation']['report'][intent][field] /= size
+
+    if collect_report:
+        for intent in general_result['intent_evaluation']['report']:
+            for field in general_result['intent_evaluation']['report'][intent]:
+                general_result['intent_evaluation']['report'][intent][field] /= size
+
     general_result['entity_evaluation']['ner_crf']['precision'] /= size
     general_result['entity_evaluation']['ner_crf']['f1_score'] /= size
     general_result['entity_evaluation']['ner_crf']['accuracy'] /= size
 
     return general_result
-
-
 
 
 def main():
@@ -1102,19 +1109,25 @@ def main():
                        cmdline_args.histogram)
 
     elif cmdline_args.mode == "benchmark":
-        result_list = run_benchmark(cmdline_args.data,
-                                cmdline_args.config,
-                                cmdline_args.folds,
-                                cmdline_args.report,
-                                cmdline_args.successes,
-                                cmdline_args.errors,
-                                cmdline_args.confmat,
-                                cmdline_args.histogram)
-        save_json(result_list[0], 'benchmark_result')
-        benchmark_result = sum_results(result_list)
-        for i in range(len(result_list)):
-            save_json(result_list[i], 'benchmark/cross-result' + str(i))
-        save_json(benchmark_result, 'benchmark/result')
+        directory = os.fsencode('../benchmark_data/')
+        datasets_results = []
+        for file in os.listdir(directory):
+            filename = os.fsencode(file)
+            file_path = os.path.join(directory, filename).decode('utf-8')
+            cross_val_results= run_benchmark(file_path,
+                                    cmdline_args.config,
+                                    cmdline_args.folds,
+                                    cmdline_args.report,
+                                    cmdline_args.successes,
+                                    cmdline_args.errors,
+                                    cmdline_args.confmat,
+                                    cmdline_args.histogram)
+            dataset_result = sum_results(cross_val_results, collect_report=True)
+            save_json(dataset_result, 'benchmark/' + filename.decode('utf-8') + '_benchmark')
+            datasets_results.append(dataset_result)
+        overhaul_result = sum_results(datasets_results)
+        save_json(overhaul_result, 'benchmark/' + 'overhaul_result')
+
 
     logger.info("Finished evaluation")
 
