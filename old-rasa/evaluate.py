@@ -1009,7 +1009,7 @@ def return_entity_results(results, dataset_name):
 
 def sum_results(results):
     intent_eval = results[0]['intent_evaluation']
-    entity_eval = results[0]['entity_evaluation']
+    entity_eval = results[0]['entity_evaluation']['ner_crf']
     general_result = {
         "intent_evaluation": {
             "report": intent_eval['report'],
@@ -1018,35 +1018,41 @@ def sum_results(results):
             "accuracy": intent_eval['accuracy']
         },
         "entity_evaluation": {
-            "precision": entity_eval['precision'],
-            "f1_score": entity_eval['f1_score'],
-            "accuracy": entity_eval['accuracy']
+            "ner_crf": {
+                "precision": entity_eval['precision'],
+                "f1_score": entity_eval['f1_score'],
+                "accuracy": entity_eval['accuracy']
+            }
         }
     }
     size = len(results)
+    print(size)
     for result in results[1:]:
         # Sum of elements
-        general_result['intent_evaluation']['precision'] += result['intent_evaluation']['precision']
-        general_result['intent_evaluation']['f1_score'] += result['intent_evaluation']['f1_score']
-        general_result['intent_evaluation']['accuracy'] += result['intent_evaluation']['accuracy']
+        intent_eval = result['intent_evaluation']
+        print(general_result['intent_evaluation']['precision'], '  +  ', intent_eval['precision'])
+        general_result['intent_evaluation']['precision'] += intent_eval['precision']
+        general_result['intent_evaluation']['f1_score'] += intent_eval['f1_score']
+        general_result['intent_evaluation']['accuracy'] += intent_eval['accuracy']
         report = result['intent_evaluation']['report']
         for intent in report:
             for field in report[intent]:
                 general_result['intent_evaluation']['report'][intent][field] += report[intent][field]
-        general_result['entity_evaluation']['precision'] += result['entity_evaluation']['precision']
-        general_result['entity_evaluation']['f1_score'] += result['entity_evaluation']['f1_score']
-        general_result['entity_evaluation']['accuracy'] += result['entity_evaluation']['accuracy']
+        entity_eval = result['entity_evaluation']['ner_crf']
+        general_result['entity_evaluation']['ner_crf']['precision'] += entity_eval['precision']
+        general_result['entity_evaluation']['ner_crf']['f1_score'] += entity_eval['f1_score']
+        general_result['entity_evaluation']['ner_crf']['accuracy'] += entity_eval['accuracy']
 
-        # Mean of elements
-        general_result['intent_evaluation']['precision'] /= size
-        general_result['intent_evaluation']['f1_score'] /= size
-        general_result['intent_evaluation']['accuracy'] /= size
-        for intent in general_result['intent_evaluation']['report']:
-            for field in general_result[intent]:
-                general_result[intent][field] /= size
-        general_result['entity_evaluation']['precision'] /= size
-        general_result['entity_evaluation']['f1_score'] /= size
-        general_result['entity_evaluation']['accuracy'] /= size
+    # Mean of elements
+    general_result['intent_evaluation']['precision'] /= size
+    general_result['intent_evaluation']['f1_score'] /= size
+    general_result['intent_evaluation']['accuracy'] /= size
+    for intent in general_result['intent_evaluation']['report']:
+        for field in general_result['intent_evaluation']['report'][intent]:
+            general_result['intent_evaluation']['report'][intent][field] /= size
+    general_result['entity_evaluation']['ner_crf']['precision'] /= size
+    general_result['entity_evaluation']['ner_crf']['f1_score'] /= size
+    general_result['entity_evaluation']['ner_crf']['accuracy'] /= size
 
     return general_result
 
@@ -1106,7 +1112,9 @@ def main():
                                 cmdline_args.histogram)
         save_json(result_list[0], 'benchmark_result')
         benchmark_result = sum_results(result_list)
-
+        for i in range(len(result_list)):
+            save_json(result_list[i], 'benchmark/cross-result' + str(i))
+        save_json(benchmark_result, 'benchmark/result')
 
     logger.info("Finished evaluation")
 
