@@ -700,7 +700,7 @@ def remove_duckling_entities(entity_predictions):
     return patched_entity_predictions
 
 
-def run_benchmark(data_path, config_file, n_folds, trainer, data,
+def run_benchmark(data_path, config_file, n_folds, trainer,
                    report_filename=None,
                    successes_filename=None,
                    errors_filename='errors.json',
@@ -709,7 +709,7 @@ def run_benchmark(data_path, config_file, n_folds, trainer, data,
                    component_builder=None):  # pragma: no cover
     """Evaluate intent classification and entity extraction."""
 
-
+    data = training_data.load_data(data_path)
     # data_to_evaluate = drop_intents_below_freq(data_to_evaluate, cutoff=5)
     from collections import defaultdict
     import tempfile
@@ -1117,8 +1117,10 @@ def main():
                 config_name = config_filename.split('.')[0]
                 out_config_directory = out_directory + config_name + '/'
                 nlu_config = config.load(config_path)
-                trainer = Trainer(nlu_config)
-                data = training_data.load_data(data_path)
+                try:
+                    trainer = Trainer(nlu_config)
+                except OSError:
+                    raise
                 datasets_results = []
                 dataset_directory = 'benchmark_sources/data_to_evaluate'
                 for dataset_filename in os.listdir(dataset_directory):
@@ -1130,7 +1132,6 @@ def main():
                                                           config_path,
                                                           cmdline_args.folds,
                                                           trainer,
-                                                          data,
                                                           cmdline_args.report,
                                                           cmdline_args.successes,
                                                           cmdline_args.errors,
