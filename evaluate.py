@@ -700,7 +700,7 @@ def remove_duckling_entities(entity_predictions):
     return patched_entity_predictions
 
 
-def run_benchmark(data_path, config_file, n_folds,
+def run_benchmark(data_path, config_file, n_folds, trainer, data,
                    report_filename=None,
                    successes_filename=None,
                    errors_filename='errors.json',
@@ -709,12 +709,11 @@ def run_benchmark(data_path, config_file, n_folds,
                    component_builder=None):  # pragma: no cover
     """Evaluate intent classification and entity extraction."""
 
-    nlu_config = config.load(config_file)
-    data = training_data.load_data(data_path)
+
     # data_to_evaluate = drop_intents_below_freq(data_to_evaluate, cutoff=5)
     from collections import defaultdict
     import tempfile
-    trainer = Trainer(nlu_config)
+
     tmp_dir = tempfile.mkdtemp()
     result = {
         "intent_evaluation": None,
@@ -1117,7 +1116,9 @@ def main():
                 config_path = os.path.join(config_directory, config_filename)
                 config_name = config_filename.split('.')[0]
                 out_config_directory = out_directory + config_name + '/'
-
+                nlu_config = config.load(config_path)
+                trainer = Trainer(nlu_config)
+                data = training_data.load_data(data_path)
                 datasets_results = []
                 dataset_directory = 'benchmark_sources/data_to_evaluate'
                 for dataset_filename in os.listdir(dataset_directory):
@@ -1128,6 +1129,8 @@ def main():
                         cross_val_results = run_benchmark(dataset_path,
                                                           config_path,
                                                           cmdline_args.folds,
+                                                          trainer,
+                                                          data,
                                                           cmdline_args.report,
                                                           cmdline_args.successes,
                                                           cmdline_args.errors,
