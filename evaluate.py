@@ -45,10 +45,10 @@ def create_argument_parser():
     import argparse
     parser = argparse.ArgumentParser(
         description='evaluate a Rasa NLU pipeline with cross '
-                    'validation or on external data')
+                    'validation or on external data_to_evaluate')
 
-    parser.add_argument('-d', '--data', required=True,
-                        help="file containing training/evaluation data")
+    parser.add_argument('-d', '--data_to_evaluate', required=True,
+                        help="file containing training/evaluation data_to_evaluate")
 
     parser.add_argument('--mode', default="evaluation",
                         help="evaluation|crossvalidation (evaluate "
@@ -216,7 +216,7 @@ def drop_intents_below_freq(td, cutoff=5):
     """Remove intent groups with less than cutoff instances."""
 
     logger.debug(
-        "Raw data intent examples: {}".format(len(td.intent_examples)))
+        "Raw data_to_evaluate intent examples: {}".format(len(td.intent_examples)))
     keep_examples = [ex
                      for ex in td.intent_examples
                      if td.examples_per_intent[ex.get("intent")] >= cutoff]
@@ -569,12 +569,12 @@ def align_all_entity_predictions(targets, predictions, tokens, extractors):
 
 
 def get_intent_targets(test_data):  # pragma: no cover
-    """Extracts intent targets from the test data."""
+    """Extracts intent targets from the test data_to_evaluate."""
     return [e.get("intent", "") for e in test_data.training_examples]
 
 
 def get_entity_targets(test_data):
-    """Extracts entity targets from the test data."""
+    """Extracts entity targets from the test data_to_evaluate."""
     return [e.get("entities", []) for e in test_data.training_examples]
 
 
@@ -711,7 +711,7 @@ def run_benchmark(data_path, config_file, n_folds,
 
     nlu_config = config.load(config_file)
     data = training_data.load_data(data_path)
-    # data = drop_intents_below_freq(data, cutoff=5)
+    # data_to_evaluate = drop_intents_below_freq(data_to_evaluate, cutoff=5)
     from collections import defaultdict
     import tempfile
     trainer = Trainer(nlu_config)
@@ -720,7 +720,7 @@ def run_benchmark(data_path, config_file, n_folds,
         "intent_evaluation": None,
         "entity_evaluation": None
     }
-    # get the metadata config from the package data
+    # get the metadata config from the package data_to_evaluate
     count = 0
     reports = []
     results = []
@@ -783,7 +783,7 @@ def run_evaluation(data_path, model,
                    component_builder=None):  # pragma: no cover
     """Evaluate intent classification and entity extraction."""
 
-    # get the metadata config from the package data
+    # get the metadata config from the package data_to_evaluate
     if isinstance(model, Interpreter):
         interpreter = model
     else:
@@ -829,7 +829,7 @@ def run_evaluation(data_path, model,
 
 
 def generate_folds(n, td):
-    """Generates n cross validation folds for training data td."""
+    """Generates n cross validation folds for training data_to_evaluate td."""
     from sklearn.model_selection import StratifiedKFold
     n = int(n)
     skf = StratifiedKFold(n_splits=n, shuffle=False, random_state=0)
@@ -874,7 +874,7 @@ def combine_entity_result(results, interpreter, data):
 
 def run_cv_evaluation(data, n_folds, nlu_config):
     # type: (TrainingData, int, RasaNLUModelConfig) -> CVEvaluationResult
-    """Stratified cross validation on data
+    """Stratified cross validation on data_to_evaluate
 
     :param data: Training Data
     :param n_folds: integer, number of cv folds
@@ -1107,28 +1107,23 @@ def main():
                        cmdline_args.histogram)
 
     elif cmdline_args.mode == "benchmark":
-        out_directory = 'benchmark/'
+        out_directory = 'benchmark_output/'
         if not os.path.exists(out_directory):
             os.mkdir(out_directory)
 
-        datasets_results = []
-        config_directory = 'configs'
+        config_directory = 'benchmark_sources/configs'
         for config_filename in os.listdir(config_directory):
             if config_filename.endswith(".yml"):
                 config_path = os.path.join(config_directory, config_filename)
                 config_name = config_filename.split('.')[0]
-                print(config_path)
-                print(config_name)
                 out_config_directory = out_directory + config_name + '/'
 
                 datasets_results = []
-                dataset_directory = '../benchmark_data'
+                dataset_directory = 'benchmark_sources/data_to_evaluate'
                 for dataset_filename in os.listdir(dataset_directory):
                     if dataset_filename.endswith(".json") or dataset_filename.endswith(".md"):
                         dataset_path = os.path.join(dataset_directory, dataset_filename)
                         dataset_name = dataset_filename.split('.')[0]
-                        print(dataset_path)
-                        print(dataset_name)
 
                         cross_val_results = run_benchmark(dataset_path,
                                                           config_path,
@@ -1140,13 +1135,11 @@ def main():
                                                           cmdline_args.histogram)
 
                         dataset_result = sum_results(cross_val_results, collect_report=True)
-                        # dataset_result = {'test': 0}
                         if not os.path.exists(out_config_directory):
                             os.mkdir(out_config_directory)
                         save_json(dataset_result, out_config_directory + dataset_name + '_Benchmark')
                         datasets_results.append(dataset_result)
                 overhaul_result = sum_results(datasets_results)
-                # overhaul_result = {'test': 1}
                 save_json(overhaul_result, out_config_directory + 'Datasets_Mean_Result')
     end = timer()
     logger.info("Finished evaluation in: " + str(end - start))

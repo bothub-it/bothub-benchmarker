@@ -5,7 +5,7 @@ model_name = 'rasa_model'
 
 def rasa_train():
     command = 'python -m rasa_nlu.train'
-    command += ' --data ../data/ask_ubuntu_training_data.json'
+    command += ' --data_to_evaluate ../data_to_evaluate/ask_ubuntu_training_data.json'
     command += ' -o models'
     command += ' --fixed_model_name ' + model_name
     command += ' --config nlu_config.yml'
@@ -18,7 +18,7 @@ def rasa_evaluate():
     if not os.path.exists(out_directory):
         os.mkdir(out_directory)
     command = 'python evaluate.py'
-    command += ' --data ../data/ask_ubuntu_test_data.json'
+    command += ' --data data/ask_ubuntu_test_data.json'
     command += ' --model models/default/' + model_name
     command += ' --report ' + out_directory + '/report'
     command += ' --successes ' + out_directory + '/successes'
@@ -31,8 +31,8 @@ def rasa_evaluate():
 
 def rasa_benchmark():
     command = 'python evaluate.py'
-    command += ' --data ../benchmark_data'
-    command += ' --config configs'
+    command += ' --data benchmark_sources/data_to_evaluate'
+    command += ' --config benchmark_sources/configs'
     command += ' --mode benchmark'
     command += ' --folds 3'
     print(command)
@@ -44,8 +44,8 @@ def rasa_evaluate_cross_val():
     if not os.path.exists(out_directory):
         os.mkdir(out_directory)
     command = 'python evaluate.py'
-    command += ' --data ../data/WebApplicationsCorpus_rasa.json'
-    command += ' --config nlu_config.yml'
+    command += ' --data data/WebApplicationsCorpus_rasa.json'
+    command += ' --config benchmark_sources/configs/nlu_config.yml'
     command += ' --report ' + out_directory + '/report'
     command += ' --successes ' + out_directory + '/successes'
     command += ' --errors ' + out_directory + '/errors'

@@ -33,7 +33,7 @@ class FileConverter:
                     'entities': entities}
 
             rasa_json['rasa_nlu_data']['common_examples'].append(item)
-        open('data/' + self.filename + '_rasa.' + self.extension, 'w').write(json.dumps(rasa_json))
+        open('data_to_evaluate/' + self.filename + '_rasa.' + self.extension, 'w').write(json.dumps(rasa_json))
 
 
 files_to_convert = ['AskUbuntuCorpus.json', 'ChatbotCorpus.json', 'WebApplicationsCorpus.json']
