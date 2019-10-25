@@ -30,15 +30,9 @@ def rasa_evaluate():
 
 
 def rasa_benchmark():
-    out_directory = 'benchmark'
-    if not os.path.exists(out_directory):
-        os.mkdir(out_directory)
     command = 'python evaluate.py'
-    command += ' --data ../data/AskUbuntuCorpus_rasa.json'
-    command += ' --config nlu_config.yml'
-    command += ' --report ' + out_directory + '/report'
-    command += ' --successes ' + out_directory + '/successes'
-    command += ' --errors ' + out_directory + '/errors'
+    command += ' --data ../benchmark_data'
+    command += ' --config configs'
     command += ' --mode benchmark'
     command += ' --folds 3'
     print(command)

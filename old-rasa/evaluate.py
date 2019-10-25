@@ -8,6 +8,7 @@ import json
 import logging
 import os
 import shutil
+from timeit import default_timer as timer
 from collections import defaultdict
 from collections import namedtuple
 from typing import List, Optional, Text
@@ -311,25 +312,16 @@ def evaluate_intents(intent_results,
 
     targets, predictions = _targets_predictions_from(intent_results)
 
-    if report_filename:
-        report, precision, f1, accuracy = get_evaluation_metrics(targets,
-                                                                 predictions,
-                                                                 output_dict=True)
-        print(report)
-        # save_json(report, report_filename)
 
-    else:
-        report, precision, f1, accuracy = get_evaluation_metrics(targets,
-                                                                 predictions)
-        log_evaluation_table(report, precision, f1, accuracy)
+    report, precision, f1, accuracy = get_evaluation_metrics(targets,
+                                                             predictions,
+                                                             output_dict=True)
 
-    if successes_filename:
-        # save classified samples to file for debugging
-        successes = collect_nlu_successes(intent_results, successes_filename)
+    # save classified samples to file for debugging
+    successes = collect_nlu_successes(intent_results, successes_filename)
 
-    if errors_filename:
-        # log and save misclassified samples to file for debugging
-        errors = collect_nlu_errors(intent_results, errors_filename)
+    # log and save misclassified samples to file for debugging
+    errors = collect_nlu_errors(intent_results, errors_filename)
 
     if confmat_filename:
         from sklearn.metrics import confusion_matrix
@@ -409,7 +401,7 @@ def evaluate_entities(targets,
             merged_predictions, "O", "no_entity")
         logger.info("Evaluation for entity extractor: {} ".format(extractor))
         report, precision, f1, accuracy = get_evaluation_metrics(
-            merged_targets, merged_predictions)
+            merged_targets, merged_predictions, output_dict=True)
         log_evaluation_table(report, precision, f1, accuracy)
         result[extractor] = {
             "report": report,
@@ -747,9 +739,12 @@ def run_benchmark(data_path, config_file, n_folds,
             "intent_evaluation": None,
             "entity_evaluation": None
         }
-        report_filename = report_filename + str(count)
-        successes_filename = successes_filename + str(count)
-        errors_filename = errors_filename + str(count)
+        if report_filename:
+            report_filename = report_filename + str(count)
+        if successes_filename:
+            successes_filename = successes_filename + str(count)
+        if errors_filename:
+            errors_filename = errors_filename + str(count)
         if confmat_filename:
             confmat_filename = confmat_filename + str(count)
         if intent_hist_filename:
@@ -1008,6 +1003,7 @@ def return_entity_results(results, dataset_name):
 
 
 def sum_results(results, collect_report=False):
+    save_json(results[0], 'test')
     intent_eval = results[0]['intent_evaluation']
     entity_eval = results[0]['entity_evaluation']['ner_crf']
     general_result = {
@@ -1039,6 +1035,7 @@ def sum_results(results, collect_report=False):
         # report from intent eval
         if collect_report:
             report = result['intent_evaluation']['report']
+            print(report)
             for intent in report:
                 for field in report[intent]:
                     general_result['intent_evaluation']['report'][intent][field] += report[intent][field]
@@ -1067,6 +1064,7 @@ def sum_results(results, collect_report=False):
 
 
 def main():
+    start = timer()
     parser = create_argument_parser()
     cmdline_args = parser.parse_args()
     utils.configure_colored_logging(cmdline_args.loglevel)
@@ -1109,27 +1107,49 @@ def main():
                        cmdline_args.histogram)
 
     elif cmdline_args.mode == "benchmark":
-        directory = os.fsencode('../benchmark_data/')
+        out_directory = 'benchmark/'
+        if not os.path.exists(out_directory):
+            os.mkdir(out_directory)
+
         datasets_results = []
-        for file in os.listdir(directory):
-            filename = os.fsencode(file)
-            file_path = os.path.join(directory, filename).decode('utf-8')
-            cross_val_results= run_benchmark(file_path,
-                                    cmdline_args.config,
-                                    cmdline_args.folds,
-                                    cmdline_args.report,
-                                    cmdline_args.successes,
-                                    cmdline_args.errors,
-                                    cmdline_args.confmat,
-                                    cmdline_args.histogram)
-            dataset_result = sum_results(cross_val_results, collect_report=True)
-            save_json(dataset_result, 'benchmark/' + filename.decode('utf-8') + '_benchmark')
-            datasets_results.append(dataset_result)
-        overhaul_result = sum_results(datasets_results)
-        save_json(overhaul_result, 'benchmark/' + 'overhaul_result')
+        config_directory = 'configs'
+        for config_filename in os.listdir(config_directory):
+            if config_filename.endswith(".yml"):
+                config_path = os.path.join(config_directory, config_filename)
+                config_name = config_filename.split('.')[0]
+                print(config_path)
+                print(config_name)
+                out_config_directory = out_directory + config_name + '/'
 
+                datasets_results = []
+                dataset_directory = '../benchmark_data'
+                for dataset_filename in os.listdir(dataset_directory):
+                    if dataset_filename.endswith(".json") or dataset_filename.endswith(".md"):
+                        dataset_path = os.path.join(dataset_directory, dataset_filename)
+                        dataset_name = dataset_filename.split('.')[0]
+                        print(dataset_path)
+                        print(dataset_name)
 
-    logger.info("Finished evaluation")
+                        cross_val_results = run_benchmark(dataset_path,
+                                                          config_path,
+                                                          cmdline_args.folds,
+                                                          cmdline_args.report,
+                                                          cmdline_args.successes,
+                                                          cmdline_args.errors,
+                                                          cmdline_args.confmat,
+                                                          cmdline_args.histogram)
+
+                        dataset_result = sum_results(cross_val_results, collect_report=True)
+                        # dataset_result = {'test': 0}
+                        if not os.path.exists(out_config_directory):
+                            os.mkdir(out_config_directory)
+                        save_json(dataset_result, out_config_directory + dataset_name + '_Benchmark')
+                        datasets_results.append(dataset_result)
+                overhaul_result = sum_results(datasets_results)
+                # overhaul_result = {'test': 1}
+                save_json(overhaul_result, out_config_directory + 'Datasets_Mean_Result')
+    end = timer()
+    logger.info("Finished evaluation in: " + str(end - start))
 
 
 if __name__ == '__main__':  # pragma: no cover
