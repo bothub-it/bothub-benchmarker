@@ -1,0 +1,1710 @@
+
+## intent:carency
+- faço iniciar tratamento
+- usar plano primeira vez
+- consigo quantos procedimentos mes
+- posso usar serviços odontológicos
+- benefício extra
+- JA POSSO FAZER PLANO
+- Quais carências plano?
+- quando colocar aparelho
+- quando arrumar dente
+- iniciar tratamento antes finalizar
+- iniciar um tratamento
+- carência
+- carencias planos
+- tempo planos
+- período plano
+- periodo
+- período
+- prasos
+- praso
+- prazos
+- prazo
+- dura plano
+- tempo plano
+- carencias
+- carencia
+- quanto tempo
+- quanto tempo usar plano
+- quanto tempo fazer cirurgia
+- quanto tempo
+- tempo
+- quanto tempo
+- quais carências
+- carências
+- carência
+- [carencias](carency)
+- [carências](carency)
+- [carencia](carency)
+- [checar](find) [carência](carency)
+- [olho](access) [carencia](carency)
+- [vejo](access) [carencias](carency)
+- [conferir](access) [carencia](carency)
+- EU JA POSSO FAZER O USO DO PLANO
+- como saber se posso usar os serviços odontológicos
+- consigo fazer quantos procedimentos por mes
+- consigo fazer quantos procedimentos por mes?
+- Como faco para usar o plano pela primeira vez
+- Sou novo no plano e gostaria de saber como faço pra iniciar um tratamento ?
+- a carencia é a mesma para o titular e dependentes do plano
+- a carência dura quanto tempo?
+- tem como encurtar o período de carência?
+- se eu pagar a mais a carência diminui?
+- como funciona o atendimento no período de carência?
+- o que eu não posso fazer no período de carência?
+- a carencia dos planos é diferente?
+- tem como diminuir o tempo de carencia
+- posso iniciar um tratamento antes de finalizar outro
+- qual a carencia para cada procedimento
+- em quanto tempo posso colocar aparelho
+- quanto tempo para fazer cirurgia
+- em quanto tempo posso usar o plano
+- quando posso arrumar meu dente
+- quando posso colocar aparelho
+- em quanto tempo consigo usar o plano
+- com quanto tempo posso fazer cirurgia
+- em quanto tempo eu posso começar utilizar o plano
+- Quero saber quais são as carências do meu plano?
+- Quais tipos de carências a Qualidonto possui?
+- Quais carências fazem parte do meu plano?
+- qual a carencia do meu plano?
+- qual a minha carência?
+
+## intent:cancel
+- posso cancelar plano
+- cancelar plano
+- como faço cancelar plano
+- cancela esse plano
+- cancelar plano qualquer momento
+- pensando cancelar plano ajudar
+- desistir planos
+- desistir plano
+- não quero mais plano
+- rescindir plano
+- interrompo
+- interromper
+- rescindir
+- anulacao
+- anulamento
+- anulo
+- anulação
+- anular
+- ivalidar
+- invalidacao
+- invalidação
+- invalidar
+- cancelada
+- cancela
+- cancelar
+- cancelar contrato
+- rescindir
+- cancelar
+- [interrupcao](cancellation)
+- [interrupção](cancellation)
+- [fechar](cancellation)
+- [acabar](cancellation)
+- [suspensão](cancellation)
+- [suspensao](cancellation)
+- [suspenção](cancellation)
+- [suspencao](cancellation)
+- [suspender](cancellation)
+- [extincao](cancellation)
+- [extinção](cancellation)
+- [extinguir](cancellation)
+- [invalidar](cancellation)
+- [anular](cancellation)
+- [rescisao](cancellation)
+- [rescisão](cancellation)
+- [romper](cancellation)
+- [rompimento](cancellation)
+- [anulação](cancellation)
+- [anulacao](cancellation)
+- [anular](cancellation)
+- [desistindo](cancellation)
+- [desisto](cancellation)
+- [desistir](cancellation)
+- [desisti](cancellation)
+- [interromper](cancellation)
+- [interromper contrato](cancellation)
+- [cancelar](cancellation)
+- [cancelamento](cancellation)
+- [finalizar](cancellation)
+- [encerrar](cancellation)
+- [interromper](cancellation)
+- [cancelar](cancellation) [negocio](contract)
+- [revogar](cancellation)
+- [anular](cancellation)
+- [cancelo](cancellation)
+- [cancelar](cancellation) [contrato](contract)
+- não é a contratação de um plano e sim um cancelamento
+- é o seguinte estou pensando em cancelar meu plano tu poderia me ajudar com isso?
+- com quantos boletos atrasados meu plano pode ser cancelado
+- posso cancelar o meu plano a qualquer momento?
+- tem multa se eu cancelar o contrato antes do tempo previsto?
+- se eu cancelar o meu plano, o tratamento será interrompido?
+- quero cancelar o plano do meu filho
+- quero cancelar o plano do meu dependente
+- cancela peloamor
+- quero cancelar
+- como faço para cancelar o plano
+- quero rescindir meu plano
+- não quero mais esse plano
+- quero desistir desse plano
+- Como posso cancelar meu plano?
+- O que posso fazer para cancelar o meu plano?
+- Quero cancelar meu plano
+
+## intent:hire
+- credenciar plano
+- Como posso fazer plano
+- contratar plano
+- valores planos empresariai
+- valores planos
+- qual valor
+- posso comprar por aqui
+- preços planos
+- valor plano
+- interessado adquirir plano
+- tempo assinar contrato
+- tempo contratar plano empresa
+- voltar usar plano
+- renovo plano
+- renovação plano
+- renovar plano
+- contratar plano empresa
+- mais planos
+- mais informações planos
+- saber mais plano
+- adquirir contratação plano
+- cuntratar prano
+- plano contrato
+- compra plano
+- comprar plano
+- adquiro plano
+- contratar
+- adquirir
+- adquirir plano
+- contratar plano
+- assinar contrato
+- incluir plano
+- adquirir plano
+- contrato
+- ter plano
+- assinar contrato
+- cadastrar
+- cadastro
+- fazer plano
+- contrato
+- [contrato](contract)
+- [adquirir](contract)
+- [contratacao](contract)
+- [contratação](contract)
+- [trato](contract)
+- [clausulas](contract)
+- [cláusulas](contract)
+- [contratuais](contract)
+- [acordo](contract)
+- [assinatura](contract) [contratual](contract)
+- [assino](contract)
+- [assinar](contract)
+- [contrato](contract)
+- [contratar](contract)
+- Gostaria de saber o valor do plano individual?
+- Gostaria de saber o valor do plano
+- Boa tarde gostaria de saber qual o valor mensal do plano?
+- Qual o valor mensal do plano?
+- preços de planos
+- gostaria de saber os valores do plano
+- gostaria de saber o valor do plano individual?
+- Qual o valor do plano
+- Quero um plano para um adulto e uma criança
+- posso comprar por aqui?
+- somos da Previsare Corretora gostaríamos dos valores dos planos para que possamos enviar para nosso cliente
+- os valores de todos os planos empresariai
+- Gostaria de saber o valor do plano individual MD Top
+- quero voltar a usar o plano
+- quero ter o plano
+- quero renovar o plano
+- em quanto tempo consigo contratar o plano para a minha empresa?
+- quanto tempo para assinar o contrato
+- quanto tempo para assinar o contrato
+- quero adquirir o plano para minha empresa
+- como faço para ver o contrato previamente
+- quero assinar contrato
+- quero saber mais sobre o plano
+- Quero fazer o contrato de um plano
+- Como posso contratar um plano?
+- Quero saber o que é preciso para contratar um plano
+- preciso contratar um plano
+- quero contratar o plano
+- Como posso fazer um plano?
+- quero contratar o plano de vocês
+- como faço para me credenciar ao plano?
+- gostaria de contratar um de seus planos
+- estou aqui por que estou bastante interessado em adquirir um plano
+
+## intent:coverage
+- está incluso plano
+- quais ventagens plano
+- manda cobertura plano
+- quais planos
+- planos
+- Plano Top
+- Plano top
+- Plano pessoal
+- Planos odontologicos
+- informações plano
+- informação plano
+- detalhes plano MD PLUS EMPRESARIAL
+- IiNFORMAÇÃOES UTILIZAÇÃO
+- TENHO MD PLUS EMPRESA
+- plano
+- Planos
+- planos odonton ortodôntico
+- plano MD Plus Empresarial
+- abrangência plano
+- plano pessoal
+- benefício extra
+- cobre cirurgia
+- Como funciona plano
+- incluso plano
+- procedimentos fazem plano
+- vantagens plano
+- procedimentos plano
+- vantagens plano
+- cobrindo plano
+- planos cobrindo
+- cobre planos
+- cobertura plano
+- garantido plano
+- plano garantir
+- coberto plano
+- plano garante
+- garantia plano
+- garantido
+- poder fazer
+- podendo fazer
+- posso nesse plano
+- procedimentos posso fazer
+- cobrem
+- sobre planos
+- incluso plano
+- quero cobertura
+- atende consulta
+- [cobrir](covers)
+- [cobrido](covers)
+- [cobre](covers)
+- [cobrir](covers)
+- [cobria](covers)
+- [coberuras](covers)
+- [coberturas](covers)
+- [ver](access) [cobre](co[ver](access)s)
+- [acessar](access) [cobertura](covers)
+- [ver](access) [coberturas](co[ver](access)s)
+- [atendem](covers)
+- [suporta](covers)
+- [suporte](covers)
+- [amparar](covers)
+- [amparo](covers)
+- [ampara](covers)
+- [cobertura](covers)
+- [abarca](covers)
+- [abrange](covers)
+- [envolveria](covers) [dor](pain)
+- [cobrira](covers) [sangrando](pain)
+- [cobriria](covers) [quebrado](pain)
+- [cobertura](covers)
+- [cobre](covers) [gengivite](pain)
+- [cobriria](covers) [placa](pain)
+- [envolve](covers) [carie](pain)
+- [atende](covers) [urgencia](urgent)
+- [aborda](covers) [sangramento](pain)
+- [abordaria](covers)
+- [cobrir](covers) [carie](pain)
+- [envolve](covers)
+- Como funciona o plano odontológico individual?
+- Olá gostaria de saber se contratando o plano o cliente ganha algum tipo de benefício extra
+- O meu nao cobre cirurgia?
+- é um plano pessoal
+- Qual a abrangência deste plano?
+- Sou cliente e meu plano é MD Plus Empresarial
+- Vocês tem planos odonton e ortodôntico?
+- TENHO MD PLUS EMPRESA MEU MARIDO
+- Gostaria de saber qnts procedimentos podem ser feito pelo plano
+- IiNFORMAÇÃOES SOBRE UTILIZAÇÃO
+- detalhes do meu plano MD PLUS EMPRESARIAL
+- Quero saber se meu plano tem cobertura p documentação de aparelho
+- informação com plano
+- informações do plano md plus ind
+- Como funciona o plano top
+- quais os planos
+- o plano cobre o que?
+- o plano cobre esse procedimento?
+- onde eu vejo a cobertura do plano?
+- quero ver a cobertura do plano
+- me manda a cobertura do plano
+- o meu plano cobre isso?
+- quais sao as vantagens do plano
+- quais procedimentos voces fazem no plano mais basico
+- tem limite de quantos procedimentos posso fazer no mes?
+- quais procedimentos eu posso fazer
+- o que voces cobrem
+- quais as ventagens desse plano
+- Meu plano cobre o que?
+- Qual a cobertura dos planos da Qualidonto?
+- O que o plano de vocês cobre?
+- o plano de vocês cobre oq?
+- em que estou coberto com o plano empresa
+- o que está incluso no meu plano
+- quero saber a cobertura do meu plano plus
+- me fala o que meu plano master cobre
+
+## intent:negotiation
+- curriculo
+- pagar débito automático caixa econômica
+- valor faturamento
+- dispesas
+- negocio despesas
+- negociar débito
+- pagamento negociar
+- dívida pagar
+- devendo
+- endividado
+- divida
+- pagamento negociação
+- negociar
+- divida negociar
+- [nubank](credit_card)
+- [ourocard](credit_card)
+- [visa](credit_card)
+- [crédito](credit_card)
+- [credito](credit_card)
+- [mastercard](credit_card)
+- [débito](credit_card)
+- [debito](credit_card)
+- [negociacao](negotiate)
+- [negocia](negotiate)
+- [negociação](negotiate)
+- [endividado](negotiate)
+- [fatura](ticket) [negociar](negotiate)
+- [negociar](negotiate) [fatura](ticket)
+- [financeiro](negotiate)
+- [parcela](negotiate)
+- [parcelas](negotiate)
+- [negociacao](negotiate)
+- [negociar](negotiate)
+- [financeiras](negotiate)
+- [encargos](debt)
+- [inadimplencia](debt)
+- [inadimplência](debt)
+- [adimplente](debt)
+- [inadimplente](debt)
+- [juros](debt)
+- [despesa](debt)
+- ajustar valores
+- [renegociar](negotiate)
+- [debito](debt)
+- [débito](debt)
+- [acordo](negotiate) [dívida](debt)
+- [negociacao](negotiate)
+- [divida](debt)
+- [negociar](negotiate) [divida](debt)
+- Qual o valor do meu faturamento?
+- Quero pagar no débito automático por conta caixa econômica
+- onde eu poderia deixar meu curriculo
+- como renegocio a minha divida
+- quero parcelar a minha divida
+- atrasei o pagamento da negociação
+- como eu faço pra negociar
+- to com uma divida e gostaria de negociar
+- vamos negociar
+
+## intent:planstatus
+- como esta situação plano
+- ja esta ativo plano
+- statuts plano
+- plano cancelado
+- devendo boletos plano ativo
+- condição plano
+- plano status
+- situação plano
+- status planos
+- condição plano
+- condicao
+- situacao
+- situação
+- estatus
+- estatos
+- estado plano
+- ativo
+- plano funcionando
+- status cancelado
+- situação
+- ta ativo
+- está ativo
+- [consta](status)
+- [status](status) [cancelado]([status](status))
+- [estatus](status)
+- [liberado](status)
+- [desativado](status)
+- [ativamento](status)
+- [reativada](status)
+- [reativado](status)
+- [inativo](status)
+- [inativa](status)
+- [valendo](status)
+- [valido](status)
+- [carteirinha](card) [inválido](status)
+- [inválido](status)
+- [inadimplente](status)
+- [ativo](status)
+- [ativado](status)
+- [suspenso](status)
+- [cancelado](status)
+- [acessar](access) [situacao](status)
+- [ver](access) [status](status)
+- [inativo](status)
+- [divida ativa](status)
+- [ativo](status)
+- [situacao](status)
+- [situação](status)
+- [status](status)
+- statuts do plano
+- Poderia verificar por gentileza se ja esta ativo plano do meu filho
+- pq meu status ta invalido
+- porque meu status esta cancelado
+- como esta a situação do meu plano
+- to devendo dois boletos, o plano ainda ta ativo
+- o plano ja foi cancelado
+- meu plano ja ta funcionando
+- Qual a minha situação contratual?
+- Qual o status do plano?
+- Meu plano está ativo?
+- meu plano está ativo?
+
+## intent:redue
+- boletos atrasados cancelado
+- boletos atrasadados ativo
+- tirar fatura
+- carnê efetuar pagamento
+- boletos atrasados plano
+- pegar boleto atrasado
+- boletos atrasados
+- boletos atrasados
+- boletos atrasadados
+- pegar boleto
+- boletos atrasados plano
+- boletos atrasadados
+- pago parcela
+- pagar parcela
+- parcelas
+- parcela
+- boleto acessar
+- acessar boletos
+- acesso boletos
+- pagando boletos
+- pago boleto
+- pagar boleto
+- boleto pagamento
+- vias boletos
+- segunda via
+- perdi boleto
+- boletos
+- segunda via boleto
+- reenvia boleto
+- reenviar boleto
+- preciso segunda via
+- [2da via](second_way)
+- [fartura](second_way)
+- [boletos](ticket)
+- [2ª Via](second_way)
+- [via2](second_way)
+- [2via](second_way)
+- [fatura](second_way)
+- [encontrar](find) [2da via](second_way)
+- [conferir](access) [fatura](ticket)
+- [acessar](access) [segunda via](second_way) [boleto](ticket)
+- [2º via](second_way) [boleto](ticket)
+- [fatura](ticket)
+- [boleto](ticket)
+- [2da via](second_way) [boleto](ticket)
+- [segunda via](second_way) [boleto](ticket)
+- [2a via](second_way) [boleto](ticket)
+- você poderia mandar o carnê do a parte do mês 7 para efetuar o pagamento para o meu email
+- Não consigo tirar minha fatura.
+- depois de pagar os boletos atrasadados em quanto tempo o plano volta a estar ativo
+- não to recebendo meus boletos
+- quero ver se eu tenho algum boleto atrasado
+- preciso receber meu boleto
+- com boletos atrasados o plano é cancelado
+- estou sem o meu boleto e preciso paga-lo
+- quero segunda via
+- perdi meu boleto
+- quero pagar meu plano, mas to sem o boleto
+- preciso da segunda via do boleto
+- reenvia o boleto
+- nao sei onde ta o boleto, poderia reenviar
+- O correio ainda não entregou o último boleto
+- Não sei onde coloquei o boleto do mês passado.
+- Perdi o último boleto.
+- Eu tenho algum boleto em aberto?
+- Você pode me mostrar os boletos que eu tenho para pagar?
+- Preciso tirar a minha segunda via deste mês
+- boleto
+- preciso da segunda via
+
+## intent:review
+- tenho sugestão fazer
+- sugestão fazer
+- reclamar serviço
+- atendimento horrível
+- atendidmento péssimo
+- mal atendimento
+- mal atendido
+- não gostei
+- criticar
+- crítica
+- avaliar
+- avalio
+- avaliação
+- reclamo
+- reporto
+- reportar
+- report
+- sugestão
+- review
+- porcarias
+- elogio
+- plano porcaria
+- [sugestao](suggestion)
+- quero queixa
+- quero elogio
+- fazer reclamação
+- sugestao
+- [sugestão](suggestion)
+- [elogio](suggestion)
+- [decepcionado](suggestion)
+- [comentar](suggestion)
+- [comentario](suggestion)
+- [comentário](suggestion)
+- [melhorar](suggestion)
+- [melhoria](suggestion)
+- [aconcelhar](suggestion)
+- [decepcionado](suggestion)
+- [proponho](suggestion)
+- [sugiro](suggestion)
+- [aborrecida](suggestion)
+- [aborrecido](suggestion)
+- [aborrecimento](suggestion)
+- [desprazer](suggestion)
+- [insatisfação](suggestion)
+- [insatisfeito](suggestion)
+- [insatisfeita](suggestion)
+- [descontentamento](suggestion)
+- [descontente](suggestion)
+- [queixar](suggestion)
+- [queixa](suggestion)
+- [objecao](suggestion)
+- [objeção](suggestion)
+- [desaprovado](suggestion)
+- [desaprovo](suggestion)
+- [desaprovacao](suggestion)
+- [desaprovação](suggestion)
+- [avaliar](suggestion)
+- [avaliacao](suggestion)
+- [avaliação](suggestion)
+- [questionamento](suggestion)
+- [questionar](suggestion)
+- [observacao](suggestion)
+- [observação](suggestion)
+- [recomendacao](suggestion)
+- [recomendação](suggestion)
+- [conselho](suggestion)
+- [pitaco](suggestion)
+- [opino](suggestion)
+- [opinar](suggestion)
+- [opiniao](suggestion)
+- [opinião](suggestion)
+- [propor](suggestion)
+- [proposta](suggestion)
+- [sugestao](suggestion)
+- [sugerir](suggestion)
+- [sugerindo](suggestion)
+- [reclamar](suggestion)
+- [critica](suggestion)
+- [crítica](suggestion)
+- [criticar](suggestion)
+- [reclamacao](suggestion)
+- [reclamação](suggestion)
+- gostei muito de utilizar esse serviço queria fazer um elogio
+- quero reclamar pq é esse plano é uma porcaria
+- gostaria de fazer um elogio
+- queria falar nada mas esse plano é uma porcaria
+- quero reclamar sobre o serviço
+- Gostaria de sugerir uma modificação
+- Só tenho uma sugestão a fazer
+- Queria fazer uma reclamação
+- acho que vou te dar uma sugestão
+- estou totalmente insatisfeito com esse atendimento
+- estou precisando fazer uma reclamação do atendimento de vocês
+- quero fazer uma queixa
+- queria fazer um elogio
+
+## intent:phone
+- por onde posso entrar contato?
+- número atendimento
+- telefones clínica
+- whatsapp
+- contato
+- número ligar
+- numero ligar
+- ligou
+- ligando
+- entrar contato
+- telefonada
+- entro contato
+- telefono
+- telefonema
+- chamada
+- ligação
+- [call](to_telephone)
+- [chamadas](to_telephone)
+- [telefonia](to_telephone)
+- [telefônica](to_telephone)
+- [telefonica](to_telephone)
+- [telefonista](to_telephone)
+- [chamada](to_telephone)
+- [ligação](to_telephone)
+- [número](to_telephone)
+- [falar](to_telephone)
+- [contatar](to_telephone)
+- [contactar](to_telephone)
+- [ligacao](to_telephone)
+- [numero](to_telephone)
+- [nmr](to_telephone)
+- [telefone](to_telephone)
+- [contatar](to_telephone)
+- [ligo](to_telephone)
+- [ligar](to_telephone)
+- [contato](to_telephone)
+- tem whatsapp?
+- Eu que você mandar os telefones da clínica do itaigara .
+- Min chamo Roberval rodrigues da silva
+- de que jeito eu entro em contato com o plano?
+- qual o número de atendimento de voces?
+- por onde posso entrar em contato?
+
+## intent:app
+- manda link aplicativo
+- acesso aplicativo
+- quero usar aplicativo
+- boleto atrasado app
+- saber mais apricativo
+- posso fazer app
+- app funciona windows phone
+- apricativo
+- apricativu
+- app mobile
+- app mobbile
+- programas celular
+- celular aplicativo
+- aplicação dispositivos móveis
+- programa celular
+- obter aplicativo
+- acessando aplicação
+- link aplicativo
+- link app
+- app play store
+- app celular
+- apricativo
+- app windows
+- app android
+- usar app
+- link aplicativo
+- app
+- link app
+- [aplicativo](app)
+- [smartphone](plataform)
+- [samsung](plataform)
+- [baixar](download)
+- [celular](app)
+- [aplicativo](app) [download](download)
+- [baixar](download) [software](app)
+- [app](app) [play store](plataform)
+- [entrar](access) [app](app)
+- [acesso](access) [apricativo](app)
+- [programa](app) [motorolla](plataform)
+- [software](app) [lg](plataform)
+- [apicativo](app) [xiaomi](plataform)
+- [app](app) [sansung](plataform)
+- [aplicativo](app) [ios](plataform)
+- [aplicativo](app) [android](plataform)
+- queria saber mais sobre esse apricativo
+- o aplicativo pega em qualquer celular?
+- posso pegar o boleto atrasado pelo app?
+- posso incluir dependente pelo app
+- consigo usar o app offline?
+- quero usar o app
+- nao to achando o app
+- quero o link do app
+- nao achei o app na play store
+- o app nao abre no meu celular
+- como eu uso o app
+- o app funciona em windows phone?
+- o app funciona em android?
+- quero usar o aplicativo
+- como acesso ao app
+- O que posso fazer com o app da Qualidonto
+- Pra que serve o aplicativo da Qualidonto
+- Como acesso o aplicativo?
+- Como é que eu uso esse app
+- qual o link pra baixar o aplicativo
+- me manda o link do aplicativo
+- como baixo o app
+
+## intent:virtualcard
+- carteirinha clareamento
+- cartãozinho plano
+- receber carteia plano
+- catteira plano
+- querendo cartão do plano
+- não tenho carteirinha
+- quanto tempo chega carteirinha
+- tempo carteirinha chega
+- atendido carteirinha
+- cartão virtual
+- carteira virtual
+- carterina
+- carterinha
+- kartão
+- catão
+- cratão
+- cartão plano
+- cartãozinho virtual
+- virtual cartãozin
+- virtual carteira
+- quero carteirinha
+- perdi carteirinha
+- valido carteirinha
+- preciso cartao
+- enviar carteirinha
+- quero cartão
+- preciso carteirinha
+- mandar cartão
+- [cartão](card)
+- [cartao](card)
+- [cartaozinho](card)
+- [indentificação virtual](card)
+- [cartão virtual](card)
+- [cartera digital](card)
+- [carteirinha virtual](card)
+- [conferida](access) [carteirinha digital](card)
+- [conferir](access) [cartao digital](card)
+- [observar](access) [cartao](card)
+- [entrar](access) [carteira digital](card)
+- [observar](access) [carteira](card)
+- [ver](access) [carteira](card)
+- [consulta](access) [carteirinha](card)
+- [consultar](access) [cartao digital](card)
+- [acessar](access) [carta digital](card)
+- [acessar](access) [cartao digital](card)
+- [visualizar](access) [carteirinha](card)
+- [ver](access) [carteirinha](card)
+- [card](card)
+- [carteirinha digital](card)
+- [cartao digital](card)
+- [carteira digital](card)
+- [carteira](card)
+- [carteirinha](card)
+- Meu motivo sobre a catteira do plano
+- E com quem irei falar pra receber a minha carteia do plano
+- a carteirinha chega na minha casa ou tenho que ir buscar?
+- só sou atendido se tiver a carteirinha?
+- to sem a carteirinha, posso ser atendido?
+- perdi a minha carteirinha, como faço pra tirar outra?
+- quero tirar a segunda via da minha carteirinha
+- como faço pra tirar outra via da minha carteirinha?
+- quando minha carteirinha chega?
+- em quanto tempo a carteirinha chega?
+- perdi minha carteirinha
+- o plano só é valido com a carteirinha
+- preciso do cartao para ser atendido
+- quando vocês vão enviar a carteirinha
+- quero o cartão do plano
+- quero minha carteirinha
+- Preciso fazer um procedimento mas não tenho a carteirinha
+- Perdi o cartão do plano.
+- Quero saber quando a carteirinha do meu plano chega.
+- Eu ainda não tenho a carteirinha do meu plano.
+- Preciso da minha carteirinha digital
+- cartão do plano
+- carteirinha virtual
+- me manda o cartãozinho do meu plano master
+- estou querendo o cartão do plano
+- vc é capaz de mandar o meu cartao do plano odontologico
+- como faço para requisitar minha carteirinha
+
+## intent:schedule
+- horário atendido
+- hora atendida
+- horas atendendo
+- horas atendem
+- horário atender
+- horário atendimento
+- horas fexar
+- horas fexam
+- horáriu fechar
+- horas fecham
+- funcionam horario
+- fecham
+- clinica aberta
+- abrem fds
+- horas
+- horario funcionamento
+- abre
+- horas aberta
+- [horário](hours)
+- [hora](hours)
+- [horarios](hours)
+- [horários](hours)
+- [hora](hours) [abrir](open)
+- [hrs](hours) [abre](open)
+- [abrir](open) [horas](hours)
+- [horario](hours)
+- voces abrem no fds
+- que horas começam os atendimentos
+- quando abre
+- que horas posso ir na clinica
+- voces funcionam depois do horario comercial
+- voces fecham para almoço?
+- quais dias a clinica ta aberta
+- voces abrem no fds
+- que horas começam os atendimentos
+- qual horario de funcionamento
+- quando abre
+- Até que horas a Qualidonto está aberta hoje?
+- Qual o horário de funcionamento da Qualidonto?
+- Que horas vocês abrem?
+
+## intent:accreditation
+- documentos preciso credenciar
+- resposta credenciamento
+- convênio
+- dentista credenciar
+- tempo processo credenciamento
+- processo credenciamento
+- credenciamento
+- incluir clínica
+- rejistrar
+- rejistro
+- registra clinica
+- credenciar
+- credenciada
+- credenciado
+- credencio
+- registrar
+- registro
+- credenciar crinica
+- credenciamento clinica
+- credenciar plano
+- credenciamento
+- preciso credenciar
+- credenciar
+- atender rede
+- cadastrar clínica
+- cadastro clinica
+- fazer parte rede
+- credenciado
+- cadastrar empresa
+- credencio
+- quero credenciar
+- credenciar
+- credenciamento
+- SOU DENTISTA GOSTARIA DE SABER COMO FAÇO PRA MIM CREDENCIAR A VOÇES?
+- boa tarde fiz a solicitação de credenciamento aguardando retorno
+- como incluir uma clinica na rede
+- sou um profissional e quero me credenciar
+- quais documentos preciso pra me credenciar?
+- quanto tempo dura o processo de credenciamento?
+- como faço pra me credenciar
+- como eu cadastro a minha clinica
+- quero atender pela rede
+- como eu cadastro a minha clinica
+- quero fazer parte da rede
+- quero ser credenciado
+- cadastrar minha empresa
+- eu gostaria de credenciar minha clínica
+- eu gostaria de me credenciar a rede
+- qual procedimento para efetuar o credenciamento
+
+## intent:network
+- onde faz chapa
+- marcar consulta
+- marcar consulta
+- qualquer clinica
+- onde posso ir
+- marcar consulta
+- debtistas credenciados
+- Onde posso camaçari
+- Consulta
+- quem devo procurar
+- Quais clínica itaigara
+- acesso lista clinicas credenciadas
+- tem atendimento
+- saber clinicas atendem
+- Qual clínica
+- clínicas qaceita
+- moro clínica mais perto
+- Estou salvador
+- bairros plano
+- clínicas
+- clinica convênio
+- marcar avaliação
+- preciso realizar raspagem subgengival
+- hora marcaada
+- bairros atendimento
+- mais perto
+- limpeza
+- fazer limpeza
+- proximo ao
+- lugares aceita convênio
+- pontos atendimento
+- pontes atendem plano regiao
+- clinica credenciada
+- marcar consulta
+- quais clínicas Salvador
+- medicos credenciados
+- clinica bairro
+- atende
+- locais atende
+- hora marcada
+- preciso clinica
+- cidades
+- cidade
+- ilhéus bahia
+- avaliação geral
+- dentistas atendem
+- Hora marcada
+- onde atende
+- clinica atende
+- onde atende
+- onde atende
+- Hora marcada
+- clínico geral
+- hora marcada
+- mercado consulta
+- marcar consulta
+- dearca consulta
+- locais atendimento
+- Atendimento hora marcada
+- hora marcada
+- locais atendimento
+- local atendimento
+- clinicas lauro freitas
+- clinico geral
+- marcar consulta
+- outro lugar
+- marcar consulta
+- outro lugar
+- marcar consulta
+- redes credenciadas
+- clínica proxima
+- consulta dentista
+- dentista consulta
+- unidades credenciadas
+- rede credenciada
+- dentistas credenciados
+- consultórios dentistas
+- unidade atendimento
+- rede atendimento
+- rede atendimento
+- dentistas credenciados
+- dentista
+- dentista credenciado
+- dentista proximo
+- onde dentista
+- [consultorio](dentist)
+- [consultório](dentist)
+- [unidade](network)
+- [dentista](dentist) [inchada](pain)
+- [dentistas](dentist)
+- preciso dentista
+- onde faço
+- [especialista](dentist)
+- [especialistas](dentist)
+- [encontro](find) [clínica](dentist)
+- [buscar](find) [especialistas](dentist)
+- [rede](network)
+- [atendido](find) [dentista](dentist)
+- [localize](find) [medico](dentist) [carie](pain)
+- [dentista](dentist) [dor](pain)
+- [localizar](find) [clinicas](dentist)
+- [rede credenciada](network)
+- [dentista](dentist)
+- [procuro](find) [dentista](dentist)
+- [acessar](access) [rede credenciada](network)
+- [encontrar](find) [medico](dentist)
+- [encontrar](find) [dentista](dentist)
+- [dentista](dentist)
+- Bom dia. Gostaria d saber as clinicas em lauro de freitas
+- Gostaria d saber as clinicas em lauro de freitas
+- EM sussuarana tem local de atendimento?
+- QAuis os locais de atendimento em salvador
+- hora marcada e emergência
+- locais de atendimento
+- Eu gostaria dearca uma consulta
+- Eu gostaria mercado a consulta
+- Quero saber onde atende em feura fe santana
+- Eu quero saber onde atende
+- Qual clinica atende?
+- Quero saber onde atende em feira fe santana
+- quais dentistas atendem em ilhéus com esse plano
+- fazer uma avaliação geral.
+- estou em ilhéus bahia
+- estou na cidade de ilhéus bahia
+- só tem ela em ilhéus que atende?
+- preciso de clinica em feira de santana bahia
+- acabei receber minha carteira quais sao locais que atende
+- Bom dia! Gostaria de contato de clinica de radiologia
+- Sim tem alguma clinica no bairro do Comércio?
+- Gostaria de saber em quais clínicas de Salvador posso usar esse plano
+- Gostaria de saber quais clínicas em Salvador atende esse plano
+- Olá gostaria de saber quais clínicas esse plano odontológico atende em Salvador
+- Como marcar consulta
+- Como marcar consulta
+- me diga endereços de clinicas
+- ciomo faço para marcar uma consulta
+- Como faço para marcar uma consulta?
+- gostaria de saber os pontes que atendem o plano aqui na minha regiao
+- os locais de atendimento
+- Gostaria de marcar uma consulta
+- Qual os lugares em Camaçari Que aceita u convênio qualidonto
+- Eu preciso marcar uma consulta
+- qual clinica que faz radiografia panoramica ?
+- proximo ao caminho das arvores
+- locais de atendimento?
+- Gostaria de fazer limpeza
+- HORA MARCADA
+- Quero saber aonde te atender no estrada das barreiras cábula
+- O mais perto
+- Qual os bairros que têm essa atendimento aqui em Salvador
+- Bom dia! Eu quero marcar uma consulta para prótese
+- Gostaria de saber os credenciados na cidade de paulo afonso
+- preciso realizar uma raspagem subgengival
+- Quero saber onde atende?
+- Boa tarde gostaria de marcar uma avaliação
+- Clinicas em salvador
+- Localidades de clinicas
+- Gostaria de saber em qual clinica em São Cristóvão tem convênio com a Qualidonto?
+- Gostaria de saber em qual clinica em São Cristóvão tem convênio com a Qualidonto?
+- Tem clínicas Qualidonto em São Cristóvão?
+- Qual os bairros que pega meu plano
+- Hora marcado tem como indicar?
+- Estou em salvador
+- Eu moro na paralela qual a clínica mais perto pra mim
+- Com hora marcada mesmo
+- Moro na paralela vcs tem alguma clínica próximo
+- Com hora marcada
+- Só atende nesse indereco
+- Clinica
+- HORA MARCADA BOM PROFISSIONAL COM EXPERIÊNCIA
+- Quais as clínicas que aceita em Vitória da conquista Ba?
+- Qual clínica?
+- quero marcar consulta
+- A clínica
+- gostaria de saber as clinicas que atendem aos sabados
+- gostaria de saber as clinicas que atendem aos sabados
+- queria saber o endereço de uma clínica
+- tem atendimento de prevençao em itapua
+- Gostaria de ter acesso a lista de clinicas credenciadas ao plano
+- quero marcar uma consulta
+- Quais as clinicas no bairro do Itaigara
+- Quais as clínica do itaigara
+- Meu empresarial família eu só queria o nome da clínica do itaigara
+- não estou procurando plano nenhum eu ja tenho o meu cartão em mãos mas não sei onde tem clinicas que aceite
+- qual o valor de uma tomografia ?
+- quem devo procurar ?
+- Quais clinica em camaçari aceita o plano
+- Quais clinica em camaçari aceita o plano
+- Onde posso usar meu plano em camaçari
+- Tem alguma clínica no bairro do cábula Estrada das
+- Quero ver debtistas credenciados
+- Urgência e emergência hora marcada
+- clinica
+- clinica
+- CLINICA
+- Clínica
+- Clínica
+- Quais os locais de atendimentos na minha cidade
+- quero um dentista para fazer clareamento
+- como eu sei se tem dentista na minha cidade
+- preciso marcar uma consulta para meu filho
+- preciso marcar uma consulta para meu filho
+- preciso marcar uma consulta para meu filhinho
+- quero finalizar o meu tratamento com outro dentista credenciado
+- quero terminar meu tratamento em outro lugar
+- posso fazer o plano em qualquer clinica
+- quero ver os dentistas credenciados
+- quero um dentista agora
+- onde tem dentista credenciado
+- qual é o dentista mais proximo
+- onde é o dentista mais perto
+- onde tem um dentista aqui perto
+- preciso de um dentista urgentemente
+- preciso de um dentista agora
+- tenho uma criança e preciso marcar uma consulta para ela
+- onde posso ir para arrumar minha cirurgia
+- Preciso acessar a rede credenciada
+- Preciso de um dentista
+- onde faço ortodontia?
+- quero um dentista
+
+## intent:not_covered
+- chapa
+- faz chapa
+- fazem chapa
+- fazer implante
+- cobre protese
+- fazer clareamento
+- [cobertura](covers) [implante](implant_whitening)
+- [branqueamento](implant_whitening)
+- [implantacao](implant_whitening)
+- [implantação](implant_whitening)
+- [cobre](covers) [clareamento](implant_whitening)
+- [implantar](implant_whitening)
+- [clarear](implant_whitening)
+- [clareamento](implant_whitening)
+- [implante](implant_whitening)
+- o plano cobre protese?
+- cobre clareamento?
+- cobre protese?
+- preciso fazer o branqueamento dos meus dentes
+- como eu posso fazer clareamento?
+- onde posso fazer implante?
+- preciso fazer a carteirinha para fazer um clareamento?
+
+## intent:bias
+- incluso
+- está
+- onde faz chapa
+- como
+- acesso
+- posso
+- marcar consulta endodontista
+- dente precisa restaurações
+- restaurar dente quebrado
+- preciso fazer cirurgia buco maxilo facial
+- preciso ddiagnóstic posso fazer
+- quero
+- esse
+- voces fecham para almoço
+- colocar aparelho plano
+- aplicação fluor
+- cirurgia problema outro dentista
+- ir
+- escurecendo
+- dente
+- fazer cirurgia
+- esta
+- como
+- como esta
+- preciso
+- documentos
+- onde
+- por
+- entrar
+- por onde
+- manda
+- qualquer
+- momento
+- posso
+- cancelado
+- faço
+- tratamento
+- queero outra coisa
+- quais
+- esta
+- ja
+- ja esta
+- Pra que vc .min atendeu ? Então
+- receber
+- Pica dura
+- resposta
+- credenciados
+- debtistas
+- empresariai
+- primeira vez
+- vez
+- primeira
+- usar
+- camaçari
+- procurar
+- devo
+- quem
+- tomografia
+- tomografia
+- mais eu acabei de ligar nesse número e ele me deu esse site
+- consigo
+- Tem que através de email
+- itagara
+- por aqui
+- posso
+- aqui
+- por
+- pessoal
+- credenciadas
+- tem
+- odontológicos
+- ajudar
+- pensando
+- mes
+- quantos
+- saber
+- Sou dentista
+- Que tem trabalhadores q tem
+- tenho
+- moro
+- estou
+- Atendimentos
+- preciso
+- realizar
+- automático
+- Existem outros
+- perto
+- mais
+- serviços
+- usar
+- posso
+- nao estou conseguindo falar
+- ao
+- proximo
+- empresarial
+- plus
+- md
+- atendimento
+- pontos
+- pontes
+- estou precisando agora
+- salvador
+- extração terceiro molar
+- clinica radiologia
+- tenho plano
+- extração de terceiro molar
+- clinica radiologia
+- preciso
+- mais
+- já tenho oplano
+- onde
+- atende
+- extra
+- benefício
+- estava testando
+- EMPRESA
+- ja
+- ja
+- marcada
+- hora
+- não tenho
+- freitas
+- lauro
+- enviar
+- adquirir
+- bastante
+- coloco aparelho?
+- quais
+- muita
+- fazer
+- manutenção aparelho dentário
+- ir dentista aparelho
+- consulta periodôntica
+- gengiva doendo
+- Onde fazer Obturação
+- maxilar cirurgia
+- mandíbula estranha
+- colocar flúor
+- raio x arcada dentária
+- gostaria deixar dente branco
+- quando
+- colocar
+- plano
+- quero
+- não
+- antes
+- iniciar
+- medico criancas
+- crianças
+- criancas
+- tempo
+- chega
+- quanto
+- fazem
+- atrasado
+- pegar
+- medico criança
+- chega
+- pegar
+- plano
+- usar
+- voltar
+- nao
+- não
+- pagamento
+- pago
+- pagar
+- planos
+- sobre
+- pode
+- fiz
+- plano
+- implantar
+- dente branco
+- fazer raiox
+- tirar rx
+- manutenção aparelho dentário
+- usar aparelho
+- periodontista
+- gengiva doendo
+- extrair dente
+- restaurar dente quebrado
+- cirurgia queixo
+- mandíbula
+- flúor
+- canal
+- marcar consulta
+- tirar raiox
+- limpar dentes
+- restaurar dente
+- extração dente
+- periodontista
+- endodontia
+- aparelho dentario
+- aparelho bucal
+- aparelho
+- endodontista
+- extração
+- exodontista
+- restaurar
+- obturação
+- ortodontista
+- raiox
+- raio x
+- radiologia
+- restauração
+- restaurações
+- mandibula
+- queixo
+- cirurgia
+- limpeza
+- periodontista
+- periodôntica
+- diagnostico
+- diagnóstico
+- cobrem coroa
+- quero
+- coroa
+- unitária
+- vigência
+- vigencia
+- vejência
+- coroa unitária
+- coroa unitaria
+- reajustar
+- reajuste
+- me manda
+- clareamento endógeno
+- remineralização
+- bloco ceromero
+- bloco cerômero
+- cerômero
+- ceromero
+- remineralizacao esmalte
+- remineralização esmalte
+- doc
+- documentação
+- docs
+- clareamento endogeno
+- as informações
+- quem pegou?
+- ok estava testando
+- informações
+- já tenho o plano
+- Preciso de um cirurgião pra extração de terceiro molar semi incluso em camaçari bahia
+- Preciso de um cirurgião pra extração de terceiro molar semi incluso em camaçari bahia
+- Eu estou precisando agora
+- nao sei
+- dias d'avilla
+- Procurando
+- nao estou conseguindo falar.
+- Existem outros?
+- Empresa
+- informações
+- NÃO CONSEGUI NÃO TENHO SENHA
+- Quem saber onde aceita
+- Queria saber algumas empresas por aq que tem
+- informações
+- gostaria de saber se tem algum problema e já posso usa lo
+- voce achou?
+- será que se ue te der o nome vc acharia
+- empresa
+- Você não estar entendendo?
+- eu recebi da empresa em que eu trabalho
+- eu acabei de receber da empresa em que eu sou empregada
+- Boa tarde . Meu nome é Adriana e goataria de perguntar qual o valor de uma tomografia ?
+- Favor enviar os três
+- Não estou entendendo
+- Pela manhã volto a entrar em contato
+- voces tem medico para criança
+- preciso fazer uma cirurgia
+- quero colocar aparelho pra arrumar a minha dentição
+- quero arrumar meu dente torto
+- meu dente ta escurecendo
+- minha cirurgia deu problema quero outro dentista
+- preciso fazer aplicação de fluor
+- posso colocar aparelho nesse plano?
+- gostaria de deixar o dente mais branco
+- vocês trabalham com radiologia?
+- preciso fazer um raiox
+- quero fazer uma radiografia dental
+- preciso tirar um rx
+- Estou querendo fazer um raio x da minha arcada dentária
+- preciso limpar meus dentes
+- quero fazer uma limpeza em meus dentes
+- quero botar flúor e fazer uma limpeza
+- Estou precisando colocar flúor
+- preciso do meu diagnóstico… o que posso fazer?
+- minha mandíbula está crescendo estranha
+- quero fazer uma cirurgia no meu queixo
+- meu maxilar está precisando de uma cirurgia
+- preciso ajeitar minha mandíbula
+- Tem como restaurar um dente quebrado
+- meu dente precisa de restaurações
+- Onde posso fazer uma Obturação
+- Preciso restaurar um dente
+- Quero fazer a restauração do meu dente
+- preciso extrair meu dente
+- estou precisando fazer a extração de um dente
+- preciso ir ao exodontista
+- preciso fazer uma extração dentária
+- Nossa, meu dente tá doendo muito, acho que tenho que extrair ele
+- como posso marcar uma consulta com meu endodontista para fazer um canal?
+- gostaria de fazer a endodontia de um de meus dentes
+- preciso ir ao endodontista
+- estou querendo fazer canal em um de meus dentes
+- preciso fazer canal
+- estou com minha gengiva doendo
+- preciso fazer uma limpeza em minha gengiva
+- estou querendo cuidar da minha gengiva
+- preciso ir ao periodontista
+- Estou precisando de uma consulta periodôntica
+- Qual médico devo ir para instalar meu aparelho bucal
+- Preciso ir ao ortodontista
+- Quero ir no dentista porque acho que vou ter que usar aparelho
+- Quero colocar aparelho
+- Estou precisando fazer a manutenção do meu aparelho dentário
+- preciso do meu diagnóstico… o que posso fazer?
+- Onde posso colocar aparelho?
+- Onde posso tirar o siso?
+- vocês fazem coroa unitária?
+- cobrem coroa unitária
+- onde faz chapa?
+- onde eu coloco aparelho?
+- qual é a documentação ortodontica basica
+- queria muito fazer um clareamento endogeno
+- quero fazer um clareamento endógeno
+
+## intent:invoice
+- manda orecibos
+- enviar NF
+- recibo boleto
+- comprovante pagamento boleto
+- comprovante pagamento
+- comprovante pagamento
+- comprova pagou
+- prova pagou
+- provo pago
+- provar paguei
+- comprovando paguei compra
+- comprovar compra
+- comprovo pago
+- comprovo paguei
+- comprovando pagamento
+- comprovo pagamento
+- comprovar pagamento
+- recibos
+- comprovante pagamento
+- recibos
+- nota fiscal
+- recibo
+- [recibo](invoice_request)
+- [comprovacao](invoice_request)
+- [comprovação](invoice_request)
+- [comprovante pagamento](invoice_request)
+- [localizar](find) [nota fiscal](invoice_request)
+- [localize](find) [nota](invoice_request)
+- [encontre](find) [notinha](invoice_request)
+- [ache](find) [cupom fiscal](invoice_request)
+- [pegar](access) [nota](invoice_request)
+- [nota](invoice_request)
+- [conferir](access) [cupom fiscal](invoice_request)
+- [olhar](access) [notinha](invoice_request)
+- [acessar](access) [nota fiscal](invoice_request)
+- [comprovante fiscal](invoice_request)
+- [notinha](invoice_request)
+- [cupom fiscal](invoice_request)
+- [nota fiscal](invoice_request)
+- quero enviar um NF
+- posso pegar a nota fiscal em qualquer clínica
+- onde eu pego a nota
+- voce emitem nota fiscal
+- queria o comprovante de pagamento
+- como faço pra receber a nota
+- vocês emitem nota fiscal?
+- me manda os recibos
+- como faço pra olhar meus recibos?
+- vocês emitem recibo?
+- preciso dos recibos
+- onde acesso o comprovante de pagamento do boleto
+- quero todos os recibos de pagamento
+- quero nota fiscal
+- preciso do recibo do meu boleto
+
+## intent:farewell
+- bom dia
+- tchauuuuuu
+- top
+- faloures
+- flws
+- falows
+- farou
+- até mais
+- inté mais
+- adeus
+- inté
+- ate maix
+- té mais
+- até outro dia
+- até a próxima
+- até mais
+- inte
+- inté
+- brigada
+- brigado
+- obrigada
+- obrigado
+- valeu
+- vlw
+- byebye
+- bye
+- bye bye
+- xauzinho
+- obg
+- xau xau
+- adios
+- tchauzinho
+- tchausinho
+- xau
+- grato
+- adeus
+- tchau
+- Não tchauuuuuu
+
+## intent:portal
+- clinica não consigo fazer login
+- não fazer login
+- SENHA
+- cadastro
+- faço login
+- portau
+- portais
+- portal acesso
+- acesso portal
+- portal entrar
+- entro portal
+- visita portal
+- visitar portal
+- url portal
+- acesso portal
+- acessar portal
+- portal
+- acesso site
+- site
+- [link](access) [portal](portal)
+- [homepage](portal)
+- [link](access) [home](portal)
+- [link](access) [pg](portal)
+- [acessar](access) [pagina](portal)
+- [acesso](access) [página](portal)
+- [page](portal)
+- [gestor](portal)
+- [sistema](portal)
+- [site](portal)
+- [acesso](access) [gestor online](portal)
+- [entrar](access) [portal](portal)
+- [acessar](access) [portal empresa](portal)
+- [acessar](access) [portal empresa](plataform)
+- como faço meu login?
+- não consigo fazer o login
+- cnpj 30517891000119 somos clinica e não consigo fazer login
+- Quanto tempo demora a resposta do credenciamento
+- não achei o site de vocês
+- acessar ao portal da empresa
+- portal da empresa
+- como eu tenho acesso ao site
+- qual o site
+
+## intent:urgency
+- dente escurecendo
+- jenjiba enflamada
+- emergência atende
+- emergência salvador
+- emergência
+- emergência
+- emergência
+- muita dor de dente
+- quebrei dente
+- quebrei dente
+- dentista urgente
+- urgente
+- cirurgiao
+- cirurgião
+- cirurgia
+- urgency
+- medicado
+- medicamento
+- remédio
+- curativo
+- machuquei
+- machucada
+- machucado
+- [sangue](pain)
+- sangrando
+- [carie](pain)
+- [cárie](pain)
+- [gengivite](pain)
+- [quebrei](urgent)
+- [aguento](urgent)
+- [aguentando](urgent)
+- [inchado](urgent)
+- [inchada](urgent)
+- [morrendo](pain) [dor](pain)
+- [urgente](urgent)
+- [acidente](urgent)
+- [urgencia](urgent)
+- [urgência](urgent)
+- [emergência](urgent)
+- [dente doendo](pain)
+- [dente caiu](pain)
+- [dente quebrado](pain) [urgente](urgent)
+- Clínica de urgência
+- Como faço para fazer marcação de emergência?
+- Boa tarde! Quero fazer emergência
+- Boa noite! Onde tem emergência 24h que atenda em Salvador?
+- Quero uma informação sobre emergência que atende 24 horas
+- Quero saber se tem emergência
+- Minha estar com a jenjiba enflamada
+- estou viajando e preciso de um dentista urgente
+- cai de cara no chão e quebrei o dente
+- quero trocar o curativo do meu dente
+- onde posso ir para arrumar minha cirurgia
+- Estou sentindo muita dor de dente
