@@ -1002,7 +1002,6 @@ def return_entity_results(results, dataset_name):
 
 
 def sum_results(results, collect_report=False):
-    save_json(results[0], 'test')
     intent_eval = results[0]['intent_evaluation']
     entity_eval = results[0]['entity_evaluation']['ner_crf']
     general_result = {
@@ -1017,7 +1016,8 @@ def sum_results(results, collect_report=False):
                 "f1_score": entity_eval['f1_score'],
                 "accuracy": entity_eval['accuracy']
             }
-        }
+        },
+        "datasets": []
     }
     if collect_report:
         general_result['intent_evaluation']['report'] = intent_eval['report']
@@ -1060,6 +1060,43 @@ def sum_results(results, collect_report=False):
     general_result['entity_evaluation']['ner_crf']['accuracy'] /= size
 
     return general_result
+
+
+def save_result_by_group(datasets_results, n_fold, out_config_directory, datasets_names):
+    big_results = []
+    big_names = []
+    medium_results = []
+    medium_names = []
+    small_results = []
+    small_names = []
+    size = len(datasets_results)
+    for i in range(size):
+        print(datasets_results[i]['intent_evaluation']['report']['weighted avg']['support'])
+        print(n_fold)
+        size = int(datasets_results[i]['intent_evaluation']['report']['weighted avg']['support']) * int(n_fold)
+        print(size)
+        if size < 300:
+            small_results.append(datasets_results[i])
+            small_names.append(datasets_names[i])
+        elif size < 700:
+            medium_results.append(datasets_results[i])
+            medium_names.append(datasets_names[i])
+        else:
+            big_results.append(datasets_results[i])
+            big_names.append(datasets_names[i])
+    if len(small_results) > 0:
+        small_result = sum_results(small_results)
+        small_result['datasets'] = small_names
+        save_json(small_result, out_config_directory + 'Small_Datasets_Mean_Result')
+    if len(medium_results) > 0:
+        medium_result = sum_results(medium_results)
+        medium_result['datasets'] = medium_names
+        save_json(medium_result, out_config_directory + 'Medium_Datasets_Mean_Result')
+    if len(big_results) > 0:
+        big_result = sum_results(big_results)
+        big_result['datasets'] = big_names
+        save_json(big_result, out_config_directory + 'Big_Datasets_Mean_Result')
+
 
 
 def main():
@@ -1112,16 +1149,23 @@ def main():
 
         config_directory = 'benchmark_sources/configs'
         for config_filename in os.listdir(config_directory):
+
             if config_filename.endswith(".yml"):
                 config_path = os.path.join(config_directory, config_filename)
                 config_name = config_filename.split('.')[0]
                 out_config_directory = out_directory + config_name + '/'
+                if not os.path.exists(out_config_directory):
+                    os.mkdir(out_config_directory)
+                datasets_dir_out = 'Datasets_Results/'
+                if not os.path.exists(out_config_directory + datasets_dir_out):
+                    os.mkdir(out_config_directory + datasets_dir_out)
                 nlu_config = config.load(config_path)
                 try:
                     trainer = Trainer(nlu_config)
                 except OSError:
                     raise
                 datasets_results = []
+                datasets_names = []
                 dataset_directory = 'benchmark_sources/data_to_evaluate'
                 for dataset_filename in os.listdir(dataset_directory):
                     if dataset_filename.endswith(".json") or dataset_filename.endswith(".md"):
@@ -1139,10 +1183,10 @@ def main():
                                                           cmdline_args.histogram)
 
                         dataset_result = sum_results(cross_val_results, collect_report=True)
-                        if not os.path.exists(out_config_directory):
-                            os.mkdir(out_config_directory)
-                        save_json(dataset_result, out_config_directory + dataset_name + '_Benchmark')
+                        save_json(dataset_result, out_config_directory + datasets_dir_out + dataset_name + '_Benchmark')
                         datasets_results.append(dataset_result)
+                        datasets_names.append(dataset_filename)
+                save_result_by_group(datasets_results, cmdline_args.folds, out_config_directory, datasets_names)
                 overhaul_result = sum_results(datasets_results)
                 save_json(overhaul_result, out_config_directory + 'Datasets_Mean_Result')
     end = timer()

@@ -27,13 +27,6 @@ class CRFLabelAsEntityExtractor(CRFEntityExtractor):
     def train(self, training_data, config, **kwargs):
         self.component_config = config.for_component(self.name, self.defaults)
         self._validate_configuration()
-        if training_data.label_training_examples:
-            self._check_spacy_doc(training_data.training_examples[0])
-            filtered_entity_examples = self.filter_trainable_entities(
-                training_data.label_training_examples
-            )
-            dataset = self._create_dataset(filtered_entity_examples)
-            self._train_model(dataset)
 
     def persist(self, model_dir):
         from sklearn.externals import joblib
