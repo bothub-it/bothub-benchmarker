@@ -1,0 +1,14 @@
+language: "pt"
+
+pipeline:
+  - name: "benchmark_sources.components.optimized_spacy_nlp_with_labels.SpacyNLP"
+  - name: "benchmark_sources.components.tokenizer_spacy_with_labels.SpacyTokenizer"
+  - name: "CountVectorsFeaturizer"
+    analyzer: "char"
+    min_ngram: 3
+    max_ngram: 3
+  - name: "EmbeddingIntentClassifier"
+    similarity_type: "inner"
+  - name: "CRFEntityExtractor"
+  - name: "SpacyEntityExtractor"
+  - name: "benchmark_sources.components.crf_label_as_entity_extractor.CRFLabelAsEntityExtractor"

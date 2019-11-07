@@ -1,5 +1,6 @@
 import os
 import sys
+from evaluate_new import benchmark
 
 model_name = 'rasa_model'
 
@@ -30,7 +31,7 @@ def rasa_evaluate():
 
 
 def rasa_benchmark():
-    command = 'python evaluate.py'
+    command = 'python evaluate_new.py'
     command += ' --data benchmark_sources/data_to_evaluate'
     command += ' --config benchmark_sources/configs'
     command += ' --mode benchmark'
@@ -43,7 +44,7 @@ def rasa_evaluate_cross_val():
     out_directory = 'benchmark'
     if not os.path.exists(out_directory):
         os.mkdir(out_directory)
-    command = 'python evaluate.py'
+    command = 'python evaluate_new.py'
     command += ' --data data/WebApplicationsCorpus_rasa.json'
     command += ' --config benchmark_sources/configs/nlu_config.yml'
     command += ' --report ' + out_directory + '/report'
@@ -58,21 +59,7 @@ def rasa_evaluate_cross_val():
 
 
 def main():
-    print(' 1 - train  2 - evaluate  3 - benchmark  4 - cross validation  5 - train + evaluate')
-    # x = input()
-    # x = int(x)
-    x = 3
-    if x == 1:
-        rasa_train()
-    elif x == 2:
-        rasa_evaluate()
-    elif x == 3:
-        rasa_benchmark()
-    elif x == 4:
-        rasa_evaluate_cross_val()
-    elif x == 5:
-        rasa_train()
-        rasa_evaluate()
+    benchmark()
 
 
 main()
