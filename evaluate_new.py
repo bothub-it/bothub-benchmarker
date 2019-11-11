@@ -264,7 +264,13 @@ def benchmark():
         os.mkdir(out_directory)
 
     config_directory = 'benchmark_sources/configs'
+    config_size = len(os.listdir(config_directory))
+    count_config = 0
     for config_filename in os.listdir(config_directory):
+        count_config += 1
+        print('######################################')
+        print('CURRENT CONFIG :', count_config, '/', config_size)
+        print('######################################')
         start_config = timer()
         if config_filename.endswith(".yml"):
             config_path = os.path.join(config_directory, config_filename)
