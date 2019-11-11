@@ -81,7 +81,7 @@ class BothubRepository:
 
             for page in test_results:
                 for item in page:
-                    # print(item)
+                    print(item)
                     if item['language'] == self.language:
                         intent = item['intent']
                         if not intent in test_dict:
@@ -168,7 +168,28 @@ class BothubRepository:
 #                  language='pt_br',
 #                  auth_token='Token 62d6ca792529e2bd9b97ba9425962c90f675579f').get_merged_train_test()
 
-BothubRepository(repo_name='sac_viario_sup_1',
-                 repo_uuid='e58c4aa5-c9d7-4b53-af07-4891abb08012',
-                 language='pt_br',
-                 auth_token='Token 62d6ca792529e2bd9b97ba9425962c90f675579f').get_merged_train_test()
+# BothubRepository(repo_name='sac_viario_sup_1',
+#                  repo_uuid='e58c4aa5-c9d7-4b53-af07-4891abb08012',
+#                  language='pt_br',
+#                  auth_token='Token 62d6ca792529e2bd9b97ba9425962c90f675579f').get_merged_train_test()
+
+# BothubRepository(repo_name='nina',
+#                  repo_uuid='2b2e5826-b5a5-49bd-866e-3eb536456726',
+#                  language='pt_br',
+#                  auth_token='Token 5f301586414b1a6cdf272bcb09345a9671df6a92').get_merged_train_test()
+
+# BothubRepository(repo_name='susana',
+#                  repo_uuid='1f86ecdf-4659-4a98-84bf-78d0ef9d3512',
+#                  language='pt_br',
+#                  auth_token='Token 5f301586414b1a6cdf272bcb09345a9671df6a92').get_merged_train_test()
+#
+# BothubRepository(repo_name='publicorganization',
+#                  repo_uuid='cc8c6f95-7447-4d9b-a262-18bd258cae72',
+#                  language='pt_br',
+#                  auth_token='Token 5f301586414b1a6cdf272bcb09345a9671df6a92').get_merged_train_test()
+#
+# BothubRepository(repo_name='public_organization',
+#                  repo_uuid='206a1c69-86e3-4f9e-a19d-15337ebeec2b',
+#                  language='pt_br',
+#                  auth_token='Token 5f301586414b1a6cdf272bcb09345a9671df6a92').get_merged_train_test()
+
