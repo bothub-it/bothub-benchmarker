@@ -8,4 +8,4 @@ pipeline:
   - name: "CRFEntityExtractor"
   - name: "SpacyEntityExtractor"
   - name: "benchmark_sources.components.crf_label_as_entity_extractor.CRFLabelAsEntityExtractor"
-  - name: "intent_classifier_sklearn"
+  - name: "SklearnIntentClassifier"

@@ -200,6 +200,34 @@ def sum_results(results, collect_report=False):
     return general_result
 
 
+def generate_folds(
+    n: int, td: TrainingData
+) -> Iterator[Tuple[TrainingData, TrainingData]]:
+    """Generates n cross validation folds for training data td."""
+
+    from sklearn.model_selection import StratifiedKFold
+
+    skf = StratifiedKFold(n_splits=n, shuffle=True, random_state=3)
+    x = td.intent_examples
+    y = [example.get("intent") for example in x]
+    for i_fold, (train_index, test_index) in enumerate(skf.split(x, y)):
+        logger.debug("Fold: {}".format(i_fold))
+        train = [x[i] for i in train_index]
+        test = [x[i] for i in test_index]
+        yield (
+            TrainingData(
+                training_examples=train,
+                entity_synonyms=td.entity_synonyms,
+                regex_features=td.regex_features,
+            ),
+            TrainingData(
+                training_examples=test,
+                entity_synonyms=td.entity_synonyms,
+                regex_features=td.regex_features,
+            ),
+        )
+
+
 def run_benchmark(data_path, n_folds, trainer):  # pragma: no cover
     """Evaluate intent classification and entity extraction."""
 
@@ -247,8 +275,6 @@ def run_benchmark(data_path, n_folds, trainer):  # pragma: no cover
     return results
 
 
-
-
 def remove_pretrained_extractors(pipeline: List[Component]) -> List[Component]:
     """Removes pretrained extractors from the pipeline so that entities
        from pre-trained extractors are not predicted upon parsing"""
@@ -259,9 +285,15 @@ def remove_pretrained_extractors(pipeline: List[Component]) -> List[Component]:
 def benchmark():
     start = timer()
     n_folds = 3
-    out_directory = 'benchmark_output/'
+    out_directory = 'benchmark_output/benchmark_all_data_v2/'
     if not os.path.exists(out_directory):
         os.mkdir(out_directory)
+    else:
+        count = 0
+        out_directory_temp = out_directory
+        while os.path.exists(out_directory_temp):
+            out_directory_temp = out_directory + str(count)
+            count += 1
 
     config_directory = 'benchmark_sources/configs'
     config_size = len(os.listdir(config_directory))
@@ -269,7 +301,7 @@ def benchmark():
     for config_filename in os.listdir(config_directory):
         count_config += 1
         print('######################################')
-        print('CURRENT CONFIG :', count_config, '/', config_size)
+        print('CURRENT CONFIG :', config_filename, ' PROGRESS:', count_config, '/', config_size)
         print('######################################')
         start_config = timer()
         if config_filename.endswith(".yml"):

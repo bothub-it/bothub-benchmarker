@@ -3,7 +3,7 @@ import json
 
 
 def installer():
-    models = 'spacy_models'
+    models = '../spacy_models'
     for model in os.listdir(models):
         if model.endswith('.zip'):
             pip_install_cmd = 'pip install ' + models + '/' + model
@@ -15,7 +15,7 @@ def installer():
 
 
 def generate_pipelines():
-    models = 'spacy_models'
+    models = '../spacy_models'
     out_directory = 'pipelines'
     if not os.path.exists(out_directory):
         os.mkdir(out_directory)
@@ -58,7 +58,7 @@ def spacy_models_ranker():
     for file_to_eval in files_to_eval:
         # Load outputs
         results = []
-        output_folder = 'benchmark_output'
+        output_folder = '../benchmark_output/benchmark_all_data'
         for output in os.listdir(output_folder):
             if os.path.exists(output_folder + '/' + output + '/' + file_to_eval):
                 with open(output_folder + '/' + output + '/' + file_to_eval) as json_data:
