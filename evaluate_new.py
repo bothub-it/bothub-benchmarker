@@ -282,7 +282,7 @@ def remove_pretrained_extractors(pipeline: List[Component]) -> List[Component]:
     return pipeline
 
 
-def benchmark():
+def main():
     start = timer()
     n_folds = 3
     out_directory = 'benchmark_output/benchmark_all_data_v2/'
@@ -341,3 +341,6 @@ def benchmark():
             utils.write_json_to_file(out_config_directory + 'Datasets_Mean_Result', overhaul_result)
     end = timer()
     logger.info("Finished evaluation in: " + str(end - start))
+
+
+main()
