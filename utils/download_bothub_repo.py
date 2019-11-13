@@ -173,10 +173,10 @@ class BothubRepository:
 #                  language='pt_br',
 #                  auth_token='Token 62d6ca792529e2bd9b97ba9425962c90f675579f').get_merged_train_test()
 
-# BothubRepository(repo_name='nina',
-#                  repo_uuid='2b2e5826-b5a5-49bd-866e-3eb536456726',
-#                  language='pt_br',
-#                  auth_token='Token 62d6ca792529e2bd9b97ba9425962c90f675579f').get_merged_train_test()
+BothubRepository(repo_name='nina',
+                 repo_uuid='2b2e5826-b5a5-49bd-866e-3eb536456726',
+                 language='pt_br',
+                 auth_token='Token 62d6ca792529e2bd9b97ba9425962c90f675579f').get_merged_train_test()
 
 # BothubRepository(repo_name='susana',
 #                  repo_uuid='1f86ecdf-4659-4a98-84bf-78d0ef9d3512',
@@ -193,28 +193,28 @@ class BothubRepository:
 #                  language='pt_br',
 #                  auth_token='Token 62d6ca792529e2bd9b97ba9425962c90f675579f').get_merged_train_test()
 
-BothubRepository(repo_name='seec',
-                 repo_uuid='38ba6a21-8235-439b-b807-b257d404ec64',
-                 language='pt_br',
-                 auth_token='Token 62d6ca792529e2bd9b97ba9425962c90f675579f').get_merged_train_test()
-
-BothubRepository(repo_name='HPB',
-                 repo_uuid='9fd4033d-88f8-462b-9754-c3ae94b97939',
-                 language='pt_br',
-                 auth_token='Token 62d6ca792529e2bd9b97ba9425962c90f675579f').get_merged_train_test()
-
-BothubRepository(repo_name='enterprise',
-                 repo_uuid='28df8c8e-5787-43e8-9da6-8bee3ad54582',
-                 language='pt_br',
-                 auth_token='Token 62d6ca792529e2bd9b97ba9425962c90f675579f').get_merged_train_test()
-
-BothubRepository(repo_name='comercial',
-                 repo_uuid='1741cc9f-058f-438b-8d57-c312f4a9ee47',
-                 language='pt_br',
-                 auth_token='Token 62d6ca792529e2bd9b97ba9425962c90f675579f').get_merged_train_test()
-
-BothubRepository(repo_name='susaninha',
-                 repo_uuid='e87dbc88-7454-4f84-9914-cf03d6be8116',
-                 language='pt_br',
-                 auth_token='Token 62d6ca792529e2bd9b97ba9425962c90f675579f').get_merged_train_test()
+# BothubRepository(repo_name='seec',
+#                  repo_uuid='38ba6a21-8235-439b-b807-b257d404ec64',
+#                  language='pt_br',
+#                  auth_token='Token 62d6ca792529e2bd9b97ba9425962c90f675579f').get_merged_train_test()
+#
+# BothubRepository(repo_name='HPB',
+#                  repo_uuid='9fd4033d-88f8-462b-9754-c3ae94b97939',
+#                  language='pt_br',
+#                  auth_token='Token 62d6ca792529e2bd9b97ba9425962c90f675579f').get_merged_train_test()
+#
+# BothubRepository(repo_name='enterprise',
+#                  repo_uuid='28df8c8e-5787-43e8-9da6-8bee3ad54582',
+#                  language='pt_br',
+#                  auth_token='Token 62d6ca792529e2bd9b97ba9425962c90f675579f').get_merged_train_test()
+#
+# BothubRepository(repo_name='comercial',
+#                  repo_uuid='1741cc9f-058f-438b-8d57-c312f4a9ee47',
+#                  language='pt_br',
+#                  auth_token='Token 62d6ca792529e2bd9b97ba9425962c90f675579f').get_merged_train_test()
+#
+# BothubRepository(repo_name='susaninha',
+#                  repo_uuid='e87dbc88-7454-4f84-9914-cf03d6be8116',
+#                  language='pt_br',
+#                  auth_token='Token 62d6ca792529e2bd9b97ba9425962c90f675579f').get_merged_train_test()
 

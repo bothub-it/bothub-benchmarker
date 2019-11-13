@@ -1,6 +1,5 @@
 import os
 import sys
-from evaluate_new import benchmark
 
 model_name = 'rasa_model'
 
@@ -59,7 +58,7 @@ def rasa_evaluate_cross_val():
 
 
 def main():
-    benchmark()
+    pass
 
 
 main()
