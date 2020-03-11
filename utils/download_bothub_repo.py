@@ -31,9 +31,10 @@ class BothubRepository:
             intents = [intent['value'] for intent in response.json()['intents']]
             print('    intents: ', intents)
             for intent in intents:
+
                 nlu_file.write('\n')
                 nlu_file.write(f'## intent:{intent}\n')
-                next_call = f'https://api.bothub.it/v2/examples/?intent={intent}&limit=20&repository_uuid={self.repo_uuid}'
+                next_call = f'https://api.bothub.it/v2/repository/examples/?intent={intent}&limit=20&repository_uuid={self.repo_uuid}'
                 results = self.get_all_results(headers=self.headers, next_call=next_call)
                 print('        intent: ', intent, '   results: ', results)
                 for page in results:
@@ -176,7 +177,7 @@ class BothubRepository:
 BothubRepository(repo_name='nina',
                  repo_uuid='2b2e5826-b5a5-49bd-866e-3eb536456726',
                  language='pt_br',
-                 auth_token='Token 62d6ca792529e2bd9b97ba9425962c90f675579f').get_merged_train_test()
+                 auth_token='Token 62d6ca792529e2bd9b97ba9425962c90f675579f').get_train()
 
 # BothubRepository(repo_name='susana',
 #                  repo_uuid='1f86ecdf-4659-4a98-84bf-78d0ef9d3512',

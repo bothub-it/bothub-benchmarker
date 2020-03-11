@@ -1,4 +1,4 @@
-language: "pt"
+language: "pt_core_news_sm"
 
 pipeline:
   - name: "benchmark_sources.components.optimized_spacy_nlp_with_labels.SpacyNLP"

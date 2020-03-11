@@ -282,10 +282,9 @@ def remove_pretrained_extractors(pipeline: List[Component]) -> List[Component]:
     return pipeline
 
 
-def main():
+def main(out_directory, config_directory, dataset_directory):
     start = timer()
     n_folds = 3
-    out_directory = 'benchmark_output/benchmark_all_data_v2/'
     if not os.path.exists(out_directory):
         os.mkdir(out_directory)
     else:
@@ -295,7 +294,6 @@ def main():
             out_directory_temp = out_directory + str(count)
             count += 1
 
-    config_directory = 'benchmark_sources/configs'
     config_size = len(os.listdir(config_directory))
     count_config = 0
     for config_filename in os.listdir(config_directory):
@@ -321,7 +319,6 @@ def main():
                 raise
             datasets_results = []
             datasets_names = []
-            dataset_directory = 'benchmark_sources/data_to_evaluate'
             for dataset_filename in os.listdir(dataset_directory):
                 if dataset_filename.endswith(".json") or dataset_filename.endswith(".md"):
                     dataset_path = os.path.join(dataset_directory, dataset_filename)
@@ -343,4 +340,8 @@ def main():
     logger.info("Finished evaluation in: " + str(end - start))
 
 
-main()
+if __name__ == '__main__':
+    out_directory = 'benchmark_output/benchmark_all_data_v3/'
+    config_directory = 'benchmark_sources/configs'
+    dataset_directory = 'benchmark_sources/data_to_evaluate'
+    main(out_directory, config_directory, dataset_directory)
