@@ -40,7 +40,7 @@ class BothubRepository:
                 for page in results:
                     for item in page:
                         print('            intent: ', intent, '   item: ', item)
-                        if item['language'] == 'pt_br':
+                        if item['language'] == self.language:
                             text = item['text']
                             for entity in item['entities']:
                                 entity_text = text[entity['start']:entity['end']]
@@ -82,8 +82,8 @@ class BothubRepository:
 
             for page in test_results:
                 for item in page:
-                    print(item)
                     if item['language'] == self.language:
+                        print(item)
                         intent = item['intent']
                         if not intent in test_dict:
                             test_dict[intent] = []
@@ -104,7 +104,7 @@ class BothubRepository:
                 train_items = []
                 for page in train_results:
                     for item in page:
-                        if item['language'] == 'pt_br':
+                        if item['language'] == self.language:
                             text = item['text']
                             for entity in item['entities']:
                                 entity_text = text[entity['start']:entity['end']]
@@ -118,7 +118,7 @@ class BothubRepository:
                 items = test_dict[intent] if intent in test_dict else {}
                 print(train_items)
                 for item in items:
-                    if item['language'] == 'pt_br':
+                    if item['language'] == self.language:
                         text = item['text']
                         for entity in item['entities']:
                             entity_text = text[entity['start']:entity['end']]
@@ -174,10 +174,10 @@ class BothubRepository:
 #                  language='pt_br',
 #                  auth_token='Token 62d6ca792529e2bd9b97ba9425962c90f675579f').get_merged_train_test()
 
-BothubRepository(repo_name='nina',
-                 repo_uuid='2b2e5826-b5a5-49bd-866e-3eb536456726',
-                 language='pt_br',
-                 auth_token='Token 62d6ca792529e2bd9b97ba9425962c90f675579f').get_train()
+# BothubRepository(repo_name='nina',
+#                  repo_uuid='2b2e5826-b5a5-49bd-866e-3eb536456726',
+#                  language='pt_br',
+#                  auth_token='Token 62d6ca792529e2bd9b97ba9425962c90f675579f').get_train()
 
 # BothubRepository(repo_name='susana',
 #                  repo_uuid='1f86ecdf-4659-4a98-84bf-78d0ef9d3512',
@@ -218,4 +218,9 @@ BothubRepository(repo_name='nina',
 #                  repo_uuid='e87dbc88-7454-4f84-9914-cf03d6be8116',
 #                  language='pt_br',
 #                  auth_token='Token 62d6ca792529e2bd9b97ba9425962c90f675579f').get_merged_train_test()
+
+BothubRepository(repo_name='binary',
+                 repo_uuid='e1e8a0fa-625c-4ba3-8b91-4c9f308db791',
+                 language='en',
+                 auth_token='Token 62d6ca792529e2bd9b97ba9425962c90f675579f').get_merged_train_test()
 
