@@ -1,3 +1,4 @@
+import json
 import os
 import logging
 from timeit import default_timer as timer
@@ -142,8 +143,10 @@ def save_result_by_group(datasets_results, n_fold, out_config_directory, dataset
 
 
 def sum_results(results, collect_report=False):
+    entity_algorithm = list(results[0]['entity_evaluation'].keys())[0]
+    print(entity_algorithm)
     intent_eval = results[0]['intent_evaluation']
-    entity_eval = results[0]['entity_evaluation']['CRFEntityExtractor']
+    entity_eval = results[0]['entity_evaluation'][entity_algorithm]
     general_result = {
         "intent_evaluation": {
             "precision": intent_eval['precision'],
@@ -151,7 +154,7 @@ def sum_results(results, collect_report=False):
             "accuracy": intent_eval['accuracy']
         },
         "entity_evaluation": {
-            "CRFEntityExtractor": {
+            entity_algorithm: {
                 "precision": entity_eval['precision'],
                 "f1_score": entity_eval['f1_score'],
                 "accuracy": entity_eval['accuracy']
@@ -175,14 +178,17 @@ def sum_results(results, collect_report=False):
         if collect_report:
             report = result['intent_evaluation']['report']
             for intent in report:
-                for field in report[intent]:
-                    general_result['intent_evaluation']['report'][intent][field] += report[intent][field]
-            entity_eval = result['entity_evaluation']['CRFEntityExtractor']
+                try:
+                    for field in report[intent]:
+                        general_result['intent_evaluation']['report'][intent][field] += report[intent][field]
+                except TypeError:
+                    pass
+            entity_eval = result['entity_evaluation'][entity_algorithm]
 
         # precision, f1_score and accuracy from entity eval
-        general_result['entity_evaluation']['CRFEntityExtractor']['precision'] += entity_eval['precision']
-        general_result['entity_evaluation']['CRFEntityExtractor']['f1_score'] += entity_eval['f1_score']
-        general_result['entity_evaluation']['CRFEntityExtractor']['accuracy'] += entity_eval['accuracy']
+        general_result['entity_evaluation'][entity_algorithm]['precision'] += entity_eval['precision']
+        general_result['entity_evaluation'][entity_algorithm]['f1_score'] += entity_eval['f1_score']
+        general_result['entity_evaluation'][entity_algorithm]['accuracy'] += entity_eval['accuracy']
 
     # Mean of elements
     general_result['intent_evaluation']['precision'] /= size
@@ -191,11 +197,14 @@ def sum_results(results, collect_report=False):
 
     if collect_report:
         for intent in general_result['intent_evaluation']['report']:
-            for field in general_result['intent_evaluation']['report'][intent]:
-                general_result['intent_evaluation']['report'][intent][field] /= size
-    general_result['entity_evaluation']['CRFEntityExtractor']['precision'] /= size
-    general_result['entity_evaluation']['CRFEntityExtractor']['f1_score'] /= size
-    general_result['entity_evaluation']['CRFEntityExtractor']['accuracy'] /= size
+            try:
+                for field in general_result['intent_evaluation']['report'][intent]:
+                    general_result['intent_evaluation']['report'][intent][field] /= size
+            except TypeError:
+                pass
+    general_result['entity_evaluation'][entity_algorithm]['precision'] /= size
+    general_result['entity_evaluation'][entity_algorithm]['f1_score'] /= size
+    general_result['entity_evaluation'][entity_algorithm]['accuracy'] /= size
 
     return general_result
 
@@ -282,9 +291,8 @@ def remove_pretrained_extractors(pipeline: List[Component]) -> List[Component]:
     return pipeline
 
 
-def main(out_directory, config_directory, dataset_directory):
+def main(out_directory, config_directory, dataset_directory, n_folds):
     start = timer()
-    n_folds = 3
     if not os.path.exists(out_directory):
         os.mkdir(out_directory)
     else:
@@ -341,7 +349,8 @@ def main(out_directory, config_directory, dataset_directory):
 
 
 if __name__ == '__main__':
-    out_directory = 'benchmark_output/benchmark_all_data_v3/'
+    out_directory = 'benchmark_output/benchmark_all_data_v4/'
     config_directory = 'benchmark_sources/configs'
     dataset_directory = 'benchmark_sources/data_to_evaluate'
-    main(out_directory, config_directory, dataset_directory)
+    n_folds = 3
+    main(out_directory, config_directory, dataset_directory, n_folds)

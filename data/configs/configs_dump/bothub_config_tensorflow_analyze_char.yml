@@ -1,4 +1,4 @@
-language: "pt_core_news_sm"
+language: "en"
 
 pipeline:
   - name: "SpacyNLP"
@@ -11,4 +11,3 @@ pipeline:
     similarity_type: "inner"
   - name: "CRFEntityExtractor"
   - name: "SpacyEntityExtractor"
-  - name: "CRFEntityExtractor"

@@ -79,8 +79,11 @@ class BothubRepository:
             evaluate_url = f'https://api.bothub.it/v2/repository/evaluate/?repository_uuid={self.repo_uuid}'
             test_results = self.get_all_results(headers=self.headers, next_call=evaluate_url)
             test_dict = {}
-
+            if test_results is None:
+                test_results = []
             for page in test_results:
+                if page is None:
+                    page = []
                 for item in page:
                     if item['language'] == self.language:
                         print(item)
@@ -91,8 +94,9 @@ class BothubRepository:
                         test_dict[intent].append(item)
 
             response = requests.get(self.api_url, headers=self.headers)
-            print(response.json())
-            train_intents = [intent['value'] for intent in response.json()['intents']]
+            print(response.json().get('name'))
+            print(self.repo_name)
+            train_intents = [intent['value'] for intent in response.json().get('intents', [])]
             # print('    train intents: ', train_intents)
             # print('    test intents: ', test_intents)
             for intent in train_intents:
@@ -100,9 +104,13 @@ class BothubRepository:
                 nlu_file.write(f'## intent:{intent}\n')
                 next_call = f'https://api.bothub.it/v2/repository/examples/?intent={intent}&limit=20&repository_uuid={self.repo_uuid}'
                 train_results = self.get_all_results(headers=self.headers, next_call=next_call)
-                print('        intent: ', intent, '   results: ', train_results)
+                if train_results is None:
+                    train_results = []
+
                 train_items = []
                 for page in train_results:
+                    if page is None:
+                        page = []
                     for item in page:
                         if item['language'] == self.language:
                             text = item['text']
@@ -116,7 +124,6 @@ class BothubRepository:
                             nlu_file.write(f'- {text}\n')
 
                 items = test_dict[intent] if intent in test_dict else {}
-                print(train_items)
                 for item in items:
                     if item['language'] == self.language:
                         text = item['text']
@@ -125,7 +132,6 @@ class BothubRepository:
                             entity_type = entity['entity']
                             text = text.replace(entity_text, f'[{entity_text}]({entity_type})')
                         if text not in train_items:
-                            print('            intent_test: ', intent, '   text_test: ', text)
                             nlu_file.write(f'- {text}\n')
                         else:
                             overlap_count += 1
@@ -134,93 +140,96 @@ class BothubRepository:
             print('overlap_count', overlap_count)
 
 
+language = 'en'
+auth_token = 'Token 62d6ca792529e2bd9b97ba9425962c90f675579f'
+
 # BothubRepository(repo_name='odotonlogical_plan',
 #                  repo_uuid='513f82e0-1768-4e65-a721-c35ae9bfd162',
-#                  language='pt_br',
-#                  auth_token='Token 62d6ca792529e2bd9b97ba9425962c90f675579f').get_merged_train_test()
-
+#                  language=language,
+#                  auth_token=auth_token).get_merged_train_test()
+#
 # BothubRepository(repo_name='sac_viario',
 #                  repo_uuid='792b3931-3da3-4f1c-94d0-db0a4028f4e4',
-#                  language='pt_br',
-#                  auth_token='Token 62d6ca792529e2bd9b97ba9425962c90f675579f').get_merged_train_test()
-
+#                  language=language,
+#                  auth_token=auth_token).get_merged_train_test()
+#
 # BothubRepository(repo_name='susana',
 #                  repo_uuid='1f86ecdf-4659-4a98-84bf-78d0ef9d3512',
-#                  language='pt_br',
-#                  auth_token='Token 62d6ca792529e2bd9b97ba9425962c90f675579f').get_merged_train_test()
-
+#                  language=language,
+#                  auth_token=auth_token).get_merged_train_test()
+#
 # BothubRepository(repo_name='cadastracao_v4',
 #                  repo_uuid='4bc1d618-759a-4814-bc8a-2c9faaff7d83',
-#                  language='pt_br',
-#                  auth_token='Token 62d6ca792529e2bd9b97ba9425962c90f675579f').get_merged_train_test()
+#                  language=language,
+#                  auth_token=auth_token).get_merged_train_test()
 
-# BothubRepository(repo_name='GCSuporte2',
-#                  repo_uuid='b8855b7a-7e1e-4016-8084-1803eff787cf',
-#                  language='pt_br',
-#                  auth_token='Token 62d6ca792529e2bd9b97ba9425962c90f675579f').get_merged_train_test()
+BothubRepository(repo_name='GCSuporte2',
+                 repo_uuid='b8855b7a-7e1e-4016-8084-1803eff787cf',
+                 language=language,
+                 auth_token=auth_token).get_merged_train_test()
 
-# BothubRepository(repo_name='nina_unfpa',
-#                  repo_uuid='9a1b6604-50e6-4322-a0a2-1def0ee5d549',
-#                  language='pt_br',
-#                  auth_token='Token 62d6ca792529e2bd9b97ba9425962c90f675579f').get_merged_train_test()
+BothubRepository(repo_name='nina_unfpa',
+                 repo_uuid='9a1b6604-50e6-4322-a0a2-1def0ee5d549',
+                 language=language,
+                 auth_token=auth_token).get_merged_train_test()
 
-# BothubRepository(repo_name='sei',
-#                  repo_uuid='2a4d6a3a-a2ed-433e-a16c-f8b1e1749f10',
-#                  language='pt_br',
-#                  auth_token='Token 62d6ca792529e2bd9b97ba9425962c90f675579f').get_merged_train_test()
+BothubRepository(repo_name='sei',
+                 repo_uuid='2a4d6a3a-a2ed-433e-a16c-f8b1e1749f10',
+                 language=language,
+                 auth_token=auth_token).get_merged_train_test()
 
-# BothubRepository(repo_name='sac_viario_sup_1',
-#                  repo_uuid='e58c4aa5-c9d7-4b53-af07-4891abb08012',
-#                  language='pt_br',
-#                  auth_token='Token 62d6ca792529e2bd9b97ba9425962c90f675579f').get_merged_train_test()
+BothubRepository(repo_name='sac_viario_sup_1',
+                 repo_uuid='e58c4aa5-c9d7-4b53-af07-4891abb08012',
+                 language=language,
+                 auth_token=auth_token).get_merged_train_test()
 
-# BothubRepository(repo_name='nina',
-#                  repo_uuid='2b2e5826-b5a5-49bd-866e-3eb536456726',
-#                  language='pt_br',
-#                  auth_token='Token 62d6ca792529e2bd9b97ba9425962c90f675579f').get_train()
+BothubRepository(repo_name='nina',
+                 repo_uuid='2b2e5826-b5a5-49bd-866e-3eb536456726',
+                 language=language,
+                 auth_token=auth_token).get_train()
 
-# BothubRepository(repo_name='susana',
-#                  repo_uuid='1f86ecdf-4659-4a98-84bf-78d0ef9d3512',
-#                  language='pt_br',
-#                  auth_token='Token 62d6ca792529e2bd9b97ba9425962c90f675579f').get_merged_train_test()
-#
-# BothubRepository(repo_name='publicorganization',
-#                  repo_uuid='cc8c6f95-7447-4d9b-a262-18bd258cae72',
-#                  language='pt_br',
-#                  auth_token='Token 62d6ca792529e2bd9b97ba9425962c90f675579f').get_merged_train_test()
-#
-# BothubRepository(repo_name='public_organization',
-#                  repo_uuid='206a1c69-86e3-4f9e-a19d-15337ebeec2b',
-#                  language='pt_br',
-#                  auth_token='Token 62d6ca792529e2bd9b97ba9425962c90f675579f').get_merged_train_test()
+BothubRepository(repo_name='susana',
+                 repo_uuid='1f86ecdf-4659-4a98-84bf-78d0ef9d3512',
+                 language=language,
+                 auth_token=auth_token).get_merged_train_test()
 
-# BothubRepository(repo_name='seec',
-#                  repo_uuid='38ba6a21-8235-439b-b807-b257d404ec64',
-#                  language='pt_br',
-#                  auth_token='Token 62d6ca792529e2bd9b97ba9425962c90f675579f').get_merged_train_test()
-#
-# BothubRepository(repo_name='HPB',
-#                  repo_uuid='9fd4033d-88f8-462b-9754-c3ae94b97939',
-#                  language='pt_br',
-#                  auth_token='Token 62d6ca792529e2bd9b97ba9425962c90f675579f').get_merged_train_test()
-#
-# BothubRepository(repo_name='enterprise',
-#                  repo_uuid='28df8c8e-5787-43e8-9da6-8bee3ad54582',
-#                  language='pt_br',
-#                  auth_token='Token 62d6ca792529e2bd9b97ba9425962c90f675579f').get_merged_train_test()
-#
-# BothubRepository(repo_name='comercial',
-#                  repo_uuid='1741cc9f-058f-438b-8d57-c312f4a9ee47',
-#                  language='pt_br',
-#                  auth_token='Token 62d6ca792529e2bd9b97ba9425962c90f675579f').get_merged_train_test()
-#
-# BothubRepository(repo_name='susaninha',
-#                  repo_uuid='e87dbc88-7454-4f84-9914-cf03d6be8116',
-#                  language='pt_br',
-#                  auth_token='Token 62d6ca792529e2bd9b97ba9425962c90f675579f').get_merged_train_test()
+BothubRepository(repo_name='publicorganization',
+                 repo_uuid='cc8c6f95-7447-4d9b-a262-18bd258cae72',
+                 language=language,
+                 auth_token=auth_token).get_merged_train_test()
+
+BothubRepository(repo_name='public_organization',
+                 repo_uuid='206a1c69-86e3-4f9e-a19d-15337ebeec2b',
+                 language=language,
+                 auth_token=auth_token).get_merged_train_test()
+
+BothubRepository(repo_name='seec',
+                 repo_uuid='38ba6a21-8235-439b-b807-b257d404ec64',
+                 language=language,
+                 auth_token=auth_token).get_merged_train_test()
+
+BothubRepository(repo_name='HPB',
+                 repo_uuid='9fd4033d-88f8-462b-9754-c3ae94b97939',
+                 language=language,
+                 auth_token=auth_token).get_merged_train_test()
+
+BothubRepository(repo_name='enterprise',
+                 repo_uuid='28df8c8e-5787-43e8-9da6-8bee3ad54582',
+                 language=language,
+                 auth_token=auth_token).get_merged_train_test()
+
+BothubRepository(repo_name='comercial',
+                 repo_uuid='1741cc9f-058f-438b-8d57-c312f4a9ee47',
+                 language=language,
+                 auth_token=auth_token).get_merged_train_test()
+
+BothubRepository(repo_name='susaninha',
+                 repo_uuid='e87dbc88-7454-4f84-9914-cf03d6be8116',
+                 language=language,
+                 auth_token=auth_token).get_merged_train_test()
 
 BothubRepository(repo_name='binary',
                  repo_uuid='e1e8a0fa-625c-4ba3-8b91-4c9f308db791',
-                 language='en',
-                 auth_token='Token 62d6ca792529e2bd9b97ba9425962c90f675579f').get_merged_train_test()
+                 language=language,
+                 auth_token=auth_token).get_merged_train_test()
 

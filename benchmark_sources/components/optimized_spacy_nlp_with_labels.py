@@ -25,7 +25,7 @@ class SpacyNLP(RasaNLUSpacyNLP):
         # if no model is specified, we fall back to the language string
         if not spacy_model_name:
             component_config["model"] = config.language
-        nlp_language = spacy.load('pt', parser=False)
+        nlp_language = spacy.load('pt_core_news_sm', parser=False)
         cls.ensure_proper_language_model(nlp_language)
         return cls(component_config, nlp_language)
 

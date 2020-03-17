@@ -38,6 +38,6 @@ class FileConverter:
 
 files_to_convert = ['AskUbuntuCorpus.json', 'ChatbotCorpus.json', 'WebApplicationsCorpus.json']
 for filename in files_to_convert:
-    a = FileConverter('git_data/', filename)
+    a = FileConverter('../data/', filename)
     print(filename)
     a.nlu_corpora_to_json()

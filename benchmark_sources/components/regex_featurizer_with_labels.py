@@ -1,7 +1,7 @@
 import os
 
 from rasa.nlu import utils
-from rasa.nlu.featurizers.regex_featurizer import RegexFeaturizer as RasaRegexFeaturizer
+from rasa.nlu.featurizers.sparse_featurizer.regex_featurizer import RegexFeaturizer as RasaRegexFeaturizer
 
 
 class RegexFeaturizer(RasaRegexFeaturizer):
