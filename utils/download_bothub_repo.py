@@ -140,7 +140,8 @@ class BothubRepository:
             print('overlap_count', overlap_count)
 
 
-language = 'en'
+language = 'pt_br' \
+           ''
 auth_token = 'Token 62d6ca792529e2bd9b97ba9425962c90f675579f'
 
 # BothubRepository(repo_name='odotonlogical_plan',
@@ -163,73 +164,78 @@ auth_token = 'Token 62d6ca792529e2bd9b97ba9425962c90f675579f'
 #                  language=language,
 #                  auth_token=auth_token).get_merged_train_test()
 
-BothubRepository(repo_name='GCSuporte2',
-                 repo_uuid='b8855b7a-7e1e-4016-8084-1803eff787cf',
-                 language=language,
-                 auth_token=auth_token).get_merged_train_test()
+# BothubRepository(repo_name='GCSuporte2',
+#                  repo_uuid='b8855b7a-7e1e-4016-8084-1803eff787cf',
+#                  language=language,
+#                  auth_token=auth_token).get_merged_train_test()
+#
+# BothubRepository(repo_name='nina_unfpa',
+#                  repo_uuid='9a1b6604-50e6-4322-a0a2-1def0ee5d549',
+#                  language=language,
+#                  auth_token=auth_token).get_merged_train_test()
+#
+# BothubRepository(repo_name='sei',
+#                  repo_uuid='2a4d6a3a-a2ed-433e-a16c-f8b1e1749f10',
+#                  language=language,
+#                  auth_token=auth_token).get_merged_train_test()
+#
+# BothubRepository(repo_name='sac_viario_sup_1',
+#                  repo_uuid='e58c4aa5-c9d7-4b53-af07-4891abb08012',
+#                  language=language,
+#                  auth_token=auth_token).get_merged_train_test()
+#
+# BothubRepository(repo_name='nina',
+#                  repo_uuid='2b2e5826-b5a5-49bd-866e-3eb536456726',
+#                  language=language,
+#                  auth_token=auth_token).get_train()
+#
+# BothubRepository(repo_name='susana',
+#                  repo_uuid='1f86ecdf-4659-4a98-84bf-78d0ef9d3512',
+#                  language=language,
+#                  auth_token=auth_token).get_merged_train_test()
+#
+# BothubRepository(repo_name='publicorganization',
+#                  repo_uuid='cc8c6f95-7447-4d9b-a262-18bd258cae72',
+#                  language=language,
+#                  auth_token=auth_token).get_merged_train_test()
+#
+# BothubRepository(repo_name='public_organization',
+#                  repo_uuid='206a1c69-86e3-4f9e-a19d-15337ebeec2b',
+#                  language=language,
+#                  auth_token=auth_token).get_merged_train_test()
+#
+# BothubRepository(repo_name='seec',
+#                  repo_uuid='38ba6a21-8235-439b-b807-b257d404ec64',
+#                  language=language,
+#                  auth_token=auth_token).get_merged_train_test()
+#
+# BothubRepository(repo_name='HPB',
+#                  repo_uuid='9fd4033d-88f8-462b-9754-c3ae94b97939',
+#                  language=language,
+#                  auth_token=auth_token).get_merged_train_test()
+#
+# BothubRepository(repo_name='enterprise',
+#                  repo_uuid='28df8c8e-5787-43e8-9da6-8bee3ad54582',
+#                  language=language,
+#                  auth_token=auth_token).get_merged_train_test()
+#
+# BothubRepository(repo_name='comercial',
+#                  repo_uuid='1741cc9f-058f-438b-8d57-c312f4a9ee47',
+#                  language=language,
+#                  auth_token=auth_token).get_merged_train_test()
+#
+# BothubRepository(repo_name='susaninha',
+#                  repo_uuid='e87dbc88-7454-4f84-9914-cf03d6be8116',
+#                  language=language,
+#                  auth_token=auth_token).get_merged_train_test()
+#
+# BothubRepository(repo_name='binary',
+#                  repo_uuid='e1e8a0fa-625c-4ba3-8b91-4c9f308db791',
+#                  language=language,
+#                  auth_token=auth_token).get_merged_train_test()
 
-BothubRepository(repo_name='nina_unfpa',
-                 repo_uuid='9a1b6604-50e6-4322-a0a2-1def0ee5d549',
-                 language=language,
-                 auth_token=auth_token).get_merged_train_test()
-
-BothubRepository(repo_name='sei',
-                 repo_uuid='2a4d6a3a-a2ed-433e-a16c-f8b1e1749f10',
-                 language=language,
-                 auth_token=auth_token).get_merged_train_test()
-
-BothubRepository(repo_name='sac_viario_sup_1',
-                 repo_uuid='e58c4aa5-c9d7-4b53-af07-4891abb08012',
-                 language=language,
-                 auth_token=auth_token).get_merged_train_test()
-
-BothubRepository(repo_name='nina',
-                 repo_uuid='2b2e5826-b5a5-49bd-866e-3eb536456726',
-                 language=language,
-                 auth_token=auth_token).get_train()
-
-BothubRepository(repo_name='susana',
-                 repo_uuid='1f86ecdf-4659-4a98-84bf-78d0ef9d3512',
-                 language=language,
-                 auth_token=auth_token).get_merged_train_test()
-
-BothubRepository(repo_name='publicorganization',
-                 repo_uuid='cc8c6f95-7447-4d9b-a262-18bd258cae72',
-                 language=language,
-                 auth_token=auth_token).get_merged_train_test()
-
-BothubRepository(repo_name='public_organization',
-                 repo_uuid='206a1c69-86e3-4f9e-a19d-15337ebeec2b',
-                 language=language,
-                 auth_token=auth_token).get_merged_train_test()
-
-BothubRepository(repo_name='seec',
-                 repo_uuid='38ba6a21-8235-439b-b807-b257d404ec64',
-                 language=language,
-                 auth_token=auth_token).get_merged_train_test()
-
-BothubRepository(repo_name='HPB',
-                 repo_uuid='9fd4033d-88f8-462b-9754-c3ae94b97939',
-                 language=language,
-                 auth_token=auth_token).get_merged_train_test()
-
-BothubRepository(repo_name='enterprise',
-                 repo_uuid='28df8c8e-5787-43e8-9da6-8bee3ad54582',
-                 language=language,
-                 auth_token=auth_token).get_merged_train_test()
-
-BothubRepository(repo_name='comercial',
-                 repo_uuid='1741cc9f-058f-438b-8d57-c312f4a9ee47',
-                 language=language,
-                 auth_token=auth_token).get_merged_train_test()
-
-BothubRepository(repo_name='susaninha',
-                 repo_uuid='e87dbc88-7454-4f84-9914-cf03d6be8116',
-                 language=language,
-                 auth_token=auth_token).get_merged_train_test()
-
-BothubRepository(repo_name='binary',
-                 repo_uuid='e1e8a0fa-625c-4ba3-8b91-4c9f308db791',
+BothubRepository(repo_name='[IAC] Benefícios e Incentivos',
+                 repo_uuid='dd920489-aa92-4a66-bbe1-1d8e16eb1640',
                  language=language,
                  auth_token=auth_token).get_merged_train_test()
 

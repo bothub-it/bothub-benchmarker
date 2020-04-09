@@ -1,5 +1,6 @@
 
 ## intent:bias
+- 
 - nunca namorei
 - prometo, vou tentar
 - Obrigada Maia, linda!
