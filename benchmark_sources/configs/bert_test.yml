@@ -1,0 +1,25 @@
+language: "en"
+
+pipeline:
+  - name: HFTransformersNLP
+    # Name of the language model to use
+    model_name: "bert"
+    # Pre-Trained weights to be loaded
+    model_weights: "bert-base-uncased"
+  - name: "LanguageModelTokenizer"
+    "intent_tokenization_flag": False
+    # Symbol on which intent should be split
+    "intent_split_symbol": "_"
+  - name: "LanguageModelFeaturizer"
+  - name: RegexFeaturizer
+  - name: LexicalSyntacticFeaturizer
+  - name: CountVectorsFeaturizer
+  - name: CountVectorsFeaturizer
+    analyzer: "char_wb"
+    min_ngram: 1
+    max_ngram: 4
+  - name: DIETClassifier
+    epochs: 100
+  - name: EntitySynonymMapper
+  - name: ResponseSelector
+    epochs: 100
