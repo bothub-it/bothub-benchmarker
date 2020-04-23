@@ -348,9 +348,14 @@ def main(out_directory, config_directory, dataset_directory, n_folds):
     logger.info("Finished evaluation in: " + str(end - start))
 
 
+def test_configs(config_directory, dataset_directory):
+    pass
+
+
 if __name__ == '__main__':
-    out_directory = 'benchmark_output/benchmark_all_data_v4/'
+    out_directory = 'benchmark_output/benchmark_transformer_english/'
     config_directory = 'benchmark_sources/configs'
     dataset_directory = 'benchmark_sources/data_to_evaluate'
     n_folds = 3
+    # test_configs( config_directory, dataset_directory)
     main(out_directory, config_directory, dataset_directory, n_folds)

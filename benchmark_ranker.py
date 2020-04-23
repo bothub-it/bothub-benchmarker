@@ -36,7 +36,7 @@ def datasets_ranker(output_folder):
 
 def benchmark_ranker():
     files_to_eval = ['Datasets_Mean_Result', 'Small_Datasets_Mean_Result', 'Medium_Datasets_Mean_Result', 'Big_Datasets_Mean_Result']
-    output_folder = './benchmark_output/benchmark_legacy'
+    output_folder = './benchmark_output/benchmark_transformer_english'
     for file_to_eval in files_to_eval:
         # Load outputs
         results = []
