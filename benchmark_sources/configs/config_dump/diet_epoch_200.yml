@@ -1,12 +1,9 @@
 
 pipeline:
+  - name: "benchmark_sources.components.preprocessing.Preprocessing"
   - name: WhitespaceTokenizer
   - name: RegexFeaturizer
   - name: LexicalSyntacticFeaturizer
   - name: CountVectorsFeaturizer
-  - name: CountVectorsFeaturizer
-    analyzer: "char_wb"
-    min_ngram: 1
-    max_ngram: 4
   - name: DIETClassifier
-  - name: EntitySynonymMapper
+    epochs: 200

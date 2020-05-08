@@ -19,6 +19,10 @@ from rasa.nlu import utils, config, training_data
 from rasa.nlu.model import Trainer
 from rasa.nlu.test import *
 from rasa.nlu.components import Component
+import os
+
+
+os.environ["CUDA_VISIBLE_DEVICES"] = "-1"
 
 
 PRETRAINED_EXTRACTORS = {"DucklingHTTPExtractor", "SpacyEntityExtractor"}
@@ -144,7 +148,6 @@ def save_result_by_group(datasets_results, n_fold, out_config_directory, dataset
 
 def sum_results(results, collect_report=False):
     entity_algorithm = list(results[0]['entity_evaluation'].keys())[0]
-    print(entity_algorithm)
     intent_eval = results[0]['intent_evaluation']
     entity_eval = results[0]['entity_evaluation'][entity_algorithm]
     general_result = {
@@ -167,6 +170,7 @@ def sum_results(results, collect_report=False):
 
     # Sum of elements
     size = len(results)
+    intent_result_divider = 1
     for result in results[1:]:
         intent_eval = result['intent_evaluation']
         # precision, f1_score and accuracy from intent eval
@@ -181,7 +185,11 @@ def sum_results(results, collect_report=False):
                 try:
                     for field in report[intent]:
                         general_result['intent_evaluation']['report'][intent][field] += report[intent][field]
-                except TypeError:
+                    intent_result_divider += 1
+                except Exception as e:
+                    print('exception:')
+                    print(str(e))
+                    print(json.dumps(report, indent=2))
                     pass
             entity_eval = result['entity_evaluation'][entity_algorithm]
 
@@ -348,14 +356,9 @@ def main(out_directory, config_directory, dataset_directory, n_folds):
     logger.info("Finished evaluation in: " + str(end - start))
 
 
-def test_configs(config_directory, dataset_directory):
-    pass
-
-
 if __name__ == '__main__':
-    out_directory = 'benchmark_output/benchmark_transformer_english/'
+    out_directory = 'benchmark_output/benchmark_diet_no_transformer/'
     config_directory = 'benchmark_sources/configs'
     dataset_directory = 'benchmark_sources/data_to_evaluate'
     n_folds = 3
-    # test_configs( config_directory, dataset_directory)
     main(out_directory, config_directory, dataset_directory, n_folds)

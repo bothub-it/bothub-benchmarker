@@ -234,6 +234,18 @@
       {
         "entities": [
           {
+            "start": 14,
+            "end": 19,
+            "value": "18328",
+            "entity": "location"
+          }
+        ],
+        "intent": "restaurant_search",
+        "text": "anywhere near 18328"
+      },
+      {
+        "entities": [
+          {
             "start": 17,
             "end": 29,
             "value": "asian fusion",
