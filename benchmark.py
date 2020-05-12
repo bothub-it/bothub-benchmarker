@@ -22,7 +22,7 @@ from rasa.nlu.components import Component
 import os
 
 
-os.environ["CUDA_VISIBLE_DEVICES"] = "-1"
+# os.environ["CUDA_VISIBLE_DEVICES"] = "-1"
 
 
 PRETRAINED_EXTRACTORS = {"DucklingHTTPExtractor", "SpacyEntityExtractor"}
@@ -146,25 +146,28 @@ def save_result_by_group(datasets_results, n_fold, out_config_directory, dataset
         utils.write_json_to_file(out_config_directory + 'Big_Datasets_Mean_Result', big_result)
 
 
-def sum_results(results, collect_report=False):
-    entity_algorithm = list(results[0]['entity_evaluation'].keys())[0]
+def sum_results(results, collect_report=False, has_entity_eval=False):
     intent_eval = results[0]['intent_evaluation']
-    entity_eval = results[0]['entity_evaluation'][entity_algorithm]
+
     general_result = {
         "intent_evaluation": {
             "precision": intent_eval['precision'],
             "f1_score": intent_eval['f1_score'],
             "accuracy": intent_eval['accuracy']
         },
-        "entity_evaluation": {
+        "datasets": []
+    }
+    if has_entity_eval:
+        entity_algorithm = list(results[0]['entity_evaluation'].keys())[0]
+        entity_eval = results[0]['entity_evaluation'][entity_algorithm]
+        general_result['entity_evaluation'] = {
             entity_algorithm: {
                 "precision": entity_eval['precision'],
                 "f1_score": entity_eval['f1_score'],
                 "accuracy": entity_eval['accuracy']
             }
         },
-        "datasets": []
-    }
+
     if collect_report:
         general_result['intent_evaluation']['report'] = intent_eval['report']
 
@@ -191,12 +194,14 @@ def sum_results(results, collect_report=False):
                     print(str(e))
                     print(json.dumps(report, indent=2))
                     pass
-            entity_eval = result['entity_evaluation'][entity_algorithm]
+            if has_entity_eval:
+                entity_eval = result['entity_evaluation'][entity_algorithm]
 
         # precision, f1_score and accuracy from entity eval
-        general_result['entity_evaluation'][entity_algorithm]['precision'] += entity_eval['precision']
-        general_result['entity_evaluation'][entity_algorithm]['f1_score'] += entity_eval['f1_score']
-        general_result['entity_evaluation'][entity_algorithm]['accuracy'] += entity_eval['accuracy']
+        if has_entity_eval:
+            general_result['entity_evaluation'][entity_algorithm]['precision'] += entity_eval['precision']
+            general_result['entity_evaluation'][entity_algorithm]['f1_score'] += entity_eval['f1_score']
+            general_result['entity_evaluation'][entity_algorithm]['accuracy'] += entity_eval['accuracy']
 
     # Mean of elements
     general_result['intent_evaluation']['precision'] /= size
@@ -210,9 +215,10 @@ def sum_results(results, collect_report=False):
                     general_result['intent_evaluation']['report'][intent][field] /= size
             except TypeError:
                 pass
-    general_result['entity_evaluation'][entity_algorithm]['precision'] /= size
-    general_result['entity_evaluation'][entity_algorithm]['f1_score'] /= size
-    general_result['entity_evaluation'][entity_algorithm]['accuracy'] /= size
+    if has_entity_eval:
+        general_result['entity_evaluation'][entity_algorithm]['precision'] /= size
+        general_result['entity_evaluation'][entity_algorithm]['f1_score'] /= size
+        general_result['entity_evaluation'][entity_algorithm]['accuracy'] /= size
 
     return general_result
 
@@ -357,7 +363,7 @@ def main(out_directory, config_directory, dataset_directory, n_folds):
 
 
 if __name__ == '__main__':
-    out_directory = 'benchmark_output/benchmark_diet_no_transformer/'
+    out_directory = 'benchmark_output/test/'
     config_directory = 'benchmark_sources/configs'
     dataset_directory = 'benchmark_sources/data_to_evaluate'
     n_folds = 3

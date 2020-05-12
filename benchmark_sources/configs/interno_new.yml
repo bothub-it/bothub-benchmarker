@@ -1,0 +1,11 @@
+language: "pt_br"
+
+pipeline:
+    - name: WhitespaceTokenizer
+    - name: CountVectorsFeaturizer
+      analyzer: char
+      min_ngram: 3
+      max_ngram: 3
+    - name: DIETClassifier
+      entity_recognition: False
+      BILOU_flag: False

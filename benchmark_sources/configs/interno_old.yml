@@ -1,0 +1,17 @@
+language: "pt_br"
+
+pipeline:
+  - name: WhitespaceTokenizer
+  - name: CountVectorsFeaturizer
+    analyzer: char
+    min_ngram: 3
+    max_ngram: 3
+  - name: DIETClassifier
+    hidden_layers_sizes:
+      text: [256, 128]
+    number_of_transformer_layers: 0
+    weight_sparsity: 0
+    intent_classification: True
+    entity_recognition: False
+    use_masked_language_model: False
+    BILOU_flag: False

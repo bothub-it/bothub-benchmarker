@@ -1,4 +1,3 @@
-import typing
 from unidecode import unidecode
 import re
 from typing import Any, Optional, Text, Dict, List, Type
@@ -6,17 +5,6 @@ from typing import Any, Optional, Text, Dict, List, Type
 from rasa.nlu.components import Component
 from rasa.nlu.config import RasaNLUModelConfig
 from rasa.nlu.training_data import Message, TrainingData
-from rasa.nlu.constants import (
-    CLS_TOKEN,
-    RESPONSE,
-    SPARSE_FEATURE_NAMES,
-    TEXT,
-    TOKENS_NAMES,
-)
-
-
-if typing.TYPE_CHECKING:
-    from rasa.nlu.model import Metadata
 
 
 class Preprocessing(Component):
@@ -35,15 +23,8 @@ class Preprocessing(Component):
     # and should be able to create reasonable results with the defaults.
     defaults = {}
 
-    # Defines what language(s) this component can handle.
-    # This attribute is designed for instance method: `can_handle_language`.
-    # Default value is None which means it can handle all languages.
-    # This is an important feature for backwards compatibility of components.
-    language_list = ['pt', 'en']
-
     def __init__(self, component_config: Optional[Dict[Text, Any]] = None) -> None:
         super().__init__(component_config)
-
 
     def train(
         self,
@@ -53,20 +34,26 @@ class Preprocessing(Component):
     ) -> None:
         """Train this component"""
 
-        # set regex parameters
-        n_regex = r'\b(n|N)\1*\b'
-        s_regex = r'\b(s|S)\1*\b'
-        # set replace words
-        S_WORD = "sim"
-        N_WORD = "nao"
-
         not_repeated_phrases = set()
-        idx_to_remove = []
         size = len(training_data.training_examples)
+        subtract_idx = 0
+
+        APOSTROPHE_OPTIONS = ["'", "`"]
+
         for idx in range(size):
-            example_text = training_data.training_examples[idx].text
+            example_text = training_data.training_examples[idx - subtract_idx].text
             # removing accent and lowercasing characters
             example_text = unidecode(example_text.lower())
+            # remove apostrophe from the phrase (important be first than s_regex regex)
+            for APOSTROPHE in APOSTROPHE_OPTIONS:
+                example_text = example_text.replace(APOSTROPHE, "")
+
+            # set regex parameters
+            n_regex = r"\b(n|N)\1*\b"
+            s_regex = r"\b(s|S)\1*\b"
+            # set replace words
+            S_WORD = "sim"
+            N_WORD = "nao"
             # replace regex by "sim"
             example_text = re.sub(s_regex, S_WORD, example_text)
             # replace regex by "nao"
@@ -74,30 +61,34 @@ class Preprocessing(Component):
 
             if example_text in not_repeated_phrases:
                 # remove example at this index from training_examples
-                idx_to_remove.append(idx)
+                training_data.training_examples.pop(idx - subtract_idx)
+                subtract_idx += 1
             else:
                 not_repeated_phrases.add(example_text)
-                training_data.training_examples[idx].text = example_text
+                training_data.training_examples[idx - subtract_idx].text = example_text
 
-        subtract = 0
-        for index in idx_to_remove:
-            training_data.training_examples.pop(index - subtract)
-            subtract += 1
-
-
-
-
-    def process(self, message: Message, **kwargs: Any) -> None:
+    def process(
+        self,
+        message: Message,
+        config: Optional[RasaNLUModelConfig] = None,
+        **kwargs: Any,
+    ) -> None:
         """Process an incoming message."""
-        # set regex parameters
-        n_regex = r'\b(n|N)\1*\b'
-        s_regex = r'\b(s|S)\1*\b'
+
+        APOSTROPHE_OPTIONS = ["'", "`"]
+
+        # removing accent and lowercasing characters
+        message.text = unidecode(message.text.lower())
+        # remove apostrophe from the phrase (important be first than s_regex regex)
+        for APOSTROPHE in APOSTROPHE_OPTIONS:
+            message.text = message.text.replace(APOSTROPHE, "")
+            # set regex parameters
+        n_regex = r"\b(n|N)\1*\b"
+        s_regex = r"\b(s|S)\1*\b"
         # set replace words
         S_WORD = "sim"
         N_WORD = "nao"
 
-        # removing accent and lowercasing characters
-        message.text = unidecode(message.text.lower())
         # replace regex by "sim"
         message.text = re.sub(s_regex, S_WORD, message.text)
         # replace regex by "nao"
