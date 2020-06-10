@@ -1,11 +1,8 @@
 language: "pt"
 
 pipeline:
-    - name: "benchmark_sources.components.preprocessing.Preprocessing"
     - name: WhitespaceTokenizer
-    - name: RegexFeaturizer
-    - name: LexicalSyntacticFeaturizer
-    - name: CountVectorsFeaturizer
+    - name: ConveRTFeaturizer
     - name: "SklearnIntentClassifier"
       # Specifies the list of regularization values to
       # cross-validate over for C-SVM.

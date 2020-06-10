@@ -1,10 +1,8 @@
 language: "pt"
 
 pipeline:
-    - name: "benchmark_sources.components.preprocessing.Preprocessing"
+    - name: SpacyNLP
     - name: SpacyTokenizer
-    - name: RegexFeaturizer
-    - name: LexicalSyntacticFeaturizer
     - name: ConveRTFeaturizer
     - name: "SklearnIntentClassifier"
       # Specifies the list of regularization values to
