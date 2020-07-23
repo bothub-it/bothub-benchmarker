@@ -48,6 +48,7 @@ class Preprocessing(Component):
             for APOSTROPHE in APOSTROPHE_OPTIONS:
                 example_text = example_text.replace(APOSTROPHE, "")
 
+            # if config.language == "pt_br":
             # set regex parameters
             n_regex = r"\b(n|N)\1*\b"
             s_regex = r"\b(s|S)\1*\b"
@@ -82,7 +83,8 @@ class Preprocessing(Component):
         # remove apostrophe from the phrase (important be first than s_regex regex)
         for APOSTROPHE in APOSTROPHE_OPTIONS:
             message.text = message.text.replace(APOSTROPHE, "")
-            # set regex parameters
+        # if config.language == "pt_br":
+        # set regex parameters
         n_regex = r"\b(n|N)\1*\b"
         s_regex = r"\b(s|S)\1*\b"
         # set replace words

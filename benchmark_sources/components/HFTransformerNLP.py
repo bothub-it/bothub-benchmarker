@@ -68,7 +68,6 @@ class HFTransformersNLP(Component):
 
         self.model_weights = self.component_config["model_weights"]
         self.cache_dir = self.component_config["cache_dir"]
-
         if not self.model_weights:
             logger.info(
                 f"Model weights not specified. Will choose default model weights: "
