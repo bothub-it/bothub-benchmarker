@@ -2,18 +2,21 @@ import argparse
 import google.oauth2.credentials
 import os
 import glob
+from bothub_benchmarker.benchmark import benchmark
 from google.cloud import storage
 from googleapiclient import discovery
 from googleapiclient import errors
-import bothub_benchmarker
 
 
-def send_job_train_ai_platform():
+def send_job_train_ai_platform(use_spacy=False):
+    os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "bothub-273521-b2134fc6b1df.json"
+    packageUris = ["gs://bothub_benchmark/bothub_benchmarker-1.0.0.tar.gz"]
+    if use_spacy:
+        packageUris.append("gs://bothub_benchmark/pt_nilc_word2vec_cbow_600-1.0.0.zip")
     training_inputs = {
-        "scaleTier": "CUSTOM",
-        "masterType": "standard_p100",
-        "packageUris": "gs://bothub_benchmark/bothub_benchmark-1.0.0.tar.gz",
-        "pythonModule": "bothub_benchmark.ai_plataform_benchmark",
+        "scaleTier": "BASIC_GPU",
+        "packageUris": packageUris,
+        "pythonModule": "bothub_benchmarker.ai_plataform_benchmark",
         "args": [
             '--configs-bucket-dir',
             'benchmark_sources/configs/',
@@ -28,7 +31,7 @@ def send_job_train_ai_platform():
         'pythonVersion': '3.7'
     }
 
-    job_spec = {"jobId": "hello_world_benchmark_try_3", "trainingInput": training_inputs}
+    job_spec = {"jobId": "hello_world_benchmark_try_15", "trainingInput": training_inputs}
 
     project_id = "projects/bothub-273521"
 
@@ -71,7 +74,7 @@ def download_bucket_folder(bucket, bucket_dir, dl_dir):
         blob.download_to_filename(os.path.join(dl_dir, dst_file_name))
 
 
-def upload_local_directory_to_gcs(local_path, bucket, gcs_path):
+def upload_local_directory_to_gcs(bucket, local_path, gcs_path):
     assert os.path.isdir(local_path)
     for local_file in glob.glob(local_path + '/**'):
         if not os.path.isfile(local_file):
@@ -84,15 +87,13 @@ def upload_local_directory_to_gcs(local_path, bucket, gcs_path):
 
 def ai_plataform():
     parser = argparse.ArgumentParser()
-
+    # os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "bothub-273521-b2134fc6b1df.json"
     parser.add_argument(
         '--configs-bucket-dir',
-        help='Bucket folder where the pipelines to be evaluate are in',
-        type=int)
+        help='Bucket folder where the pipelines to be evaluate are in')
     parser.add_argument(
         '--datasets-bucket-dir',
-        help='Bucket folder where the datasets to be evaluate are in',
-        type=int)
+        help='Bucket folder where the datasets to be evaluate are in')
     parser.add_argument(
         '--out-bucket-dir',
         help='Bucket folder where the benchmark results will be saved')
@@ -100,7 +101,7 @@ def ai_plataform():
     arguments, _ = parser.parse_known_args()
 
     bucket_name = 'bothub_benchmark'
-    os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "bothub-273521-b2134fc6b1df.json"
+
     storage_client = storage.Client()
     bucket = storage_client.get_bucket(bucket_name)
 
@@ -109,11 +110,17 @@ def ai_plataform():
     os.makedirs(configs_dir, exist_ok=True)
     os.makedirs(data_dir, exist_ok=True)
 
-    download_bucket_folder(bucket, configs_dir, configs_dir)
-    download_bucket_folder(bucket, data_dir, data_dir)
+    download_bucket_folder(bucket, arguments.configs_bucket_dir, configs_dir)
+    download_bucket_folder(bucket, arguments.datasets_bucket_dir, data_dir)
 
     benchmark(arguments.out_bucket_dir, configs_dir, data_dir)
 
+    # download_bucket_folder(bucket, configs_dir, configs_dir)
+    # download_bucket_folder(bucket, data_dir, data_dir)
+    #
+    # benchmark('hello_world_test', configs_dir, data_dir)
+
 
 if __name__ == '__main__':
-    ai_plataform()
+    # ai_plataform()
+    send_job_train_ai_platform()

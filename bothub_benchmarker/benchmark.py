@@ -253,7 +253,7 @@ def generate_folds(
 
 def run_benchmark(data_path, n_folds, trainer):  # pragma: no cover
     """Evaluate intent classification and entity extraction."""
-
+    print(data_path)
     data = training_data.load_data(data_path)
     # data_to_evaluate = drop_intents_below_freq(data_to_evaluate, cutoff=5)
     # get the metadata config from the package data_to_evaluate
