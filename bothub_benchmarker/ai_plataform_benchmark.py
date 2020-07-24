@@ -7,18 +7,12 @@ from google.cloud import storage
 
 def download_bucket_folder(bucket, bucket_dir, dl_dir):
     blobs = bucket.list_blobs(prefix=bucket_dir)  # Get list of files
-    # print(bucket_dir)
     for blob in blobs:
         blob_name = blob.name
         print(blob.name)
         dst_file_name = blob_name.replace(bucket_dir, '')
         if '/' in dst_file_name or '.' not in dst_file_name:
             continue
-        # extract the final directory and create it in the destination path if it does not exist
-        # dl_dir = dst_file_name.replace('/' + os.path.basename(dst_file_name), '')
-        # download the blob object
-        # print(dl_dir)
-        # print('path', os.path.join(dl_dir, dst_file_name))
         blob.download_to_filename(os.path.join(dl_dir, dst_file_name))
 
 
