@@ -5,6 +5,10 @@ from bothub_benchmarker.benchmark import benchmark
 from google.cloud import storage
 
 
+def spacy_setup():
+    os.system("python -m spacy link pt_nilc_word2vec_cbow_600 pt")
+
+
 def download_bucket_folder(bucket, bucket_dir, dl_dir):
     blobs = bucket.list_blobs(prefix=bucket_dir)  # Get list of files
     for blob in blobs:
@@ -28,8 +32,9 @@ def upload_local_directory_to_gcs(bucket, local_path, gcs_path):
 
 
 def ai_plataform():
+    spacy_setup()
     parser = argparse.ArgumentParser()
-    # os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "bothub-273521-b2134fc6b1df.json"
+    os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "bothub-273521-b2134fc6b1df.json"
     parser.add_argument(
         '--configs-bucket-dir',
         help='Bucket folder where the pipelines to be evaluate are in')
@@ -58,9 +63,9 @@ def ai_plataform():
     benchmark(arguments.results_dir, configs_dir, data_dir)
 
     upload_local_directory_to_gcs(bucket, arguments.results_dir, arguments.results_dir)
+
     # download_bucket_folder(bucket, configs_dir, configs_dir)
     # download_bucket_folder(bucket, data_dir, data_dir)
-    #
     # benchmark('hello_world_test', configs_dir, data_dir)
 
 
