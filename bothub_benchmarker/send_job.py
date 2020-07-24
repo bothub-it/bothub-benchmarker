@@ -2,10 +2,19 @@ import google.oauth2.credentials
 import os
 from googleapiclient import discovery
 from googleapiclient import errors
+from .ai_plataform_benchmark import upload_folder_to_bucket
+from google.cloud import storage
 
 
-def send_job_train_ai_platform(use_spacy=False):
+def send_job_train_ai_platform(configs_path, datasets_dir, job_id, use_spacy=False):
     os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "bothub-273521-b2134fc6b1df.json"
+
+    bucket_name = 'bothub_benchmark'
+    storage_client = storage.Client()
+    bucket = storage_client.get_bucket(bucket_name)
+    upload_folder_to_bucket(bucket, configs_path, os.path.join(job_id, 'configs'))
+    upload_folder_to_bucket(bucket, datasets_dir, os.path.join(job_id, 'data_to_evaluate'))
+
     packageUris = ["gs://bothub_benchmark/bothub_benchmarker-1.0.0.tar.gz"]
     if use_spacy:
         packageUris.append("gs://bothub_benchmark/pt_nilc_word2vec_cbow_600-1.0.0.zip")
@@ -14,12 +23,8 @@ def send_job_train_ai_platform(use_spacy=False):
         "packageUris": packageUris,
         "pythonModule": "bothub_benchmarker.ai_plataform_benchmark",
         "args": [
-            '--configs-bucket-dir',
-            'benchmark_sources/configs/',
-            '--datasets-bucket-dir',
-            'benchmark_sources/data_to_evaluate/',
-            '--results-dir',
-            'hello_world_benchmark'
+            '--job-id',
+            job_id,
         ],
         "region": "us-east1",
         "jobDir": "gs://bothub_benchmark",
@@ -27,22 +32,12 @@ def send_job_train_ai_platform(use_spacy=False):
         'pythonVersion': '3.7'
     }
 
-    job_spec = {"jobId": "hello_world_benchmark_test_output5", "trainingInput": training_inputs}
+    job_spec = {"jobId": job_id, "trainingInput": training_inputs}
 
     project_id = "projects/bothub-273521"
 
-    credentials = google.oauth2.credentials.Credentials(
-        "access_token",
-        refresh_token="1//04b6e_XLs_vBxCgYIARAAGAQSNwF-L9IruPZU5hMQMCcFczeZCqRKUmkqxYGIcDC_75PHcgnMzgb15nUqpXeVjyqsuEhM6xU-rxs",
-        token_uri="https://oauth2.googleapis.com/token",
-        client_id="615988211650-71d28ugemkdi3cas70am686akeif3mq8.apps.googleusercontent.com",
-        client_secret="6LhBP7kaAosWZM0Xv4Jh1vBr",
-    )
-
     # Consiga uma representação em Python dos serviços do AI Platform Training:
-    cloudml = discovery.build(
-        "ml", "v1", credentials=credentials, cache_discovery=False
-    )
+    cloudml = discovery.build("ml", "v1")
 
     # Crie e envie sua solicitação:
     request = cloudml.projects().jobs().create(body=job_spec, parent=project_id)
@@ -54,4 +49,6 @@ def send_job_train_ai_platform(use_spacy=False):
 
 
 if __name__ == '__main__':
-    send_job_train_ai_platform()
+    send_job_train_ai_platform('benchmark_sources/configs',
+                               'benchmark_sources/data_to_evaluate',
+                               'benchmark_test')
