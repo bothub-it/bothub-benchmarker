@@ -35,18 +35,8 @@ def send_job_train_ai_platform(use_spacy=False):
 
     project_id = "projects/bothub-273521"
 
-    credentials = google.oauth2.credentials.Credentials(
-        "access_token",
-        refresh_token="1//04b6e_XLs_vBxCgYIARAAGAQSNwF-L9IruPZU5hMQMCcFczeZCqRKUmkqxYGIcDC_75PHcgnMzgb15nUqpXeVjyqsuEhM6xU-rxs",
-        token_uri="https://oauth2.googleapis.com/token",
-        client_id="615988211650-71d28ugemkdi3cas70am686akeif3mq8.apps.googleusercontent.com",
-        client_secret="6LhBP7kaAosWZM0Xv4Jh1vBr",
-    )
-
     # Consiga uma representação em Python dos serviços do AI Platform Training:
-    cloudml = discovery.build(
-        "ml", "v1", credentials=credentials, cache_discovery=False
-    )
+    cloudml = discovery.build("ml", "v1")
 
     # Crie e envie sua solicitação:
     request = cloudml.projects().jobs().create(body=job_spec, parent=project_id)
@@ -59,18 +49,12 @@ def send_job_train_ai_platform(use_spacy=False):
 
 def download_bucket_folder(bucket, bucket_dir, dl_dir):
     blobs = bucket.list_blobs(prefix=bucket_dir)  # Get list of files
-    # print(bucket_dir)
     for blob in blobs:
         blob_name = blob.name
         print(blob.name)
         dst_file_name = blob_name.replace(bucket_dir, '')
         if '/' in dst_file_name or '.' not in dst_file_name:
             continue
-        # extract the final directory and create it in the destination path if it does not exist
-        # dl_dir = dst_file_name.replace('/' + os.path.basename(dst_file_name), '')
-        # download the blob object
-        # print(dl_dir)
-        # print('path', os.path.join(dl_dir, dst_file_name))
         blob.download_to_filename(os.path.join(dl_dir, dst_file_name))
 
 
@@ -115,12 +99,6 @@ def ai_plataform():
 
     benchmark(arguments.out_bucket_dir, configs_dir, data_dir)
 
-    # download_bucket_folder(bucket, configs_dir, configs_dir)
-    # download_bucket_folder(bucket, data_dir, data_dir)
-    #
-    # benchmark('hello_world_test', configs_dir, data_dir)
-
 
 if __name__ == '__main__':
-    # ai_plataform()
-    send_job_train_ai_platform()
+    ai_plataform()
