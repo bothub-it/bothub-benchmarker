@@ -1,5 +1,8 @@
 import os
 import glob
+from googleapiclient import discovery
+
+
 
 def upload_folder_to_bucket(bucket, local_path, gcs_path):
     assert os.path.isdir(local_path)
@@ -23,4 +26,22 @@ def download_bucket_folder(bucket, bucket_dir, dl_dir):
         if '/' in dst_file_name or '.' not in dst_file_name:
             continue
         blob.download_to_filename(os.path.join(dl_dir, dst_file_name))
+
+
+def get_train_job_status(job_id):
+    job_name = f"projects/projects/bothub-273521/jobs/{job_id}"
+    # Consiga uma representação em Python dos serviços do AI Platform Training:
+    cloudml = discovery.build( "ml", "v1")
+
+    request = cloudml.projects().jobs().get(name=job_name)
+
+    try:
+        response = request.execute()
+    except Exception as e:
+        raise Exception(e)
+
+    if response is None:
+        raise Exception("Got None as response.")
+
+    return response
 
