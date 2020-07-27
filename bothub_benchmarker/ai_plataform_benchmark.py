@@ -55,7 +55,7 @@ def ai_plataform():
 
     benchmark(arguments.job_id, configs_dir, data_dir)
 
-    upload_folder_to_bucket(bucket, os.path.join('results', arguments.job_id), arguments.job_id)
+    upload_folder_to_bucket(bucket, arguments.job_id, arguments.job_id)
 
     # download_bucket_folder(bucket, configs_dir, configs_dir)
     # download_bucket_folder(bucket, data_dir, data_dir)
