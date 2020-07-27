@@ -368,6 +368,6 @@ if __name__ == '__main__':
     # config_directory = 'benchmark_sources/configs/'
     # dataset_directory = 'benchmark_sources/data_to_evaluate/'
     # false_positive_dataset_directory = 'benchmark_sources/oldvsoldold'
-    # n_folds = 3
+    # n_folds = 2
     # benchmark(out_directory, config_directory, dataset_directory, n_folds)
     # false_positive_benchmark(out_directory, config_directory, false_positive_dataset_directory)

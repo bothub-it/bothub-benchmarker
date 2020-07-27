@@ -2,6 +2,7 @@ import argparse
 import os
 import glob
 from bothub_benchmarker.benchmark import benchmark
+from bothub_benchmarker.utils import download_bucket_folder, upload_folder_to_bucket
 from google.cloud import storage
 
 
@@ -9,35 +10,13 @@ def spacy_setup():
     os.system("python -m spacy link pt_nilc_word2vec_cbow_600 pt")
 
 
-def download_bucket_folder(bucket, bucket_dir, dl_dir):
-    blobs = bucket.list_blobs(prefix=bucket_dir)  # Get list of files
-    for blob in blobs:
-        blob_name = blob.name
-        dst_file_name = blob_name.replace(bucket_dir, '')
-        if '/' in dst_file_name or '.' not in dst_file_name:
-            continue
-        blob.download_to_filename(os.path.join(dl_dir, dst_file_name))
-
-
-def upload_folder_to_bucket(bucket, local_path, gcs_path):
-    assert os.path.isdir(local_path)
-    for local_file in glob.glob(local_path + '/**'):
-        if not os.path.isfile(local_file):
-            upload_folder_to_bucket(bucket, local_file, gcs_path + "/" + os.path.basename(local_file))
-        else:
-           remote_path = os.path.join(gcs_path, local_file[1 + len(local_path):])
-           blob = bucket.blob(remote_path)
-           blob.upload_from_filename(local_file)
-
-
 def ai_plataform():
     spacy_setup()
     parser = argparse.ArgumentParser()
-    os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "bothub-273521-b2134fc6b1df.json"
+
     parser.add_argument(
         '--job-id',
-        help='Job identification',
-        type=int)
+        help='Job identification')
 
     arguments, _ = parser.parse_known_args()
 
