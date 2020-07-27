@@ -307,11 +307,12 @@ def remove_pretrained_extractors(pipeline: List[Component]) -> List[Component]:
 
 def benchmark(out_directory, config_directory, dataset_directory, n_folds=3):
     start = timer()
+
+    out_directory_temp = out_directory
     if not os.path.exists(out_directory):
         os.mkdir(out_directory)
     else:
         count = 0
-        out_directory_temp = out_directory
         while os.path.exists(out_directory_temp):
             out_directory_temp = out_directory + str(count)
             count += 1
@@ -327,7 +328,7 @@ def benchmark(out_directory, config_directory, dataset_directory, n_folds=3):
         if config_filename.endswith(".yml"):
             config_path = os.path.join(config_directory, config_filename)
             config_name = config_filename.split('.')[0]
-            out_config_directory = out_directory + '/' + config_name + '/'
+            out_config_directory = out_directory_temp + '/' + config_name + '/'
             if not os.path.exists(out_config_directory):
                 os.mkdir(out_config_directory)
             datasets_dir_out = 'Datasets_Results/'

@@ -29,11 +29,11 @@ def ai_plataform():
     os.makedirs(data_dir, exist_ok=True)
 
     download_bucket_folder(bucket, os.path.join(arguments.job_id, 'configs'), configs_dir)
-    download_bucket_folder(bucket, os.path.join(arguments.job_id, 'data_to_evaluate/'), data_dir)
+    download_bucket_folder(bucket, os.path.join(arguments.job_id, 'data_to_evaluate'), data_dir)
 
     benchmark(arguments.job_id, configs_dir, data_dir)
 
-    upload_folder_to_bucket(bucket, arguments.job_id, arguments.job_id)
+    upload_folder_to_bucket(bucket, arguments.job_id, os.path.join(arguments.job_id, 'results'))
 
     # download_bucket_folder(bucket, configs_dir, configs_dir)
     # download_bucket_folder(bucket, data_dir, data_dir)
