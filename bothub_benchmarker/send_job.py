@@ -27,7 +27,7 @@ def send_job_train_ai_platform(use_spacy=False):
         'pythonVersion': '3.7'
     }
 
-    job_spec = {"jobId": "hello_world_benchmark_test_output5", "trainingInput": training_inputs}
+    job_spec = {"jobId": "hello_world_benchmark_test_output9", "trainingInput": training_inputs}
 
     project_id = "projects/bothub-273521"
 

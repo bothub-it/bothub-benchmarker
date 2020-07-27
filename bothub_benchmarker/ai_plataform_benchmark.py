@@ -20,7 +20,7 @@ def upload_local_directory_to_gcs(bucket, local_path, gcs_path):
     assert os.path.isdir(local_path)
     for local_file in glob.glob(local_path + '/**'):
         if not os.path.isfile(local_file):
-           upload_local_directory_to_gcs(local_file, bucket, gcs_path + "/" + os.path.basename(local_file))
+           upload_local_directory_to_gcs(bucket, local_file, gcs_path + "/" + os.path.basename(local_file))
         else:
            remote_path = os.path.join(gcs_path, local_file[1 + len(local_path):])
            blob = bucket.blob(remote_path)

@@ -327,7 +327,7 @@ def benchmark(out_directory, config_directory, dataset_directory, n_folds=3):
         if config_filename.endswith(".yml"):
             config_path = os.path.join(config_directory, config_filename)
             config_name = config_filename.split('.')[0]
-            out_config_directory = out_directory + config_name + '/'
+            out_config_directory = out_directory + '/' + config_name + '/'
             if not os.path.exists(out_config_directory):
                 os.mkdir(out_config_directory)
             datasets_dir_out = 'Datasets_Results/'
@@ -363,11 +363,11 @@ def benchmark(out_directory, config_directory, dataset_directory, n_folds=3):
 
 
 if __name__ == '__main__':
-    # out_directory = 'benchmark_output/test_bert_time'
-    # config_directory = 'benchmark_sources/configs'
-    # dataset_directory = 'benchmark_sources/data_to_evaluate'
+    print("start benchmark")
+    # out_directory = 'benchmark_output_test'
+    # config_directory = 'benchmark_sources/configs/'
+    # dataset_directory = 'benchmark_sources/data_to_evaluate/'
     # false_positive_dataset_directory = 'benchmark_sources/oldvsoldold'
     # n_folds = 3
     # benchmark(out_directory, config_directory, dataset_directory, n_folds)
-    send_job_train_ai_platform()
     # false_positive_benchmark(out_directory, config_directory, false_positive_dataset_directory)
