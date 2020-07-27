@@ -1,6 +1,5 @@
 import argparse
 import os
-import glob
 from bothub_benchmarker.benchmark import benchmark
 from bothub_benchmarker.utils import download_bucket_folder, upload_folder_to_bucket
 from google.cloud import storage
@@ -30,7 +29,7 @@ def ai_plataform():
     os.makedirs(data_dir, exist_ok=True)
 
     download_bucket_folder(bucket, os.path.join(arguments.job_id, 'configs'), configs_dir)
-    download_bucket_folder(bucket, os.path.join(arguments.job_id, 'data_to_evaluate'), data_dir)
+    download_bucket_folder(bucket, os.path.join(arguments.job_id, 'data_to_evaluate/'), data_dir)
 
     benchmark(arguments.job_id, configs_dir, data_dir)
 

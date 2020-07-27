@@ -14,9 +14,12 @@ def upload_folder_to_bucket(bucket, local_path, gcs_path):
 
 def download_bucket_folder(bucket, bucket_dir, dl_dir):
     blobs = bucket.list_blobs(prefix=bucket_dir)  # Get list of files
+
     for blob in blobs:
         blob_name = blob.name
         dst_file_name = blob_name.replace(bucket_dir, '')
+        if dst_file_name[0] == '/':
+            dst_file_name = dst_file_name[1:]
         if '/' in dst_file_name or '.' not in dst_file_name:
             continue
         blob.download_to_filename(os.path.join(dl_dir, dst_file_name))

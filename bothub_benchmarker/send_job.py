@@ -50,4 +50,4 @@ def send_job_train_ai_platform(configs_path, datasets_dir, job_id, use_spacy=Fal
 if __name__ == '__main__':
     send_job_train_ai_platform('bothub_benchmarker/benchmark_sources/configs',
                                'bothub_benchmarker/benchmark_sources/data_to_evaluate',
-                               'benchmark_test4')
+                               'benchmark_test8')
