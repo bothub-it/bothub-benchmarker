@@ -305,6 +305,21 @@ def remove_pretrained_extractors(pipeline: List[Component]) -> List[Component]:
     return pipeline
 
 
+def set_tensorboard(nlu_config, datasets_dir_out):
+    nlu_config = nlu_config.as_dict()
+
+    for item in nlu_config['pipeline']:
+        if item['name'] == 'DIETClassifier':
+            item['tensorboard_log_directory'] = datasets_dir_out + 'Tensorboard'
+            item['evaluate_every_number_of_epochs'] = 5
+            item['evaluate_on_number_of_examples'] = 100
+            item['tensorboard_log_level'] = 'epoch'
+
+            break
+
+    return RasaNLUModelConfig(nlu_config)
+
+
 def benchmark(out_directory, config_directory, dataset_directory, n_folds=3):
     start = timer()
 
@@ -316,6 +331,7 @@ def benchmark(out_directory, config_directory, dataset_directory, n_folds=3):
         while os.path.exists(out_directory_temp):
             out_directory_temp = out_directory + str(count)
             count += 1
+        os.mkdir(out_directory_temp)
 
     config_size = len(os.listdir(config_directory))
     count_config = 0
@@ -334,7 +350,10 @@ def benchmark(out_directory, config_directory, dataset_directory, n_folds=3):
             datasets_dir_out = 'Datasets_Results/'
             if not os.path.exists(out_config_directory + datasets_dir_out):
                 os.mkdir(out_config_directory + datasets_dir_out)
+
             nlu_config = config.load(config_path)
+            nlu_config = set_tensorboard(nlu_config, out_config_directory)
+
             try:
                 trainer = Trainer(nlu_config)
                 trainer.pipeline = remove_pretrained_extractors(trainer.pipeline)
