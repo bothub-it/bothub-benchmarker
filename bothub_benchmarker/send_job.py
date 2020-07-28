@@ -3,14 +3,14 @@ import os
 from googleapiclient import discovery
 from googleapiclient import errors
 from google.cloud import storage
-from utils import upload_folder_to_bucket
+from utils import upload_folder_to_bucket, connect_to_storage
+
 
 def send_job_train_ai_platform(configs_path, datasets_dir, job_id, use_spacy=False):
     os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "bothub-273521-b2134fc6b1df.json"
 
-    bucket_name = 'bothub_benchmark'
-    storage_client = storage.Client()
-    bucket = storage_client.get_bucket(bucket_name)
+    bucket = connect_to_storage('bothub_benchmark')
+
     upload_folder_to_bucket(bucket, configs_path, os.path.join(job_id, 'configs'))
     upload_folder_to_bucket(bucket, datasets_dir, os.path.join(job_id, 'data_to_evaluate'))
 
@@ -44,10 +44,10 @@ def send_job_train_ai_platform(configs_path, datasets_dir, job_id, use_spacy=Fal
     try:
         request.execute()
     except errors.HttpError as err:
-        raise Exception()
+        raise Exception(err)
 
 
 if __name__ == '__main__':
-    send_job_train_ai_platform('bothub_benchmarker/benchmark_sources/configs',
-                               'bothub_benchmarker/benchmark_sources/data_to_evaluate',
-                               'benchmark_tensorboard_test1')
+    send_job_train_ai_platform('benchmark_sources/configs',
+                               'benchmark_sources/data_to_evaluate',
+                               'benchmark_download_results_test_1')

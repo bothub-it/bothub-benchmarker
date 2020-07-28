@@ -1,8 +1,7 @@
 import argparse
 import os
 from bothub_benchmarker.benchmark import benchmark
-from bothub_benchmarker.utils import download_bucket_folder, upload_folder_to_bucket
-from google.cloud import storage
+from bothub_benchmarker.utils import download_bucket_folder, upload_folder_to_bucket, connect_to_storage
 
 
 def spacy_setup():
@@ -19,17 +18,15 @@ def ai_plataform():
 
     arguments, _ = parser.parse_known_args()
 
-    bucket_name = 'bothub_benchmark'
-    storage_client = storage.Client()
-    bucket = storage_client.get_bucket(bucket_name)
+    bucket = connect_to_storage('bothub_benchmark')
 
     configs_dir = 'benchmark_sources/configs/'
     data_dir = 'benchmark_sources/data_to_evaluate/'
     os.makedirs(configs_dir, exist_ok=True)
     os.makedirs(data_dir, exist_ok=True)
 
-    download_bucket_folder(bucket, os.path.join(arguments.job_id, 'configs'), configs_dir)
-    download_bucket_folder(bucket, os.path.join(arguments.job_id, 'data_to_evaluate'), data_dir)
+    download_bucket_folder(bucket, configs_dir, os.path.join(arguments.job_id, 'configs'))
+    download_bucket_folder(bucket, data_dir, os.path.join(arguments.job_id, 'data_to_evaluate'))
 
     benchmark(arguments.job_id, configs_dir, data_dir)
 
