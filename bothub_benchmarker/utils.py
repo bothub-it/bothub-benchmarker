@@ -18,7 +18,7 @@ def upload_folder_to_bucket(bucket, local_path, bucket_path, recursive_upload=Tr
                 continue
             remote_path = posixpath.join(bucket_path, local_file[1 + len(local_path):])
             blob = bucket.blob(remote_path)
-            # logging.info('sent {}'.format(local_file.split("\\")[-1]))
+            print('sent {}'.format(local_file.split("/")[-1]))
             blob.upload_from_filename(local_file)
 
 
@@ -39,7 +39,6 @@ def download_folder_structure_from_bucket(bucket, local_path, bucket_path):
         if not blob.name.endswith("/"):
             if blob.name.replace(bucket_path, '').find("/") == -1:
                 download_path = local_path + '/' + blob.name.replace(bucket_path, '')
-                logging.info(download_path)
                 blob.download_to_filename(download_path)
             else:
                 for folder in folder_loc:
@@ -51,9 +50,9 @@ def download_folder_structure_from_bucket(bucket, local_path, bucket_path):
                 download_path = local_path + '/' + blob.name.replace(bucket_path, '')
 
                 blob.download_to_filename(download_path)
-                logging.info(blob.name.replace(bucket_path, '')[0:blob.name.replace(bucket_path, '').find("/")])
+                print(blob.name.replace(bucket_path, '')[0:blob.name.replace(bucket_path, '').find("/")])
 
-    logging.info('blob {} downloaded to {}.'.format(bucket_path, local_path))
+    print('blob {} downloaded to {}.'.format(bucket_path, local_path))
 
 
 def download_bucket_folder(bucket, local_path, bucket_path):
@@ -68,11 +67,11 @@ def download_bucket_folder(bucket, local_path, bucket_path):
             continue
         blob.download_to_filename(posixpath.join(local_path, dst_file_name))
 
-    logging.info('blob {} downloaded to {}.'.format(bucket_path, local_path))
+    print('blob {} downloaded to {}.'.format(bucket_path, local_path))
 
 
 def get_train_job_status(job_id):
-    job_name = f"projects/projects/bothub-273521/jobs/{job_id}"
+    job_name = f"projects/bothub-273521/jobs/{job_id}"
 
     cloudml = discovery.build( "ml", "v1")
 

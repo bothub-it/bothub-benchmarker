@@ -46,10 +46,10 @@ def send_job_train_ai_platform(job_id, configs_path, datasets_dir, use_spacy=Fal
         request.execute()
     except errors.HttpError as err:
         raise Exception(err)
-    logging.info(f'{job_id} benchmark job sent')
+    print(f'{job_id} benchmark job sent')
 
 
 if __name__ == '__main__':
-    send_job_train_ai_platform('test_recursive_upload_2',
+    send_job_train_ai_platform('test_recursive_upload_3',
                                posixpath.join('benchmark_sources', 'configs'),
                                posixpath.join('benchmark_sources', 'data_to_evaluate'))
