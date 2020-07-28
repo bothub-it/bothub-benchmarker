@@ -11,8 +11,8 @@ def send_job_train_ai_platform(job_id, configs_path, datasets_dir, use_spacy=Fal
 
     bucket = connect_to_storage('bothub_benchmark')
 
-    upload_folder_to_bucket(bucket, configs_path, posixpath.join(job_id, 'configs'), recursive_upload=False)
-    upload_folder_to_bucket(bucket, datasets_dir, posixpath.join(job_id, 'data_to_evaluate'), recursive_upload=False)
+    upload_folder_to_bucket(bucket, configs_path, posixpath.join('data', job_id, 'configs'), recursive_upload=False)
+    upload_folder_to_bucket(bucket, datasets_dir, posixpath.join('data', job_id, 'data_to_evaluate'), recursive_upload=False)
 
     package_uris = ["gs://bothub_benchmark/bothub_benchmarker-1.0.0.tar.gz"]
     if use_spacy:

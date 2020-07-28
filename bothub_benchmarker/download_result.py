@@ -21,7 +21,7 @@ def download_benchmark_result(job_id, dl_path):
         job_status = status.get(job_response.get('state'))
         if job_status == 2:
             print('job is done, downloading results..')
-            download_folder_structure_from_bucket(connect_to_storage(bothub_bucket), dl_path, posixpath.join(job_id, 'results'))
+            download_folder_structure_from_bucket(connect_to_storage(bothub_bucket), dl_path, posixpath.join('results', job_id))
             return
         if job_status == 3:
             print('job failed')
