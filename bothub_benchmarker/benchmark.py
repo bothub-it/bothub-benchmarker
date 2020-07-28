@@ -251,10 +251,9 @@ def generate_folds(
         )
 
 
-def run_benchmark(data_path, n_folds, trainer):  # pragma: no cover
+def run_benchmark(data, n_folds, trainer):  # pragma: no cover
     """Evaluate intent classification and entity extraction."""
-    print(data_path)
-    data = training_data.load_data(data_path)
+
     # data_to_evaluate = drop_intents_below_freq(data_to_evaluate, cutoff=5)
     # get the metadata config from the package data_to_evaluate
     count = 0
@@ -305,14 +304,15 @@ def remove_pretrained_extractors(pipeline: List[Component]) -> List[Component]:
     return pipeline
 
 
-def set_tensorboard(nlu_config, datasets_dir_out):
+def set_tensorboard(nlu_config, out_directory, eval_examples=100):
     nlu_config = nlu_config.as_dict()
 
     for item in nlu_config['pipeline']:
         if item['name'] == 'DIETClassifier':
-            item['tensorboard_log_directory'] = datasets_dir_out + 'Tensorboard'
+            item['tensorboard_log_directory'] = os.path.join(out_directory, 'Tensorboard')
+            print("TENSORBOARD EVAL EXAMPLES SET TO: ", eval_examples)
+            item['evaluate_on_number_of_examples'] = eval_examples
             item['evaluate_every_number_of_epochs'] = 5
-            item['evaluate_on_number_of_examples'] = 100
             item['tensorboard_log_level'] = 'epoch'
 
             break
@@ -351,43 +351,56 @@ def benchmark(out_directory, config_directory, dataset_directory, n_folds=3):
             if not os.path.exists(out_config_directory + datasets_dir_out):
                 os.mkdir(out_config_directory + datasets_dir_out)
 
-            nlu_config = config.load(config_path)
-            nlu_config = set_tensorboard(nlu_config, out_config_directory)
-
-            try:
-                trainer = Trainer(nlu_config)
-                trainer.pipeline = remove_pretrained_extractors(trainer.pipeline)
-            except OSError:
-                raise
             datasets_results = []
             datasets_names = []
+
             for dataset_filename in os.listdir(dataset_directory):
+
                 if dataset_filename.endswith(".json") or dataset_filename.endswith(".md"):
                     dataset_path = os.path.join(dataset_directory, dataset_filename)
                     dataset_name = dataset_filename.split('.')[0]
 
-                    cross_val_results = run_benchmark(dataset_path, n_folds, trainer)
+                    print(dataset_path)
+                    data = training_data.load_data(dataset_path)
+                    eval_data_size = int(len(data.intent_examples)*0.2)
+
+                    nlu_config = config.load(config_path)
+
+                    nlu_config = set_tensorboard(nlu_config,
+                                                 os.path.join(out_config_directory, datasets_dir_out, dataset_name),
+                                                 eval_data_size)
+
+                    try:
+                        trainer = Trainer(nlu_config)
+                        trainer.pipeline = remove_pretrained_extractors(trainer.pipeline)
+                    except OSError:
+                        raise
+
+                    cross_val_results = run_benchmark(data, n_folds, trainer)
                     # utils.write_json_to_file('new_result_test', cross_val_results)
 
                     dataset_result = sum_results(cross_val_results, collect_report=True)
-                    utils.write_json_to_file(out_config_directory + datasets_dir_out + dataset_name + '_Benchmark', dataset_result)
+                    utils.write_json_to_file(out_config_directory + datasets_dir_out + dataset_name + '/' +
+                                             dataset_name + '_Benchmark', dataset_result)
                     datasets_results.append(dataset_result)
                     datasets_names.append(dataset_filename)
+
             save_result_by_group(datasets_results, n_folds, out_config_directory, datasets_names)
             overhaul_result = sum_results(datasets_results)
             end_config = timer()
             overhaul_result['time'] = str(end_config)
             utils.write_json_to_file(out_config_directory + 'Datasets_Mean_Result', overhaul_result)
+
     end = timer()
     logger.info("Finished evaluation in: " + str(end - start))
 
 
 if __name__ == '__main__':
     print("start benchmark")
-    # out_directory = 'benchmark_output_test'
-    # config_directory = 'benchmark_sources/configs/'
-    # dataset_directory = 'benchmark_sources/data_to_evaluate/'
+    out_directory = 'benchmark_output_test'
+    config_directory = 'benchmark_sources/configs/'
+    dataset_directory = 'benchmark_sources/data_to_evaluate/'
     # false_positive_dataset_directory = 'benchmark_sources/oldvsoldold'
-    # n_folds = 2
-    # benchmark(out_directory, config_directory, dataset_directory, n_folds)
+    n_folds = 2
+    benchmark(out_directory, config_directory, dataset_directory, n_folds)
     # false_positive_benchmark(out_directory, config_directory, false_positive_dataset_directory)
