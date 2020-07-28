@@ -1,6 +1,7 @@
 import os
 import glob
 import logging
+import posixpath
 from googleapiclient import discovery
 from google.cloud import storage
 
@@ -10,15 +11,14 @@ bothub_bucket = 'bothub_benchmark'
 def upload_folder_to_bucket(bucket, local_path, bucket_path, recursive_upload=True):
     assert os.path.isdir(local_path)
     for local_file in glob.glob(local_path + '/**'):
-        if not os.path.isfile(local_file):
+        if not os.path.isfile(local_file) and recursive_upload:
             upload_folder_to_bucket(bucket, local_file, bucket_path + "/" + os.path.basename(local_file))
         else:
-            dst_file_name = local_file.replace(local_path, '')
-            if ('/' in dst_file_name or '.' not in dst_file_name) and not recursive_upload:
+            if '.' not in local_file:
                 continue
-            remote_path = os.path.join(bucket_path, local_file[1 + len(local_path):])
+            remote_path = posixpath.join(bucket_path, local_file[1 + len(local_path):])
             blob = bucket.blob(remote_path)
-
+            # logging.info('sent {}'.format(local_file.split("\\")[-1]))
             blob.upload_from_filename(local_file)
 
 
@@ -66,7 +66,7 @@ def download_bucket_folder(bucket, local_path, bucket_path):
             dst_file_name = dst_file_name[1:]
         if '/' in dst_file_name or '.' not in dst_file_name:
             continue
-        blob.download_to_filename(os.path.join(local_path, dst_file_name))
+        blob.download_to_filename(posixpath.join(local_path, dst_file_name))
 
     logging.info('blob {} downloaded to {}.'.format(bucket_path, local_path))
 

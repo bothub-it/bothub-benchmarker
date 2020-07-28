@@ -1,6 +1,7 @@
 import time
 import os
 import logging
+import posixpath
 from utils import get_train_job_status, download_folder_structure_from_bucket, connect_to_storage, bothub_bucket
 from google.cloud import storage
 
@@ -26,7 +27,7 @@ def download_benchmark_result(job_id, dl_path):
             storage_client = storage.Client()
             bucket = storage_client.get_bucket(bucket_name)
             logging.info('job is done, downloading results..')
-            download_folder_structure_from_bucket(bucket, dl_path, os.path.join(job_id, 'results'))
+            download_folder_structure_from_bucket(bucket, dl_path, posixpath.join(job_id, 'results'))
             logging.info('results downloaded')
             return
         if job_status == 3:
@@ -43,4 +44,4 @@ if __name__ == '__main__':
     os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "bothub-273521-b2134fc6b1df.json"
     job_id = 'benchmark_test'
     dl_path = 'bothub_benchmarker/benchmark_output'
-    download_benchmark_result(job_id, os.path.join(dl_path, job_id))
+    download_benchmark_result(job_id, posixpath.join(dl_path, job_id))

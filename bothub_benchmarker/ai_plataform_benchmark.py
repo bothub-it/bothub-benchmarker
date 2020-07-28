@@ -1,5 +1,6 @@
 import argparse
 import os
+import posixpath
 from bothub_benchmarker.benchmark import benchmark
 from bothub_benchmarker.utils import download_bucket_folder, upload_folder_to_bucket, connect_to_storage
 
@@ -25,12 +26,12 @@ def ai_plataform():
     os.makedirs(configs_dir, exist_ok=True)
     os.makedirs(data_dir, exist_ok=True)
 
-    download_bucket_folder(bucket, configs_dir, os.path.join(arguments.job_id, 'configs'))
-    download_bucket_folder(bucket, data_dir, os.path.join(arguments.job_id, 'data_to_evaluate'))
+    download_bucket_folder(bucket, configs_dir, posixpath.join(arguments.job_id, 'configs'))
+    download_bucket_folder(bucket, data_dir, posixpath.join(arguments.job_id, 'data_to_evaluate'))
 
     benchmark(arguments.job_id, configs_dir, data_dir)
 
-    upload_folder_to_bucket(bucket, arguments.job_id, os.path.join(arguments.job_id, 'results'))
+    upload_folder_to_bucket(bucket, arguments.job_id, posixpath.join(arguments.job_id, 'results'))
 
     # download_bucket_folder(bucket, configs_dir, configs_dir)
     # download_bucket_folder(bucket, data_dir, data_dir)
