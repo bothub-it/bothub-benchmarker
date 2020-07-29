@@ -1,6 +1,8 @@
 language: "pt_br"
 
 pipeline:
+  - name: "bothub_benchmarker.benchmark_sources.components.preprocessing.Preprocessing"
+    language: "pt_br"
   - name: WhitespaceTokenizer
   - name: CountVectorsFeaturizer
     analyzer: char
