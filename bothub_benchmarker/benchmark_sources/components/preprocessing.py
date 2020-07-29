@@ -1,10 +1,11 @@
-from unidecode import unidecode
 import re
 from typing import Any, Optional, Text, Dict, List, Type
 
 from rasa.nlu.components import Component
 from rasa.nlu.config import RasaNLUModelConfig
 from rasa.nlu.training_data import Message, TrainingData
+
+from ..nlp.preprocessing_factory import PreprocessingFactory
 
 
 class Preprocessing(Component):
@@ -21,10 +22,50 @@ class Preprocessing(Component):
     # these values can be overwritten in the pipeline configuration
     # of the model. The component should choose sensible defaults
     # and should be able to create reasonable results with the defaults.
-    defaults = {}
+    defaults = {"language": None}
 
-    def __init__(self, component_config: Optional[Dict[Text, Any]] = None) -> None:
+    def __init__(
+        self, component_config: Optional[Dict[Text, Any]] = None
+    ) -> None:
         super().__init__(component_config)
+        self.language = component_config["language"]
+
+
+    @classmethod
+    def create(
+        cls, component_config: Dict[Text, Any], config: RasaNLUModelConfig
+    ) -> "Preprocessing":
+        return cls(component_config)
+
+    def provide_context(self) -> Dict[Text, Any]:
+        return {"language": self.language}
+
+    @staticmethod
+    def do_entities_overlap(entities: List[Dict]):
+        sorted_entities = sorted(entities, key=lambda e: e["start"])
+        for i in range(len(sorted_entities) - 1):
+            curr_ent = sorted_entities[i]
+            next_ent = sorted_entities[i + 1]
+            if (
+                    next_ent["start"] < curr_ent["end"]
+                    and next_ent["entity"] != curr_ent["entity"]
+            ):
+                return True
+        return False
+
+    @staticmethod
+    def remove_overlapping_entities(entities):
+        new_entities = []
+        for i in range(len(entities)):
+            overlap = False
+            for j in range(len(entities)):
+                if i != j and (entities[i]['start'] >= entities[j]['start'] and entities[i]['end'] <= entities[j]['end']):
+                    overlap = True
+                elif i != j and ((entities[i]['end'] > entities[j]['start'] and entities[i]['start'] < entities[j]['end']) and not (entities[j]['start'] >= entities[i]['start'] and entities[j]['end'] <= entities[i]['end'])):
+                    overlap = True
+            if not overlap:
+                new_entities.append(entities[i])
+        return new_entities
 
     def train(
         self,
@@ -33,32 +74,21 @@ class Preprocessing(Component):
         **kwargs: Any,
     ) -> None:
         """Train this component"""
-
         not_repeated_phrases = set()
         size = len(training_data.training_examples)
         subtract_idx = 0
 
-        APOSTROPHE_OPTIONS = ["'", "`"]
+        PREPROCESS_FACTORY = PreprocessingFactory().get_preprocess(self.language)
 
         for idx in range(size):
-            example_text = training_data.training_examples[idx - subtract_idx].text
-            # removing accent and lowercasing characters
-            example_text = unidecode(example_text.lower())
-            # remove apostrophe from the phrase (important be first than s_regex regex)
-            for APOSTROPHE in APOSTROPHE_OPTIONS:
-                example_text = example_text.replace(APOSTROPHE, "")
+            example = training_data.training_examples[idx - subtract_idx]
 
-            # if config.language == "pt_br":
-            # set regex parameters
-            n_regex = r"\b(n|N)\1*\b"
-            s_regex = r"\b(s|S)\1*\b"
-            # set replace words
-            S_WORD = "sim"
-            N_WORD = "nao"
-            # replace regex by "sim"
-            example_text = re.sub(s_regex, S_WORD, example_text)
-            # replace regex by "nao"
-            example_text = re.sub(n_regex, N_WORD, example_text)
+            if 'entities' in example.data and self.do_entities_overlap(example.data['entities']):
+                example.data['entities'] = self.remove_overlapping_entities(example.data['entities'])
+                
+            example_text = example.text
+
+            PREPROCESS_FACTORY.preprocess(example_text)
 
             if example_text in not_repeated_phrases:
                 # remove example at this index from training_examples
@@ -68,30 +98,14 @@ class Preprocessing(Component):
                 not_repeated_phrases.add(example_text)
                 training_data.training_examples[idx - subtract_idx].text = example_text
 
-    def process(
-        self,
-        message: Message,
-        config: Optional[RasaNLUModelConfig] = None,
-        **kwargs: Any,
-    ) -> None:
+    def process(self, message: Message, **kwargs: Any) -> None:
         """Process an incoming message."""
-
         APOSTROPHE_OPTIONS = ["'", "`"]
 
-        # removing accent and lowercasing characters
-        message.text = unidecode(message.text.lower())
         # remove apostrophe from the phrase (important be first than s_regex regex)
         for APOSTROPHE in APOSTROPHE_OPTIONS:
             message.text = message.text.replace(APOSTROPHE, "")
-        # if config.language == "pt_br":
-        # set regex parameters
-        n_regex = r"\b(n|N)\1*\b"
-        s_regex = r"\b(s|S)\1*\b"
-        # set replace words
-        S_WORD = "sim"
-        N_WORD = "nao"
+        
+        PREPROCESS_FACTORY = PreprocessingFactory().get_preprocess(self.language)
 
-        # replace regex by "sim"
-        message.text = re.sub(s_regex, S_WORD, message.text)
-        # replace regex by "nao"
-        message.text = re.sub(n_regex, N_WORD, message.text)
+        message.text = PREPROCESS_FACTORY.preprocess(message.text)

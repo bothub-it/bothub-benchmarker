@@ -308,7 +308,7 @@ def set_tensorboard(nlu_config, out_directory, eval_examples=100):
     nlu_config = nlu_config.as_dict()
 
     for item in nlu_config['pipeline']:
-        if item['name'] == 'DIETClassifier':
+        if 'DIETClassifier' in item['name']:
             item['tensorboard_log_directory'] = os.path.join(out_directory, 'Tensorboard')
             print("TENSORBOARD EVAL EXAMPLES SET TO: ", eval_examples)
             item['evaluate_on_number_of_examples'] = eval_examples

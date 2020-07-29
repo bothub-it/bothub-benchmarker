@@ -15,5 +15,6 @@ setup(
         'unidecode==1.1.1',
         'torch',
         'torchvision',
+        'unidecode'
     ],
 )
