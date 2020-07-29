@@ -304,23 +304,7 @@ def remove_pretrained_extractors(pipeline: List[Component]) -> List[Component]:
     return pipeline
 
 
-def set_tensorboard(nlu_config, out_directory, eval_examples=100):
-    nlu_config = nlu_config.as_dict()
-
-    for item in nlu_config['pipeline']:
-        if 'DIETClassifier' in item['name']:
-            item['tensorboard_log_directory'] = os.path.join(out_directory, 'Tensorboard')
-            print("TENSORBOARD EVAL EXAMPLES SET TO: ", eval_examples)
-            item['evaluate_on_number_of_examples'] = eval_examples
-            item['evaluate_every_number_of_epochs'] = 5
-            item['tensorboard_log_level'] = 'epoch'
-
-            break
-
-    return RasaNLUModelConfig(nlu_config)
-
-
-def benchmark(out_directory, config_directory, dataset_directory, n_folds=3):
+def run_benchmark(out_directory, config_directory, dataset_directory, n_folds=3):
     start = timer()
 
     out_directory_temp = out_directory
@@ -366,10 +350,6 @@ def benchmark(out_directory, config_directory, dataset_directory, n_folds=3):
 
                     nlu_config = config.load(config_path)
 
-                    nlu_config = set_tensorboard(nlu_config,
-                                                 os.path.join(out_config_directory, datasets_dir_out, dataset_name),
-                                                 eval_data_size)
-
                     try:
                         trainer = Trainer(nlu_config)
                         trainer.pipeline = remove_pretrained_extractors(trainer.pipeline)
@@ -377,11 +357,12 @@ def benchmark(out_directory, config_directory, dataset_directory, n_folds=3):
                         raise
 
                     cross_val_results = run_benchmark(data, n_folds, trainer)
-                    # utils.write_json_to_file('new_result_test', cross_val_results)
+
+                    utils.write_json_to_file('new_result_test', cross_val_results)
 
                     dataset_result = sum_results(cross_val_results, collect_report=True)
                     utils.write_json_to_file(out_config_directory + datasets_dir_out + dataset_name + '/' +
-                                             dataset_name + '_Benchmark', dataset_result)
+                                           dataset_name + '_Benchmark', dataset_result)
                     datasets_results.append(dataset_result)
                     datasets_names.append(dataset_filename)
 
@@ -395,12 +376,88 @@ def benchmark(out_directory, config_directory, dataset_directory, n_folds=3):
     logger.info("Finished evaluation in: " + str(end - start))
 
 
+def set_tensorboard(nlu_config, out_directory, eval_examples=100):
+    nlu_config = nlu_config.as_dict()
+
+    for item in nlu_config['pipeline']:
+        if 'DIETClassifier' in item['name']:
+            item['tensorboard_log_directory'] = os.path.join(out_directory, 'Tensorboard')
+            print("TENSORBOARD EVAL EXAMPLES SET TO: ", eval_examples)
+            item['evaluate_on_number_of_examples'] = eval_examples
+            item['evaluate_every_number_of_epochs'] = 5
+            item['tensorboard_log_level'] = 'epoch'
+
+            break
+
+    return RasaNLUModelConfig(nlu_config)
+
+
+def run_tensorboard_benchmark(out_directory, config_directory, dataset_directory):
+    start = timer()
+
+    out_directory_temp = out_directory
+    if not os.path.exists(out_directory):
+        os.mkdir(out_directory)
+    else:
+        count = 0
+        while os.path.exists(out_directory_temp):
+            out_directory_temp = out_directory + str(count)
+            count += 1
+        os.mkdir(out_directory_temp)
+
+    config_size = len(os.listdir(config_directory))
+    count_config = 0
+    for config_filename in os.listdir(config_directory):
+        count_config += 1
+        print('######################################')
+        print('CURRENT CONFIG :', config_filename, ' PROGRESS:', count_config, '/', config_size)
+        print('######################################')
+        start_config = timer()
+        if config_filename.endswith(".yml"):
+            config_path = os.path.join(config_directory, config_filename)
+            config_name = config_filename.split('.')[0]
+            out_config_directory = out_directory_temp + '/' + config_name + '/'
+            if not os.path.exists(out_config_directory):
+                os.mkdir(out_config_directory)
+            datasets_dir_out = 'Datasets_Results/'
+            if not os.path.exists(out_config_directory + datasets_dir_out):
+                os.mkdir(out_config_directory + datasets_dir_out)
+
+            for dataset_filename in os.listdir(dataset_directory):
+
+                if dataset_filename.endswith(".json") or dataset_filename.endswith(".md"):
+                    dataset_path = os.path.join(dataset_directory, dataset_filename)
+                    dataset_name = dataset_filename.split('.')[0]
+
+                    print(dataset_path)
+                    data = training_data.load_data(dataset_path)
+                    eval_data_size = int(len(data.intent_examples)*0.3)
+
+                    nlu_config = config.load(config_path)
+
+                    nlu_config = set_tensorboard(nlu_config,
+                                                 os.path.join(out_config_directory, datasets_dir_out, dataset_name),
+                                                 eval_data_size)
+
+                    try:
+                        trainer = Trainer(nlu_config)
+                        trainer.pipeline = remove_pretrained_extractors(trainer.pipeline)
+                    except OSError:
+                        raise
+
+                    trainer.train(data)
+
+            end_config = timer()
+
+    end = timer()
+    logger.info("Finished evaluation in: " + str(end - start))
+
+
 if __name__ == '__main__':
     print("start benchmark")
-    out_directory = 'benchmark_output_test'
+    out_directory = 'benchmark_output_test1'
     config_directory = 'benchmark_sources/configs/'
     dataset_directory = 'benchmark_sources/data_to_evaluate/'
     # false_positive_dataset_directory = 'benchmark_sources/oldvsoldold'
-    n_folds = 2
-    benchmark(out_directory, config_directory, dataset_directory, n_folds)
+    run_tensorboard_benchmark(out_directory, config_directory, dataset_directory)
     # false_positive_benchmark(out_directory, config_directory, false_positive_dataset_directory)
