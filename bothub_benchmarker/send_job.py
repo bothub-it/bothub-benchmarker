@@ -6,7 +6,7 @@ from googleapiclient import errors
 from utils import upload_folder_to_bucket, connect_to_storage
 
 
-def send_job_train_ai_platform(job_id, configs_path, datasets_dir, use_spacy=False):
+def send_job_train_ai_platform(job_id, configs_path, datasets_dir, use_spacy=False, use_tensorboard=False):
     os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "bothub-273521-b2134fc6b1df.json"
 
     bucket = connect_to_storage('bothub_benchmark')
@@ -25,6 +25,8 @@ def send_job_train_ai_platform(job_id, configs_path, datasets_dir, use_spacy=Fal
         "args": [
             '--job-id',
             job_id,
+            '--use-tensorboard',
+            str(use_tensorboard)
         ],
         "region": "us-east1",
         "jobDir": "gs://bothub_benchmark",
@@ -50,7 +52,7 @@ def send_job_train_ai_platform(job_id, configs_path, datasets_dir, use_spacy=Fal
 
 
 if __name__ == '__main__':
-    send_job_train_ai_platform('the_final_test_benchmark_6',
+    send_job_train_ai_platform('transformer_diet_benchmark_tensorboard_fix',
                                posixpath.join('benchmark_sources', 'configs'),
                                posixpath.join('benchmark_sources', 'data_to_evaluate'),
-                               use_spacy=True)
+                               use_spacy=False, use_tensorboard=True)

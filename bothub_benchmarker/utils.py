@@ -11,15 +11,13 @@ bothub_bucket = 'bothub_benchmark'
 def upload_folder_to_bucket(bucket, local_path, bucket_path, recursive_upload=True):
     assert os.path.isdir(local_path)
     for local_file in glob.glob(local_path + '/**'):
-        if not os.path.isfile(local_file) and recursive_upload:
-            upload_folder_to_bucket(bucket, local_file, bucket_path + "/" + os.path.basename(local_file))
-        else:
-            if '.' not in local_file:
-                continue
+        if os.path.isfile(local_file):
             remote_path = posixpath.join(bucket_path, local_file[1 + len(local_path):])
             blob = bucket.blob(remote_path)
             print('sent {}'.format(local_file.split("/")[-1]))
             blob.upload_from_filename(local_file)
+        elif recursive_upload:
+            upload_folder_to_bucket(bucket, local_file, bucket_path + "/" + os.path.basename(local_file))
 
 
 def find_occurrences(s, ch):  # to find position of '/' in blob path ,used to create folders in local storage
