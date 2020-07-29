@@ -1,4 +1,4 @@
-language: "pt_br"
+language: "pt"
 
 pipeline:
   - name: SpacyNLP
@@ -9,7 +9,7 @@ pipeline:
     min_ngram: 3
     max_ngram: 3
     token_pattern: "(?u)\\b\\w+\\b"
-  - name: "benchmark_sources.components.diet_classifier.DIETClassifierCustom"
+  - name: "bothub_benchmarker.benchmark_sources.components.diet_classifier.DIETClassifierCustom"
     epochs: 150
     entity_recognition: True
     BILOU_flag: False
