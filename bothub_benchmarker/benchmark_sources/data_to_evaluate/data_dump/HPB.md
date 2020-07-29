@@ -1,0 +1,525 @@
+
+## intent:bias
+- 
+- nunca namorei
+- prometo, vou tentar
+- Obrigada Maia, linda!
+- quero seu conselho
+- quero muito isso
+- Sou Feliz
+- Sou encalhada
+- Tudo bem
+- Olá!
+- não sei
+- sei
+- da sim
+- da s
+- dá sim
+- meu boy reclama das roupas que uso
+- faz chantagem emocional toda hora
+- me obriga a fazer o que não quero
+- ele não me deixa vestir qualquer coisa
+- ele quer que eu para de trabalhar
+- me constrange na frente dos outros..
+- mexe na minha bolsa
+- o meu namorado me proíbe de falar com meus amigos
+- fala que meu melhor amigo dá em cima de mim
+- diz que minha amiga é apaixonada por mim
+- acha que todo mundo tá a fim de mim
+- Eu confio em você, só não confio neles
+- fala que preciso de roupas decentes
+- é um stalker
+- tenho medo quando ele ta com ciumes
+- ele n me deixa dançar na balada
+- acha que todos os caras da balada estão me encarando
+- fala que eu to olhando para os outros
+- pega meu insta e para de seguir as pessoas
+- Você não pode sair sem me pedir permissão ou sem me avisar
+- me sinto constantemente observada
+- exige provas de onde estou
+- fala que eu chamo muita atenção
+- acho que ele quer que eu fique feia pra ninguém me notar
+- me monitora constantemente
+- escolhas são controladas
+- reclamo quando cumprimento conhecidos na rua
+- reclama se eu não atendo celular
+- meu namorado grita comigo e reclama da minha roupa
+- infeliz
+- cavalo
+- você
+- ou
+- ir
+- aviso
+- diz
+- avisar
+- pedir
+- diz
+- dizer
+- disse
+- Obrigada Maia, sua linda!
+- Prometo, vou tentar
+- Estou namorando
+- Nunca namorei
+- Quero seu conselho
+- Tudo Bem
+- Olá
+- Olá! Tudo bem e você?
+- meu namorado me xingou de vagaba
+
+## intent:contacting
+- [snap](snapchat)
+- [snapchat](snapchat)
+- [sms](sms)
+- [sms](sms)
+- [messenger](facebook)
+- [mensager](facebook)
+- [ligue](telefone)
+- atualmente [whats](whatsapp)
+- [telegrama](telegram)
+- yroshima [nagazap](whatsapp)
+- [yroshimanagazap](whatsapp)
+- [emailzao](email)
+- [emailzão](email)
+- [wttp](whatsapp)
+- [insta](instagram)
+- [instagram](instagram)
+- [twt](twitter)
+- [twitter](twitter)
+- [facebook](facebook)
+- [face](facebook)
+- [fece](facebook)
+- [fecebook](facebook)
+- [email](email)
+- [gmail](email)
+- [hotmail](email)
+- [yahoo](email)
+- [whatsapp](whatsapp)
+- [whats](whatsapp)
+- [zap](whatsapp)
+- [zapzap](whatsapp)
+- [zipzop](whatsapp)
+- [atsapp](whatsapp)
+- [fb](facebook)
+- pelo [facebook](facebook)
+- pelo [whatsapp](whatsapp)
+- uso [twitter](twitter)
+- uso [telegram](telegram)
+- [telegram](telegram)
+- pode ser [instagram](instagram)
+- me manda [email](email)
+- passa um [email](email)
+- fala pelo [insta](instagram)
+- me chama no [tt](twitter)
+- [tele](telegram)
+- passa por [whats](whatsapp)
+- caixa de [email](email)
+- envia pra meu [gmail](email)
+- falar [whatsapp](whatsapp)
+- [zipzopen](whatsapp)
+- contacte [telegram](telegram)
+- use [telegram](telegram) contato
+- [skype](skype)
+- utilizo [skype](skype)
+- prefiro [slack](slack)
+- chama [slack](slack)
+- contato [hangouts](hangouts)
+- call [hangouts](hangouts)
+- liga [telefone](telefone) urgente
+- manda [email](email) rapido
+- use [telefone](telefone) contato
+- fala [facebook](facebook) conversar
+- contatar [whatsap](whatsapp) falarmos
+- [hang](hangouts)
+- [e-mail](email)
+- [celular](telefone)
+- [telefone](telefone)
+- [ligar](telefone) pra mim
+- pode me [ligar](telefone)
+- [ligar](telefone)
+- [telefonar](telefone) para mim
+- [telefonar](telefone)
+- [ligação](telefone)
+- me [liga](telefone)
+- [liga](telefone)
+- [ligada](telefone)
+
+## intent:bad_words
+- xingou vagaba
+- quero não caceta
+- que merda de bot
+- tu é uma baranga
+- você é uma baranga
+- vagaba safada
+- vagabunda
+- merda
+- vagaba
+- vai se fuder
+- você é burra
+- sua burra
+- tomar no seu [cu](bullying)
+- fi de quenga
+- fi de rapariga
+- imbecil
+- retardada
+- ânus
+- pexte
+- trepa
+- anal
+- vadia
+- piranha
+- boquete
+- pau
+- caralho
+- cacete
+- chibata
+- xibata
+- viado
+- porra
+- viadão
+- idiota
+- otario
+- imbecil
+- escroto
+- rapariga
+- corno
+- pica cu
+- desgraça
+- miserável
+- fdp
+- xota
+- prikito
+- pepeca
+- pepeka
+- xerecão
+- bunda
+- foda-se
+- quenga
+- piroca
+- kenga
+- bucetinha
+- buceta
+- peia
+- safada
+- puta
+- putiane
+- arrombada
+- cu rapariga infeliz caralho
+- fuder
+- foda
+- puta pariu
+- pqp
+- anus
+- viadinho caralho
+- peste
+- pomba
+- cuzão
+- fuder
+- porra
+- bunda
+- peste
+- anus
+- foda
+- caraio
+- fuder
+- [fuder](bullying)
+- [porra](bullying)
+- rego
+- rêgo
+- p0rr@
+- desgraça
+- desgraca
+- disgraca
+- disgraça
+- maldito
+- desgraçado
+- disgraçado
+- desgracado
+- disgracado
+- disgraçaaa
+- cú
+- bixa
+- palerma
+- safado
+- [safado](bullying)
+- vagabundo
+- feladaputa
+- pênis
+- penis
+- pau
+- gozar
+- gozada
+- gozando
+- gozei
+- prostituta
+- ppk
+- rola
+- roluda
+- roludo
+- cabaço
+- cabaco
+- cabaçento
+- cabacento
+- punheta
+- punhetinha
+- punheteiro
+- punhetero
+- siririca
+- cavala
+- potranca
+- raparida
+- essa peste
+- bobonica
+- vai tomar no teu cu
+- aff viado
+- Você é burra
+
+## intent:hours_detection
+- sei [nove](time) livre
+- [uma](time)
+- [duas](time)
+- [tres](time)
+- [quatro](time) horas
+- [cinco](time) hora
+- [seis](time)
+- [meia](time) hora
+- [seis](time) horario
+- tempo [sete](time)
+- horário [oito](time)
+- marcar [nove](time) horas
+- [dez](time) tempos
+- [onze](time)
+- sao [doze](time) horas
+- [meio dia](time)
+- horas [treze](time) dia
+- [quatorze](time)
+- as [dezesseis](time) horas
+- [vinte e duas](time)
+- gostaria [vinte e tres](time)
+- [três](time) horas
+- [vinte e duas](time)
+- [vinte e tres](time)
+- [vinte e quatro](time)
+- [vinte e uma](time)
+- [vinte](time)
+- [dezenove](time)
+- [dezoito](time)
+- [dezessete](time)
+- [dezesseis](time)
+- [quinze](time)
+- [treze](time)
+- [doze](time)
+- [nove](time)
+- [oito](time)
+- [sete](time)
+- [seis](time)
+- [cinco](time)
+- [quatro](time)
+- [tres](time)
+- [três](time)
+- [uma e dois](time)
+- [três e vinte e cinco](time)
+- [nove e vinte e quatro](time)
+- [oito e nove](time)
+- [vinte e cinco](time)
+- [vinte e seis](time)
+- [tres e dezesseis](time)
+- [vinte e sete](time)
+- [vinte e oito](time)
+- [vinte e nove](time)
+- [trinta](time)
+- [trinta e um](time)
+- [trinta e dois](time)
+- [trinta e tres](time)
+- [trinta e quatro](time)
+- [trinta e três](time)
+- [trinta e cinco](time)
+- [trinta e seis](time)
+- [trinta e sete](time)
+- [trinta e oito](time)
+- [trinta e nove](time)
+- [quarenta](time)
+- [cinquenta](time)
+- [sessenta](time)
+- [uma e trinta e cinco](time)
+- [duas e quarenta e oito](time)
+- [nove e cinquenta e seis](time)
+- [oito e sessenta e dois](time)
+- [1](time)
+- [2](time)
+- [3](time)
+- [4:5](time)
+- [9:35](time)
+- [sete horas e vinte e quatro minutos](time)
+- [nove horas e trinta e oito minutos](time)
+- [cinco horas e nove minutos](time)
+- [cinco horas e vinte e nove minutos](time)
+- [oito horas e trinta e tres minutos](time)
+- [8:23](time)
+- [23:12](time)
+- [nove](time) hrs
+- [vinte e duas](time) hrs
+- [sete hrs e vinte e quatro min](time)
+- [nove hrs e trinta e oito min](time)
+- [cinco hrs e vinte e nove min](time)
+- [cinco hrs e vinte e nove min](time)
+- [meia hora](half_an_hour)
+- fala [meia hora](half_an_hour)
+- [13:23](time)
+- [12:46](time)
+- [2:34](time)
+- [3:33](time)
+- [23:01](time) fala
+- contate [12:23](time) livre
+- [2:3](time)
+- [32:22](time)
+- [23:04](time)
+- [11:21](time)
+- [23:04](time)
+- [18:29](time)
+- [segunda](monday)
+- [terça](tuesday)
+- [terca](tuesday)
+- [quarta](wednesday)
+- [quinta](thursday)
+- [sabado](saturday)
+- [sexta](friday)
+- contate [sexta](friday)
+- [sabadão](saturday)
+- [sabadao](saturday)
+- contato [quinta](thursday)
+- [segunda](monday) pode
+- [quarta](wednesday) livre
+- [domingo](sunday)
+- [domingão](sunday)
+- [domingao](sunday)
+- [sábado](saturday)
+- [4](time)
+- [5](time)
+- [6](time)
+- [7](time)
+- [8](time)
+- [9](time)
+- [duas](time[)](time) posso 3 acho
+- [1:03](time)
+- [01:58](time)
+- [02:32](time)
+- [2:21](time)
+- [3:23](time)
+- [03:49](time)
+- [4:10](time)
+- [04:21](time)
+- [5:34](time)
+- [05:48](time)
+- [6:59](time)
+- [06:01](time)
+- [7:19](time)
+- [07:20](time)
+- [8:37](time)
+- [08:46](time)
+- [9:55](time)
+- [09:09](time)
+- [10:13](time)
+- [11:23](time)
+- [12:34](time)
+- [13:40](time)
+- [14:57](time)
+- [15:06](time)
+- [16:12](time)
+- [17:27](time)
+- [18:30](time)
+- [19:47](time)
+- [20:51](time)
+- [21:03](time)
+- [22:16](time)
+- [23:29](time)
+- [24:32](time)
+- [00:00](time)
+- quero [14:15](time[) pos](time)so 15:09
+- preciso [9:30](time) marcar
+- [1 e 9](time)
+- [12 e 13](time)
+- [quatro](time)
+- [manhã](morning)
+- [vespertino](afternoon)
+- [noturno](night)
+- [matutino](morning)
+- [tarde](afternoon)
+- consulta [23:05[](tim](night)e) noite
+- [22:1[](time) m](night)adrugada
+- as [vinte e quatro horas[](tim](night)e) noite
+- manda [vinte e três[](tim](morning)e) manhã
+- [tarde[](afternoon](time)) vinte e uma
+- [manha[](mor](time)ning) vinte
+- [noite[](night)](time) dezenove horas
+- [dezoito[](tim](afternoon)e) tarde
+- contate [dezessete[](tim](morning)e) manha
+- chame [quinze[](tim](night)e) noite
+- [meia noite](midnight)
+- [zero horas](midnight)
+- [zero hora](midnight)
+- [trinta minutos](half_an_hour)
+- [30 minutos](half_an_hour)
+- [trinta min](half_an_hour)
+- apenas [meio dia](midday) contate
+- [meio dia](midday)
+- [horário comercial](business_hours)
+- [horario comercial](business_hours)
+- [hora comercial](business_hours)
+- [horario comercial](business_hours) posso
+- liga [horário comercial](business_hours)
+- [21](time) [conta](time)te 12:23 retorno
+- fala [14[[](tim](after](time)noon)e) [conta[[](tim](after](time)noon)e)to 13:35 tarde ocupado oito e vinte
+- [nove[[[]](time)(tim](morning)[[]](time)(nig[[]](time)(tim](morning)e)ht)e) noite 23:04 manha como 15
+- [14:32](tim[e) saio vinte e duas e ](time[)quar](time)e[nta j](time[)anto](time) 12:02 contate vinte chego 08:23 saio
+- queria sair [oito e meia][(tim](time[)e](time)[), 8:](night)30 sair, 21 cinema noite na balada
+- [12h](time)
+- [12:23h](time)
+- [2h](time)
+- [1h](time)
+- [3h](time)
+- [4h](time)
+- [5h](time)
+- [5h](time)
+- [6h](time)
+- [7h](time)
+- [8h](time)
+- [9h](time)
+- [10h](time)
+- [11h](time)
+- [12h](time)
+- [13h](time)
+- [14h](time)
+- [15h](time)
+- [16h](time)
+- [17h](time)
+- [18h](time)
+- [19h](time)
+- [20h](time)
+- [21h](time)
+- [22h](time)
+- [23h](time)
+- [24h](time)
+- [1hr](time)
+- [2hrs](time)
+- [3hrs](time)
+- [4hrs](time)
+- [5hrs](time)
+- [6hrs](time)
+- [7hrs](time)
+- [8hrs](time)
+- [9hrs](time)
+- [10hrs](time)
+- [11hrs](time)
+- [12hrs](time)
+- [13hrs](time)
+- [14hrs](time)
+- [15hrs](time)
+- [16hrs](time)
+- [17hrs](time)
+- [18hrs](time)
+- [19hrs](time)
+- [20hrs](time)
+- [21hrs](time)
+- [22hrs](time)
+- [23hrs](time)
+- [24hrs](time)

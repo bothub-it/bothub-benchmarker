@@ -1,25 +1,26 @@
-import google.oauth2.credentials
 import os
+import logging
+import posixpath
 from googleapiclient import discovery
 from googleapiclient import errors
-from google.cloud import storage
-from utils import upload_folder_to_bucket
+from utils import upload_folder_to_bucket, connect_to_storage
 
-def send_job_train_ai_platform(configs_path, datasets_dir, job_id, use_spacy=False):
+
+def send_job_train_ai_platform(job_id, configs_path, datasets_dir, use_spacy=False):
     os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "bothub-273521-b2134fc6b1df.json"
 
-    bucket_name = 'bothub_benchmark'
-    storage_client = storage.Client()
-    bucket = storage_client.get_bucket(bucket_name)
-    upload_folder_to_bucket(bucket, configs_path, os.path.join(job_id, 'configs'))
-    upload_folder_to_bucket(bucket, datasets_dir, os.path.join(job_id, 'data_to_evaluate'))
+    bucket = connect_to_storage('bothub_benchmark')
 
-    packageUris = ["gs://bothub_benchmark/bothub_benchmarker-1.0.0.tar.gz"]
+    upload_folder_to_bucket(bucket, configs_path, posixpath.join('data', job_id, 'configs'), recursive_upload=False)
+    upload_folder_to_bucket(bucket, datasets_dir, posixpath.join('data', job_id, 'data_to_evaluate'), recursive_upload=False)
+
+    package_uris = ["gs://bothub_benchmark/bothub_benchmarker-1.0.0.tar.gz"]
     if use_spacy:
-        packageUris.append("gs://bothub_benchmark/pt_nilc_word2vec_cbow_600-1.0.0.zip")
+        package_uris.append("gs://bothub_benchmark/pt_nilc_word2vec_cbow_600-1.0.0.zip")
+
     training_inputs = {
         "scaleTier": "BASIC_GPU",
-        "packageUris": packageUris,
+        "package_uris": package_uris,
         "pythonModule": "bothub_benchmarker.ai_plataform_benchmark",
         "args": [
             '--job-id',
@@ -44,10 +45,12 @@ def send_job_train_ai_platform(configs_path, datasets_dir, job_id, use_spacy=Fal
     try:
         request.execute()
     except errors.HttpError as err:
-        raise Exception()
+        raise Exception(err)
+    print(f'{job_id} benchmark job sent')
 
 
 if __name__ == '__main__':
-    send_job_train_ai_platform('bothub_benchmarker/benchmark_sources/configs',
-                               'bothub_benchmarker/benchmark_sources/data_to_evaluate',
-                               'benchmark_tensorboard_test4')
+    send_job_train_ai_platform('the_final_test_benchmark',
+                               posixpath.join('benchmark_sources', 'configs'),
+                               posixpath.join('benchmark_sources', 'data_to_evaluate'),
+                               use_spacy=True)

@@ -1,0 +1,339 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "Software Recommendation",
+        "text": "What are some good ASCII art generators?"
+      },
+      {
+        "intent": "Software Recommendation",
+        "text": "What's a simple \"colour picker\" app for GNOME?"
+      },
+      {
+        "intent": "Software Recommendation",
+        "text": "Which application do you recommend for watching TV (DVB)?"
+      },
+      {
+        "intent": "Software Recommendation",
+        "text": "Wubi Device /dev/loop0 full. How to get more space?"
+      },
+      {
+        "intent": "Software Recommendation",
+        "text": "Are there any hardware diagnostic tools?"
+      },
+      {
+        "intent": "Software Recommendation",
+        "text": "UPNP / DLNA (client) player recommendations?"
+      },
+      {
+        "intent": "Software Recommendation",
+        "text": "What tools do you use to monitor a web server?"
+      },
+      {
+        "intent": "Software Recommendation",
+        "text": "Is there any recovery software available for ext4?"
+      },
+      {
+        "intent": "Software Recommendation",
+        "entities": [
+          {
+            "start": 4,
+            "end": 4,
+            "value": "MongoDB",
+            "entity": "SoftwareName"
+          }
+        ],
+        "text": "What is a good MongoDB GUI client?"
+      },
+      {
+        "intent": "Software Recommendation",
+        "text": "Is there any software that will do face recognition in photos?"
+      },
+      {
+        "intent": "Software Recommendation",
+        "text": "Which programs can I use to edit PDF files?"
+      },
+      {
+        "intent": "Software Recommendation",
+        "entities": [
+          {
+            "start": 0,
+            "end": 0,
+            "value": "MySQL",
+            "entity": "SoftwareName"
+          }
+        ],
+        "text": "MySQL GUI Tools"
+      },
+      {
+        "intent": "None",
+        "text": "How can I highlight or annotate PDFs?"
+      },
+      {
+        "intent": "None",
+        "text": "How to record my screen?"
+      },
+      {
+        "intent": "Shutdown Computer",
+        "text": "Are there any Keyboard Shortcuts to Shutdown?"
+      },
+      {
+        "intent": "Shutdown Computer",
+        "text": "shut down without extra question"
+      },
+      {
+        "intent": "Shutdown Computer",
+        "text": "Shutdown after a certain time"
+      },
+      {
+        "intent": "Shutdown Computer",
+        "text": "How to shutdown computer when users are logged on?"
+      },
+      {
+        "intent": "Shutdown Computer",
+        "text": "How can one shutdown a PC using the keyboard?"
+      },
+      {
+        "intent": "Shutdown Computer",
+        "text": "How to Shut down Ubuntu by using keyboard?"
+      },
+      {
+        "intent": "Make Update",
+        "entities": [
+          {
+            "start": 3,
+            "end": 5,
+            "value": "12.04LTS",
+            "entity": "UbuntuVersion"
+          },
+          {
+            "start": 7,
+            "end": 9,
+            "value": "14.04",
+            "entity": "UbuntuVersion"
+          }
+        ],
+        "text": "Cannot upgrade from 12.04LTS to 14.04"
+      },
+      {
+        "intent": "Make Update",
+        "entities": [
+          {
+            "start": 2,
+            "end": 4,
+            "value": "10.10",
+            "entity": "UbuntuVersion"
+          },
+          {
+            "start": 6,
+            "end": 8,
+            "value": "11.04",
+            "entity": "UbuntuVersion"
+          }
+        ],
+        "text": "Upgrading from 10.10 to 11.04 how much space is needed?"
+      },
+      {
+        "intent": "Make Update",
+        "entities": [
+          {
+            "start": 2,
+            "end": 4,
+            "value": "11.10",
+            "entity": "UbuntuVersion"
+          },
+          {
+            "start": 6,
+            "end": 8,
+            "value": "12.04",
+            "entity": "UbuntuVersion"
+          }
+        ],
+        "text": "Upgrading from 11.10 to 12.04"
+      },
+      {
+        "intent": "Make Update",
+        "entities": [
+          {
+            "start": 5,
+            "end": 7,
+            "value": "11.10",
+            "entity": "UbuntuVersion"
+          },
+          {
+            "start": 10,
+            "end": 12,
+            "value": "11.04",
+            "entity": "UbuntuVersion"
+          }
+        ],
+        "text": "How to partially upgrade Ubuntu 11.10 from Ubuntu 11.04?"
+      },
+      {
+        "intent": "Make Update",
+        "entities": [
+          {
+            "start": 3,
+            "end": 5,
+            "value": "Ubuntu 9.10",
+            "entity": "UbuntuVersion"
+          }
+        ],
+        "text": "Problem upgrading Ubuntu 9.10"
+      },
+      {
+        "intent": "Make Update",
+        "entities": [
+          {
+            "start": 5,
+            "end": 7,
+            "value": "15.04",
+            "entity": "UbuntuVersion"
+          },
+          {
+            "start": 9,
+            "end": 11,
+            "value": "15.10",
+            "entity": "UbuntuVersion"
+          }
+        ],
+        "text": "how to upgrade from ubuntu 15.04 to 15.10?"
+      },
+      {
+        "intent": "Make Update",
+        "entities": [
+          {
+            "start": 2,
+            "end": 6,
+            "value": "12.04 64 bit",
+            "entity": "UbuntuVersion"
+          }
+        ],
+        "text": "Upgrade to 12.04 64 bit"
+      },
+      {
+        "intent": "Make Update",
+        "entities": [
+          {
+            "start": 1,
+            "end": 3,
+            "value": "10.10",
+            "entity": "UbuntuVersion"
+          },
+          {
+            "start": 5,
+            "end": 7,
+            "value": "11.04",
+            "entity": "UbuntuVersion"
+          }
+        ],
+        "text": "Upgrade 10.10 to 11.04"
+      },
+      {
+        "intent": "Make Update",
+        "entities": [
+          {
+            "start": 3,
+            "end": 5,
+            "value": "13.10",
+            "entity": "UbuntuVersion"
+          },
+          {
+            "start": 8,
+            "end": 10,
+            "value": "13.04",
+            "entity": "UbuntuVersion"
+          }
+        ],
+        "text": "upgrading to Ubuntu 13.10 from Ubuntu 13.04"
+      },
+      {
+        "intent": "Make Update",
+        "entities": [
+          {
+            "start": 4,
+            "end": 6,
+            "value": "12.04",
+            "entity": "UbuntuVersion"
+          },
+          {
+            "start": 8,
+            "end": 10,
+            "value": "14.04",
+            "entity": "UbuntuVersion"
+          }
+        ],
+        "text": "How to upgrade Ubuntu 12.04 to 14.04 if I have dual boot with windows 7?"
+      },
+      {
+        "intent": "Setup Printer",
+        "entities": [
+          {
+            "start": 7,
+            "end": 9,
+            "value": "Konica Minolta 200",
+            "entity": "Printer"
+          }
+        ],
+        "text": "How do I install drivers for a Konica Minolta 200?"
+      },
+      {
+        "intent": "Setup Printer",
+        "entities": [
+          {
+            "start": 5,
+            "end": 6,
+            "value": "HP F4280",
+            "entity": "Printer"
+          }
+        ],
+        "text": "How do I install the HP F4280 printer?"
+      },
+      {
+        "intent": "Setup Printer",
+        "entities": [
+          {
+            "start": 2,
+            "end": 3,
+            "value": "Lexmark X4690",
+            "entity": "Printer"
+          },
+          {
+            "start": 6,
+            "end": 8,
+            "value": "12.04",
+            "entity": "UbuntuVersion"
+          }
+        ],
+        "text": "Install printer Lexmark X4690 (ubuntu 12.04)"
+      },
+      {
+        "intent": "Setup Printer",
+        "entities": [
+          {
+            "start": 4,
+            "end": 5,
+            "value": "epson l210",
+            "entity": "Printer"
+          }
+        ],
+        "text": "Cannot install printer driver epson l210"
+      },
+      {
+        "intent": "Setup Printer",
+        "entities": [
+          {
+            "start": 8,
+            "end": 10,
+            "value": "15.10",
+            "entity": "UbuntuVersion"
+          }
+        ],
+        "text": "How to add a network printer on Ubuntu 15.10?"
+      }
+    ],
+    "regex_features": [],
+    "lookup_tables": [],
+    "entity_synonyms": []
+  }
+}
