@@ -50,7 +50,7 @@ def send_job_train_ai_platform(job_id, configs_path, datasets_dir, use_spacy=Fal
 
 
 if __name__ == '__main__':
-    send_job_train_ai_platform('the_final_test_benchmark',
+    send_job_train_ai_platform('the_final_test_benchmark_6',
                                posixpath.join('benchmark_sources', 'configs'),
                                posixpath.join('benchmark_sources', 'data_to_evaluate'),
                                use_spacy=True)

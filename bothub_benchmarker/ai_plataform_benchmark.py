@@ -6,7 +6,7 @@ from bothub_benchmarker.utils import download_bucket_folder, upload_folder_to_bu
 
 
 def spacy_setup():
-    os.system("python -m spacy link pt_nilc_word2vec_cbow_600 pt")
+    os.system("python3 -m spacy link pt_nilc_word2vec_cbow_600 pt")
 
 
 def ai_plataform():

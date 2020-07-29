@@ -13,7 +13,6 @@ setup(
         'spacy>=2.1,<2.2',
         'google-cloud-storage==1.29.0',
         'unidecode==1.1.1',
-        'spacy==2.1.9'
         'torch',
         'torchvision',
         'unidecode'
