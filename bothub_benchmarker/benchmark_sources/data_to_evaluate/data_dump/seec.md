@@ -1,0 +1,289 @@
+
+## intent:como
+- como faço para imprimir o meu [boleto](boleto) do parcelamento?
+- gostaria de parcelar, [como posso proceder](realizar)?
+- gostaria de parcelar, [como faço](realizar)?
+- [emitir parcelamento](realizar)
+- como [emitir o parcelamento](realizar)
+- [quero parcelar](realizar) a minha dívida
+- [solicitar por mim](procurador)
+- [minha esposa](procurador) pode solicitar o parcelamento por mim
+- [meu advogado](procurador) pode solicitar o parcelamento?
+- [aderir](realizar) ao parcelamento
+- [adesão](realizar) ao parcelamento
+- [como aderir](realizar) ao parcelamento
+- Como faço pra[ aprovarem meu parcelamento](valor_de_entrada)?
+- Podem fazer a [solicitação de parcelamento por mim](procurador)?
+- [Outra pessoa pode parcelar](procurador) pra mim
+- Meu advogado pode [pedir parcelamento por mim](procurador)?
+- Meu advogado pode [pedir parcelamento pra mim](procurador)?
+- Posso [pedir pra alguem](procurador) pedir parcelamento pra mim?
+- [que pessoa](quem) pode parcelar
+- [Quais pessoas](quem) podem parcelar?
+- Eu [posso pedir pra parcelar](realizar)
+- [Onde pede pra parcelar](realizar)?
+- [Onde faz pra parcelar](realizar)?
+- to [precisando parcelar](realizar)
+- Eu [queria parcelar](realizar)
+- [peço um parcelamento](realizar)
+- como [peço parcelamento](realizar)
+- [como posso pagar](boleto)
+- [agendar](agendamento)
+- [agendar atendimento](agendamento)
+- [como agendo](agendamento) um [atendimento](locais)
+- como peço [2° via](boleto)?
+- [como solicito parcela](realizar)
+- [como solicito o parcelamento](realizar)
+- [como realizar o pagamento](boleto)
+- [como pagar](boleto)
+- [como parcela](realizar)
+- Como [pedir a parcelamento](realizar)
+- Como [pedir o parcelamento](realizar)?
+- posso dar uma [procuração](procurador) pra parcelarem o débito por mim?
+- [como eu parcelo](realizar)
+- [Como parcelo](realizar) um imposto
+- [Como parcelo](realizar) um débito?
+- [quem pode](quem) pedir parcelamento
+- [quem pode](quem) parcelar
+- [Quem pode](quem) pedir parcelamento?
+- quero saber [quem pode pedir](quem)
+- [Quem pode](quem) pedir parcelamento?
+- [preciso do boleto](boleto) do parcelamento
+- [como pode parcelar](realizar) meu [imposto](debitos)?
+- [como se parcela](realizar)
+- [como dividir](realizar) [imposto](debitos)
+- como [faz para parcelar](realizar)
+- como [faço parcelamento](realizar)
+- quero [fazer parcelamento](realizar) da minha dívida
+- [Quero parcelar](realizar) minha dívida
+- como [fazer um parcelamento](realizar)?
+- queria saber como [faço um parcelamento](realizar)
+- Queria saber [como faço um parcelamento](realizar)
+- Como [fazer um parcelamento](realizar)
+- [mim parcelar](realizar)
+- [eu parcelar](realizar)
+- [procedimentos para parcelar](realizar)
+- o que fazer para [conseguir o parcelamento](realizar)
+- como [faço [para parcela](realizar)r](realizar) meu [imposto](debitos)?
+- como faço para [pedir parcelamento](realizar)?
+- como [solicitar parcelamento](realizar)
+- [como parcelar](realizar)
+- como [pedir parcelamento](realizar)
+- [como [realiza](realizar)r parcelamento](realizar)
+- [como parcelar](realizar) [icms](debitos)
+- [como parcelar](realizar) [iptu](debitos)
+- [como [parcela](realizar)r](realizar) [ipva](debitos)
+- como [faz para [paga](boleto)r a parcela](boleto)
+- [como pagar](boleto) o parcelamento
+- [emitir](emitir) [segunda via](boleto) de parcelamento
+- como solicitar [segunda via](boleto) de [boleto](boleto) de parcelamento
+- como faz para [emitir](emitir) [2 via](boleto)
+- como [emitir](emitir) [DAR](boleto)
+- [como emitir](emitir) [boleto](boleto)
+- como [emitir](emitir) [boleto](boleto)
+- como pagar [dívida](debitos) via [parcelamento](parcelamento)
+- [solicitar](realizar) por [procuração](procurador)
+- [parcelamento](parcelamento) pode ser [solicitado por](quem) [procurador](procurador)
+- [[Quem](qu](quem)em) pode [solicitar](realizar) o [parcelamento](parcelamento)?
+- quero [solicitar](realizar) [parcelamento](parcelamento)
+- [[que](quem)m pode](quem) [solicitar](realizar) o [parcelamento](parcelamento)?
+- o que [fazer](realizar) para [[parcela](parcelamento)r](realizar) o meu [imposto](debitos)
+- [emitir](emitir) [2° via](boleto)
+
+## intent:debitos_parcelaveis
+- [quais são](debitos) os débitos que podem ser parcelados?
+- Tem [alguma proibição](nao) de parcelamento?
+- [É proibido](nao) [parcelar o que](debitos)?
+- Estou [impedido de parcelar](nao) uma [dívida](debitos)?
+- O que [não](nao) [dá pra parcelar](debitos)
+- Tem algo que eu [não](nao) [posso parcelar](debitos)
+- Me é permitido [parcelar o que](debitos)
+- [Que tipo de coisa](debitos) dá pra parcelar
+- Quero parcelar minhas dívidas. [Quais posso](debitos)
+- onsigo parcelar [que dívidas](debitos) minhas
+- Dá pra [parcelar o que](debitos)
+- [tipo de dívidas](debitos)
+- [tipos de dívidas](debitos)
+- [tipo d dívida](debitos)
+- Parcelar que [tipo de dívida](debitos)
+- [n podem](nao) ser parcelados
+- [nao podem](nao) ser parcelados
+- Q [débito](debitos) [da pra ser parcelado](debitos)
+- Q [débito da pra ser parcelado](debitos)
+- [O q eu posso parcelar](debitos)?
+- [posso parcelar](debitos)
+- o que [eu posso parcelar](debitos)
+- [Oq eu posso parcelar](debitos)?
+- quais [tributos](debitos) [n posso](nao) parcelar
+- [debito](debitos)
+- quais [débitos](debitos) [podem ser](debitos) [parcelados](parcelamento)
+- qual [imposto](debitos) [não posso](nao) [parcelar](parcelamento)
+- consigo [parcelar](parcelamento) o meu [ipva](debitos)
+- consigo [parcelar](parcelamento) o meu [iptu](debitos)
+- [divida](debitos) [não](nao) posso parcelar
+- [débitos](debitos) [não](nao) podem ser [parcelados](parcelamento)?
+- quais [impostos](debitos) consigo [parcelar](parcelamento)
+
+## intent:valor
+- quais são as [condições](valor_de_entrada) para realizar o parcelamento?
+- qual é o [mínimo](minimo) da parcela?
+- qual é o [valor mínimo](minimo) da parcela?
+- qual o valor minimo da parcela?
+- o que acontece se eu [atrasar](atraso) o pagamento
+- O valor das parcelas é [corrigido](reajuste)
+- Tem [correção no valor](reajuste) do parcelamento
+- [aprovar](valor_de_entrada) parcelamento
+- Como [aceitam meu parcelamento](valor_de_entrada)
+- O que preciso fazer pra [aceitarem meu parcelamento](valor_de_entrada)
+- [valores aumentam](reajuste)
+- [parcelas alteram](reajuste)
+- [parcelas mudam](reajuste)
+- [juro](juros)
+- [Quanto que devo](minimo) pagar as parcelas?
+- Quanto de [juros](juros) tem o parcelamento?
+- Qual [condição](valor_de_entrada) pra aprovar parcelamento?
+- [Que valor](valor_parc) para cada parcela?
+- [valor de parcelamento](valor_parc)
+- que [valor tem cada parcela](valor_parc)
+- que [valor](valor_parc) tem cada parcela
+- [que valor tem cada parcela](valor_parc)
+- Posso [pagar quanto](valor_parc) em cada parcela?
+- [quanto [tenh](valor_parc)o que pagar](valor_parc) de parcela
+- Qual a [condição](valor_de_entrada) para que o parcelamento seja [aprovado](valor_de_entrada)?
+- [reajuste](reajuste)
+- [reajustado](reajuste)
+- Como é feito o [reajuste das parcelas](reajuste)?
+- Como é [reajustado](reajuste) o valor das parcelas?
+- [sinal](valor_de_entrada) de entrada?
+- Qual o [valor da parcela](valor_parc)?
+- É concedido [desconto](desconto) na [quitação antecipada](antecipada) do parcelamento
+- quanto é [valor da entrada](valor_de_entrada)
+- [sinal](valor_de_entrada)
+- qual [sinal de entrada](valor_de_entrada)
+- qual o [sinal de entrada](valor_de_entrada)?
+- quanto tenho que [pagar de inicio](valor_de_entrada) para parcelar
+- [da de entrada](valor_de_entrada)
+- quanto tenho que [dar de entrada](valor_de_entrada)?
+- quanto é o [valor da entrada](valor_de_entrada) do parcelamento?
+- qual o [sinal de entrada](valor_de_entrada)
+- [quanto vou pagar](valor_parc)
+- quanto vou [pagar de mensalidade](valor_parc)
+- [valor parcelamento](valor_parc)
+- [quanto é a parcela](valor_parc)
+- qual é [valor da parcela](valor_parc)
+- qual o valor dos [[juro](juros)s da parcela](juros)
+- [não pagar](atraso) o parcelamento
+- [menor valor](minimo) que posso pagar meu [tributo](debitos)
+- [parcela mínima](minimo)
+- qual o [valor mínimo](minimo) de cada parcela?
+- tenho [desconto](desconto) se eu pagar [a vista](a_vista)
+- [condição para a aprovação](valor_de_entrada) do [parcelamento](parcelamento)
+- [depois do vencimento](atraso)
+- pagar [após o vencimento](atraso)
+- quais os [juros](juros) do [parcelamento](parcelamento)
+- [reajustado](reajuste) o valor das [parcelas](parcelamento)
+- [multa](multa) pagar após vencimento
+- [menor](minimo) valor [parcela](parcelamento)
+- [valor de entrada](valor_de_entrada) parcelamento
+- [sinal](valor_de_entrada) de entrada
+- [atrasar](atraso) pagamento
+- [desconto](desconto) quitação [antecipada](antecipada) das parcelas
+- [adiantar](antecipada) [parcela](parcelamento)
+- [desconto](desconto) pagar [a vista](a_vista)
+- pagar o [parcelamento](parcelamento) [a vista](a_vista)
+- cobrança de [multa](multa) pelo [atraso](atraso) de pagamento
+- [reajuste](reajuste) valor da [parcela](parcelamento)
+- qual a [entrada](valor_de_entrada) do [parcelamento](parcelamento)
+- qual o [valor de entrada](valor_de_entrada) do [parcelamento](parcelamento)
+- qual o valor [mínimo](minimo) do [parcelamento](parcelamento)
+
+## intent:gerais_parc
+- onde consigo [atendimento físico](locais)?
+- [qual é o dia](data) do vencimento do meu parcelamento?
+- O que acontece se [não pagar](cancelar_parc) a parcela?
+- quais os [locais](locais) de atendimento?
+- [quero falar](locais) com uma pessoa
+- [preciso conversar](locais) com uma pessoa de verdade
+- posso [marcar o pagamento](alterar_data) para o dia 30?
+- [consultar mais informações](legislacao)
+- O que pode [cancelar](cancelar_parc) meu parcelamento?
+- [data](data) para pagar
+- Em [que data](data) eu pago o parcelamento?
+- [qual dia](data) pagar
+- [Qual o dia ](data)de pagar as parcelas?
+- [Que dia](data) eu tenho que pagar o boleto?
+- Quando [vencem](data) as parcelas
+- [Regras de parcelamento](legislacao)
+- [Regras p parcelar](legislacao)
+- [Parcelamento no DF](legislacao)
+- [Decreto](legislacao) do parcelamento
+- [mudar dia](alterar_data)
+- posso [mudar o dia de vencimento](alterar_data) da parcela
+- [maximo](max_parcelas) de parcelas
+- [maximo parcelas](max_parcelas)
+- [normas](legislacao) de parcela
+- [leis](legislacao)
+- Qual e a [legislacao](legislacao) aplicavel ao parcelamento?
+- Como [cancelo o parcelamento](cancelar_parc)?
+- [substituir a data](alterar_data) vencimento
+- [substituir data](alterar_data)
+- [trocada](alterar_data)
+- [modificar a data](alterar_data)
+- [modificar data](alterar_data)
+- [mudar data](alterar_data)
+- [mudar a data](alterar_data)
+- qual o [valor da parcela](valor_parc)
+- [Onde posso ir](locais) pra [ser atendido](locais)?
+- [vencimento](data)
+- [Quando vence](data) cada parcela?
+- Que [lei](legislacao) eu olho pra saber sobre parcelamento
+- Posso [[altera](alterar_data)r o dia](alterar_data) de pagamento?
+- Em que situação é possível [cancelar o parcelamento](cancelar_parc)
+- [[Quand](data)o é feito o pagamento](data)
+- Se eu [quitar](antecipada) meu parcelamento [antes](antecipada) ganho algum [desconto](desconto)
+- Que [dia](data) é o pagamento das parcelas
+- o que acontece se o parcelamento for [cancelado](cancelar_parc)?
+- [cancelar parcelamento](cancelar_parc)
+- o meu parcelamento pode ser [cancelado](cancelar_parc)?
+- o meu parcelamento pode ser [cancelado](cancelar_parc)
+- obter [mais informações](legislacao)
+- [consultar mais](legislacao) informações
+- [ler mais](legislacao) sobre parcelamento
+- [norma](legislacao) do parcelamento
+- [normativo](legislacao) parcelamento
+- [lei](legislacao)
+- [lei do parcelamento](legislacao)
+- Qual é a [legislação](legislacao) aplicável ao parcelamento
+- [alterar](alterar_data) [data de vencimento](data)
+- [atendimento](locais)
+- [local para atendimento](locais)
+- [onde consigo ser atendido](locais)
+- parcelar [fraude](acao_fiscal) fiscal
+- [condenação](acao_fiscal) pode parcelar
+- [conluio](acao_fiscal) pode parcelar
+- [sonegação](acao_fiscal) pode parcelar
+- Casos de [sonegação](acao_fiscal), [fraude](acao_fiscal) ou [conluio](acao_fiscal) podem ser parcelados
+- Créditos tributários oriundos de [ação fiscal](acao_fiscal) podem ser parcelados
+- [locais para ser atendido](locais)
+- [onde ser atendido](locais)
+- Onde consigo [atendimento presencial](locais)
+- [parcelamento desativado](cancelar_parc) falta de pagamento
+- quantos parcelas sem pagar faz o [parcelamento ser cancelado](cancelar_parc)?
+- Em que situação o [parcelamento pode ser [cancelad](cancelar_parc)o](cancelar_parc)
+- [trocar [dat](alterar_data)a para pagamento](data)
+- [mudar [dat](alterar_data)a de pagamento](data)
+- O dia do [[vencimento](data) da](data) parcela pode ser [alterado](alterar_data)
+- Qual a [data do vencimento](data) do boleto
+- Qual a [data de vencimento](data) do parcelamento?
+- [quantas vezes](max_parcelas) parcelar [iptu](debitos)
+- [quantas vezes](max_parcelas) posso parcelar meu [tributo](debitos)
+- em [até [quanta](max_parcelas)s vezes](max_parcelas) posso parcelar?
+- [data](data) para pagar a parcela
+- Qual é a [data de pagamento](data) das parcelas
+- qual o [numero [máxim](max_parcelas)o de parcelas](max_parcelas)
+- posso parcelar em [até [quanto](max_parcelas)s meses](max_parcelas)?
+- [máximo de parcelas](max_parcelas) que posso parcelar
+- [numero de prestações](max_parcelas)
+- [máximo de vezes](max_parcelas)
+- em até [quantas vezes](max_parcelas) eu posso parcelar
+- [quantas parcelas](max_parcelas) eu consigo parcelar

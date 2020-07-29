@@ -33,10 +33,6 @@ def ai_plataform():
 
     upload_folder_to_bucket(bucket, arguments.job_id, posixpath.join('results', arguments.job_id))
 
-    # download_bucket_folder(bucket, configs_dir, configs_dir)
-    # download_bucket_folder(bucket, data_dir, data_dir)
-    # benchmark('hello_world_test', configs_dir, data_dir)
-
 
 if __name__ == '__main__':
     ai_plataform()

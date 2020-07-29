@@ -1,0 +1,1280 @@
+
+## intent:suicidio
+- vou falecer
+- quando eu estiver morta?
+- não sei se eu quero mais viver agora
+- nao sei se eu quero mais viver agora
+- prefiro falecer
+- perecer
+- falecer
+- se mata
+- suícida
+- suicida
+- enforcada
+- enforcar
+- homicídio
+- Minha vida não tem sentido
+- me matar de uma vez por todas
+- acabar com tudo
+- acabar com tudo e morrer
+- tentei me matar
+- quero me matar
+- não tem sentido nenhum viver
+- já não faz mais sentido viver
+- minah vida não tem sentido
+- vou acabar com essa vida de merda
+- acabar a vida
+- morrer dormindo
+- tomar remedios para morrer
+- pela janela
+- me jogar da janela
+- morta
+- quero tirar a minha vida
+- to pensando em acabar com tudo isso
+- como eu vou ter autoestima quando eu estiver morta?
+- não aguento mais viver
+- vou enficar uma faca no meu buxo
+- si matar
+- se matar
+- vou pegar uma faca e me matar
+- estou pesando em me matar
+- eu quero morrerrr
+- eu quero morerrr
+- não quero viver
+- eu vou me matar agora
+- penso machucar
+- acabar minha vida
+- cortar pulsos
+- envenenar
+- morrer
+- me matar
+- terapia
+- Suicídio
+- depressão
+- sumir mundo
+- corte pulsos
+- suicidio
+- suicidar
+- odeio vida
+- suicidio
+- me cortado
+- n viver
+- falta vontade viver
+- quero morrer
+- Estou pensando em tirar minha própria vida
+- Odeio minha vida
+- Não quero mais viver
+- Tentei me matar
+- Quero morrer
+- Preciso acabar com a minha vida
+- Estou pensando em tirar minha própria vida
+- Vou me matar
+- quero acabar com isso de uma vez por todas e me matar
+- vou tomar remedios para morrer dormindo
+- vou me cortar até morrer
+- vou me atirar pela janela
+- quero me jogar da janela do quinto andar
+- como eu vou ter auto-estima quando eu estiver morta?
+- eu não quero mais viver
+
+## intent:ciume_excessivo
+- ele me perseguiu
+- monitora
+- ele já escondeu minhas chaves para eu não sair
+- manda eu ativar a localização do celular
+- vive me perseguindo
+- Ele está me perseguindo
+- Ele fala que dou cima de outros homens
+- Ele inventou cima de outros homens
+- dou bola para todo mundo
+- não vai sair com essa roupa
+- briga com todo cara que me olha
+- ele começou a me seguir
+- fica me vigiando durante o recreio
+- fica me vijiando no recreio
+- me segue no recreio
+- fica porta escola
+- esta perseguiu
+- ele me perseguiu
+- muito ciumento
+- quer saber tudo sobre a minha vida
+- me investiga a todo momento
+- fica olhando meu cartão de crédito
+- fica olhando a fatura do meu cartão de crédito
+- meus amigos são problemas pra ele
+- não quer que saia com meus amigos
+- quer me localizar a todo custo
+- nao quer mais que saia com meus amigo
+- não quer mais que saia com meus amigos
+- quer que eu delete os contatos dos meus exs
+- não gosta dos meus amigos
+- deixei de ir numa festa pq ela nao queria
+- deixei de ir numa festa pq ela não queria
+- nao quer saia amigos
+- não quer saia meus amigos
+- nao gosta amigos
+- não gosta amigos
+- deixei de ir festa
+- cobra satisfação de cada passo
+- já rasgou roupas pra não usar
+- olha quem comenta ou curte minhas fotos
+- me cobra satisfação
+- reclama das minhas roupas
+- não saia com meus amigos
+- diz que o ciúme é só medo de me perder
+- ele não deixa eu cortar o cabelo
+- não quer que eu vá para academia
+- ciúme demais
+- ciume do meu primo
+- ciumes de meu primo
+- ciúmes dos meus primos
+- sair roupa
+- reclama se eu não atendo celular
+- reclamo quando cumprimento conhecidos na rua
+- escolhas são controladas
+- me monitora constantemente
+- acho que ele quer que eu fique feia pra ninguém me notar
+- fala que eu chamo muita atenção
+- exige provas de onde estou
+- me sinto constantemente observada
+- Você não pode sair sem me pedir permissão ou sem me avisar
+- pega meu insta e para de seguir as pessoas
+- fala que eu to olhando para os outros
+- acha que todos os caras da balada estão me encarando
+- ele n me deixa dançar na balada
+- tenho medo quando ele ta com ciumes
+- é um stalker
+- Eu confio em você, só não confio neles
+- fala que preciso de roupas decentes
+- acha que todo mundo tá a fim de mim
+- diz que minha amiga é apaixonada por mim
+- fala que meu melhor amigo dá em cima de mim
+- o meu namorado me proíbe de falar com meus amigos
+- mexe na minha bolsa
+- me constrange na frente dos outros..
+- ele quer que eu para de trabalhar
+- ele não me deixa vestir qualquer coisa
+- me obriga a fazer o que não quero
+- faz chantagem emocional toda hora
+- meu boy reclama das roupas que uso
+- fala pra eu não usar maquiagem
+- reclama quando arrumo o cabelo
+- vive fazendo escândalo
+- n acredita em mim e pede pra ligar o rastreador
+- diz que não tem pra q eu sair sozinha com meus amigos
+- saia curta é coisa de prostituta
+- quer saber com quem falo no telefone
+- fala que o ciúme é pq me ama demais
+- não quer que use roupas curtas
+- pergunta pq me arrumei tanto
+- observa tudo que faço
+- fica me monitorando
+- saber onde estou
+- quer saber o tempo todo o que to fazendo
+- não quer que eu vá para as festas da minha família
+- tem ciúmes de todos os meus amigos
+- meu namorado tem a senha de todas as minhas redes sociais
+- meu namorado pediu a senha da minha conta no banco
+- salário
+- esconde dinheiro
+- dinheiro
+- controla dinheiro
+- conta
+- conta banco
+- muito gastadeira
+- gasta dinheiro
+- muito gastadeira
+- gasta dinheiro
+- confere fatura cartão crédito
+- senha banco
+- meu dinheiro
+- afastar familia
+- ninguém aproximar
+- não gosta
+- afastei
+- afastei familia
+- sair amigos
+- sair sozinha
+- fala mal amigos
+- trata mal
+- detesta festas
+- isolamento
+- observada
+- monitora
+- reclamar celular
+- vigiar
+- vigiando
+- ligar rastreador
+- rastreador
+- minhas conversas
+- senha redes sociais
+- mexe bolsa
+- localização celular
+- redes sociais
+- stalker
+- stalkeando
+- senha
+- privacidade
+- senhas
+- invade privacidade
+- conversas telefone
+- invade privacidade
+- localização
+- minhas coisas
+- insta
+- instagram
+- inferno
+- ciume ama d+
+- roupas decentes
+- monitorando
+- controlador
+- manipulador
+- controla vida
+- ciúme amigos
+- ciúme primos
+- doentio
+- maquiagem
+- roupa sair
+- só dele
+- controlando
+- ex namorado
+- ex-namorado
+- ex
+- olhando
+- decente
+- decentes
+- satisfação
+- ciumes
+- medo ciume
+- ciume medo perder
+- Ele não me deixa sair com os meus amigos
+- Ele não quer que eu visite minha família
+- Ele inventa que eu dou bola para todo mundo
+- Ele inventa que eu dou em cima de outros homens
+- Ele começou a me seguir em todo lugar que vou
+- não saio do meu pé no recreio
+- fica me vigiando no recreio
+- ele quer a senha do meu e-mail
+- ele quer que eu der a senha do meu celular
+- ele nao me deixa estudar com meus amigos
+- as vezes ele não me deixa sair com as minhas amigas
+- como eu falei anteriormente, ele as vezes não me deixa sair sozinha
+- meu ex criou uma conta fake pra ver as coisas que eu fazia
+- ja deixei de ir numa festa pq ela não queria so isso mesmo
+- gosto muito ele, mas ele me critica em tudo, não quer mais que saia com meus amigos
+- quer decidir com quem saio ou falo
+- quer que eu bloqueei quem ele n gosta
+- sempre olha quem comenta ou curte minhas fotos
+- Eu não quero que você saia com aqueles seus amigos
+- Você não vai sair com essa roupa
+- controla a minha vida
+- eu preciso avisar para ele quando eu vou sair de casa
+- já rasgou minhas roupas pra eu não usar
+- confere a fatura do meu cartão de crédito
+- não quer que saia com minhas amigas
+- me cobra satisfação de cada passo que dou
+- fuça minhas coisas
+- invade minha privacidade toda hora
+- olha minhas conversas no whatsapp
+- tenta controlar todos os meus passos
+- não gosta de nenhum dos meus amigos
+
+## intent:ajuda
+- tenho ninguém
+- chateada
+- Estou muito chateada por tudo que aconteceu
+- Estou na bad
+- estou desesperada
+- ser desprezada
+- posso ter carinho
+- prefiro carinho
+- queria carinho
+- pretendo ter carinho
+- carente
+- desprezada
+- desprezo
+- despreza
+- o que eu faço para acabar com essa situação?
+- magoada
+- zangada
+- ressentida
+- assustada
+- irritada
+- minha vida ta tão complicada
+- acho estou deprimida
+- acho que estou deprimida
+- na verdade me sinto vazia
+- Não sei se aguento passar por isso
+- Estou me automutilando por causa disso
+- eu fico me batendo
+- Fico me batendo o tempo todo
+- Não sei se vou ser capaz de aguentar isso
+- Preciso de alguem
+- Preciso de alguém
+- Eu estou me batendo
+- Estou me batendo
+- ele devia ser carinhoso comigo
+- Fico batendo em mim
+- Estou em pânico
+- aguento passar por isso
+- vou ser capaz de aguentar isso
+- Automultilação
+- Automultilacao
+- Estou me cortando
+- Estou me queimando
+- me arranhando
+- ele deveria me amar
+- socorro eu queria um abraço
+- tenho depresao
+- estou com depresão
+- estou com depreção
+- estou deprimida
+- Será que estou deprimida
+- Dizem que estou com depressão
+- Não sei o que fazer
+- vida complicada
+- Não tenho ideia do que fazer a partir de agora
+- minha vida está de cabeça pra baixo
+- Estou confusa
+- Não sei mais o que fazer
+- estou com muitos problemas
+- Estou muito mal
+- Não saio da cama
+- Não tenho apetite
+- Não consigo dormir
+- Parei de comer
+- triste o tempo todo
+- por favor ajuda
+- não tenho ninguém
+- triste toda hora
+- o tempo todo triste
+- estou sempre triste
+- parei até de comer
+- tenho depressao
+- sera que tenho depressao?
+- eu tenho muitos problemas na minha vida
+- tenho depressão
+- to deprimida
+- me sinto muito deprimida
+- choro demais
+- só faço chorar
+- estou paralisada, não consigo fazer nada
+- não consigo fazer mais nada
+- sou uma pessoa triste
+- dormir é até difícil
+- nem consigo dormir
+- não tenho nenhum apetite
+- não consigo nem comer
+- não consigo me mover
+- não saio da cama
+- Não tenho vontade de fazer nada
+- Estou muito mal
+- Não paro de chorar
+- Choro muito
+- estou deprimida
+- remédio para depressão
+- Ninguém me apoia
+- Não sei como pedir ajuda
+- desesperada
+- fico assombrada perto das pessoas
+- tenho medo de ficar perto
+- tou perdida
+- to perdida
+- nao sei oq fazer
+- eu quero mais carinho
+- preciso de carinho
+- ele deveria dar carinho
+- bad
+- to na bad
+- tou triste demais
+- tô tristinha
+- to triste
+- tou muito mal
+- tô bem mal
+- tô mal
+- tou mal
+- me ajuda a sair disso Maia
+- nao sei mais o que fazer
+- não sei mais o que fazer
+- percebo que estou triste
+- estou triste
+- me sinto vazia
+- me sinto triste
+- solitária
+- medo de ficar perto das pessoas
+- deveria cuidar de mim
+- deveria me dar carinho
+- deveria me amar
+- devia ser carinhoso
+- estou entrando em depressão
+- as coisas estão tão difíceis
+- eu não sinto mais alegria
+- estou isolada
+- me sinto tão isolada
+- sou abusada diariamente
+- sofro abusos
+- sofrendo abusos
+- estou em depressao pro causa disso
+- Minha familia não me apoia
+- socorro preciso de ajuda
+- estou em depressão pro causa disso
+- gostaria de contar o que esta acontecendo comigo
+- estou com problemas
+- tenho uma amiga que sofre de depressão
+- com que eu preciso falar?
+- preciso de apoio
+- encontrar apoio
+- quero conversar
+- socorro preciso ajuda
+- morro de vergonha
+- familia não apoia
+- não apoia
+- socorro
+- preciso de ajuda
+- quem pode me ajudar?
+- socorro preciso de ajuda urgente
+- onde posso buscar ajuda ?
+- quem pode me ajudar?
+- socorro preciso de ajuda
+- sou desprezada
+- Estou muito chateada por tudo que está acontecendo
+- Estou me arranhando
+- Me ajuda, Maia
+- eu não tenho ninguém
+- socorro, Maia... não sei mais o que fazer
+- Estou desesperada
+- Não tenho ninguém
+- me ajuda
+- Tomo remédio para depressão
+- sera que tenho depressao
+- Tenho depressão
+- Fico triste o tempo todo
+- Estou triste demais
+- Estou mal
+- estou com muitos problemas, hora apanho do meu marido, hora ele fica muito ciumento. Não sei mais o que fazer. Estou confusa, minha vida está de cabeça pra baixo. Não tenho ideia do que fazer a partir de agora. Mas eu amo ele
+- to muito feels bad
+- to mó bad hj
+- não sei o que fazer
+- tô meio mal
+- me ajuda a sair disso Maia...não sei mais o que fazer
+- as vezes paro do nada e percebo que estou triste
+- estou solitária
+- ele deveria me dar carinho
+- ele deveria cuidar de mim
+- eu fui tão machucada que tenho medo de ficar perto das pessoas
+- estou sofrendo abusos
+- as coisas estão tão difíceis que já estou entrando em depressão
+- não sei o que devo fazer, preciso ajuda
+- não me apoia
+
+## intent:relacionamento_abusivo
+- o que e uma relacao abusiva?
+- o que e uma relação abusiva?
+- como eu faço para reconhecer um relacionamento abusivo?
+- eu também estou num relacionamento abusivo
+- relacionamento abusivo
+- Será que meu namoro é abusivo?
+- Será que estou em um namoro abusivo?
+- Será que estou em um uma relação abusiva?
+- O que um namorado faz quando um relacionamento é abusivo?
+- Como sei se estou em um relacionamento abusivo?
+- O que é relacionamento abusivo?
+
+## intent:bias
+- to namorando
+- como eu faço para reconhecer?
+- Não, como eu faço para reconhecer?
+- como eu faço para saber?
+- como faço ?
+- com certeza
+- to naum...
+- nunca se sabe
+- nao entendi
+- não entendi
+- ele é lindo
+- Vamos pra Paris!
+- obrigada...
+- não, isso é demais pra mim
+- tou namorando
+- Estou magoada
+- Estou muito magoada por tudo isso
+- não duvido
+- creio q s
+- pior que ja
+- obvio
+- minha melhor amiga esta passando por isso
+- sim, minha melhor amiga
+- claro
+- afirmativo
+- afirmativo, pode me mandar sim!
+- verdade
+- não, como podemos proceder?
+- por favor
+- tenho agora
+- estou em um relacionamento abusivo
+- hoje já estou num relacionamento abusivo
+- eu também estou
+- aham
+- minha amiga
+- minha melhor amiga
+- pode me enviar sim, por favor
+- positivo
+- assim mesmo
+- pessimo
+- péssimo
+- uma merda
+- acho que uma amiga
+- acredito que não
+- de nada
+- seu namorado bate em você?
+- seu namorado grita com vc?
+- Tentei, mas ele disse que me amava muito
+- quero
+- Te bateu?
+- obrigada
+- Amiga?
+- ele é lindo
+- nao acredito
+- serio ? não acredito
+- não acredito nisso
+- Vamos conversar
+- gosto de viajar para paris
+- meu namorado e demais e lindo
+- Passei um tempo magoada mas agora estou bem
+- quero não
+- ta bom
+- tâ bom
+- estou sem autoestima
+- estou sem auto-estima
+- não tenho ninguem
+- bem a minha cara
+- não me importa
+- vai se fuder bixo nmr tu é burra de mais cacete
+- Ta sim
+- Ta ok
+- ninguém gosta de mim
+- sou top
+- sou demais, amiga
+- sou muito eu
+- Prometo ser uma diva
+- estou passando por isso
+- toma no cu
+- tomar no cu
+- Maia sua louca beijos
+- migaaaa sua louca
+- me deu um presente
+- Poxa é exatamente o que estou passando
+- pediu desculpas
+- e contigo?
+- eu já tive problemas com minhas amigas
+- lógico que não
+- muito obrigada
+- obrigado pela dica
+- pois é sei que existem essas coisas bizarras, mas obrigado pela dica!
+- deus me livre
+- evidente que não imagina
+- acredito não
+- olá
+- nunca contei não
+- eu amo ele demais
+- claro que dá
+- mano do cêu
+- acredito sim
+- caraca que coisa ruim
+- não acredito
+- miga sua louca
+- nós nos amamos
+- só
+- ele é o amor da minha vida
+- em briga de marido e mulher não se mete a colher
+- meu namorado e lindo
+- meu namorado foi um lindo
+- tudo ótimo!
+- Não sou muito próxima da minha família e não tenho amigos
+- vou tentar
+- pior que já
+- bom dia
+- não que eu tenha percebido
+- medo de terminar porque gosto muito dele
+- porra
+- nada a ver
+- oi
+- eu sou feliz com meu amigo
+- gosto de correr com minhas amigas
+- eu tenho um cartão
+- eu faço arroz
+- eu
+- mais ou menos, pq
+- tudo e com vc
+- tudo e com você?
+- nossa serio
+- você
+- tudo otimo
+- manda a boa
+- e ae parceiro
+- e aí
+- olááá
+- tudo tranquilo?
+- ola, tudo bem?
+- como vc está?
+- eu estou muito bem e você como está?
+- ta td bem?
+- td certinho?
+- fala comigo
+- eaiii
+- opa!
+- olar
+- oiiii
+- bom dia, como vai?
+- já
+- sei
+- acho que devo fazer isso hoje
+- estou
+- quero não, cancele
+- nem a pau
+- é
+- é
+- to naum
+- to naum... mas ja namorei um porquinho?
+- nunca por isso
+- naum
+- concerteza
+- errado
+- siim
+- quero sim
+- não
+- ele
+- para
+- diz
+- de
+- só se importa com ele
+- namorei
+- tenho
+- minha
+- que
+- com
+- me
+- em
+- tranquilo
+- não, ele me incentiva a fazer as coisas
+- Uma vez eu tentei mas conversamos e acabei n terminando
+- que merda de bot
+- quero não caceta
+- acredito que sim
+- acredito que nao
+- mais ou menos
+- to naum... mas nunca se sabe
+- mas não foi muito bom
+- mais ou menos, pq?
+- mais ou menos, porque?
+- acho que não
+- to naum... mas ja namorei um porquinho
+- tudo horrível
+- tudo uma merda
+- nada horrivel
+- não estou namorando
+- não quero mais isso
+- não estou feliz
+- obvio que sim
+- exatamente!
+- claro que sim
+- estou fincando
+- estou namorando
+- sim estou namorando
+- já mas não foi muito bom
+- já estou
+- estou já
+- estou em um lugar como esse
+- que ótimo
+- ótimo
+- que otimo
+- too namorando
+- to namorando sim
+- tenho sim
+- tenho concerteza
+- tenho com certeza
+- a ta sei
+- eu não tenho ninguem
+- quero não cacete
+- Ta
+- não, em briga de marido e mulher não se mete a colher
+- eu adoro meu namorado
+- eu amo meu namorado
+- tudo ótimo! meu namorado foi um lindo e me deu um presente adiantado. Vamos pra Paris!
+- tenho medo de terminar porque gosto muito dele
+- lógico que sim
+- sei sim
+- claro que não
+- evidente que não
+- nem que a vaca tussa
+- não né
+- não né
+- naum neh
+- claro que não
+- lógico que sim
+- claro que sim
+- sim
+
+## intent:violencia_fisica
+- meu namorado me bate
+- fui molestada
+- eu fui esrtuprar
+- eu fui esrtruprar
+- pq fui estuprada
+- pessimo porque fui estuprada
+- era papai sair que ele fazia isso comigo
+- sou obrigada a tranzar
+- sou obrigada a transar
+- namoro me empurrou
+- agredia
+- me maltrata
+- me bate
+- empurrões
+- empurrão
+- molestada
+- violentada
+- torturada
+- perseguida
+- assassinada
+- tem sendo espancada
+- tem sida espancada
+- tive permanecido espancada
+- tive sida espancada
+- Tenho sobrevivido espancada
+- Tenho sidos espancada
+- Tenho sida espancada
+- fica me batendo
+- Fico me batendo
+- meu namorado passou por cima de mim com o carro
+- tenho sido estrupada
+- sou estrupada
+- fui estrupada novamente
+- ele me deu um tapa na minha cara
+- estou sendo estrupada pelo meu avo
+- fui estruprada pelo meu tio
+- já fui estrupada pelo meu pai
+- vive tentando me enfocar
+- Fico me batendo
+- homem me estrupou
+- namorado me estrupou
+- tentou me enfocar
+- me estrupro com violencia
+- fui estruprada
+- tentou estrupra
+- tentou estrupa
+- ele tentou estupra
+- ele tentou estrupada
+- mas estrupada
+- porque fui estrupada
+- já fui estrupada
+- fui estrupada
+- não aguento mais apanhar
+- estrupo
+- eu sofri estrupo
+- sofri estrupo
+- ele me estrupo
+- estrupo
+- já fui estuprada demais
+- já fui estuprada por várias pessoas
+- já fui estuprada pelo meu irmão
+- apanho de noite
+- apanho todos os dias
+- ele vinha fazer aquilo comigo
+- faca no meu pescoço
+- espancamento
+- abusada pelo meu pai
+- abusada por meu irmão
+- abusada pela professora
+- abusada pela família
+- violentada pelo pai
+- estuprada pela família
+- hora apanho do meu marido
+- ele me deu um morro
+- levei um murro ontem
+- ele me deu um murro
+- se ele encostar em mim, vou ficar mal de novo
+- apertou minha bunda sem eu deixar
+- ele é muito nojento
+- botou o pau dele pra fora
+- meu marido quer me matar
+- meu marido quer me matar
+- meu namorado quiz me matar
+- ele acha que vai me matar
+- ele tá tentando me matar
+- ele quis me matar ontem
+- ele quer me matar
+- nao deixo encostar em mim
+- não deixo encosta em mim
+- sexo a forca
+- fazer sexo à força
+- transar sem consentimento
+- transar a força
+- ele agarrou meu pescoço
+- tentou me enforcar
+- fazer aquilo comigo
+- abusada
+- colocou o pinto pra fora
+- machucou
+- me fez pegar no pinto dele
+- tive que ficar pelada
+- obrigou a tirar a roupa
+- machucada
+- ele tentou me bater
+- vinha fazer aquilo comigo
+- abraça pegando na bunda
+- ele encostar em mim
+- obrigou a fazer sexo
+- gozou dentro sem eu deixar
+- obrigou a fazer sexo com ele
+- obrigou a chupar ele
+- abusada
+- mas me bateu de novo
+- namorado esta me ameaçando
+- meu marido me empurrou
+- meu noivo me empurrou
+- já me empurrou varias vezes
+- toda vez ele me empurra
+- meu namoro me empurrou
+- passou por cima de mim com o carro
+- me empurrou
+- sendo agrdida
+- agarrou pelo braço e me obrigou a ir embora de uma festa
+- pressiona sexualmente
+- estou sendo estupada
+- ele me puxou pelo braço
+- porque fui estuprada
+- mas fui estuprada
+- ola estou sendo estrupada
+- não ne!! estou apanhando demais
+- ele é egoísta na cama
+- percebi que ele me toca enquanto durmo
+- ele não respeita minhas vontades na cama
+- meu namorado me deu uns empurrões fortes ontem
+- n respeita qndo digo n
+- aperta meu braço quando acha que estou falando alto
+- faço sexo por me sentir manipulada
+- sexo manipulada
+- socorro preciso de ajuda agora
+- fui agredida, o que devo fazer?
+- me agride e diz que foi porque estava bebado
+- apanho todos os dias
+- me agride
+- me pressiona a perder a virgindade
+- meu namorado já foi agressivo comigo
+- insiste em práticas sexuais que não gosto
+- meu ficante apertou meu braço e ficou roxo
+- apanhei recentemente do meu namorado
+- quando estou dormindo meu namorado me toca
+- eu fui estruprada
+- eu fui estuprada
+- estrupado
+- estrupada
+- estrupo
+- estupro
+- estuprada
+- meu marido me agrediu
+- namorado me bate
+- apertou braço
+- empurrou na parede
+- apanhei dele
+- bate mim
+- dá mim
+- espancada
+- espancou
+- insiste praticas sexuais
+- toca durmo
+- enquanto durmo
+- insiste fazer sexo
+- sexo força
+- estupro
+- forçou fazer sexo
+- pressiona virgindade
+- respeita cama
+- egoísta cama
+- bateu em mim
+- ele agrediu
+- ele me agrediu
+- me ataca
+- bate
+- chuta
+- intimidada bravo
+- empurrões
+- apertou
+- agredida
+- agride
+- agressivo
+- apertando braço roxo
+- tapa
+- soco
+- murro
+- chute
+- agride bêbado
+- agredida
+- aperta braço
+- fui molestada várias vezes
+- estou sendo torturada
+- Meu namorado me estrupou
+- Um homem me estrupou
+- Sofri um estrupo
+- me bateu no recreio
+- tentou me enforca
+- é normal ele me bater?
+- já fui estrupada pelo meu pai... acho que é bem pior que sua situação de adolescente besta
+- ele colocou a faca no meu pescoço
+- o meu namorado quiz me matar
+- ele quis me matar
+- ele tentou me matar
+- ele botou o pau dele pra fora, achei isso super nojento
+- ele pegou meu braço com tanta força que até ficou roxo
+- estou sendo espancada pelo meu parceiro
+- ele tentou transar comigo a força
+- ele me chutou
+- ele apertou minha bunda
+- era só mamãe sair que ele vinha fazer aquilo comigo
+- ele me obrigou a tirar a roupa
+- tive que ficar pelada a força
+- ele me fez pegar no pinto dele
+- ele me machucou ontem
+- ele me arrastou para um beco e colocou o pinto pra fora, foi nojento
+- fui estuprada
+- ele gozou dentro sem eu deixar
+- estou sendo abusada pelo meu pai
+- fui abusada ontem
+- ele me obrigou a fazer sexo com ele
+- fui obrigada a tranzar
+- me obrigou a chupar ele
+- sim, meu namoro me empurrou
+- ele está me batendo agora
+- ele me agarrou pelo braço e me obrigou a ir embora de uma festa
+- tudo pessimo porque fui estuprada
+- tô que falando apanho todos os dias
+- sim! apanhei recentemente do meu namorado
+- me agride e diz que foi porque estava bêbado
+
+## intent:violencia_verbal
+- meu namorado me chama de burra
+- me ameaça
+- sempre errada
+- me faz acreditar
+- meu namorado grita comigo e reclama das minhas roupas
+- sempre é uma perturbação
+- tem nudes meus
+- ele tem nudes meus
+- chama louca
+- fala que sou louca
+- diz que sou louca
+- me atormenta
+- ele me critica em tudo
+- perturbação
+- perturba
+- insultada
+- insulta
+- atormenta
+- assediada
+- humilhada
+- disse que eu era louca
+- afirmou que eu seria feia
+- afirmou que eu seria louca
+- disse que eu era louca
+- ficou me xingando no recreio
+- visto como uma puta
+- Ele diz que eu me visto como uma puta
+- meu namorado vive me chamando de baranga
+- meu marido me chamou baranga
+- Ele diz que sou vulga
+- fala para todo mundo que me odeia
+- sempre diz que me odeia
+- nudes para todo mundo
+- compartilhar nudes
+- vai mandar nudes
+- sempre fala que me odeia
+- ele diz que odeia
+- tenta me diminui
+- tenta me diminuir
+- ele fala que me odeia
+- reclama das minhas roupas
+- meu namorado grita comigo
+- fui estrupada
+- me ameaça quando vou terminar com ele
+- rapariga
+- fala que me odeia
+- fala que me ama
+- fala que sou um lixo
+- faz eu me sentir ridícula na frente dos amigos
+- odeia
+- me chamou baranga
+- mentirosa
+- reclama das minhas roupas
+- que me visto mal
+- fala mal do jeito que me visto
+- grita comigo
+- ele me critica em tudo
+- meu namorado me acha safada de mais
+- ele me critica
+- namorado me acha safada
+- acha safada
+- fica brigando comigo e me faz sentir como se ele não me quiser, ninguém mais vei querer
+- ele me chama de louca
+- faz acreditar que estou errada
+- ele me faz acreditar que eu estou sempre errada
+- meu namorado grita comigo
+- diz que minhas roupas são vulgares
+- me expõe, mas fica brigando comigo
+- o namorado dela grita com ela
+- meu namorado esta me ameaçando
+- ofendeu na frente de outras
+- me critica em tudo
+- ameaça quando vou terminar
+- meu paquera tem sido muito grosso comigo
+- fala que não sou inteligente
+- diz que não sou capaz
+- fala que n sou boa o bastante para ele
+- responsável pelas nossas discussões
+- apoia
+- mesmo quando ele ta errado, joga a culpa pra mim
+- fala que meus amigos são má influência
+- me constrange na frente dos outros
+- faz chantagem psicológica
+- fala de um jeito assustador que não podemos ter segredos
+- me ridiculariza
+- diz que vai se matar se eu deixá-lo
+- diz que meu pai é um dominado
+- me chama de maluca e fala que eu tô inventando coisas
+- me ameaça para transar
+- fica assustador quando bebe
+- me culpa por tudo
+- n consigo conversar com ele
+- diz que to louca
+- me agride verbalmente
+- faz piada com minhas notas na escola
+- Só eu para aguentar você mesmo, sem mim você não é nada
+- Você não tem amigos porque ninguém te suporta
+- eu gritei porque você não entendeu
+- se você fizer isso, perde o meu amor
+- ele me compara com a ex
+- faz drama para conseguir o que quer
+- ele tem abalado muito a minha autoestima
+- louca
+- piada
+- verbalmente
+- ridiculariza
+- fica com piadinhas quando me arrumo...
+- socorro preciso de ajuda..
+- ele disse que se eu acabar o namoro me mata
+- meu namorado esta me constrangendo na frente dos outros
+- esta me constrangendo na frente dos outros.
+- me constrange na frente dos outros..
+- constrange na frente dos outros
+- me xinga pelo que está ruim pra ele
+- me xinga pelo que está ruim pra ele
+- fala que estou pareço uma vadia quando uso maquiagem mais forte
+- fala que o problema do nosso relacionamento sou eu
+- meu parceiro coloca defeito no que ta perfeito
+- fala que meus pais são medíocres
+- fala que meus amigos são tontos
+- fala mal da minha família
+- fica com piadinhas quando me arrumo
+- fala que se eu n fizer sexo, vai procurar outra
+- me diminui
+- meu namorado vive dizendo que eu sou gorda
+- meu namorado me xinga o tempo todo
+- não acredita no que digo
+- reclama de tudo que faço
+- crítica o jeito que falo
+- crítica meu comportamento
+- não sou ninguém
+- me magoou profundamente
+- me sinto ferida
+- agressivo comigo
+- chama de otária
+- estupida
+- gorda
+- namorado xinga
+- tomar decisões
+- sinto besteira
+- duvida de mim
+- não acredita
+- confia em
+- sentindo insegura
+- importa com
+- não respeita
+- perdi amor próprio
+- sinto besteira
+- tristezas bobagem
+- drama
+- Minimiza conquistas
+- não tem confiança
+- psicológico
+- triste
+- chorar
+- choro
+- superior
+- piadinhas
+- paquera mulheres
+- acabar namoro mata
+- chantagem emocional
+- obriga
+- drama conseguir
+- chantagem conseguir
+- ameaça transar
+- chantageia transar
+- n fizer sexo
+- rasgou roupas
+- quebrou celular
+- quebra coisas
+- joga objetos
+- dominador
+- critica jeito
+- coloca defeito
+- reclama tudo
+- n sou ninguém
+- constrange
+- escândalo
+- imbecil
+- constrangimento
+- estúpida
+- me visto mal
+- feia
+- burra
+- idiota
+- grita
+- culpa
+- me humilha
+- vadia
+- compara ex
+- diminui
+- tenta diminuir
+- sem autoestima
+- xinga
+- grito
+- autoestima
+- autoestima abalada
+- sem ele nada
+- boa bastante
+- prostituta
+- grosso
+- coisa de puta
+- gorda
+- gritei
+- critica comportamento
+- humilha
+- verbalmente
+- estou sendo ameaçada pelo meu namorado
+- meu namorado me chama muito de burra
+- constanemente me insulta
+- ele me ameaçou dizendo que vai mandar nudes meus para todo mundo
+- ele faz eu me sentir ridícula na frente dos meus amigos
+- todas as noites antes de dormir ele fala que me odeia
+- Meu marido me chamou de baranga
+- não, meu namorado me acha safada de mais
+- Ele me chama de louca
+- quando fui tomar satisfação ele disse que eu era louca e não valorizava tudo que ele fazia por mim
+- me ofendeu na frente de outras
+- ele não me expõe, mas fica brigando comigo e me faz sentir como se ele não me quiser, ninguém mais vei querer
+- meu namorado diz que minhas roupas são vulgares
+- ele me faz acreditar que eu estou sempre errada mesmo quando ele é
+- meu namorado grita comigo e reclama da minha roupa
+- o namorado dela grita com ele
+- ele me ameaça quando vou terminar com ele
+- fala que sou mentirosa
+- me chama de louca
+- fica gritando igual um maluco
+- diz que vai me matar se eu acabar o namoro
+- ele sempre me faz sentir culpada
+- fala que minha mãe é burra
+- Você é sempre a responsável pelas nossas discussões
+- ele me culpa pelas nossas discussões
+- faz chantagem para conseguir sexo
+- fala que minhas tristezas são bobagem
+- diz que tudo que sinto é besteira
+- fala que maquiagem pesada é coisa de puta
+- age como louco e diz que foi culpa do álcool
+- diz que sem ele não sou nada
+- constrangimento público
+- me chama de tonta
+
+## intent:traicao
+- tem outra
+- traida e não sabe
+- canalha
+- trapaceiro
+- adúltero
+- adultério
+- infidelidade
+- Meu namorado saiu com outra
+- chifres
+- chifrada
+- sou uma corna
+- fui chifrada
+- fui chifruda
+- meu namorado tem outra
+- a traição é visível
+- todo mundo sabe da minha traicao
+- minha traição é pública
+- chifres
+- Fui chifrada
+- minha traição
+- traição
+- traida
+- na verdade ia se encontrar com outra pessoa
+- vi meu namorado ficando com outra menina
+- Maia, acho que ele tá com outra pessoa
+- ele tá me traindo com ela
+- sou traída mas eu amo ele
+- fui traida muitas vezes já por aquele canalha
+- vem me traindo há mais de 2 anos
+- traída
+- traida
+- cansada de ser traída
+- descobrir que meu namorado esta me traindo
+- meu namorado está saindo com outra pessoa... vi os dois juntos um dia
+- descobrir que meu namorado esta me traindo
+- meu namorado mentiu pra mim
+- se encontrar com outra pessoa
+- meu namorado mentiu, encontrar com outra pessoa
+- meu namorado beijando outra pessoa
+- encontrar com outra pessoa
+- namorado beijando outra pessoa
+- marcando encontro com outra menina
+- marcando encontro com outra mulher
+- meu namorado está marcando encontro com outra
+- mensagens carinhosas com outra menina
+- levo muito gaia
+- apesar da traição ainda gosto dele
+- minha amiga é traida
+- não aguento mais a tração
+- descobri que ele estra traindo com minha melhor amiga
+- sei que esta me traindo
+- esta me traindo com outra
+- sou traida muitas vezes
+- estar traindo
+- meu namorado esta me traindo
+- traição
+- Descobri uma traição
+- Ele beija outras garotas
+- Meu namorado fica com outras meninas
+- sou corna
+- fui corna
+- Tomei chifre
+- Fui chifruda
+- Meu namorado me pos chifres
+- Descobri que fui traída
+- Fui traída
+- Acho que estou sendo traída
+- Acho que meu namorado tem outra
+- Meu namorado me trai
+- Meu namorado está me traindo
+- vi meu namorado trocando mensagens carinhosas com outra menina e marcando para sair
+- acho que meu namorado está me traindo
+- vi meu namorado beijando outra pessoa
+- sei que meu namorado está saindo com outra pessoa...vi os dois juntos um dia
+- meu namorado mentiu pra mim dizendo que ia para um lugar, mas na verdade ia se encontrar com outra pessoa
+- vi meu namorado trocando mensagens carinhosas com outra menina e marcando de sair com ela
+- ele sempre conversa com uma outra menina e acho que ele tá me traindo com ela
+- levo muita gaia
+- minha traição é pública, todo mundo sabe
+- estou cansada de ser traída
+- minha amiga é traida e não sabe... coitada
+- ele vem me traindo há mais de 2 anos
+- ele está me traindo
+- estou sendo traída

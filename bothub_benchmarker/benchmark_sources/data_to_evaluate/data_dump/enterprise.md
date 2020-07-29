@@ -1,0 +1,363 @@
+
+## intent:suporte
+- tem como [mandar alguém](suporte) consertar a [internet](internet)?
+- tem como alguém vir aqui [resolver](suporte) o [problema](suporte) de [internet](internet)?
+- [suporte](suporte)
+- quero [suporte](suporte)
+- quero [solicitar suporte](suporte)
+- quero ser atendido
+- quero informação sobre a [área do assinante](area-assinante)
+- quero atendimento [suporte](suporte)
+- quero acessar a [área do assinante](area-assinante) da minha [empresa](juridica)
+- pode mandar alguém [resolver](suporte) o [problema](suporte) de [internet](internet)?
+- o roteador [queimou](suporte). tem como alguém de [suporte](suporte) vir aqui em [casa](fisica)?
+- o roteador [quebrou](suporte)
+- o fio da [internet](internet) [pocou](suporte)
+- minha [internet](internet) tá muito lenta hoje
+- meu roteador [queimou](suporte)
+- meu roteador [queimo](suporte)
+- meu [roteador](internet) [quebrou](suporte)
+- meu aparelho [quebrou](suporte)
+- informar como acessar [área do assinante](area-assinante)
+- estou com [problemas](suporte) de [internet](internet) em [casa](fisica)
+- estou com [problemas](suporte) de [interne](internet)
+- estou com [problemas](suporte)
+- dar informações técnicas iniciais
+- como posso acessar a [área do assinante](area-assinante)?
+- como posso acessar a [area do assiante](area-assinante)
+- como eu acesso a página do assinante?
+- [cabo](cabo-rede) [rompido](suporte)
+- acessar [área do assinante](area-assinante)
+- a [internet](internet) tá muito [lenta](suporte)
+- a [internet](internet) [tá caindo muito](suporte)
+- a [internet](internet) [não tá funcionando](suporte)
+- Suporte 🛠
+- [Suporte](suporte)
+- Atendimento 🛠
+- Atendimento
+
+## intent:financeiro
+- é o [plano](plano) que eu quero [mudar](alteracao)
+- É [fibra](fibra-optica) ótica?
+- vocês trocam a [data de vencimento](vencimento) do [boleto](boleto)?
+- vocês poderiam por gentileza [liberar](confianca) a [internet](internet)?
+- vocês [alteram](alteracao) a [data de vencimento](vencimento) da [internet](internet)?
+- venham [resolver](suporte) a pexte bulbonica dessa [internet](internet)
+- [vencimento](vencimento)
+- [velocidade](velocidade)e
+- [vellocidade](velocidade)e
+- [vellocidade](velocidade)
+- tô querendo [negociar](negociacao) minha dívida
+- tô pensando em fazer [downgrade](alteracao) na [internet](internet) de [casa](fisica)
+- tô afim de [mudar](alteracao) a [velocidade](velocidade) da [internet](internet)
+- tô afim de [alterar](alteracao) a [velocidade](velocidade) do meu [plano](plano)
+- tenho quantas [parcelas](parcela) em aberta?
+- tenho [parcelas](parcela) atrasadas
+- [segundavia](segundavia)
+- [segunda via](segundavia) mano
+- [segunda via](segundavia) do [boleto](boleto)
+- [segunda via](segundavia) de novo
+- [segunda via](segundavia) da [fatura](boleto)
+- [segunda via](segundavia)
+- se eu pagar o [boleto](boleto) vocês [liberam](confianca) a [internet](internet)?
+- se eu pagar a [conta](boleto), vocês [libera](confianca)m a [internet](internet) em quantos dias?
+- quero ver minha [situação financeira](posicaofinanceira)
+- quero um [plano](plano) maior
+- quero [trocar](alteracao) [data de vencimento](vencimento) da [fatura](boleto)
+- quero tratar de [parcelas](parcela)
+- quero tirar minha [segunda via](segundavia) de [boleot](boleto)
+- quero [segunda via](segundavia) da [conta](boleto) de [internet](internet)
+- quero saber se a minha [parcela](parcela) já foi [abatida](abatimento)
+- quero saber como está o meu débito
+- quero por [internet](internet) no meu [lar](fisica)
+- quero por [internet](internet) no meu [cafofo](fisica)
+- quero pagar a [internet](internet)
+- quero pagar a [instalção](instalacao)
+- quero pagar a [insalação](instalacao)
+- quero pagar a [conta](boleto), mas a msm [ragou](segundavia)
+- quero pagar a [[cont](boleto)a](boleto) desse mês[, mas meu cach](segundavia)orro comeu a [[cont](boleto)a](boleto)
+- quero pagar a [conta](boleto) de [internet](internet) da minha [casa](fisica)
+- quero pagar a [conta](boleto) de [internet](internet)
+- quero pagar a [conta](boleto) da [empresa](juridica)
+- quero [negociar](negociacao) umas [parcelas](parcela)
+- quero [negociar](negociacao)
+- quero [mudar](alteracao) [plano](plano) da [internet](internet) de [casa](fisica)
+- quero [mudar](alteracao) o [vencimento](vencimento) do [boleto](boleto)
+- quero [mudar](alteracao) o [vencimento](vencimento) da [fatura](boleto)
+- quero [mudar](alteracao) a data que [vence](vencimento) a [fatura](boleto)
+- quero [mudar](alteracao) a [data de vencimneto](vencimento) do meu [boleto](boleto)
+- quero [mudar](alteracao) a [data de vencimento](vencimento) do [boleto](boleto)
+- quero [mudar](alteracao) a [data de vencimento](vencimento) da [fatura](boleto)
+- quero [mudar](alteracao) a [data de vencimento](vencimento)
+- quero [migrar](alteracao) de [plano](plano)
+- quero [liberar](confianca) [internet](internet) por [confiança](confianca)
+- quero [liberar](confianca) [internet](internet)
+- quero [imprimir](segundavia) o [boleto](boleto) da [segunda via](segundavia)
+- quero [imprimir](segundavia) [boleto](boleto) da [internet](internet) de [casa](fisica)
+- quero [imprimir](segundavia) [boleto](boleto)
+- quero [imprimir](segundavia) a [conta](boleto) de [internet](internet)
+- quero gerar [segunda via](segundavia) de [internet](internet)
+- quero gerar [segunda via](segundavia) de [conta](boleto)
+- quero gerar [segunda via](segundavia) da [conta](boleto) de [internet](internet)
+- quero gerar [segunda via](segundavia) da [conta](boleto)
+- quero gerar a [segunda via](segundavia)
+- quero gerar [2ª via](segundavia)
+- quero gerar [2 via](segundavia) do [boleto](boleto)
+- quero gerar [2 via](segundavia) de [boleto](boleto) da [empresa](juridica)
+- quero fazer [upgrade](alteracao) no [plano](plano)
+- quero fazer um [cancelamento](cancelamento)
+- quero entrar em uma [negociação](negociacao)
+- quero [encerrar](cancelamento) o [plano](plano)
+- quero [consultar](consulta) [parcela](parcela)
+- quero [consultar](consulta) a [area do assinante](area-assinante)
+- quero confirmar se uma [parcela](parcela) foi paga
+- quero [cancelar](cancelamento) [plano](plano)
+- quero [cancelar](cancelamento) o [plano](plano) de [internet](internet)
+- quero [cancelar](cancelamento) o [plano](plano)
+- quero [cancelar](cancelamento) o meu [plano](plano) de [internet](internet)
+- quero [cancelar](cancelamento) meu [plano](plano)
+- quero [cancelar](cancelamento) meu pacote de [internet](internet)
+- quero [cancelar](cancelamento) a [internet](internet)
+- quero [cancelamento](cancelamento) de [internet](internet)
+- quero [aumentar](alteracao) minha [internet](internet)
+- quero [aumentar](alteracao) a [velocidade](velocidade) do [plano](plano)
+- quero [aumentar](alteracao) a [velocidade](velocidade) da [net](internet)
+- quero [anular](cancelamento) o [plano](plano)
+- quero [alteraçãi](alteracao)
+- quero [alterar vencimento](vencimento)
+- quero [alterar velocidade](velocidade) da [internet](internet) da [empresa](juridica)
+- quero [alterar](alteracao) [velocidade](velocidade) da [internet](internet)
+- quero [alterar](alteracao) a [velocidade](velocidade) da [internet](internet) daqui de [casa](fisica)
+- quero [alterar](alteracao) a [velocidade](velocidade) da [internet](internet)
+- quero [alterar](alteracao) a [data de vencimento](vencimento) da [fatura](boleto) da [empresa](juridica)
+- quero [alterar](alteracao) a [data de vencimento](vencimento) da [fatura](boleto)
+- quero [abater](abatimento) metade da minha dívida
+- quero a [segunda via](segundavia)
+- quanto pode ser o [abatimento](abatimento) da meu débito
+- preciso [desbloquear](confianca) minha [net](internet)
+- pra minha [casa](fisica)
+- posso [mudar](alteracao) o [plano](plano)?
+- posso [mudar](alteracao) de [plano](plano)?
+- posso [mudar](alteracao) a data de [validade](vencimento) da [fatura](boleto)?
+- posso [imprimir](segundavia) [2 via](segundavia) da [conta](boleto) de [internet](internet)?
+- posso [cancelar](cancelamento) a [internet](internet) no mês que vem?
+- posso [aumentar](alteracao) a [internet](internet)?
+- posso alterar a [velocidade](velocidade) da [internet](internet)?
+- [posição financeira](posicaofinanceira)
+- pode mudar a [rapidez](velocidade) da [internet](internet)?
+- perdi a minha [segunda via](segundavia)
+- paguei uma letra e quero saber se já foi debitada
+- paguei um [boleto](boleto) e quero saber se o mesmo já foi compensado
+- paguei a minha [internet](internet) e quero [desbloquear](confianca)
+- paguei a [internet](internet), [libera](confianca) ae
+- paguei a [conta](boleto) de [internet](internet), vocês podem [liberar](confianca)?
+- pagar
+- onde eu vou para [contratar](contratacao) um [plano](plano) de [internete](internet) [empresa](juridica)?
+- olá, meu nome é Peter, e eu estou precisando da [segunda via](segundavia) da [internet](internet)
+- olá! quero [segunda via](segundavia)
+- ola meu [boletos](boleto) estao atrasados
+- não uso mais a [internet](internet), quero [cancelar](cancelamento)
+- não recebi a minha [fatura](boleto)
+- não recebi a [fatura](boleto) esse mês
+- não efetuei o pagamento da [fatura](boleto)
+- [negociar](negociacao) [parcela](parcela)s
+- [mudar](alteracao) [vencimento](vencimento)
+- [mudar](alteracao) minnha [velocidade](velocidade) de [internet](internet)
+- minha [conta](boleto) de [internet](internet) [ragou](segundavia)
+- meu [cachorro comeu](segundavia) a [conta](boleto) de [internet](internet)
+- [liberem](confianca) a [internet](internet) pois eu irei pagar o [boleto](boleto)
+- [libera](confianca)r [internet](internet)
+- [imprimir](segundavia) [parcela](parcela)
+- [imprimir](segundavia) [fatura](boleto)
+- gostaria de [imprimir](segundavia) a primeira via do [boleto](boleto)
+- gerar [segunda via](segundavia) de [conta](boleto)
+- gerar [2ª via](segundavia) de [conta](boleto)
+- financeiro
+- eu quero [mudar](alteracao) a [data de vencimento](vencimento) da [fatura](boleto)
+- estou precisando da [internet](internet), pf, [liberem](confianca)
+- [desbloquear](confianca) [internet](internet)
+- [data de vencimento](vencimento)
+- [contratar](contratacao) [plano](plano) na minha [casa](fisica)
+- [consulta](consulta) parcela
+- como posso [cancelar](cancelamento) a [internet](internet)?
+- como pago a [internet](internet)?
+- como faço para vocês [liberarem](confianca) a [internet](internet)?
+- como faço para [desbloquear](confianca) minha [net](internet)
+- como eu posso [cancelar](cancelamento)?
+- como eu posso [cancelar](cancelamento) a [internet](internet)?
+- como eu faço para mudar a [velocidade](velocidade) do [plano](plano)?
+- como eu faço para alterar a [velocidade](velocidade) da [internet](internet)?
+- como está o meu [crédito](credito)?
+- como [cancelar](cancelamento) [plano](plano)?
+- [cancelar](cancelamento) [internet](internet)
+- [cancelar](cancelamento)
+- [cancelamento](cancelamento) da [internet](internet)
+- [cancelamento](cancelamento)
+- [boleto](boleto)
+- [alteração](alteracao) do [plano](plano)
+- [alteração](alteracao)
+- [alterar venicmento](alterar-venicmento)
+- [alterar](alteracao) [vencimento](vencimento) da [fatura](boleto)
+- [alterar vencimento](vencimento)
+- alterar [velocidade](velocidade) do [plano](plano)
+- [alterar](alteracao) [velocidade](velocidade)
+- [alterar plano](plano)
+- alterar data de [vencimento](vencimento) da [fatura](boleto)?
+- [alterar](alteracao)
+- [abatimento](abatimento) de minha dívida
+- a [cobertura](cobertura) de vocês chega no jacintinho
+- [Segunda via](segundavia)
+- Quero saber a minha [posição financeira](posicaofinanceira)
+- Quero [consultar](consulta) uma parcela
+- [Posição Financeira](posicaofinanceira)
+- Poderia me enviar a [segunda via](segunda-via) do [boleto](boleto)?
+- [Plano](plano)
+- Financeiro 📄
+- Financeiro
+- [Data de Vencimento](vencimento)
+- Como posso [imprimir](segundavia) a [segunda via](segundavia) do [boleto](boleto)?
+- Bom dia poderia me enviar a [segunda via](segunda-via) do [boleto](boleto)?
+
+## intent:informacao
+- quero ligar para vocês. Qual o número de [telefone](telefone)?
+- qual o [telefone](telefone) que eu posso ligar para vocês?
+- qual o número de vocês que eu posso ligar agora?
+- qual o endereço dos [escritórios](escritorio)?
+- qual o bairro do [escritório](escritorio) de vocês
+- onde fica o [escritório](escritorio) de vocês
+- como encontro algum [escritório](escritorio) de vocês?
+
+## intent:vendas
+- vendas
+- [vai até](cobertura) onde a [internet](internet) de vocês
+- tô querendo [contratar](contratacao) [plano](plano) [empresarial](juridica)
+- tô precisando [contratar](contratacao) um [plano](plano) [empresarial](juridica)
+- tem [plano](plano) de [internet](internet) que [pegue aqui ](cobertura)no vilage
+- tem [internet](internet) em marasatu
+- taxa de [instalação](instalacao) de [fibra óptica](fibra-optica)
+- [taxa](taxa) de [instalação](instalacao) de [cabo par trançado](cabo-rede)
+- [taxa](taxa) de [instalação](instalacao) de [cabo](cabo-rede)
+- [taxa de instalação](instalacao)
+- só queria ver os [planos](plano)
+- saber mais sobre o D/graden
+- quero saber se chega aqui em [casa](fisica), essa [internet](internet)
+- quero saber os [preços](precos) dos [planos](plano) [empresariais](juridica)
+- quero saber do prédio
+- quero por [internet](internet) no meu [trabalho](juridica)
+- quero por [internet](internet) no meu [emprego](juridica)
+- quero por [internet](internet) na mnha [casa](fisica)
+- quero por [internet](internet) na minha [casa](fisica)
+- quero por [internet](internet) na [empresa](juridica)
+- quero por [internet](internet) em minha [casa](fisica)
+- quero por [internet](internet) aqui em [casa](fisica)
+- quero por [internet](internet) aqui
+- quero pagar pela [instalação](instalacao)
+- quero pagar [internet](internet) de vocês pra por na minha [casa](fisica)
+- quero pagar a [taxa](precos) de [instalação](instalacao)
+- quero empreender mais
+- quero empreender em um [imóvel](imovel)
+- quero empreender em [apartamento](apartamento) com 2 suítes
+- quero empreender
+- quero [contratar](contratacao) vocês
+- quero [contratar](contratacao) um [plano](plano)
+- quero [contratar](contratacao) [plano](plano) para minha [empresa](juridica)
+- quero [contratar](contratacao) [plano](plano)
+- quero [contratar](contratacao) os serviços de [internet](internet) de voês
+- quero [contratar](contratacao) [internet](internet) de vocês aqui na minha [empresa](juridica)
+- quero [contratar](contratacao) a [internet](internet) de vocês
+- quero comprar um [lote](lotes)
+- quero comprar um apto
+- quero comprar [imóvel](imovel)
+- quero comprar apartamento
+- quero começar um [plano](plano) de [internet](internet) na [empresa](juridica)
+- quero colocar [internet](internet) em [casa](fisica)?
+- quero colocar [internet](internet) aqui em [casa](fisica)
+- quero [assinar](contratacao) um [plano](plano) de [internet](internet) de vocês
+- quer [contratar](contratacao) [plano](plano) na minha [casa](fisica)?
+- quantos é a [taxa](taxa) de [instalação](instalacao)
+- quanto é pra pagar pela [instalação](instalacao)?
+- quanto é pra pagar a [instalação](instalacao)?
+- quanto é para [instalar](instalacao) [internet](internet) aqui?
+- quanto é a [taxa](taxa) de [instalação](instalacao) de [fibra](fibra-optica)?
+- quanto é a [taxa](taxa) de [instalação](instalacao) de [fibra óptica](fibra-optica)?
+- quanto é a [taxa](precos) de [instalação](instalacao)
+- quanto é a [internet](internet) para minha [empresa](juridica)?
+- quanto é a [instalação](instalacao) do [cabo de internet](cabo-rede)
+- quanto é a [instalação](instalacao) de [internet fibra](fibra-optica)
+- quanto vou pagar pela [instalação](instalacao)
+- quanto fica as [taxa](taxa)s de [instalações](instalacao)
+- quanto custo os [planos](plano), to afim de [contratar](contratacao)
+- quanto [custa](precos) pra botar net aqui em [casa](fisica)?
+- quanto [custa](precos) para [contratar](contratacao) [internet](internet) aqui em [casa](fisica)?
+- quanto [custa](precos) os [planos](plano) de [internet](internet) para [casa](fisica)?
+- quanto [custa](precos) o [plano](plano) básico?
+- quanto [custa](precos) a [taxa](taxa) de [instalação](instalacao) de [cabos de rede](cabo-rede)?
+- quanto [custa](precos) a [taxa](precos) de [instalação](instalacao)
+- quanto [custa](precos) a [instalação](instalacao)?
+- quanto [custa](tabela-precos) a [instalação](instalacao) na minha [casa](fisica)?
+- quanto [custa](tabela-precos) a [instalação](instalacao) aqui na [empresa](juridica)?
+- quanto [custa](tabela-precos) a [instalação](instalacao) aqui em [casa](fisica)?
+- qual o [plano](plano) para [internet](internet) [empresarial](juridica)
+- quais são os [planos](plano) de vocês?
+- quais são os [planos](plano) de [internet](internet)?
+- quais os [preços](tabela-precos) e [planos](plano) de vocÊs?
+- quais os [preços](precos) dos [planos](plano)?
+- quais os [preços](tabela-precos) dos [planos](plano) para [empresa](juridica)?
+- quais os [planos](plano) e os [preços](tabela-precos) da [internet](internet) de vocês, tô querendo por aqui em [casa](fisica)
+- preciso saber se tem [internet](internet) start no biu
+- preciso de [internet](internet) para minhas [empresas](juridica)
+- preciso de [internet](internet) para [empresas](juridica)
+- preciso de [internet](internet) para comprar
+- preciso de [internet](internet) para as [empresas](juridica)
+- preciso de [internet](internet) na minha [casa](fisica)
+- preciso de [internet](internet)
+- posso empreender?
+- legal, pode me mostrar os [planos](plano) novamente?
+- [internet](internet) na minha [casa](fisica)
+- [instalacao](instalacao)
+- estou interessado por empreendimento comercial
+- estou interessado em um apto de vocês
+- estou bastante interessado em empreender num [lote](lote) de vocês
+- empreendimentos
+- empreender em [apartamentos](apartamento)
+- empreender
+- e os [planos](plano)
+- [contratação](contratacao) de [planos](plano) para [corporações](juridica)
+- [contratação](contratacao) de [plano](plano) para minha [casa](fisica)
+- [contratação](contratacao) de [plano](plano) de [internet](internet)
+- [contratação](contratacao) de [internet](internet) na minha [casa](fisica)
+- [contratar](contratacao) [plano](plano) pra minha [casa](fisica)
+- [contratar](contratacao) [plano](plano) [pessoal](fisica)
+- [contratar](contratacao) [plano](plano) para [pessoa física](fisica)
+- [contratar](contratacao) [plano](plano) para minha [casa](fisica)
+- [contratar](contratacao) [plano](plano) [empresarial](juridica)
+- [contratar](contratacao) [plano](plano) [corporativo](juridica)
+- [contratar](contratacao) [plano](plano)
+- [contratar](contratacao)
+- como posso empreender
+- como ponho [internet](internet) na minha [casa](fisica)
+- como [contratar](contratacao)?
+- [cobertura](cobertura) em santana?
+- chega na ponta verde
+- chega aqui em [casa](fisica)?
+- até onde vai a [cobertura](cobertura) da start
+- a [internet](internet) de vocês [pega aqui](cobertura) no barro duro
+- a [internet](internet) de [vocês chega](cobertura) em maceió
+- a [cobertura](cobertura) de [internet](internet) chega aqui no cleto
+- a area de [cobertura](cobertura) de vocês chega aqui
+- Vendas 💰
+- Vendas
+- Quero fazer empreendimento
+- Quero falar com atendente agora
+- Quais [planos](plano) vocês tem?
+- Estou interessado em [lotes](lotes)
+- Estou interessado em empreendimentos
+- Desejo saber mais sobre o D/Garden
+- [Contratar](contratacao) [plano](plano) [pessoal](fisica)
+- Compras
+- Com [internet](internet) eu acho
+
+## intent:no_intent
+- [vellocida](velocidade)
+- quero por [internet](internet) como [pessoa física](fisica)
+- [apartamento](apartamento)
