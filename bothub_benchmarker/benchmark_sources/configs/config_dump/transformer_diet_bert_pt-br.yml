@@ -15,6 +15,6 @@ pipeline:
     max_ngram: 3
     token_pattern: "(?u)\\b\\w+\\b"
   - name: "bothub_benchmarker.benchmark_sources.components.diet_classifier.DIETClassifierCustom"
-    epochs: 150
+    epochs: 300
     entity_recognition: True
     BILOU_flag: False
