@@ -1,0 +1,272 @@
+
+## intent:card
+- perdi minha passagem dentro do veiculo
+- carteirinha estudante
+- cartão cidadão
+- informações sobre o bilhete
+- cartera
+- cartão deficiente
+- carterinha
+- cartao cidadao
+- cartozinho
+- vale transporte
+- cartão estudante
+- quero saber sobre minha carteirinha
+- carteirinha
+- cartão
+- passagem
+- perdi meu cartão dentro do veiculo
+- carteirinha onibus
+- carteirinha deficientes
+- bilhete
+- como cancelar minha carteirinha
+- como localizar o bilhete
+- eu não consigo abrir o saldo do cartão
+- cartao
+- quero saber meu saldo na carteirinha
+- cartãozinho cidadao
+- card
+- carteira ônibus
+- sobre o cartão não ter funcionado no onibus
+- cartãozinho
+
+## intent:hour
+- buzão hrs
+- hora
+- hoario
+- quero saber o horario do onibus tal
+- veiculo no horario super errado
+- horario onibus
+- horario
+- tempo onibus
+- eu não sei olhar o horario do onibus
+- que horas o onibus passa
+- quero saber o horario do coletivo
+- quero saber o horario do onibus
+- quero saber que horas abre a empresa do onibus
+- sobre o horario atrasado do busão
+- horarios
+- o horario que o onibus passa
+- instante
+- ônibus hora
+- o horario sempre fica mudando
+- horario errado
+- que horas passa o busao
+- horas
+- horário
+- eu nunca sei a hora que ele passa
+- horas buzão
+- hrs coletivo
+- minutinhos onibus
+- quero saber o horario que encerra o atendimento
+- coletivo horas
+- sobre o tempo de circulação do transporte publico
+- como saber informações sobre o tempo entre dois onibus de mesma linha
+- minutos buzao
+- tempo ônibus
+- horários
+- tempo
+
+## intent:vehicle
+- ônibus quebrado
+- sobre a sujeira no onibus
+- buzão
+- busao
+- busu
+- coletivu
+- ônibus concertado
+- veículo
+- sobre a má qualidade do transporte
+- estou tendo problemas com meu ônibus
+- este coletivo se encontra em péssima qualidade para uso
+- coletivo
+- veicolo
+- buzu
+- ônibus
+- buzao
+- coletivos
+- coletivus
+- veículos
+- sobre a limpeza do onibus
+- meu ônibus ñ funciona
+- ônibus concerto
+- problemas ônibus
+- estou querendo saber quando meu ônibus será concertado?
+- veiculos
+- veiculo
+- este ônibus está quebrado
+- onibus
+- transporte
+- transporte publico
+- busão
+
+## intent:gratuity
+- graça
+- sem pagar
+- gratiz
+- não pagar
+- andar de ônibus sendo deficiente é grátis
+- como posso viajar sem pagar?
+- gratuidade
+- insentar
+- free
+- sou deficiente, posso viajar gratuito
+- possso utilizar o coletivo de forma gratuita?
+- gratis
+- gratez
+- deficiente onibus graça?
+- grátes
+- queria viajar de graça
+- degraca
+- degraça
+- grátez
+- gratuito
+- é gratuita a passagem para idosos?
+- grátiz
+- graca
+- ônibus deficiente grátis
+- como posso andar gratuitamente de ônibus sendo deficiente?
+- gratuitamente
+- a minha carteirinha de deficiente me faz andar de onibus de graça?
+- gratuita
+- isento
+- carteirinha deficiente onibus graça
+- grátis
+- coletivo gratuita?
+- gratuita idosos
+
+## intent:driver
+- motor
+- atendimento
+- motoriata
+- foi cobrador
+- motorisra
+- gostaria de fazer uma reclamação sobre o cobrador do onibus
+- cobrador
+- como saber informações sobre o cobrador
+- cobradores
+- cobradora
+- atendente
+- motorista
+- reclamar do motor do busao
+- condutor
+- condutores
+- motorista busão
+- condutor onibus
+- sobre a cobradora do transporte
+- gostaria de saber sobre o condutor do veiculo
+- piloto busao
+- mototristas
+- gostaria de saber sobre o motorista do transporte publico
+- sobre o condutor do transporte publico
+- motorista onibus
+- cobrador onibus
+- motorista transporte
+- piloto do busao
+- gostaria de fazer uma reclamação sobre o motorista do onibus
+- quero reclamar sobre o pessimo atendimento no onibus
+- piloto
+- condotor
+- motor busao
+- o condutor foi grosso
+
+## intent:urban
+- captais
+- preciso saber se a rota do meu buzao passa aqui pela rua?
+- bairro
+- captal
+- rua
+- estados
+- metropole
+- acho que meu ônibus não passa na cidade que eu resido
+- bairro trabalho
+- capital
+- metrópole
+- urbano
+- vocês passam pela minha cidade?
+- não sei se meu ônibus passa no meu bairro
+- municipio
+- cidade
+- capitais
+- bairro buzao
+- metropolitano
+- eu moro no bairro x e não sei se meu buzão vem por essas bandas
+- bairros
+- ruas
+- ônibus cidade
+- buzao rua
+- estado
+- creio que meu ônibus não passa na minha cidade
+- estadual
+- urbana
+- município
+
+## intent:valid_documents
+- cartão estudante identidade?
+- quais documentos
+- qualquer documento
+- preciso levar documentos
+- necessita documento
+- domentos tipos
+- identidade
+- Quais documentos tenho que levar?
+- qual documentação
+- tipo documentacao
+- necessita RG
+- tem que levar identidade?
+- precisa identidade
+- quais docs
+- qual documento
+- documento válido
+- levo documentos rg
+- eu devo levar meu rg?
+- qualquer documento pode?
+- documento valido
+- precisa id
+- para cadastrar o meu cartão de estudante precisa de identidade?
+- documentos válidos
+- precisa documento
+- levar rg
+- preciza doc
+- preciso levar muitos documentos?
+- que documentos tem que levar
+
+## intent:highway
+- em qual estrada que meu onibus passa?
+- trajeto ônibus
+- estrada onibus
+- caminho
+- nunca sei quando o meu onibus passa, me fala as rotas dele pfv
+- rumos
+- intinerário ônibus
+- rodoviário
+- rodovias
+- me fala o itinerário do meu buzão por favor
+- rotas
+- itinerario
+- eu não sei o trajeto do meu ônibus
+- estrada ônibus
+- trageto
+- onibus rotas
+- rota coletivo
+- intinerário
+- caminhos
+- será que o itinerário do meu coletivo cobre essa região?
+- qual é a rota do onibus x?
+- rota onibus
+- rodovia
+- rodoviários
+- trajeto
+- como posso saber o trajeto dos coletivos dessa empresa
+- preciso saber qual é a rota do meu coletivo
+- itinerário
+- estrada
+- estradas
+- trajetos ônibus
+- quais os trajetos dos seus ônibus
+- ruas
+- rota
+- vocês poderiam me confirmar o trajeto do ônibus y?
+- qual o intinerário do ônibus que eu pego?
+- rumo
+- rodoviario

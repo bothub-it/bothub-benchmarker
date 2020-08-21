@@ -1,0 +1,46 @@
+
+## intent:address
+- onde fica
+- para chegar até ai
+- endereço de vcs
+- localizado
+- qual localidade
+- qual o endereço
+- endereço dai
+- quero chegar lá
+- como chego ai?
+- localização
+- localidade
+- endereço vocês
+- como chegar ai
+- endereço
+- quero localização
+
+## intent:searching
+- colocação profissional
+- preencher curriculo
+- contratação
+- vaga
+- aceitando curriculo
+- trabalho
+- vaga de trabalho
+- uma vaga
+- pegando currículo
+- quero trabalhar
+- vaga aberta
+- desempregado
+- procuro trabalhar
+- curriculo lattes
+- Uma oportunidade de trabalho
+- curriculo
+- emprego
+- enviar currículo
+- arrumar um emprego
+- curriculum
+- mandar curriculo vitae
+- contratando
+- procurando emprego
+- desemprego
+- curriculum vitae
+- Estão contratando?
+- recebe currículo

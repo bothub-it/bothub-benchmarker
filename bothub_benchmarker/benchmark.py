@@ -1,26 +1,12 @@
 import json
+import posixpath
 import os
-import logging
 from timeit import default_timer as timer
-from collections import defaultdict, namedtuple
-from typing import (
-    Iterable,
-    Iterator,
-    Tuple,
-    List,
-    Set,
-    Optional,
-    Text,
-    Union,
-    Dict,
-    Any,
-)
-from rasa.nlu import utils, config, training_data
-from rasa.nlu.model import Trainer
 from rasa.nlu.test import *
 from rasa.nlu.components import Component
+from bothub_benchmarker.utils import upload_folder_to_bucket
 # from false_positive_benchmark import false_positive_benchmark
-import os
+
 
 # os.environ["CUDA_VISIBLE_DEVICES"] = "-1"
 
@@ -304,7 +290,7 @@ def remove_pretrained_extractors(pipeline: List[Component]) -> List[Component]:
     return pipeline
 
 
-def benchmark(out_directory, config_directory, dataset_directory, n_folds=3):
+def benchmark(out_directory, config_directory, dataset_directory, n_folds=3, bucket=None, job_id=None):
     start = timer()
 
     out_directory_temp = out_directory
@@ -326,9 +312,9 @@ def benchmark(out_directory, config_directory, dataset_directory, n_folds=3):
         print('######################################')
         start_config = timer()
         if config_filename.endswith(".yml"):
-            config_path = os.path.join(config_directory, config_filename)
+            config_path = posixpath.join(config_directory, config_filename)
             config_name = config_filename.split('.')[0]
-            out_config_directory = out_directory_temp + '/' + config_name + '/'
+            out_config_directory = posixpath.join(out_directory_temp, config_name)
             if not os.path.exists(out_config_directory):
                 os.mkdir(out_config_directory)
             datasets_dir_out = 'Datasets_Results/'
@@ -362,6 +348,8 @@ def benchmark(out_directory, config_directory, dataset_directory, n_folds=3):
             end_config = timer()
             overhaul_result['time'] = str(end_config)
             utils.write_json_to_file(out_config_directory + 'Datasets_Mean_Result', overhaul_result)
+            if bucket is not None:
+                upload_folder_to_bucket(bucket, out_directory, posixpath.join('results', out_directory))
     end = timer()
     logger.info("Finished evaluation in: " + str(end - start))
 
@@ -448,6 +436,6 @@ if __name__ == '__main__':
     out_directory = 'benchmark_output_test1'
     config_directory = 'benchmark_sources/configs/'
     dataset_directory = 'benchmark_sources/data_to_evaluate/'
-    # false_positive_dataset_directory = 'benchmark_sources/oldvsoldold'
     tensorboard_benchmark(out_directory, config_directory, dataset_directory)
+    # false_positive_dataset_directory = 'benchmark_sources/oldvsoldold'
     # false_positive_benchmark(out_directory, config_directory, false_positive_dataset_directory)

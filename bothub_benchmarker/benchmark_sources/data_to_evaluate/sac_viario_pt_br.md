@@ -1,0 +1,1384 @@
+
+## intent:travel_problem
+- quero reclamar que cheguei ao ponto por volta de 12h10, e só consegui embarcar as 12h50, desde que houve a troca dos veículos, esta demorando mais entre uma partida e outra, tanto saindo do Japuí quanto voltando de Santos
+- [assalto](theft) [coletivo](bus)
+- [reclama](problem) [motorista](driver) [não parando](problem)
+- me assaltaram no ônibus ontem a noite
+- [não abriu](problem) [cobrador](tradesman)
+- [probleminha](problem) [motorista](driver)
+- [queixar](problem) [operacionalidade](problem)
+- [queixar](problem) [não conseguido](problem)
+- [cortar caminho](problem) [perigosos](problem)
+- Bom dia, Na tabela de horário está previsto saída do terminal Valongo as 16:47, mas em nenhum momento este ano este ônibus operou. Somente o horário posterior, as 16:59 sai ônibus. Percebo entre 16:45 e 16:55 chegam de 2 a 3 ônibus da linha 42, mas somente 1, que fica aguardando o horário das 16:59, opera. A tabela está desatualizada, favor verificar se é possível ocorrer a saída das 16:47. Obrigado.
+- [motorista](driver) [bateu](problem)
+- [desrespeito](problem)
+- [nenhum](problem) [ônibus](bus)
+- [manutencao](problem) [providencias](problem)
+- [cobrador](tradesman) [xingando](problem)
+- [problemas](problem) [cobrador](tradesman)
+- Boa Tarde. Para vosso conhecimento, VENHO ABRIR ESSA RECLAMAÇÃO, pois, eu estava no último ponto da Av. da Praia (sentido São Vicente/Santos) antes de virar para o canal 2, fiz sinal para o motorista que não parou, passou direto. Lamentável a postura do mesmo. Atenciosamente.
+- gostaria de reclamar de desobediência de embarque. sinalizei para o condutor porém o mesmo não parou
+- [problemas](problem) [motorista](driver) [mal educado](problem)
+- [irresponsábilidade](problem) [cobrador](tradesman) [não abriu](problem)
+- Olá! Gostaria de fazer uma reclamação quanto ao horário de funcionamento do posto de recarga do cartão estudante. Local: Universidade São Judas - Campus Unimonte Santos Tento fazer a recarga e quando chego na faculdade entre 19:45 e 19:50 a respo sável pelo posto sempre está fechando o caixa, preciso e não consigo efetuar a recarga. Não sei ao certo o horário correto do posto. Sendo as 19:50h mesmo, por gentileza dou a sugestão para que volte o horário que era antes as 21h. Grata Raquel
+- o motorista não atendeu ao meu sinal de embarque.
+- [motorista](driver) [irresponsável](problem)
+- Usuária queixa-se sobre a postura do condutor Relata que embarcou nesse coletivo, ela foi falar com o condutor sobre o ar-condicionado, o condutor passou a catraca, gritando quem quiser descer que desça que o ar-condicionado estava quebrado, menciona que os passageiros não vão advinhar que o ar está quebrado e que não precisava ele ter essa atitude. Solicita providências
+- [cobradora](tradesman) [desrespeitosa](problem)
+- Onibus superlotado me senti uma sardinha enlatada. Total desrespeito ao usuario
+- [revoltadissima](problem)
+- [cobrador](tradesman) [tarado](problem)
+- [cobrador](tradesman) [não embarcar](problem)
+- [reclamar](problem) [cobrador](tradesman)
+- O motorista passou direto no ponto tinha mais de 15 pessoas para embarcar e o motorista passou por trás de todos os ônibus ... Pessoas gritando e ele nem aí seguiu ... Uso essa linha diariamente pois trabalho no centro de Santos cartório eleitoral .. Dia de chuva dia mais cheio o ponto e ele não teve consideração alguma com o usuário
+- [coletivo](bus) [não segurança](not_safe)
+- [cobrador](tradesman) [não abriu](problem)
+- [superlotado](problem)
+- [problema](tradesman) [condutor](driver)
+- [revoltadissima](problem) [condutor](driver)
+- [reclamação](problem)
+- [fora horário](problem)
+- [revoltadissima](problem) [não deixou](problem)
+- [condutor](driver) [desrespeitoso](problem)
+- [não horário](problem)
+- [motrista](driver) [não abriu](problem)
+- [coletivo](bus) [não atendendo](problem)
+- [não embarcar](problem)
+- [desrespeito](problem) [cobradora](tradesman)
+- [insegura](not_safe) [motorista](driver)
+- [condultor](driver) [queixa](problem)
+- [passou direto](problem) [motorista](driver)
+- [revoltado](problem) [cobradora](tradesman)
+- [cobradora](tradesman) [bruta](problem)
+- Havia umas quinze pessoas para embarque no ônibus o sinal estava aberto e o motorista não parou, está linha está sempre com problemas em relação a motorista, é preciso conscientizar que nós estamos pagando a condução não é de graça o serviço prestado não está a contento, quando atrasa corre demais, ou não pára para as pessoas.Por favor, solicito providências.
+- [assédio](problem) [condultor](driver)
+- solicitei desembarque, e o motorista não parou, chegou a diminuir quando me viu, a cerca de 10 metros do ponto, porém só foi parar no próximo ponto, e ainda ficou discutindo afirmando que não havia solicitado o desembarque, porém os demais passageiros confinaram que havia acionado a campainha, mesmo assim o motorista continuou resmungando.
+- [problemas](problem) [cobradora](tradesman)
+- [motorista](driver) [não atendendo](problem)
+- [cobrador](tradesman) [falha](problem)
+- [queixa-se](problem) [manutenção](problem)
+- Po eu entro 7:00 da manhã no domingo saio as 19;00 hoje sai as 18:50 pra pegar o ônibus e fiquei 1 hora esperando, lugar muito perigoso e mesmo assim nao tenho que ficar esperando 1 hora nao, 30 minutos no máximo porque eu nao pago 4,50 pra ficar esperando tudo isso, ou então esses motoristas devem cortar caminho não é possível!!!! Antes eles passavam pela UPA do casqueiro umas 19:20, agora me passar 19:50 é sacanagem né, espero da próxima vez nao ficar esperando esse tempo todo, pois trabalho 12 horas e fiquei em pé 1 hora com as costas doendo.
+- [motorista](driver) [não embarque](problem)
+- [providencia](problem) [condultora](driver)
+- [condutor](driver) [não abre](problem)
+- o coletivo 942 prefixo 7569 passou não atendendo ao local. não é a primeira vez que isto ocorre
+- [problemão](problem) [cobradora](tradesman)
+- quero fazer uma queixa de desobediência do condutor
+- [não abre](problem) [cobradora](tradesman)
+- [asssediado](problem) [motorista](driver)
+- [assédio](problem) [cobrador](tradesman)
+- [defeituoso](problem)
+- [providência](problem) [condutor](driver)
+- sinalizei para embarque e o motorista passou pela esquerda atrás de outros coletivos e não parou, já é a terceira vez que esse motorista faz isso.
+- [defeito](problem) [manutençao](problem)
+- quero me queixar sobre a operacionalidade da linha. Relato que cheguei no ponto por volta das 11h55, e ate o término da ligação 12h27, ainda não tinha conseguido embarcar
+- [motorista](driver) [passou direto](problem)
+- o motorista escalado nesse atendimento não atendeu a solicitação de embarque no ponto em questão, sendo que eu sempre embarca no local, entrei em contato na Ouvidoria e foi informada por uma atendente que a transferência para o 0800 não poderia ser efetuada.
+- [revoltadíssima](problem) [não abriu](problem)
+- [problemas](problem)
+- [reclamação](problem) [motorista](driver)
+- [violenta](problem) [motorista](driver)
+- estava com muitas sacolas e ao solicitar o desembarque no ponto do Mercado DIA, o motorista não atendeu meu desembarque só consegui desembarcar quatro quarteirões depois.
+- Usuário queixa-se de desobediência de embarque. Relata que sinalizou para o condutor, porém o mesmo não parou.
+- [relcamar](problem) [operador](driver)
+- Motorista, claramente visualizou o sinal dado para parada, porém para não parar no semáforo que estava prestes a fechar, acelerou, quase entrando em colisão com outro veiculo. Além do mais, deixando, três pessoas no ponto de ônibus com chuva, sendo que uma delas estava com seu filho de colo.
+- Usuária queixa-se sobre manutenção do coletivo mencionado. Relata que o alçapão fica fazendo barulho quando o coletivo está andando, a porta do meio só abre quando é emburrada e a última não abre. Solicita que o coletivo seja trocado.
+- [não hora](problem)
+- [cobrador](tradesman) [arrogante](problem)
+- [motorista](driver) [bruto](problem)
+- [revoltadíssimo](problem) [cobrador](tradesman)
+- [perigoso](problem) [motoristas](driver)
+- [motorista](driver) [passou direto](problem) motorista [ônibus](bus) [gritando](problem)
+- [atrasando](problem) [motorista](driver)
+- [onibus](bus) [assaltado](theft)
+- [atraso](problem)
+- [reclamação](problem) [cartão](card) [estudante](pupil) [não consigo](problem)
+- [atrazo](problem)
+- [problemas](problem) [motorista](driver)
+- Usuário queixa-se sobre postura do operador. Relata que ao desembarcar da linha mencionada fez sinal, porém o botão estava com defeito, pediu para que o condutor parasse, e o mesmo permaneceu em silêncio, parando somente um ponto depois. Informa ainda que o coletivo não deveria sair com falha da garagem. Solicita providências.
+- [motorista](driver) [não embarcar](problem)
+- [reclamação](problem) [cartão](card) [estudante](pupil) [faculdade](pupil)
+- [problemas](problem) [motorista](driver) [escroto](problem)
+- [fora hora](problem)
+- [irresponsabilidade](problem) [cobrador](tradesman)
+- [ignorante](problem) [motorista](driver)
+- [cobrador](tradesman) [não desembarcou](problem)
+- [motorista](driver) [grosso](problem)
+- [motorista](driver) [não parou](problem)
+- [atrasou](problem)
+- [revoltada](problem) [motorista](driver)
+- [batida](problem) [motorista](driver)
+- [chingamento](problem) [motrista](driver) [cobradora](tradesman)
+- [problemão](problem) [cobrador](tradesman)
+- [ônibus](bus) [quebrado](broke)
+- [cobradora](tradesman) [ignorante](problem)
+- [problemas](problem) [cobrador](tradesman) [safado](problem)
+- [problema](problem)
+- [assaltaram](theft) [onibus](bus)
+- [revoltadissima](problem) [cartão](card) [motorista](driver)
+- [motorista](driver) [não desembarque](problem)
+- [violento](problem) [motorista](driver)
+- [motorista](driver) [atrasou](problem)
+- [cobrador](tradesman) [xingou](problem)
+- cobradora ônibus [defeito](problem)
+- [manutenção](problem) [coletivo](bus)
+- fui assaltada no coletivo ontem
+- quero reclamar sobre a postura do operador
+- Estou revoltadissima com essa empresa. Na ultima 3a.feira tivemos que passar por baixo da catraca. Linha Itanhaem-Santos. Depois peguei um ônibus para desbloquear meu cartão. Pasmem o motorista não me deixou prosseguir. Tive que descer. Tinha crédito no cartão.
+- [providências](problem) [manutenção](problem)
+
+## intent:student_registration
+- [registrar](register) [aluno](pupil) [cartão](card)
+- [cadastro](register) [carteira](card) [estudante](pupil)
+- [paga](buy) [registrar](register) [carteira](card) [estudante](pupil)
+- como cadastro a carteirinha de estudante
+- cadastrar cartão de estudante
+- [registrar](register) [alunos](pupil) [cartão](card) [pago](buy)
+- [cadastrar](register) [carteirinha](card) [estudante](pupil)
+- [registrar](register) [alunos](pupil) [escola](pupil) [card](card)
+- [registrando](register) [alunos](pupil) [carteira](card)
+- [registro](register) [alunos](pupil) [carteirinha](card) [estudante](pupil)
+- [registro](register) [aluno](pupil) [cartãozinho](card)
+- [cadastro](register) [carteirinha](card)
+- [cadastrar](register) [estudante](pupil)
+- [carteirinha](card) [escola](pupil) [cadastramento](register)
+- [registrar](register) [carteirinha](card) [onibus](bus) [estudante](pupil)
+- [registrar](register) [carteirinha](card) [estudante](pupil)
+- [cadastrais](register) [carteira](card) [alunos](pupil)
+- [registrar](register) [aluno](pupil) [cartaozinho](card)
+- [registrar](register) [aluno](pupil) [estudando](pupil) [carteirinha](card) [estudante](pupil)
+- [cadastrar](register) [pupilos](pupil) [cartãozinho](card)
+- [registro](register) [alunos](pupil) [cartao](card)
+- [registrar](register) [alunos](pupil) [cartao](card)
+- [cadastramento](register) [carteira](card) [alunos](pupil)
+- [carteirinha](card) [onibus](bus) [estudante](pupil)
+- [registrar](register) [cartão](card) [aluno](pupil)
+- Site: brmobilidadebs - Por gentileza, já fiz todo o cadastro devido para o cartão escolar porém na finalização a mensagem foi: SUA SOLICITAÇÃO DE BENEFÍCIO (#80381) FOI ENVIADA COM SUCESSO. NOSSA EQUIPE IRÁ AVALIAR SUA SOLICITAÇÃO E QUANDO LIBERADA ENVIAREMOS UMA MENSAGEM A VOCÊ ATRAVÉS DO EMAIL OU DO NOSSO PORTAL. ACESSE SEMPRE NOSSA PÁGINA PARA ACOMPANHAMENTO DO SEU BENEFÍCIO. Preciso saber alguma posição do benefício ou se preciso fazer mais alguma exigência, pois esta mensagem é muito vaga e quando vamos até a unidade de atendimento para realizar a retirada as atendentes dizem que faltam sempre alguma coisa. aguardo uma resposta
+- como posso cadastrar a carteirinha de transporte para estudante
+- preciso cadastrar minha carteira de estudante
+- [carteirinha](card) [estudantes](pupil) [cadastrar](register)
+- [cartão](register) [escolar](pupil) [cadastro](register)
+- sou estudante e quero fazer a carteirinha, como faço?
+- como posso cadastrar meu cartão de estudante
+- [cadastrar](register) [estudantes](pupil) [carterinha](card)
+- [estudando](pupil) [cartão](card)
+- [estudante](pupil) [cadastrar](register) [carteirinha](card) [paga](buy)
+- sou aluno de uma faculdade em medicina, como posso fazer para cadastrar meu cartão transporte
+- [cadastramento](register) [aluno](pupil) [cartao](card)
+- Como cadastra carteirinha ?
+- [alunos](pupil) [cadastrem](register) [carteirinha](card)
+- [cadastro](register) [benefício](benefit) [escolar](pupil)
+- [cadastramento](register) [alunos](pupil) [carteirinha](card)
+- [cadastramento](register) [estudantil](pupil) [cartao](card)
+- [cadastro](register) [estudantes](pupil) [carteira](card) [paga](buy)
+- quero cadastrar meu cartão de estudante
+- [estudantes](pupil) [cadastrar](register) [carteirinha](card)
+- Cadrastar carteirinha estudantil
+- [registro](register) [estudantil](pupil) [cadastro](register)
+- [cadastrar](register) [cartão](card) [onibus](bus) [estudantes](pupil)
+- [registro](register) [alunos](pupil) [cartao](card) [coletivos](bus)
+- [Cadrastar](register) [carteirinha](card) [estudantil](pupil)
+- [cadastro](register) [carteirinha](card) [estudantes](pupil)
+- [cadastramento](register) [aluno](pupil)
+- cadastrar cartão de ônibus para estudante
+- como posso fazer o cadastro para o passe estudantil
+- [estudante](pupil) [cadastro](register)
+- [carteirinha](card) [estudante](pupil) [cadastrar](register)
+- so estudante e estou precisando fazer o cadastro da minha carteirinha de ônibus
+- Não consigo pré-cadastrar meu filho de 7 anos para o passe escolar porque ele ainda não tem CPF e utilizei o mesmo endereço e comprovante de endereço que o meu pré-cadastro de passe escolar. Como deve proceder? Grata, Daniela
+- [estudante](pupil) [carteirinha](card)
+- preciso registrar meu cartão de estudante
+- [matricula](register) [aluno](pupil) [carteirinha](card) [estudante](pupil)
+- [carteirinha](card) [onibus](bus) [estudantes](pupil) [cadastro](register)
+- [registrar](register) [colegial](pupil) [carteirinha](card) [coletivo](bus)
+- [registro](register) [alunos](pupil) [paga](buy) [carteira](card)
+- [estudo](pupil) [cartão](card) [transporte](bus)
+- como vou fazer o cadastro do meu passe de estudante
+- [carteirinha](card) [escola](pupil) [registrar](register)
+- como posso cadastrar o cartão?, sou universitário
+- [registrar](register) [aluno](pupil) [carteirinha](card)
+- Fazer cadastro de carteirinha
+- [registrei](register) [alunos](pupil) [carteiras](card)
+- preciso cadastrar minha carteirinha
+- [registrar](register) [alunos](pupil) [carteira](card)
+- como faz para cadastrar a carteirinha
+- [registro](register) [carteirinha](card) [estudante](pupil)
+- [carteira](card) [transporte](bus) [cursando](pupil) [paga](buy)
+
+## intent:reschedule
+- [remarco](reprice)
+- [reagendar](reprice)
+- [passeio](trip) [remarcado](reprice)
+- [reagendar](reprice) [viagem](trip)
+- gostaria de reagendar a viagem do dia 6
+- [redefino](reprice) [viagem](trip)
+- [reagendaria](reprice)
+- [comprei](buy) [passagem](ticket) [remarcar](reprice)
+- quero remarcar o passeio para proxima semana
+- [remarco](reprice) [ticket](ticket) [comprei](buy)
+- como posso remarcar o passeio que tinha domingo?
+- [remarcamento](reprice)
+- preciso fazer o adiamento de uma viagem
+- [reagendei](reprice) [passeio](trip)
+- [reagendada](reprice) [viagem](trip)
+- [passagem](ticket) [comprada](buy) [remarcar](reprice)
+- [remarcar](reprice) [viagem](trip)
+- [reagendamento](reprice)
+- [remarcagem](reprice) [viajens](trip)
+- [desmarcar](reprice) [viagem](trip)
+- [remarcação](reprice) [passeio](trip)
+- preciso fazer o reagendamento do meu passeio
+- não posso ir a uma viagem que já paguei, o que posso fazer para remarcá-la?
+- [marcar novamente](reprice) [excursao](trip)
+- não consigo remarcar minha viagem, o que faço?
+- [passagem](ticket) [remarcada](reprice)
+- preciso adiar esta viagem para terça
+- [adiamento](reprice)
+- [remarcação](reprice) [viagens](trip)
+- [remarcando](reprice) [viagem](trip) [comprei](buy)
+- [remarcar](reprice) [passagem](ticket)
+- [paguei](buy) [voucher](voucher) [remarcombinar](reprice)
+- [redefinir](reprice)
+- [reagendamento](reprice) [passagem](ticket) [passeio](trip)
+- [ticket](ticket) [pago](buy) [remarco](reprice)
+- quero remarcar meu passeio deste fim de semana, mesmo com o meu voucher já comprado
+- como posso remarcar uma viagem na qual já paguei as passagens, é que infelizmente não posso ir
+- [remarca](reprice) [viagem](trip) [pago](buy)
+- [remarca](reprice) [viagem](trip) [paga](buy)
+- [reagendo](reprice) [passeio](trip)
+- [remarcar](reprice) [passeio](trip) [ticket](ticket) [pago](buy)
+- [remarcaria](reprice)
+- quando posso remarcar minha viagem
+- [remaro](reprice) [passeios](trip)
+- [remarcagem](reprice)
+- [voucher](voucher) [comprado](buy) [reagendaria](reprice)
+- [remarcar](reprice)
+- [não ir](reprice) [viagem](trip)
+- [adiar](reprice) [viagem](trip)
+- preciso remarcar uma excursão para o dia 19
+- [reagendamento](reprice) [viagem](trip)
+- [remarquei](reprice) [viagem](trip)
+- [marcar novamente](reprice) [passeios](trip)
+- [remarcação](reprice) [viajem](trip) [comprada](buy)
+- [pago](buy) [viajar](trip) [reagendamento](reprice)
+- [remarcar](reprice) [viagem](trip) [comprada](buy)
+- [reagendar](reprice) [passeio](trip) [comprei](buy)
+- [reagendar](reprice) [viajem](trip) [comprada](buy)
+- [remarcu](reprice) [excursao](trip) [comprei](buy)
+- [remarcaria](reprice) [passagem](ticket) [comprada](buy)
+- [remarcar](reprice) [viagem](trip) [pagamento](buy)
+- [redefinir](reprice) [passeio](trip)
+- [remarcação](reprice)
+- sei que ja paguei o voucher mas posso remarcar esta viagem?
+- como posso remarcar minha viagem??
+- [reagenda](reprice)
+- preciso remarcar essa viagem
+- [reajendar](reprice) [viagem](trip) [paga](buy)
+- [remarcacao](reprice) [viage](trip)
+- [remarcar](reprice) [viagens](trip)
+- tenho um compromisso e não posso faltar... posso remarcar essa viagem de trabalho?
+- [remarcando](reprice)
+- preciso remarcar essa viagem novamente
+- como posso remarcar uma viagem?
+
+## intent:underaged_companion
+- o motorista não me respondeu sobre poder viajar de graça com criança de colo
+- [pequenino](child) [pagar](buy) [passagens](ticket)
+- [crianças](child) [pagam](buy) [passagem](ticket)
+- [criança](child) [viagem](trip)
+- [pagar](buy) [passagens](ticket) [adolescentes](child)
+- queria saber se preciso pagar a viagem se eu entrar no coletivo com uma criança de colo
+- [poagamento](buy) [bilhetes](ticket) [criança](child)
+- o motorista disse que mesmo que eu esteja com um bebe eu tenho que pagar passagem, ele tá certo?
+- tenho que fazer alguma carteirinha ou algo do tipo para entrar no onibus sem pagar com criança?
+- [pago](buy) [passagens](ticket) [criança](child)
+- [pagar](buy) [criançinha](child) [bilhete](ticket)
+- [comprar](buy) [passagens](ticket) [pequenos](child)
+- [pequena](child) [pagante](buy) [bilhete](ticket)
+- [criancinha](child) [paga](buy) [passagem](ticket)
+- to com um filhinho pequeno e não sei se ele tem que pagar a passagem ainda
+- meu bebe tem que pagar passagem quando viajar comigo?
+- quero viagar de onibus com meu bebe mas n sei se ele vai ter que pagar
+- [bebê](child) [paga](buy) [passagem](ticket)
+- [crianca](child) [pagar](buy) [viagem](trip) [ônibus](bus)
+- bêbê paga passagem
+- eu pago passagem se for acompanhado de uma criança?
+- [pago](buy) [bilhetes](ticket) [menor idade](child)
+- [crianca](child) [paga](buy) [viagem](trip)
+- [pagar](buy) [passagens](ticket) [pequena](child)
+- estou com meu filhinho no ônibus, ele precisa pagar a passagem?
+- [bebê](child) [onibus](bus) [pagar](buy)
+- [adolescente](teenager) [viajar](trip) sozinho
+- [menina pequena](child) [paga](buy) [passagem](ticket)
+- [nené](child) [paga](buy) [passagem](ticket)
+- [criança](child) [viajar](trip) [pagamento](buy)
+- posso deixar meu filhinho passar comigo na catraca
+- [criança](child) [pagar](buy) [viagem](trip)
+- [criancinha](child) [pagar](buy) [bilhete](ticket)
+- [onibus](bus) [menor idade](child)
+- tenho que pagar passagem acompanhado de crianças
+- tenho um bebe de colo ainda, preciso pagar passagem?
+- [pequenos](child) [pagar](buy) [passagem](ticket) [viagem](trip)
+- tenho que pagar as passagens das minhas crianças na viagem?
+- [criancinha](child) [viagem](trip) [paga](buy)
+- preciso pagar passagem se estiver com uma criança me acompanhando
+- como posso ir com um bebe no ônibus sem pagar passagem?
+- meu filhinho precisa pagar passagem? ele tem só nove anos
+- [adolescente](child) [viajar](trip)
+- [menino pequeno](child) [pagar](buy) [viajem](trip)
+- minha criança tem só cinco aninhos, ela precisa pagar passagem ?
+- posso viajar sem pagar ... to com uma filhinha de colo ainda
+- posso ir sem pagar com meu filhinho de colo?
+- [bilhete](ticket) [pequenas](child) [viagem](trip)
+- [adolescente](teenager) [paga](buy)
+- eu tenho que pagar passagem com minha filhinha de colo?
+- tenho que pagar passagem para andar de ônibus com um bebe ?
+- [de menor](child)
+- [criança](child) [paga](buy)
+- [pequeno](child) [paga](buy) [passagem](ticket)
+- [criança](child) [pago](buy) [passagens](ticket)
+- [criança](child) [paga](buy) [bilhete](ticket) [viagem](trip)
+- [filhinho](child) [coletivo](bus) [paga](buy)
+- [criança](child) [pagamento](buy) [passagem](ticket) [passeio](trip)
+- [nene](child) [pagar](buy) [passagem](ticket) [viagem](trip)
+- [criancinha](child) [onibus](bus) [pagamento](buy)
+- [adelecente](child) [paga](buy) [viagem](trip)
+- meu bebezinho paga passagem?
+
+## intent:bias
+- acho
+- se
+- vão
+- tem
+- haja
+- não
+- nao
+- vao
+- marquei
+- nenhuma
+
+## intent:cancel
+- Preciso cancelar meu cadastro
+- [cancelamento](annul) [beneficiu](benefit)
+- Eu liguei para cancelar o meu cartao e queria saber se realmente esta cancelado
+- [rescindir](cancel) [vale](voucher)
+- Olá boa noite, liguei na central mas não fui atendida, perdi meu cartão transporte, quero cancelar para que não haja uso CFP 41950499898 no aguardo
+- terei que cancelar meu benefício e pedir outro. Como devo proceder?
+- [beneficiário](pearson) [anular](annul)
+- [cessar](annul) [beneficio](benefit)
+- No ano passado pedi ao meu gerente que cancelasse meu vale transporte e por algum motivo ele não cancelou e só descobri agora .Eu gostaria de saber como proceder nesse caso e se eu cancelar agora posso perder o que ainda não carreguei ,ou se posso recuperar o que foi descontado ?
+- [favorecido](pearson) [retirar](annul)
+- [desistir](annul) [benefiçio](benefit)
+- Se eu cancelar o cartão por telefone depois ir numa centro de atendimento fazer uma segunda via, perco os créditos que estão no cartão?
+- [desisto](cancel) [vale-transporte](voucher)
+- [cancelasse](annul) [vale transporte](ticket) [cancelar](annul)
+- [vale-transporte](voucher) [cancelar](cancel)
+- [apagar](annul) [beneficio](benefit)
+- [tiquete](voucher) [apagar](annul)
+- [encerramento](annul) [vale](voucher)
+- [revogar](annul) [benefício](benefit)
+- [cancelar](annul) [passagem](ticket)
+- Boa tarde Acabei de cancelar o cartão 71 04 00145161-6 e esqueci de verificar o saldo é possível me informar
+- [encerrar](annul) [cartão](card)
+- [interrupção](cancel) [beneficario](pearson)
+- [cartão](card) [cancelar](annul)
+- Perdi meu cartão BR hoje PPR volta de 18:49 na cidade de Santos e gostaria de cancelar pois há valores para o uso de transporte para meu trabalho ..obg
+- [remoção](annul) [beneficio](benefit)
+- Preciso cancelar o cartão como faço?
+- Gostaria de saber como faço pra poder cancelar meu cartão transporte por perda é bloquear o saldo do cartão!
+- [beneficiario](pearson) [invalidada](annul)
+- Bom dia, Gostaria de saber como faço para cancelar o cadastro do vale transporte é refazer com outra instituiçã
+- [interrupcao](cancel) [vale](voucher)
+- gostaria de cancelar e solicitar um novo cartão.cel.:97403 7910
+- Boa noite gostaria de cancelar meu cartão. Perdi ele
+- [beneficiado](benefit) [desisti](annul)
+- [interromper](cancel) [beneficeo](benefit)
+- Boa tarde, me chamo Luiza Miranda Degregorio, moro em Santos e estudo na Universidade Católica de Santos. Eu possuía um cartão transporte escolar porém fui assaltada e levaram ele junto. Gostaria de saber se tem como cancelar esse e fazer outro.
+- [finalizar](annul) [tiquete](voucher)
+- [vale-transporte](voucher) [interrupcao](cancel)
+- [acabar](annul) [carteirinha](card)
+- [suspensão](annul) [vale-transporte](voucher)
+- [encerrar](annul) [ticket](voucher)
+- [anular](annul) [benefício](benefit)
+- [cancelar](cancel) [cadastro](register)
+- [biliete](voucher) [anular](annul)
+- [anlação](annul) [vale-transporte](voucher)
+- [cancelar](annul)
+- [cancelar](cancel) [vale](voucher)
+- cancelar beneficiário
+- [cancelar](annul) [cartao](card)
+- [cessar](annul) [vale-transporte](voucher)
+- [cancelamento](annul)
+- [encerrar](annul) [vale-transporte](voucher)
+- [cancelamento](annul) [ticket](voucher)
+- [cancelada](cancel) [beneficiária](benefit)
+- [beneficiario](pearson) [anulamento](annul)
+- como cancelar meu cartão e fazer outro.
+- [apagar](annul) [carteirinha](card)
+- [anulo](annul) [carteirinha](card)
+- Gostaria de cancelar minha passagem de sao paulo para nova odessa do di 27/09/2018 as 19:00, por motivos pessoais nao vou poder comparecer, obrigada
+- Quero cancelar meu cartao transporte porque perdi
+- Perdi meu cartão . Como faço para cancelar o mesmo?
+- [cancelar](cancel) [cartaum](card)
+- [cancelamento](annul) [beneficio](benefit)
+- [cancelamento](annul) [vale transporte](voucher)
+- [anulacao](annul) [beneficiário](pearson)
+- Como que eu poderia fazer para cancelar o cartão do Passe Livre?
+- [beneficios](benefit) [interromper](cancel)
+- [acabar](annul) [vale](voucher)
+- BOM DIA, peço por favor para cancelar meu cartão , motivo perdi
+- [rompimento](annul) [beneficiário](pearson)
+- [carteirniha](card) [cancelar](annul)
+- [romper](annul) [beneficio](benefit)
+- [cancelar](annul) [cartão](card)
+- [remover](annul) [cartão](card)
+- Desejo cancelar meu vale transporte
+- [cancelamento](annul) [carteira](card)
+- [rescindir](annul) [beneficiário](pearson)
+- [invalidar](annul) [benefissiario](pearson)
+- [suspender](annul) [cartão](card)
+- [invalidar](annul) [benefício](benefit)
+- [cancelar](annul) [cartão](card) [passe](ticket)
+- [desistir](annul) [benefício](benefit)
+- Por favor quero cancelar meu cartão
+- [bilhete](voucher) [cancelar](annul)
+
+## intent:chargeback
+- [restituir](reversed) [pagamento](buy) [escurssão](trip)
+- [repor](reversed) [compra](buy)
+- [reembolso](reversed) [quantia](buy) [paga](buy)
+- [estornado](reversed) [valor](buy) [pago](buy)
+- como posso fazer o estorno de uma compra
+- como posso fazer estorno?
+- [pagamento](buy) [estornado](reversed)
+- quero estornar minha compra
+- [restituição](reversed) [pagamento](buy) [viagem](trip)
+- [reembolsar](reversed)
+- [estornar](reversed) [grana](buy)
+- quero o reembolso do dinheiro das passagens
+- [estornaram](reversed) [valor](buy)
+- como posso realizar o reembolso da passagem de uma viajem para gramado que fiz dia 25/12/2018
+- [extorno](reversed)
+- [estornar](reversed) [pagamento](buy)
+- é tranquilo reembolsar as passagens que comprei ontem?
+- como posso ganhar reembolso?
+- [devolução](reversed) [dinheiro](buy)
+- como posso reembolsar minhas passagens
+- vocês fazem estorno?
+- [estorno](reversed) [compra](buy)
+- [compra](buy) [estornada](reversed)
+- [restituir](reversed) [pagamento](buy) [viagem](trip)
+- [reimbolso](reversed) [compra](buy) [viagem](trip)
+- [estornar](reversed)
+- [estorno](reversed) [voucher](voucher)
+- [reembolso](reversed) [pagamento](buy)
+- quero reembolsar a compra que fiz
+- [reembolso](reversed)
+- [estorno](reversed)
+- quero a devolução do meu dinheiro
+- [estornaram](reversed) [pagamento](buy)
+- [estornou](reversed) [voucher](voucher) [paguei](buy)
+- [reembolso](reversed) [pagamento](buy) [ônibus](bus)
+- quero o reembolso daquela compra de passagens que fiz ontem a noite
+- quero meu dinheiro de volta
+- [devolver](reversed) [pagamento](buy) [viagem](trip)
+- [reembolsado](reversed)
+- [reembolsar](reversed) [paguei](buy) [voucher](voucher) [viagem](trip)
+- [restituição](reversed) [paguei](buy)
+- [restituir](reversed) [viagem](trip) [paga](buy)
+- [estornado](reversed) [pago](buy)
+- quero ser reembolsado
+- [reembolso](reversed) [passagi](ticket)
+- [devolução](reversed) [paguei](buy) [viajar](trip)
+- gostaria de pedir um reembolso
+- [devolve](reversed) [dinheiro](buy)
+- é fácil fazer o estorno da minha compra?
+- quero o reembolso da minha compra
+- [criançinha](child) [pagar](buy) [passagem](ticket)
+- como posso conseguir meu dinheiro de volta
+- como eu posso reembolsar uma compra feita no site?
+- preciso de um reembolso
+- [valor](buy) [estornado](reversed)
+- como posso estornar um pagamento?
+- [dinheiro](buy) [estornado](reversed)
+- [devolver](reversed) [passagem](ticket) [viagem](trip)
+- [reenbolsado](reversed) [passagem](ticket) [viagem](trip)
+- como eu posso pedir extorno?
+- [devolvo](reversed) [compra](bus) [passagem](ticket) [passear](trip)
+- [devolução](reversed) [passagem](ticket)
+- [estornar](reversed) [passagem](ticket)
+- [reembolçar](reversed) [pagamento](buy) [passagem](ticket) [passeio](trip)
+- quero o estorno das minhas passagens
+- [reembolcar](reversed) [pagamento](buy)
+
+## intent:pet_transport
+- [viagem](trip) [gato](cat)
+- será que o motorista reclama se eu embarcar com meu cachorro?
+- [bixinho](animal) [viajar](trip)
+- eu vi um cara andando com um bixo de estimação no ônibus, isso ñ era proibido?
+- [viajar](trip) [gata](cat) [ônibus](bus)
+- [bichinho estimação](animal) [viajar](trip)
+- [bixinho estimação](animal) [buzão](bus)
+- [viajar](trip) [cãozinho](dog) [coletivo](bus)
+- posso levar meu cachorrinho no ônibus?
+- [viagem](trip) [onibus](bus) [animal](animal) [estimação](animal)
+- posso entrar no coletivo com meu animal
+- tenho um cachorro e preciso levar ele no veterinário amanha, posso andar com ele no ônibus?
+- [vagem](trip) [ônibus](bus) [pet](dog)
+- posso andar com meu bixinho de estimação no onibus
+- tem problema se eu levar meu cachorro no coletivo?
+- posso tranzitar no coletivo com meu animal de estimação?
+- [viajar](trip) [cachorro](dog) [ônibus](bus)
+- quero andar com meu cachorro de ônibus
+- é proibido entrar com um cachorra no ônibus
+- [viajar](trip) [animal](animal) [ônibus](bus)
+- posso ir para o passeio com meu bixo de estimação no coletivo
+- [animal](animal) [onibus](bus)
+- [ônibus](bus) [animalzinho](animal)
+- preciso andar com meu cachorro no ônibus
+- [passeio](trip) [ônibus](bus) [cachorrinho](dog)
+- [onibus](bus) [animal](animal)
+- [viajar](trip) [gata](cat)
+- posso levar meu animal no passeio
+- [viajar](trip) [estimação](animal) [onibus](bus)
+- posso levar meu gato na viagem
+- posso andar com meu cão no ônibus
+- [motorista](driver) [reclama](problem) [cachorro](dog) [onibus](bus)
+- [estimação](animal) [onibus](bus) [viagem](trip)
+- meu bixinho de estimação pode ir comigo no buzão
+- [bichinho](animal) [viagem](trip)
+- posso entrar com animal no onibus
+- posso levar meu cachorrinho no passeio de ônibus
+- [viajar](trip) [cachorro](dog)
+- [passeio](trip) [gato](cat)
+- [gato](cat) [onibus](bus)
+- [passeio](trip) [animais](animal)
+- [animal](animal) [passear](trip) [coletivo](bus)
+- algum problema em levar bixo de estimação no onibus?
+- [passeio](trip) [cão](dog) [ônibus](bus)
+- [pet](animal) [passear](trip) [ônibus](bus)
+- [animal](animal) [transporte](bus)
+- [ônibus](bus) [cachorra](dog)
+- quero entrar com meu gato no ônibos, será que o motorista deixa?
+- [pet](animal) [transporte](bus)
+- [animal](animal) [viagem](trip)
+- [viajar](trip) [animal](animal)
+- [onibus](bus) [problema](problem) [animal](animal)
+- [estimacao](animal) [viagem](trip)
+- [viagem](trip) [cachorro](dog)
+- [passeio](trip) [animal](animal) [ônibus](bus)
+- vou ao shopping de onibus amanhã, o problema é que vou levar meu cachorro junto e não sei se o motorista vai me deixar subir com ele
+- [viajar](trip) [cachorro](dog) [coletivo](bus)
+- [buzão](bus) [animal](animal)
+- é possível ir ai onibus acompanhado de meu animal
+- meu cachorrinho pode fzr a viagem cmg?
+- [cachorro](dog) [ônibus](bus)
+- [onibus](bus) [animal](animal) [passeio](trip)
+- [ônibus](bus) [cão](dog)
+- [cão](bus) [veículo](bus)
+- [passear](trip) [animal](animal)
+- [cachorro](dog) [coletivo](bus) [viagem](trip)
+
+## intent:incomplete_purchase
+- [pagamento](buy) [não funcionando](incomplete)
+- [pagamento](buy) [não realizado](incomplete)
+- [não completo](incomplete) [compra](buy)
+- não consegui fazer uma compra
+- [não completar](incomplete) [compra](buy) [passagem](ticket)
+- tentei comprar créditos para meu vale transporte mas o sistema não concluiu minha compra
+- [compra](buy) [incompleta](incomplete)
+- o pagamento do meu vale transporte não concluiu
+- [pagamento](buy) [incompleto](incomplete) [vale](ticket)
+- Fiz uma compra de créditos no valor de 20,00 reais, paguei com meu cartão de crédito, mas a compra não fechou e meu dinheiro ficou lá
+- [comprar](buy) [incompleto](incomplete)
+- comprei o vale transporte mas o dinheiro não entrou na minha carteirinha
+- [compra](buy) [incompleto](incomplete)
+- [incompleta](incomplete) [compra](buy)
+- a minha compra não foi efetuada
+- [pagar](buy) [carteirinha](card) [não concluí](incomplete)
+- a compra do meu voucher não foi concluída
+- [comprar](buy) [tickete](ticket) [nao completa](incomplete)
+- [vale transporte](ticket) [compra](buy) [incompleta](incomplete)
+- minha compra não está sendo validada
+- [não completou](incomplete) [recarga](credits)
+- [não encerrei](incomplete) [compra](buy) [vale-transporte](voucher)
+- não consigo realizar a compra
+- [não encerra](incomplete) [compra](buy)
+- o pagamento da minha passagem não está completo
+- [não fim](incomplete) [comprei](buy)
+- [não completar](incomplete) [pagamento](buy) [ticket](ticket)
+- [não finaliza](incomplete) [compra](buy) [credito](credits)
+- [passagem](ticket) [não finalizada](incomplete)
+- [compra](buy) [vale transporte](ticket) [incompleta](incomplete)
+- [pagar](buy) [não finaliza](incomplete) [vale transporte](ticket)
+- [passagem](ticket) [paguei](buy) [compra](buy) [não finalizou](incomplete)
+- [não conclui](incomplete) [pagamento](buy) [passagem](ticket)
+- [não terminou](incomplete) [pagamento](buy) [cartão](card)
+- [recarreguei](credits) [cartão](card) [não concluiu](incomplete)
+- não consegui completar a compra de créditos para minha carteirinha
+- [não completar](incomplete) [compra](buy)
+- minha compra falhou
+- [não completar](incomplete) [pagamento](buy)
+- [não conclui](incomplete) [pagamento](buy)
+- fui fazer a comprar comprar de vale transporte por meio do cartão de credito e a compra não foi efetuada
+- [não completou](incomplete) [pagamento](buy) [vale transporte](ticket)
+- a minha compra não foi feita
+- [não completar](incomplete) [compra](buy) [vale transporte](ticket)
+- [compra](buy) [incompleta](incomplete) [tickets](ticket)
+- nao estou conseguindo compra credito para o meu cartao escolar o que fazer
+- [não finaliza](incomplete) [pagamento](buy) [passagem](ticket)
+- [comprei](buy) [creditos](credits) [não completou](incomplete)
+- [não completou](incomplete) [aquisição](buy)
+- [pagamento](buy) [vale transporte](ticket) [incompleto](incomplete)
+- [não completa](incomplete) [recarregamento](credits) [carteirinha](card)
+- [comprei](buy) [passagem](ticket) [incompleta](incomplete)
+- [comprei](buy) [passagem](ticket) [pagamento](buy) [não finalizado](incomplete)
+- [recarregamento](credits) [incompleto](incomplete)
+- [não termina](incomplete) [compra](buy) [crédito](credits) [carteirinha](card)
+- [incompletado](incomplete) [pagamento](buy)
+- [comprei](buy) [não completada](incomplete)
+- [compra](buy) [falhou](incomplete)
+- [paguei](buy) [compra](buy) [não encerrada](incomplete)
+- [carteirinha](card) [não fim](incomplete)
+- [pagar](buy) [credito](credits) [incompleto](incomplete)
+- [não encerra](incomplete) [pagamento](buy)
+- não consegui finalizar a compra da minha passagem
+- [paguei](buy) [cartão](card) [não completou](incomplete)
+- [não encerrou](incomplete) [compra](buy) [passagem](ticket)
+- [comprar](buy) [passagem](ticket) [incompleto](incomplete)
+- [não realizou](incomplete) [compra](buy)
+- [pagar](buy) [cartaozinho](card) [não completa](incomplete)
+- a compra não finalizou
+- [não completou](incomplete) [compra](buy) [ticket](ticket)
+- [não finalizei](incomplete) [compra](buy)
+- [completou não](incomplete) [pagamento](buy) [passagem](ticket)
+- o pagamento do meu vale transporte não foi finalizado
+- [comprei](buy) [passagem](ticket) [não encerra](incomplete)
+- Prezados, bom dia! Gentileza informar o por quê os pedidos de compra de vale transporte fornecido pela empresa não estão sendo finalizados
+- [não completou](incomplete) [tiqueti](ticket) [comprado](buy)
+- [não encerrou](incomplete) [pagamento](buy)
+- [pagamento](buy) [passagem](ticket) [não concluído](incomplete)
+- [pagamento](buy) [incompleto](incomplete) [carteirinha](card)
+- [incompleto](incomplete) [pagamento](buy)
+
+## intent:lost_passage
+- [perdi](miss_out) [carterinha](card) [transporte](bus)
+- eu perdi minhas passagens
+- [não encontrar](miss_out) [ticket](ticket) [busao](bus)
+- [assaltado](theft) [passagens](ticket)
+- não consigo encontrar passagem alguma
+- [perdendo](miss_out) [tickets](ticket) [ônibus](bus)
+- [perdeu](miss_out) [passagem](ticket)
+- perda
+- [perder](miss_out) [passagem](ticket) [onibus](bus)
+- [passeio](trip) [perdido](miss_out) [passsagem](ticket)
+- [passeio](trip) [não encontro](miss_out) [passagem](ticket)
+- não sei como consigo perder tantas passagens
+- [perdi](miss_out) [passagens](ticket) [onibus](bus)
+- [perdi](miss_out) [passagens](ticket) [passeio](trip)
+- não encontrei nenhuma passagem
+- [perdi](miss_out) [ticket](ticket) [coletivo](bus)
+- [passagem](ticket) [roubada](theft)
+- [perdida](miss_out) [passagem](ticket) [passeio](trip)
+- [perca](ticket) [passagem](ticket)
+- o que posso fazer quando tenho um passeio para ir porém perdi minhas passagens
+- [perdi](miss_out) [passagem](ticket)
+- [perdeu](miss_out) [passagens](ticket)
+- perdi a passagem, e agora?
+- [perdi](miss_out) [viagem](trip) perdi [passagem](ticket)
+- [passagens](ticket) [viajem](trip) [perdidas](miss_out)
+- [passagem](ticket) [comprei](buy) [perdida](miss_out)
+- não consigo achar minha passagem
+- [perder](miss_out) [passagem](ticket)
+- [perco](miss_out) [passagens](ticket)
+- [não encontrei](miss_out) [passagens](ticket)
+- como posso viajar se perdi minhas passagens
+- não achei as passagens
+- minhas passagens sumiram
+- fui assaltado e levaram minhas passagens
+- não consigo encontrar minhas passagens
+- [perdida](miss_out) [passagem](ticket)
+- [perdi](miss_out) [passagens](ticket) [roubo](theft)
+- [passagens](ticket) [perdida](miss_out)
+- [passagem](ticket) [perdida](miss_out) [roubado](theft)
+- perdi todas as passagens que tinha
+- [passagens](ticket) [perdidas](miss_out)
+- [perdi](miss_out) [passagem](ticket) [buzao](bus)
+- [passagem](ticket) [perdido](miss_out)
+- [roubado](theft) [passagem](ticket)
+- não acho minhas passagens
+- perdi minha passagem para a escola
+- [passagem](ticket) [perdida](miss_out)
+- [não encontro](miss_out) [passagem](ticket) [onibus](bus)
+- [não encontrei](miss_out) [passagem](ticket)
+- [não encontrar](miss_out) [passagens](ticket)
+- tenho uma viagem marcada para segunda pela manha, porém hoje procurei bastante minha passagem e não consegui encontrar, o que devo fazer
+- já perdi muitas passagens
+- [perdi](miss_out) [passagens](ticket) [viagem](trip)
+- [passagens](ticket) [sumiram](miss_out)
+- [não encontro](miss_out) [passagens](ticket)
+- como devo proceder ao perder uma passagem
+- meu irmão perdeu a passagem de hoje, o que ele pode fazer?
+- [perdendo](miss_out) [passagem](ticket)
+- [perdida](miss_out) [passagem](ticket) [viagem](trip) [onibus](bus)
+- [carteira](card) [perdida](miss_out)
+- [passagem](ticket) [não encontrei](miss_out)
+- [perdi](miss_out) [passagem](ticket) [excursão](trip)
+- eu fui roubado e levaram junto minhas passagens
+- [perdi](miss_out) [passagem](ticket) [onibus](bus)
+- [não achar](miss_out) [carteirinha](card)
+- [viajar](trip) [passagem](ticket) [perdida](miss_out)
+- minhas passagens não foram encontradas depois daquele assalto
+- [não encontrar](miss_out) [passagem](ticket)
+- não to conseguindo encontrar minhas passagens
+- [perder](miss_out) [passagens](ticket)
+
+## intent:confirm_purchase
+- como valida uma compra do site
+- [confirmação](validate) [compra](buy) [passagem](ticket)
+- [confirmar](validate) [compra](buy)
+- preciso confirmar minha compra
+- [confirmo](validate) [comprei](buy) [passagem](ticket) [viagem](trip) [onibus](bus)
+- quero confirmar meu pagamento
+- [confirma](validate) [pagamento](buy)
+- gostaria de confirmar a compra de passagens que fiz ontem
+- [certifico](validate) [pagamento](buy)
+- [comprovo](validate) [paguei](buy) [passagem](ticket)
+- preciso fazer a confirmação das passagens que comprei ontem
+- confirmar minha compra
+- [confirmando](validate) [pagamento](buy)
+- [confirmação](validate) [compra](buy) [passagem](ticket) [onibus](bus)
+- quero validar meu pagamento
+- [confirmando](validate) [pagamento](buy) [passagem](ticket) [viagem](trip)
+- [comfirmo](validate) [compra](buy) [passagem](ticket)
+- [confirmação](validate) [pago](buy) [passagem](ticket)
+- como que confirma compra
+- [certificar](validate) [paguei](buy)
+- preciso validar minha compra
+- [confirmo](validate) [pagamento](buy)
+- quero validar o pagamento das passagens
+- [passagem](ticket) [viagem](trip) [confirmação](validate)
+- quero fazer a confirmação do meu pagamento de ontem
+- [certifíco](validate) [compra](buy)
+- validar compra
+- [confirmação](validate) [pagamento](buy)
+- [confirmação](validate) [comprei](buy)
+- [confirmo](validate) [paguei](buy)
+- como pego a confirmação da minha compra do site
+- [confirmo](validate) [comprei](buy) [passagem](ticket)
+- confirmação de compra
+- [confirmar](validate) [paguei](buy) [passagem](ticket)
+- [confirmo](validate) [compra](buy)
+- como posso confirma se minha compra foi feita como sucesso?
+- [validar](validate) [compra](buy)
+- [confirmo](validate) [compra](buy) [passagi](ticket)
+- como posso validar meu pagamento
+- comprei pelo app e quero confirmar
+- quero confirmar que comprei as passagens da viagem
+- como sei se minha conpra foi confirmada
+- como posso fazer a confirmação da minha compra
+- [confirmação](validate) [pagamento](buy) [viagem](trip)
+- [validacao](validate) [pagamento](buy)
+- já paguei o boleto, como confirmo que o pagamento foi efetuado?
+- [validação](validate) [compra](buy) [viagem](trip) [onibus](bus)
+- [paguei](buy) [passe](ticket) [provar](validate)
+- [confirma](validate) [pagar](buy) [passagem](ticket) [viagem](trip) [onibus](bus)
+- [confirmar](validate) [conpra](buy) [viagem](trip)
+- [confirmacao](validate) [compra](buy)
+- pode me confirmar se minha compra foi efetuada?
+- [confirma](validate) [passagem](ticket)
+- [confirma](validate) [compra](buy)
+- comprei uma passagem pela internet, como posso confirmar que ela foi realmente paga
+- [valido](validate) [compra](buy) [possagem](ticket)
+- [confirmar](validate) [paguei](buy) [ônibus](bus)
+- como posso fazer a validação da minha compra
+- [compra](buy) [confirmar](validate)
+- [confirmação](validate) [comprei](buy) [viagem](trip) [ônibus](bus) [passagem](ticket)
+- [confirmação](validate) [passagem](ticket)
+- [confirmo](validate) [pagamento](buy) [ticket](ticket)
+- [comprovar](validate) [pagamento](buy) [passe](ticket)
+
+## intent:update_registration
+- Boa tarde, Realizei o recadastro do benefício escolar 2018 no dia 19/01/2018 no site de vocês, foi gerado o protocolo #81387, entretanto 7 dias já se passaram e a solicitação continua em análise e não consta o tempo de processamento. Gostaria de saber quantos dias devo aguardar para obter uma resposta visto que as minhas aulas retornarão dia 06/02 e necessito do benefício para me locomover. Aguardo retorno, Att. Tamires Maia
+- [problema](problem) [recadastro](update)
+- [cartão escolar](card) [renovar](update)
+- [atuaizar](update) [vale tranporte](ticket)
+- Para obter passe escolar tenho que me cadastrar outra vez? Já uso desde o ano de 2017
+- preciso atualizar meu vale transporte
+- [recadastramento](update) [cadastrar novo](update)
+- [cartera](card) [recadastra](update)
+- [recadastrar](update) [carteirinha](card) [faculdade](pupil)
+- [renovação](update) [carteirinha](card)
+- [novo cadastro](update) [carteirinha](card) [estudante](pupil)
+- [recadastro](update)
+- boa tarde fiz o recadastro do passe livre e queria saber o prazo para liberação
+- [cadastrar novamente](update) [carteirinha](card)
+- oa tarde, Fiz o recadastramento do cartão escolar da minha filha Yasmin do Carmo Lima - protocolo 233001 e ao fazer a recarga a atendente da empresa disse que o cadastro foi recusado porque o curso que a minha filha irá frequentar em 2018 é cursinho de vestibular. Ocorre que a minha filha está regularmente matriculada no curso anual, se segunda a sexta-feira, no período da manhã, conforme declaração da instituição de ensino, e sem o transporte escolar ficará muito oneroso. Dessa forma, venho respeitosamente pedir à direção da Piracicabana que reconsidere a rejeição e que libere o uso do cartão escolar. Grato pela compreensão.
+- Olá, boa tarde. Eu já tenho um cartão transporte mas não estou conseguindo me recadastrar por motivos de que não consigo entrar pelo meu email e preciso da folha de carimbo para ir para a faculdade
+- [recadastrar](update) [carteirinha estudante](pupil)
+- [atualizacao](update) [registro](register)
+- Como eu faço um pedido de recadastramento
+- - bom dia por favor fiz o recadastramento do meu neto LEONARDO POMPEU GONÇALVES CPF 39576947871 NR. CARTÃO 2937634 no dia 26/01/2018 ..até hj não obtive resposta fui ao tatico pegar informação informaram que ate dia 02/02 liberaram o que não aconteceu ..por favor poderiam ver se esta td ok.. obrigado
+- [renovar](update) [cartão](card)
+- [renovar](update) [registro](register)
+- [recadastro](update) [transporte](bus) [carterinha](card)
+- [recadastramento](update) [passe](ticket)
+- [atualização](update) [cadastro](register)
+- [renovação](update) [cadastro](register) [vale transporte](ticket)
+- [recadastro](update) [cartãozinho](card)
+- [recadastro](register) [benefício](benefit) [escolar](pupil)
+- [recadastramento](update) [cartão](card)
+- [recadastramento](update)
+- [recadastro](update) [benefício](benefit) [escolar](pupil)
+- [renova](update) [vale-transporte](ticket)
+- [cartão estudante](card) [atualizar](update)
+- [recdadastro](update) [vale](ticket)
+- [cadastrar denovo](update) [carteirinha](card)
+- om dia, queria saber se necessito fazer um recadastro do cartão escolar que eu uso do semestre passado para esse ano, obrigado pela atenção.
+- [recadastramento](update) [demora](problem)
+- [atualiza](update) [cartão](card) [estudante](pupil)
+- [recadastramento](update) [escolar](pupil) [Universidade](pupil) [problema](problem)
+- Bom Dia, eu fiz o recadastro para o passe escolar e não tive nenhum retorno da br mobilidade, gostaria de saber maiores informações, pois sou professora e utilizo muito o transporte, tenho a carterinha e todos os documentos necessários. Meu telefone de contato 13 99154 3156
+- [recadastro](update) [não recebi](problem) [carteirinha](card)
+- Bom dia eu fiz o recadastramento do passe livre do meu filho Guilherme Teles dos santos oliveira.porem fiz errado, aí refiz novamente agora corretamente e tenho que esperar,pois está em análise mais 9dias,obs se eu não estivesse ligado na ouvidoria eu não iria saber o pq da demora na resposta da minha solicitação.vcs precisam melhorar isso,pois meu filho está sendo prejudicado, é muita demora pra analisar um cadastro.#82951aguardo resposta.
+- [recadastramento](update) [cartão](card) [escolar](pupil) cartão escolar
+- [recadastramento](update) [escolar](pupil) [cartão](card) escolar
+- [recadastramento](update) [escolar](pupil) [Universidade](pupil)
+- [recadastro](update) [passe](ticket) [escolar](pupil)
+- [aluno](pupil) [recadastrar](update) [carteirinha](card) [estudante](pupil)
+- preciso fazer o recadastramento da minha carteirinha de estudante
+- [atualização](update) [cartão estudante](card)
+- Quais são documentos necessários para recadastro escolar?
+- Olá, tudo bem? Fiz o recadastro dia 08 de janeiro e até agora está em análise, não recebi nenhuma mensagem no meu email e gostaria de saber como esta a situação.
+- [atualizar](update) [carteirinha](card) [estudante](pupil)
+- Boa tarde, Vocês poderiam me dizer que se caso eu já possua o cartão escolar, eu preciso fazer novamente os procedimentos de cadastramento, ou apenas levar os documentos requeridos para a renovação ? Att, Beatriz.
+- sou aluno e preciso recadastrar a carteirinha de estudante
+- [cadastrar outra](register) [carteirinha](card)
+- [cartão](card) [recadastrar](update) [faculdade](pupil)
+- olá ano passado fiz meu cadastro no site da brmobilidade para receber o passe meia tarifa , porem o email que coloquei no ano passado não tenho mais acesso a ele e com isso não consigo fazer o login aki no site para fazer o recadastramento para esse ano. gostaria de saber se é possivel alterar o email para o que eu tenho acesso ou se terei que me cadastrar denovo ?
+- [atualizar](update) [cadastro](register) [carteirinha](card)
+- [recadastro](register) [escolar](pupil)
+- Boa noite, ja possuo o cartão escolar, gostaria de saber oque tenho que levar pra efetuar o recadastro desse ano. Obrigada.
+- [recadastramento](update) [vale](ticket)
+- Olá Boa Tarde. Fiz recadastro para meu passe escolar por mudei de cidade. de São Vicente para Santos. E preciso do cartão para ir a faculdade.. ja faz 15 dias que enviei tudo pelo site e ainda não me deram uma resposta. Poderiam verificar? Grata Mariana
+- [atualiuzo](update) [cadastramento](register)
+- [recadastramento](update) [problema](problem)
+- [recadastramento](update) [carteirinha](card)
+- [recadastramento](update) [cartão](card) [escolar](pupil) [vestibular](pupil) cartão escolar
+- quero por favor atualizar meu cadastro estudantil
+- Boa tarde, quanto tempo leva para liberar a solicitação do cartão transporte Eu fiz no dia 13 e ainda não tenho resposta, pergunto porque as aulas já vai começar na semana que vem Solicitação n #80488 aguardo vanessa Boa tarde Quanto tempo leva para liberar a requisição Do recadastramento n #80488,Porque as Aulas já vão começar na semana que vem Aguardo Vanessa
+- Olá, boa tarde! Gostaria de saber, como ocorre para realizar o recadastramento para o cartão escolar 2018. Após procurar não consegui encontrar o procedimento. Obrigado, desde já!
+- [renovar](update) [vale](ticket)
+- [cartão](card) [desatualizado](update)
+- [atualizar](update) [carteirinha](card)
+- [requalificar](update) [cartão](card) [estudantil](pupil)
+- Olá, fiz o recadastro dia 08 de janeiro e até agora esta em analise, não recebi nenhuma mensagem e quero um justificativa da demora. Agradeço desde já
+- [recadastramento](update) [passe](ticket) [demora](problem)
+- me chamo Leonardo e sou usuário do passe livre, entrei com o pedido de recadastramento no dia 17/01/2018 estou esperando a 11 dias corridos e o sistema só mostra que está em analise a minha requisição, preciso de um retorno, necessito com urgência do cartão. Desde já agradeço e aguardo resposta do responsável.
+- [recadastramento](update) [cartão](card) [escolar](pupil)
+- Olá boa noite, Tento realizar a recadastramento escolar pelo site, colocando a declaração da Universidade e o comprovante de residencia em meu nome, porem recebo uma resposta automática 2 dias depois que os documentos não foram anexados corretamente... gostaria de saber qual o problema, visto que não possuo tempo para poder ir até o terminal Desde já grato
+- preciso cadastrar novamente minha carteirinha
+- [atualizar](update) [registro](register)
+- [recadastrar](register) [faculdade](pupil)
+- [atualização](update) [vale transporte](ticket)
+- [não consigo](problem) [recadastrar](update)
+
+## intent:rent_bus
+- [aluguel](rent) [coletivos](bus)
+- [lotações](micro_bus) [alugando](rent)
+- [locando](rent) [busao](bus)
+- [fretado](rent)
+- [algugando](rent) [micros](micro_bus)
+- [locagem](rent) [lotacao](micro_bus)
+- [alugagem](rent) [frota](bus)
+- quero alugar um onibus
+- [coletivo](bus) [aluguel](rent)
+- [alugél](rent) [onibus](bus)
+- posso alugar um veículo?
+- [onibus](bus) [fretagem](rent)
+- [locar](rent) [lotação](rent)
+- preciso alugar um micro onibus para uma viagem escolar
+- [fretando](rent) [ônibus](bus)
+- gostaria de alugar uma van
+- [cotar](rent) [ônibus](bus)
+- [alugando](rent) [lotacao](micro_bus)
+- [alugada](rent) [veiculo](bus)
+- [alugar](rent) [buzão](bus)
+- [afretamento](rent) [buzum](bus)
+- [alugando](rent) [onibus](bus)
+- quero fretar um micro
+- [fretameno](rent) [micro](micro_bus)
+- [alugamento](rent) [coletivo](bus)
+- [fretagem](rent) [coletivo](bus)
+- gostaria de alugar um ônibus para fins escolares
+- [ônibus](bus) [alugado](rent)
+- preciso alugar um veículo da frota de vocês
+- Boa noite, gostaria de saber o orçamento para um fretamento de um ônibus e um micro ônibus (separados) para o dia 24 de maio, saindo de Piracicaba indo até Guarulhos, ida e volta. A saída de Piracicaba seria por volta das 15h30 e o retorno por volta das 23h. Aguardo retorno. Att. Victória.
+- [fretar](rent) [coletivo](bus)
+- gostaria de alugar um veículo de uma frota de ônibus para viagem
+- gostaria de saber se vocês estão disponibilizando fretamento de ônibus
+- [alugação](rent) [coletivo](bus)
+- gostaria de saber o orçamento para um fretamento de um ônibus e um micro ônibus (separados) para o dia 24 de maio, saindo de Piracicaba indo até Guarulhos, ida e volta. A saída de Piracicaba seria por volta das 15h30 e o retorno por volta das 23h. Aguardo retorno. Att. Victória.
+- [alugada](rent) [buzum](bus)
+- [locação](rent) [transporte](bus)
+- [fretamento](rent) [ônibus](bus) [micro ônibus](micro_bus)
+- preciso fretar um ônibus, como posso fazer por aqui?
+- [fretagem](rent) [micro van](micro_bus)
+- queria fretar um Ônibus para uma viagem interestadual
+- [fretar](rent) [micro](micro_bus)
+- [locação](rent) [ônibus](bus)
+- [fretamento](rent) [micro ônibus](micro_bus)
+- [fretagem](rent) [micro](micro_bus)
+- [fretando](rent) [micro](micro_bus)
+- [alugo](rent) [buzão](bus)
+- [aluguel](rent) [vans](micro_bus)
+- [van](micro_bus) [fretam](rent)
+- [alugam](rent) [coletivos](bus)
+- [aluga](rent) [busum](bus)
+- o que posso fazer para fretar um coletivo?
+- [fretamento](rent) [onibus](bus)
+- posso alugar um veículo da frota de vocês para uma viagem?
+- [aluguei](rent) [van](micro_bus)
+- quero fretar um micro-ônibus
+- [alugar](rent) [onibus](bus)
+- [alugar](rent) [veículos](bus)
+- [aluguel](rent) [micro onibus](micro_bus)
+- vocês fazem fretamento de onibus
+- [alugagem](rent) [onibus](bus)
+- Bom dia. Gostaria de saber qual contato de vocês para cotar um ônibus de viagem?!
+- [locando](rent) [coletivos](bus)
+- [fretamento](rent)
+- [alugar](rent) [carro](bus)
+- [locam](rent) [micro ônibus](micro_bus)
+- gostaria de fazer a fretagem de uma van
+- [fretagem](rent) [locação](micro_bus)
+- [alugam](rent) [locação](micro_bus)
+- estou precisando cotar uma van para uma viagem
+- [fretagem](rent) [van](micro_bus)
+- gostaria de fazer um aluguel de microonibus onde posso conseguir mais informações
+- [micro onibus](micro_bus) [alugar](rent)
+- [alugar](rent) [ônibus](bus)
+- [onibus](bus) [fretado](rent)
+- [fretar](rent) [frota](bus)
+- [alugar](rent) [veiculo](bus)
+- [locação](rent) [micro](micro_bus)
+- [fretagem](rent) [veículo](bus)
+- [aluguel](rent) [micro-onibus](micro_bus)
+- [ônibus](bus) [alugar](rent)
+
+## intent:curriculum
+- [mestrado](master) [trabalhar](jobs)
+- [curriculo](curriculum) [ocupação](jobs)
+- [doutorado](doctor) [emprego](jobs)
+- Gostaria de saber se estão contratando motorista , trabalho na rápido luxo de Indaiatuba no fretamento para São Paulo e regiões mas por motivos maiores não estou satisfeito com a empresa,estou a procura de uma nova empresa e possível
+- [curriculo](curriculum) [empregar](jobs) [técnica](technician)
+- [trabalho](jobs) [motorista](driver)
+- Sou motorista com Curso de transport coletivo de passageiros com muita experiencia habilitado Des de 1990 Atualmente me encontro a disposiçao para inicio imediato
+- [trampar](jobs) [curriculo](curriculum)
+- [técnico](technician) [currículo](curriculum) [emprego](jobs)
+- [curriculum vitae](curriculum) [trabalhar](jobs)
+- [cv](curriculum) [trabalhar](jobs)
+- tenho CNH AD,curso transporte coletivo de passageiros, curso Mopp transportes de produtos perigosos, como faço para me candidatar para vaga no VLT?
+- [vagas](jobs) [curriculacao](curriculum)
+- [empregar](jobs) [estagiários](jobs)
+- [trabalho](jobs) [tecnica](jobs)
+- [técnica](technician) [trabalhar](jobs)
+- COMO FUNCIONA O PROCESSO SELETIVO E COMO SE CADASTRAR PARA A VAGA DE MOTORISTA?
+- [fixa profissional](curriculum) [emprego](jobs)
+- Ola, boa noite.. venho por deste pedir a oportunidade de um emprego profissional, tenho experiência em algumas áreas. Tenho facilidade em aprendizados, sou esforçada, e responsável! Espero ter algum retorno, para que eu possa enviar meu currículo! Obrigada pela atenção, até mais..
+- Venho atrás de uma vaga de ax de limpeza
+- [vagas](jobs) [trabalhar](jobs)
+- [graduada](graduate) [cv](curriculum)
+- Olá Bom dia . Meu nome é Beatriz , tenho 21 Anos e sou formada em administração, RH . Estou escrevendo a vocês para pedir uma ajuda . Gostaria muito de uma oportunidade de emprego . Já trabalhei com vendas , mas nunca tive a oportunidade de trabalhar com carteira assinada . E hoje pra entrar no mercado de trabalho sem experiência é um pouco complicado. Gostaria muito da ajuda de vocês. Escrevo como forma de pedir uma ajuda . E agradeço desde já.
+- [vaga](jobs)
+- Ola boa tarde qual o email correto pra mandar meu currículo.
+- [trabalho](jobs) [cv](curriculum)
+- [cv](curriculum) [estagiário](jobs)
+- [tecnico](technician) [estagio](jobs)
+- Como fasso emvia un curriculo ! Meu zap e 18 998170112
+- Como faço para enviar um currículo meu para vocês!?
+- TEM VAGA AI DE MOTORISTA ACT D ?
+- [trabalho](jobs) [formada](graduate)
+- Boa tarde, não estou conseguindo cadastrar meu currículo no site. Sera que teria como eu levar-lo em alguma garagem para tentar concorrer uma vaga ?
+- [curriculo vittae](curriculum)
+- Gostaria de saber se a empresa está contratando MOTORISTA ou MANOBRISTA ? Contato:(21)97921-6593
+- [emprego](jobs) [formado](graduate)
+- Bom dia, como faça para que posso enviar meu CURRICULO. Obrigado
+- [CV](curriculum) [emprego](jobs)
+- [trabalhar](jobs) [vagas](jobs)
+- [currículo](curriculum) [emprego](jobs) [formado](graduate)
+- [trabalho](jobs) [técnico](technician)
+- preciso de emprego de cobradora de ônibus
+- [emprego](jobs) [cobradora](tradesman) [ônibus](bus)
+- onde posso enviar meu currículo
+- [cv](curriculum) [técnica](technician)
+- [imprego](jobs) [corriculo](curriculum)
+- [curriculo](curriculum)
+- [formada](graduate) [vagas](jobs)
+- [curriculos](curriculum) [trabalhos](jobs)
+- [curriculação](curriculum) [emprego](jobs)
+- [estagiar](jobs) [curriculo](curriculum)
+- [trabalhar](jobs) [cobrador](tradesman)
+- [curriculum](curriculum)
+- [emprego](jobs) [motorista](driver)
+- [trabalhar](jobs) [motorista](driver) [ônibus](bus)
+- Quero concorrer a vaga de motorista
+- [motorista](driver) [coletivo](bus) [inicio imediato](jobs)
+- boa tarde venho através deste encaminhar meu currículo devidamente atualizado para apreciação como interessado em participar do quadro de funcionários desta empresa
+- [trabalhar](jobs) [tecnico](technician)
+- [graduado](graduate) [emprego](jobs)
+- [estágio](jobs) [cv](curriculum)
+- [curriculum](curriculum) [vaga](jobs)
+- [trabalhar](jobs) [cv](curriculum)
+- [estagiária](jobs) [curriculo](curriculum)
+- [formado](graduate) [currículo](curriculum) [emprego](jobs)
+- Boa noite gostaria de saber como faço para enviar o meu currículo
+- [formando](graduate) [estágio](jobs)
+- [vagas](jobs) [impregu](jobs)
+- [contratando](jobs) [MOTORISTA](driver)
+- [vaga](jobs) [ocupacao](jobs)
+- [vagas](jobs) [empregar](jobs)
+- [trabalho](jobs) [graduado](graduate)
+- Vocês estão contratando motorista ?
+- [mestrado](master) [currículo](curriculum)
+- [trabalho](jobs)
+- [ocupação](jobs)
+- Sou motorista de ônibus moro em Mongaguá Av Jussara 441Balneário gosta de trabalhar com vocês de motorista de ônibus
+- Bom dia queria saber se estão tendo vagas para cobrador de ônibus ou pra lavador !
+- [doutorado](doctor) [trampo](jobs)
+- Busco oportunidade para trabalhar como motorista ,possuo CNH categoria D,curso de P12, alem de treinamento com veiculo de grande porte(onibus)
+- [técnico](technician) [currículo](curriculum)
+- [curriculo](curriculum) [trampor](jobs)
+- [emprego](jobs)
+- [vaga](jobs) [condutor](driver)
+- [trampo](jobs) [cv](curriculum)
+- [currículo](curriculum)
+- [vaga](jobs) [emprego](jobs)
+- [emprego](jobs) [currículos](curriculum)
+
+## intent:broken_card
+- [problemas](problem) [cartão](card)
+- não sei o que fazer com o meu cartão de onibus quebrado
+- [catão](card) [não funciona](not_work)
+- [não recarrega](broke) [cartão](card)
+- [cartão](card) [estudante](pupil) [quebrou](broke)
+- [cartão](card) [defeito](broke)
+- a carteirinha de ônibus está defeituosa
+- [carteirinha](card) [defeituosa](broke)
+- [quebrado](broke) [cartão](card)
+- [problema](problem) [cartão](card) [escola](pupil)
+- meu cartão está quebrado
+- meu cartão não está mais querendo funcionar
+- [cartão](card) [não funfa](broke)
+- [carteirinha](card) [transporte](bus) [quebrada](broke)
+- eu tinha uma carteirinha de estudante antiga, ela não funciona mais
+- [cartão](card) [estragado](broke)
+- [cartão](card) [falhou](broke)
+- [mau funcionamento](broke) [carteirinha](card)
+- minha carteirinha está quebrada
+- [recarga não](broke) [cartão](card)
+- [cartão](card) [bixado](broke)
+- quebrei minha carteirinha de transporte , o que faço agora
+- onde posso trocar o cartão que está quebrado
+- [não colocar](broke) [credito](credits) [carteirinha](card)
+- [defeito](broke) [cartão](card)
+- [danificado](broke) [carteirinha](card)
+- [quebrei](broke) [cartão](card)
+- [quebrado](broke) [carteirinha](card) [escolar](pupil)
+- [cartão](card) [ônibus](bus) [quebrado](broke)
+- o que fazer quando meu cartão quebra?
+- [carteirinha](card) [falhando](broke)
+- quebrei minha carteirinha
+- [carteirinha](card) [estudante](pupil) [parou funcionar](broke)
+- [cartão](card) [transporte](bus) [quebrou](broke)
+- cartão tá quebrado?
+- meu cartão não funciona mais
+- acho que o meu cartão de ônibus está quebrado
+- [carteirinha](card) [quebrada](broke)
+- minha carteirinha quebrou, como procede agr?
+- [carteirinha](card) [falhas](broke)
+- [mal funcionamento](broke) [carteirinha](card) [estudante](pupil)
+- [cartão](card) [quebrou](broke)
+- [não funcionou](broke) [carteirinha](card) [estudante](pupil)
+- minha carteirinha de estudante parou de funcionar, e agr??
+- minha carteirinha quebrou, e agr?
+- [não recarga](broke) [carteirinha](card) [estudante](pupil)
+- [quebrado](broke) [cartão](card) [onibus](bus)
+- [carteirinha](card) [não funcionando](not_work)
+- como posso concertar a minha carteirinha quebrada
+- minha carteirinha não funciona, o que eu faço???
+- quebrei sem querer meu cartão de ônibus e n sei mais o que fazer agora
+- o cartão que uso pra pegar o busão está quebrado
+- [quebrou](broke) [cartãozinho](card)
+- [quebrei](broke) [cartão](card) [ônibus](bus)
+- [cartão](card) [estragou](broke)
+- [carteira](card) [quebrou](broke)
+- [danificou](broke) [cartão](card)
+- [querbrado](broke) [cartão](card) [estudante](pupil)
+- [carteirinha](card) [estudante](pupil) [não recarrega](broke)
+- minha carteirinha de estudante parou de funcionar
+- [quebrado](broke) [carteirinha](card)
+- meu cartão está com defeito
+- [cartãozinho](card) [mal funcionamento](broke)
+- [não funciona](broke) [cartão](card) [coletivo](bus)
+- [carteirinha](card) [estudante](pupil) [problemas](problem)
+
+## intent:accessibility
+- [gravida](pregnant)
+- Cliente reclama que o motorista estava parado no ponto, porém não abriu a porta para embarque, relata que é deficiente visual, e esse motorista sempre a deixa a mesma, e idosos no ponto sem atendimento. Solicita Providencias.
+- Olá tenho um filho Deficiente intelectual Gostaria de saber como fazer o cartão para ele ter o direito à gratuidade na passagem Quais são os documentos necessários e onde fazer?
+- [não cadeira](problem) [cadeirante](deficient)
+- [deficiente](deficient) [prejudicado](problem)
+- Boa tarde, estou tentando falar há mais ou menos 15 dias no 0800 7717778, mas só dá ocupado, teria algum endereço fisico aqui em Santos para que eu possa ir e me informar sobre a confecção da carteirinha para deficiente? Desde já agradeço.
+- [grávidas](pregnant)
+- [cartão](card) [passagem](ticket) [deficientes](deficient)
+- [problema](problem) [acessibilidade](is_acessible)
+- [deficiente visual](deficient) [embarquei](problem)
+- [não acento](problem) [caderante](deficient)
+- [velho](elder) [não pagar](buy) [passagem](ticket)
+- [carteirinha](card) [idoso](elder)
+- [motorista](driver) [não abriu](problem) [embarque](problem) [deficiente visual](deficient)
+- Bom dia. Meu filho de 6 anos possui transtorno do espectro autista. Gostaria de saber se ele tem direito ao passe livre e documentos necessários para dar entrada. Grata.
+- [cego](deficient) [não posso](problem)
+- [deficiente visual](deficient)
+- [acessível](is_acessible) [baixa visao](deficient)
+- [não estrutura](problem) [acessibilidade](is_acessible)
+- [cartão](card) [idosos](elder)
+- [deficiente](deficient)
+- [gratuito](buy) [muleta](deficient)
+- [cego](deficient) [não acessível](problem)
+- [autista](deficient) [não tenho](problem)
+- [não abriu](problem) [embarque](problem) [deficiente visual](deficient) [motorista](driver)
+- [não acento](problem) [cadeirante](deficient)
+- [carteirinha](card) [deficiência](deficient)
+- [não acessível](problem)
+- [não pagar](buy) [tetraplegico](deficient)
+- [deficiência](deficient) [acessível](is_acessible)
+- [baixa visão](deficient) [queixa-se](problem) [veículo](bus) [carteirinha](card) [motorista](driver) [deficiente](deficient)
+- [acessível](is_acessible) [grávidas](pregnant)
+- [deficiência](deficient)
+- o motorista negou-se a deixar cadeirante embarcar no ônibus, alegando que ele não tinha carteirinha de deficiente, e o mesmo iria pagar passagem.
+- [acessivel](is_acessible) [idosos](elder)
+- [deficiente](deficient) [queda](problem) [coletivo](bus)
+- sou idoso e gostaria de saber se posso sentar nos acentos reservados para deficiente
+- [acessivel](is_acessible) [onibus](bus)
+- Gostaria de saber sobre a documentação nescessaria para adquirir cartão para deficiente. E o endereço para se levar. a documentação pois eu e minha esposa somos aponsentados por invalidez.No aguardo de sua resposta.
+- [ônibus](bus) [acessível](is_acessible) [embarque](problem) [muleta](deficient)
+- deficiente visual...cartão para transitar, como fazer e onde ?
+- [passagem](ticket) [gratis](buy) [cadeirante](deficient)
+- Site: praiagrandeonibus - Bom dia preciso de fazer um cadastro para minha esposa que tem uma deficiencia fisica, para vale transporte gratuito preciso saber onde posso fazer isso, obrigado,
+- [cartão](card) [cadeirante](deficient)
+- sou deficiente visual e que embarquei na linha 10 prefixo 7532 por volta das 11h45. ao passar a catraca o condutor arrancou bruscamente com o coletivo, quase ocasionando sua queda. Solicito providências.
+- [deficiente](deficient) [grátis](buy)
+- [autistas](deficient) [não pagam](buy) [passagem](ticket)
+- [problema fisico](deficient)
+- [carteira](card) [idoso](elder)
+- Boa tarde! Como devo proceder? Tenho uma filha deficiente, no caso a passagem é gratuita. Obrigada
+- [gravidez](pregnant) [não cadeira](problem)
+- [não consigo](problem) [deficiente](deficient)
+- [baixa visao](deficient) [motorista](driver) [grosso](problem)
+- [gravida](pregnant) [não sentar](problem)
+- sou deficiente visual, tenho direito a sentar nos acentos separados para pessoas que necessitam de acessibilidade
+- [onibus](bus) [acessiveis](is_acessible)
+- [acessibilidade](is_acessible) [cegos](problem)
+- [ônibus](bus) [acessiveis](is_acessible)
+- [cadeira automática](deficient) [constrangimento](problem)
+- elevador para deficiente que não funciona, sem manutenção
+- [deficiencia](deficient)
+- [reclama](problem) [motorista](driver) [não abriu](problem) [deficiente visual](deficient) [idosos](elder)
+- o motorista trata o deficiente e o acompanhante com descaso.
+- Boa tarde, gostaria de saber para emissão do cartão para deficiente qual procedimento. Grata
+- [deficiente](deficient) [não paga](buy) [passagem](ticket)
+- [não pagar](buy) [grávida](pregnant)
+- [cego](deficient)
+- [acessível](is_acessible) [gravidas](pregnant)
+- Quero ser cadastrada pra receber a carteira de idoso
+- Usuária queixa-se de postura do operador. Relata que embarcou uma usuária deficiente, mesmo apresentando a carteirinha de passageiro especial o condutor demorou a liberá-la deixando a mesma em pé no bloqueio, o mesmo fato ocorreu com uma usuária idosa. Não soube informar o prefixo. Solicita Providências.
+- [deficiente](deficient) [queixa-se](problem) [motorista](driver) [abusivo](problem)
+- [surdo](deficient)
+- [deficiente](deficient) [cartão](card)
+- [deficiente visual](deficient) [bruscamente](problem) [coletivo](bus)
+- [tetraplegico](deficient)
+- Bom dia! Sou deficiente e gostaria de saber se tenho direito de utilizar onibus de forma gratuita. Se sim, como devo proceder? Atenciosamente,
+- [acessiblidade](is_acessible) [deficiente](deficient)
+- [idosa](elder)
+- [tetraplégico](deficient)
+- [gravidez](pregnant)
+- [desrespeito](problem) [cadeirante](deficient)
+- [acessibilidade](is_acessible) [grávidas](pregnant)
+- boa tarde , tenho deficiência física como faco para solicitar o cartão especial para deficiente .obrg
+- [embarcar](problem) [muleta](deficient)
+- [acessível](is_acessible) [autistas](deficient)
+- [idosos](elder) [gratuita](buy)
+- Que tipo de documento e preciso para fazer o cartão transporte para deficiente físico.
+- Como faço para ter insençao de passagem para deficientes, onde ir, documentos necessarios. Obrigado
+- [reclama](problem) [motorista](driver) [não abriu](problem) [deficiente](deficient)
+- [acessível](is_acessible) [deficiente](deficient)
+- [deficiente](deficient) [carteirinha](card)
+- [cadeirante](deficient) [não sair](problem) [onibus](bus)
+- [grávida](pregnant)
+- Bom dia, gostaria de saber como faço para fazer o cartão para deficiente aqui em Santos
+- [deficiência](deficient) [nao catraca](problem)
+- os veículos desta linha sempre apresentam falha no elevador, meu filho deficiente com cadeira automática por várias vezes fica prejudicado com horário e sofre constrangimento porque a máquina trava e não consegue sair do ônibus. Sr. Severino (motorista) sempre foi muito atencioso , o descaso está sendo na falta de manutenção.
+- [cadeirante](deficient)
+- [tetraplegia](deficient)
+- [deficiente](deficient) [não cadeira](problem)
+- [deficiente](deficient) [não sento](problem)
+- [acesibilidade](is_acessible)
+- [baixa visão](deficient) [queixa-se](problem) [deficiente](deficient) [motorista](driver)
+- [motorista](driver) [não abriu](problem) [deficiente](deficient)
+- [não sentar](problem) [idosa](elder)
+- Boa Tarde Sou Deficiente auditivo CID 093 ( profunda ), gostaria de saber como proceder para fazer minha solicitação de isenção de tarifa junto ao VLT.
+- [alejado](deficient)
+- Onde está neste site informações para aquisição de passe livre para deficiente e acompanhante? Acessibilidade?
+- [não catraca](problem) [acessível](is_acessible)
+- [idoso](elder)
+- baixa visão queixa-se, que ao embarcar no veículo mencionado, mostrou a carteirinha para o motorista e o mesmo pediu para ver pela segunda vez. O cliente relatou que perguntou ao motorista se o mesmo não estava vendo que ele era deficiente e estava de bengala e perguntou ainda, se fosse uma moça bonita ele liberaria, foi quando o motorista disse: "Quem manda ser homem e feio!" Solicita providências.
+- [problemão](problem) [acessibilidade](is_acessible)
+
+## intent:app
+- [baixa](how_dowload) [android](android)
+- [baixar](how_dowload) [smartphone](phone) [ios](ios)
+- [nao achei](problem) [app](program) [play store](how_dowload)
+- [aplicativo](program) [celular](phone) [cartão](card) [transporte](bus)
+- [aplicativo](program)
+- [app](program) [não liga](problem) [android](android)
+- [link](how_dowload) [app](program) [problema](problem)
+- uando será disponibilizado um aplicativo descente para acompanhamento em tempo real das linhas de ônibus , visto que o quantotempofalta é muito ruim . Lembro que um bom aplicativo seria ótimo marketing para fazer frente ao crescimento do Uber
+- [baixar](how_dowload) [software](program)
+- Boa tarde Alguma possibilidade da empresa fazer um App para consultar quanto tem de vale transporte.favor verem com carinho.sem mais para o momento Obrigado
+- BOA TARDE, GOSTARIA QUE VOCÊS COLOCASSEM UM APLICATIVO PARA PODER CARREGAR O CARTÃO BR MOBILIDADE COM CARTÃO DE CRÉDITO, POIS SERIA UMA ÓTIMA OPÇÃO PARA ALGUMA EMERGÊNCIA, JÁ TEM VARIAS APLICATIVOS DE OUTROS CARTÕES. OBRIGADA.
+- [software](program)
+- [aplicativo](program) [bugado](problem)
+- tenho que baixar o aplicativo para meu celular mais n sei o link
+- [aplicativo](program) [mal funcionamento](problem) [android](android)
+- [app](program) [androidgo](android)
+- [baixo](how_dowload) [app](program) [telefone](phone)
+- em qual link devo entrar para baixar o aplicativo?
+- [app](program) [travando](problem)
+- [problemão](problem) [aplicação](program)
+- [dificuldade](problem) [aplicativo](program) [windowsphone](windows_phone)
+- [baixando](how_dowload) [aplicativo](program)
+- estou tendo alguns problemas com o app
+- [aplicativo](program) [celular](phone)
+- [app](program) [celular](phone)
+- Olá! Seria muito bom para nós que somos usuários do Cartão Transporte aqui da região, poder consultar o Saldo e realizar pagamentos pela internet ou algum aplicativo para celular, mais modernidade e praticidade para todos que usam o Cartão Transporte.
+- [não achando](problem) [software](program)
+- [bug](problem) [app](program) [android](android)
+- [link](how_dowload) [app](program)
+- [vale transporte](ticket) [app](program) [smartphone](phone)
+- [aplicativo](program) [ios](ios)
+- Prezados; Gostaria de saber se tenho como controlar meu saldo do cartão por algum aplicativo? Obrigada
+- Boa noite,seria muito útil um aplicativo para consulta de saldo e extrato do cartão BR Mobilidade,
+- Vocês poderiam ter algum aplicativo para celular aonde a pessoa consiga ver o quanto que ainda resta no seu cartao transporte, e nao fica dependente de passa no onibus para tal coisa.
+- [não achar](problem) [aplicativo](program)
+- oa tarde Atualmente não venho conseguindo efetuar a compra de passagem pelo aplicativo Viaje Mais. Já uso o aplicativo a bastante tempo mais quando tento finalizar a compra aparece uma mensagem "nã3o existe reservas". Já reinstalei o aplicativo porem o mesmo continua com o problema. Fico no aguardo de um retorno. Obrigada Bruna
+- boa tarde , minha duvida e referente ao assunto citado , existe algum aplicativo de consulta de saldo para o bilhete br card ? pois minha empresa pede atualizações e saldos constantes e não tenho acesso a mesmo . aguardo contato .
+- [dificuldade](problem) [instalacao](how_dowload) [app](program)
+- [aplicativo](program) [download](how_dowload)
+- [bugando](problem) [android](android) [app](program)
+- meu aplicativo não para de fechar
+- [link](how_dowload) [aplicativo](program)
+- o meu aplicativo apresenta mal funcionamento
+- [Cartão](card) [aplicativo](program) [celular](phone) [cartão](card)
+- [problemas](problem) [baixar](how_dowload) [app](program) [ios](ios)
+- [nao achando](problem) [app](program)
+- meu app não funciona
+- [app](program) [play store](how_dowload)
+- [mal funcionamento](problem) [app](program) [ios](ios)
+- [bug](problem) [aplicativo](program)
+- [baixar](how_dowload) [aplicativo](program) [probleminha](problem)
+- [software](program) [baixo](how_dowload)
+- Ter um aplicativo p monitorar em tempo real os onibus de Praia Grande.
+- [dificuldade](problem) [instalar](how_dowload) [aplicativo](program) [android](android)
+- [app](program) [problema](problem) [windows](windows_phone)
+- Existe a opção de eu comprar os créditos do meu vale transporte pela internet ou por app de smartphone? Tentei cadastrar-me e notei que só havia opção para CNPJ.3
+- [aplicativo](program) [trava](problem) [ios](ios)
+- [aplicativo](program) [não funciona](problem) [celular](phone)
+- [baixa](how_dowload) [app](program)
+- [app](program)
+- como eu posso baixar o app no meu celular
+- [problemas](problem) [instalação](how_dowload) [software](program) [androidone](android)
+- está dando um erro no meu aplicativo
+- [aplicativo](program) [fica saindo](problem) [windows](windows_phone)
+- existe algum aplicativo disponível de vocês?
+- to usando o app faz um tempo, mas agora ele fica fechando direto
+- queria baixar o app mas n sei se tem disponível para android
+- [app](program) [android](android)
+- [App](program)
+- [problemas](problem) [aplicativos](program)
+- to com um iphone x e queria saber se posso baixar o aplicativo para ele
+- [baichar](how_dowload) [apricativo](program) [cerular](phone)
+- [app](program) [não funcionando](problem) [ios](ios)
+- GOSTARIA DE SABER QUANDO QUE OS SENHORES VAO FAZER UM APP PARA CONSULTAR SALDO E PODE POR CREDITO NOS CARTOES TRANSPORTES. FAVOR FAÇA COM QUE ESTA MENSAGEM CHEGAR NA PESSOA RESPONSAVEL SEM MAIS PARA O MOMENTO
+- [baixar](how_dowload) [app](program) [windows](windows_phone)
+- [instalo](how_dowload) [aplicativo](program)
+- [windowsphone](windows_phone) [dowload](how_dowload)
+- [app](program) [nao abre](problem) [celular](phone)
+- [mal funcionamento](problem) [aplicativo](program) [android](android)
+- [app](program) [windows](windows_phone)
+- [baixar](how_dowload) [app](program)
+- [problemas](problem) [android](android)
+
+## intent:voucher_not_received
+- [voucher](voucher) [não ganhado](not_found)
+- não recebi minhas passagens da semana
+- comprei uma viagem ontem e ainda não recebi o voucher
+- [não acesso](not_found) [passagens](ticket) [comprei](buy)
+- [passagem](ticket) [não chega](not_found)
+- meu voucher não chegou
+- não recebi minhas passagens
+- ainda não tive acesso as passagens que comprei semana passada
+- não recebi a passagem da minha viajem
+- [perdi](miss_out) [voucher](voucher)
+- [não recebi](not_found) [ticket](ticket)
+- fui inventar de comprar passagens no site e elas não chegaram
+- [não chega](not_found) [passagem](ticket) [passeio](trip)
+- como posso viajar se minhas passagens não chegam
+- marquei um passeio amanhã no parque e pelo visto não vou poder ir porque minhas passagens não chegaram
+- não recebi as passagens do meu passeio de amanhã
+- [não encontrei](not_found) [voucher](voucher) [buzão](bus)
+- [comprei](buy) [passagem](ticket) [não recebi](not_found)
+- estou precisando das minhas passagens e elas não chegaram, detalhe, vou viajar amanha de manhã
+- [dinheiro](buy) [comprar](buy) [passagem](ticket) [não recebida](not_found)
+- [voucher](voucher) [não chegou](miss_out)
+- [voucher](voucher) [não chegando](not_found) [excursão](trip)
+- não tem como viajar porque minhas passagens não chega
+- [não chegou](not_found) [passagem](ticket) [viagem](trip)
+- não recebi meu voucher
+- [não deram](not_found) [passagem](ticket)
+- [não ganhei](miss_out) [voucher](voucher) [viajar](trip)
+- [voucher](voucher) [não encontrado](not_found) [viagem](trip) [onibus](bus)
+- [não encontrei](not_found) [voucher](voucher)
+- como que vou viajar se minhas passagens não vinheram?
+- [não rebcebi](not_found) [passagem](ticket) [onibus](bus)
+- [não recebida](not_found) [passagem](ticket)
+- [não recebi](miss_out) [voucher](voucher)
+- as passagens não chegaram, e agora?
+- [voucher](voucher) [viagem](trip) [não chegou](not_found)
+- [passagem](ticket) [onibus](bus) [não recebi](not_found)
+- [não recebimento](not_found) [passagens](ticket)
+- [não recebi](miss_out) [voucher](voucher) [viagem](trip)
+- [não chegou](not_found) [ticket](ticket) [viagem](trip) [onibus](bus)
+- [ticket](ticket) [não chegou](not_found)
+- [passagem](ticket) [não chegou](not_found) [passeio](trip)
+- [não receberam](not_found) [passagens](ticket) [onibus](bus)
+- [não chegou](not_found) [ticket](ticket)
+- [não acho](not_found) [voucher](voucher)
+- [não recebido](miss_out) [voucher](voucher) [onibus](bus)
+- comprei uma passagem e não recebi ela
+- [não recebendo](not_found) [voucher](voucher)
+- [voucher](voucher) [não chegou](not_found) [passeio](trip)
+- não recebi minhas passagens ainda
+- [passagem](ticket) [não chegou](not_found)
+- [voucher](voucher) [não recebe](not_found) [viagem](trip) [onibus](bus)
+- vou viajar amanhã e minhas passagens não chegaram
+- preciso viajar amanhã e minhas passagens não chegam
+- [não chegou](miss_out) [voucher](voucher)
+- como posso fazer um passeio sem passagem, pq não recebi elas?
+- [não recebo](miss_out) [voucher](voucher) [passeio](trip)
+- [voucher](voucher) [não chegou](not_found)
+- estou com uma passagem não recebida
+- não recebi as passagens da excursão
+- comprei uma passagem e ela não chegou
+- [não deu](not_found) [passagem](ticket)

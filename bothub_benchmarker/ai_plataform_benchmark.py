@@ -2,6 +2,7 @@ import argparse
 import os
 import posixpath
 from bothub_benchmarker.benchmark import benchmark, tensorboard_benchmark
+from bothub_benchmarker.false_positive_benchmark import false_positive_benchmark
 from bothub_benchmarker.utils import download_bucket_folder, upload_folder_to_bucket, connect_to_storage
 
 
@@ -18,6 +19,11 @@ def ai_plataform():
         help='Job identification')
     parser.add_argument(
         '--use-tensorboard',
+        default=False,
+        help='If true will not use cross validation')
+    parser.add_argument(
+        '--false-positive-benchmark',
+        default=False,
         help='If true will not use cross validation')
 
     arguments, _ = parser.parse_known_args()
@@ -34,10 +40,10 @@ def ai_plataform():
 
     if arguments.use_tensorboard == "True":
         tensorboard_benchmark(arguments.job_id, configs_dir, data_dir)
+    elif arguments.false_positive_benchmark == "True":
+        false_positive_benchmark(arguments.job_id, configs_dir, data_dir, bucket)
     else:
-        benchmark(arguments.job_id, configs_dir, data_dir)
-
-    upload_folder_to_bucket(bucket, arguments.job_id, posixpath.join('results', arguments.job_id))
+        benchmark(arguments.job_id, configs_dir, data_dir, bucket)
 
 
 if __name__ == '__main__':

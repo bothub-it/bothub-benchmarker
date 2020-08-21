@@ -1,5 +1,6 @@
 import os
 import json
+import posixpath
 
 
 def datasets_ranker(output_folder):
@@ -34,15 +35,14 @@ def datasets_ranker(output_folder):
             file.write(json.dumps(results_sorted, indent=4))
 
 
-def benchmark_ranker():
+def benchmark_ranker(output_folder):
     files_to_eval = ['Datasets_Mean_Result', 'Small_Datasets_Mean_Result', 'Medium_Datasets_Mean_Result', 'Big_Datasets_Mean_Result']
-    output_folder = './benchmark_output/benchmark_transformer_english'
     for file_to_eval in files_to_eval:
         # Load outputs
         results = []
         for output in os.listdir(output_folder):
-            if os.path.exists(output_folder + '/' + output + '/' + file_to_eval):
-                with open(output_folder + '/' + output + '/' + file_to_eval) as json_data:
+            if os.path.exists(posixpath.join(output_folder, output, file_to_eval)):
+                with open(posixpath.join(output_folder, output, file_to_eval)) as json_data:
                     d = json.load(json_data)
                     d['model'] = output
                     results.append(d)
@@ -51,11 +51,12 @@ def benchmark_ranker():
         results_sorted = sorted(results, key=lambda k: k['intent_evaluation']['f1_score'], reverse=True)
 
         # Save to file
-        if not os.path.exists(output_folder + '/Overhaul_Results/'):
-            os.mkdir(output_folder + '/Overhaul_Results/')
-        with open(output_folder + '/Overhaul_Results/' + file_to_eval + '_Ranked.json', 'w') as file:
+        if not os.path.exists(output_folder + '/overhaul_results/'):
+            os.mkdir(output_folder + '/overhaul_results/')
+        with open(output_folder + '/overhaul_results/' + file_to_eval + '_ranked.json', 'w') as file:
             file.write(json.dumps(results_sorted, indent=4))
     datasets_ranker(output_folder)
 
 
-benchmark_ranker()
+if __name__ == '__main__':
+    benchmark_ranker('./benchmark_output/benchmark_transformer_english')

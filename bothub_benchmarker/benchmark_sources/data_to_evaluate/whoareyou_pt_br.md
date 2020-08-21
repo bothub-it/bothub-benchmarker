@@ -1,0 +1,42 @@
+
+## intent:question
+- Eu não sei [quem é você](quem_e_voce)
+- [o que é](o_que_e) isso aqui?
+- [O que é](o_que_e) você?
+- Você [é uma maquina](e_uma_maquina)?
+- [Quem é](quem_e) você?
+- Você é humana ou um computador?
+- [é um bot](e_um_bot) isso aqui?
+- me diga [o que voce é](o_que_voce_e)
+- preciso saber [quem é](quem_e) você
+- [é uma atendente virtual](e_uma_atendente_virtual) né?
+- tu [é uma maquina](e_uma_maquina)?
+- Eu não sei [o que você é](o_que_voce_e)
+- isso [é um chatbot](e_um_chatbot)
+- Eu quero saber [quem criou você](quem_criou_voce)?
+- [qual o seu nome](qual_o_seu_nome) senhor?
+- [é um robo](e_um_robo) de chat né?
+- É resposta automática né?
+- eu quero saber [quem criou você](quem_criou_voce)
+- é automático né?
+- Você [é uma atendente virtual?](e_uma_atendente_virtual)?
+- você [é um chatbot](e_um_chatbot)?
+- Você [é um bot](e_um_bot)?
+- [é um computador](e_um_computador) você né?
+- Você [é um robo](e_um_robo)?
+- [Qual o seu nome](qual_o_seu_nome)?
+- quero saber [quem é voce](quem_e_voce)?
+- Você [é um computador](e_um_computador)?
+
+## intent:generic
+- traiu
+- Como eu sei que você não vai dominar o mundo?
+- Pode ser
+- como eu chego ai?
+- qual o endereço?
+- Eu quero falar com uma pessoas de verdade
+- eu sei que você não é uma pessoa de verdade
+- relacionamento abusivo
+- estou procurando emprego
+- qual a localização de vocês?
+- tudo bem

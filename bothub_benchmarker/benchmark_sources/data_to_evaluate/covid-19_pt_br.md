@@ -1,0 +1,3098 @@
+
+## intent:propagacao
+- a doença se espalha [pero vento](transmissao_pelo_ar)?
+- o vírus se espalha [pelo ar](transmissao_pelo_ar)?
+- o vírus se transmite [pelo ar](transmissao_pelo_ar)?
+- qual a forma de espalhamento do coronga virus?
+- como ocorre a contágio do coronga?
+- o coronavírus covid-19 se difunde [pelo ar](transmissao_pelo_ar)?
+- o covid se transmite [pero ar](transmissao_pelo_ar)?
+- como o coronga vírus faz para se espalhar?
+- o corona se prolifera [pero vento](transmissao_pelo_ar)?
+- o covid se transmite [pero vento](transmissao_pelo_ar)?
+- como o coronavírus faz pro se disseminar?
+- por onde ocorre a crescimento do corona virus?
+- o virus se espalha [pelo ar](transmissao_pelo_ar)?
+- por onde ocorre a difusão do covid 19?
+- como ocorre a proliferação do coronavirus?
+- por onde ocorre a propagação do corona?
+- como ocorre a proliferação do coronga?
+- qual a jeito de contágio do vírus?
+- como acontece a propagação do virus?
+- o vírus se propaga [pelo ar](transmissao_pelo_ar)?
+- o coronavírus covid-19 se prolifera [pelo ar](transmissao_pelo_ar)?
+- a doença se transmite [pelo ar](transmissao_pelo_ar)?
+- como ocorre a contágio do virus?
+- como ocorre a disseminação do corona?
+- o corona se dissemina [pelo vento](transmissao_pelo_ar)?
+- qual a jeito de crescimento do corongavírus?
+- o covid-19 se dissemina [pero ar](transmissao_pelo_ar)?
+- a doença se dissemina [pelo ar](transmissao_pelo_ar)?
+- como o novo coronavirus faz para se disseminar?
+- por onde ocorre a propagação do coronga vírus?
+- o coronavírus se contagia [pero ar](transmissao_pelo_ar)?
+- o covid se espalha [pelo ar](transmissao_pelo_ar)?
+- o corona se espalha [pero ar](transmissao_pelo_ar)?
+- a doença se contagia [pero ar](transmissao_pelo_ar)?
+- como o corona vírus faz pro se propagar?
+- o covid-19 se contagia [pero vento](transmissao_pelo_ar)?
+- de que formas o coronavirus se propaga?
+- qual a forma de espalhamento do virus?
+- como o coronavírus faz pro se espalhar?
+- o coronavírus covid-19 se prolifera [pelo vento](transmissao_pelo_ar)?
+- como acontece a contágio do corongavirus?
+- o corona se transmite [pelo vento](transmissao_pelo_ar)?
+- qual a jeito de disseminacao do corongavírus?
+- o virus se dissemina [pero ar](transmissao_pelo_ar)?
+- por onde ocorre a espalhamento do corona?
+- o covid se dissemina [pero vento](transmissao_pelo_ar)?
+- o vírus se prolifera [pelo ar](transmissao_pelo_ar)?
+- o covid19 se propaga [pero vento](transmissao_pelo_ar)?
+- a doença se contagia [pelo ar](transmissao_pelo_ar)?
+- o virus se transmite [pelo ar](transmissao_pelo_ar)?
+- [quais](quais) são as formas de espalhamento do novo coronavirus?
+- como o corona faz para se espalhar?
+- [quais](quais) são as formas de difusão do corona?
+- [quais](quais) são as formas de disseminação do virus?
+- o covid-19 se espalha [pero vento](transmissao_pelo_ar)?
+- o vírus se difunde [pelo vento](transmissao_pelo_ar)?
+- o covid-19 se espalha [pelo vento](transmissao_pelo_ar)?
+- como o novo coronavírus faz pra se transmitir?
+- como acontece a difusão do corongavírus?
+- o vírus se transmite [pero ar](transmissao_pelo_ar)?
+- a doença se espalha [pero ar](transmissao_pelo_ar)?
+- como o corona vírus faz para se disseminar?
+- de que formas o novo coronavirus se espalha?
+- o novo coronavírus se propaga [pero vento](transmissao_pelo_ar)?
+- qual a maneira de disseminação do COVID-19?
+- o vírus se contagia [pelo vento](transmissao_pelo_ar)?
+- o covid19 se dissemina [pelo ar](transmissao_pelo_ar)?
+- por onde ocorre a contágio do corona?
+- como funciona a proliferação do novo corona virus?
+- o corona se prolifera [pero ar](transmissao_pelo_ar)?
+- o coronavírus covid-19 se dissemina [pelo ar](transmissao_pelo_ar)?
+- O virus transmite pela água?
+- como ocorre a proliferacao do corongavirus?
+- [quais](quais) são as formas de proliferação do corongavírus?
+- o covid se propaga [pero vento](transmissao_pelo_ar)?
+- de que formas o corongavirus se difunde?
+- o virus se propaga [pero vento](transmissao_pelo_ar)?
+- o virus se dissemina [pelo ar](transmissao_pelo_ar)?
+- o corona se dissemina [pero vento](transmissao_pelo_ar)?
+- por onde ocorre a disseminação do coronga?
+- qual a maneira de contágio do coronavirus?
+- qual a forma de proliferação do novo coronavirus?
+- o covid19 se dissemina [pelo vento](transmissao_pelo_ar)?
+- como o novo corona virus faz pra se espalhar?
+- o vírus se difunde [pero ar](transmissao_pelo_ar)?
+- o covid19 se difunde [pero vento](transmissao_pelo_ar)?
+- o virus se contagia [pelo vento](transmissao_pelo_ar)?
+- por onde ocorre a proliferacao do covid 19?
+- qual a forma de propagação do COVID-19?
+- o virus se prolifera [pero ar](transmissao_pelo_ar)?
+- o covid19 se espalha [pelo ar](transmissao_pelo_ar)?
+- o corona se prolifera [pelo vento](transmissao_pelo_ar)?
+- o coronavírus se dissemina [pelo ar](transmissao_pelo_ar)?
+- o covid19 se transmite [pero vento](transmissao_pelo_ar)?
+- como funciona a espalhamento do COVID-19?
+- a doença se propaga [pero ar](transmissao_pelo_ar)?
+- qual a jeito de disseminação do novo coronavírus?
+- a doença se prolifera [pelo vento](transmissao_pelo_ar)?
+- o coronavírus covid-19 se espalha [pelo ar](transmissao_pelo_ar)?
+- o coronavírus covid-19 se propaga [pelo vento](transmissao_pelo_ar)?
+- o novo coronavírus se dissemina [pero ar](transmissao_pelo_ar)?
+- como o novo corona vírus faz pro se contagiar?
+- qual a maneira de espalhamento do covid 19?
+- qual a jeito de contágio do virus?
+- o coronavírus se prolifera [pero ar](transmissao_pelo_ar)?
+- o coronavírus covid-19 se difunde [pelo vento](transmissao_pelo_ar)?
+- o corona se prolifera [pelo ar](transmissao_pelo_ar)?
+- o novo coronavírus se prolifera [pero ar](transmissao_pelo_ar)?
+- [quais](quais) são as formas de propagação do coronga vírus?
+- o coronavírus se dissemina [pelo vento](transmissao_pelo_ar)?
+- o vírus se difunde [pelo ar](transmissao_pelo_ar)?
+- o corona se difunde [pelo vento](transmissao_pelo_ar)?
+- o covid-19 se transmite [pero vento](transmissao_pelo_ar)?
+- como o corongavirus faz pra se transmitir?
+- o vírus se transmite [pero vento](transmissao_pelo_ar)?
+- qual a forma de espalhamento do corona?
+- o coronavírus covid-19 se difunde [pero vento](transmissao_pelo_ar)?
+- como o COVID-19 faz para o se propagar?
+- a doença se transmite [pero ar](transmissao_pelo_ar)?
+- como ocorre a proliferação do vírus?
+- como o virus faz pra se disseminar?
+- qual a jeito de proliferação do novo corona?
+- o covid se contagia [pero vento](transmissao_pelo_ar)?
+- o novo coronavírus se transmite [pero vento](transmissao_pelo_ar)?
+- o novo coronavírus se transmite [pelo ar](transmissao_pelo_ar)?
+- como funciona a disseminação do coronavirus?
+- o covid se contagia [pero ar](transmissao_pelo_ar)?
+- como o COVID-19 faz para se transmitir?
+- como ocorre a propagacao do virus?
+- como funciona a proliferacao do corona?
+- a doença se difunde [pero vento](transmissao_pelo_ar)?
+- [quais](quais) são as formas de difusão do coronga vírus?
+- o novo coronavírus se prolifera [pelo ar](transmissao_pelo_ar)?
+- o corona se dissemina [pelo ar](transmissao_pelo_ar)?
+- como o covid-19 faz para se transmitir?
+- o novo coronavírus se difunde [pero ar](transmissao_pelo_ar)?
+- como acontece a propagação do novo coronavírus?
+- como o corongavirus faz pro se disseminar?
+- o covid-19 se propaga [pelo ar](transmissao_pelo_ar)?
+- a doença se espalha [pelo ar](transmissao_pelo_ar)?
+- por onde ocorre a proliferação do virus?
+- como o novo corona virus faz pro se contagiar?
+- como funciona a proliferação do COVID-19?
+- o coronavírus covid-19 se transmite [pero vento](transmissao_pelo_ar)?
+- o covid19 se contagia [pero ar](transmissao_pelo_ar)?
+- como ocorre a disseminação do coronga vírus?
+- o virus se contagia [pero vento](transmissao_pelo_ar)?
+- o coronavírus se difunde [pelo vento](transmissao_pelo_ar)?
+- o coronavírus covid-19 se transmite [pelo ar](transmissao_pelo_ar)?
+- de que formas o corongavírus se difunde?
+- qual a maneira de propagação do coronga virus?
+- como o novo coronavirus faz para o se contagiar?
+- qual a jeito de proliferacao do corona vírus?
+- o virus se difunde [pelo vento](transmissao_pelo_ar)?
+- o coronavírus se dissemina [pero vento](transmissao_pelo_ar)?
+- qual a maneira de disseminacao do corona virus?
+- o covid19 se espalha [pelo vento](transmissao_pelo_ar)?
+- o corona se dissemina [pero ar](transmissao_pelo_ar)?
+- o covid19 se transmite [pero ar](transmissao_pelo_ar)?
+- o covid se contagia [pelo ar](transmissao_pelo_ar)?
+- como o covid 19 se espalha?
+- o coronavírus covid-19 se dissemina [pero vento](transmissao_pelo_ar)?
+- o vírus se propaga [pelo vento](transmissao_pelo_ar)?
+- por onde ocorre a propagação do novo corona vírus?
+- o covid19 se transmite [pelo vento](transmissao_pelo_ar)?
+- como o coronavirus se difunde?
+- como ocorre a proliferação do novo coronavírus?
+- o covid-19 se dissemina [pelo ar](transmissao_pelo_ar)?
+- como acontece a propagação do vírus?
+- como acontece a disseminacao do covid-19?
+- como ocorre a disseminacao do novo corona vírus?
+- qual a maneira de propagacao do novo corona virus?
+- o covid se dissemina [pelo ar](transmissao_pelo_ar)?
+- o vírus se dissemina [pelo vento](transmissao_pelo_ar)?
+- por onde ocorre a propagação do corona vírus?
+- o covid19 se prolifera [pero ar](transmissao_pelo_ar)?
+- o covid se prolifera [pero ar](transmissao_pelo_ar)?
+- a doença se dissemina [pero vento](transmissao_pelo_ar)?
+- [quais](quais) são as formas de disseminacao do corona virus?
+- como o novo coronavírus faz para o se contagiar?
+- o covid-19 se difunde [pero ar](transmissao_pelo_ar)?
+- como ocorre a espalhamento do coronga?
+- como o coronga virus faz para o se espalhar?
+- qual a maneira de proliferação do vírus?
+- de que formas o vírus se propaga?
+- [quais](quais) são as formas de espalhamento do corona virus?
+- o covid-19 se dissemina [pero vento](transmissao_pelo_ar)?
+- como o corona virus faz pro se disseminar?
+- por onde ocorre a proliferação do vírus?
+- como funciona a disseminacao do coronga virus?
+- como o novo corona faz pro se transmitir?
+- qual a forma de propagação do coronga?
+- o covid19 se dissemina [pero ar](transmissao_pelo_ar)?
+- como o coronga virus faz pro se propagar?
+- o novo coronavírus se difunde [pelo vento](transmissao_pelo_ar)?
+
+## intent:exame
+- faço [em qual situação](quando) o teste da doença
+- devo procurar [quando](quando) o exame da doença
+- [quando](quando) procurar o exame médico do coronavírus
+- [quando](quando) ir o teste do corona
+- faço [quando](quando) o teste do virus
+- é pra ir [em qual situação](quando) o teste do covid-19
+- Independente do sintoma, quero fazer o teste
+- [em qual situação](quando) procurar o exame do covid
+- devo fazer [quando](quando) o exame médico
+- procurar [em qual situação](quando) o exame médico do covid
+- [em qual situação](quando) faço o exame do covid-19
+- [quando](quando) faço o exame médico do virus
+- é pra ir [quando](quando) o teste
+- é pra ir [quando](quando) o teste do coronavírus
+- [em qual situação](quando) procurar o teste do covid
+- [em qual situação](quando) ir o exame do covid-19
+- fazer [quando](quando) o exame médico do virus
+- [em qual situação](quando) é pra ir o teste do covid19
+- [quando](quando) devo ir o teste
+- devo fazer [quando](quando) o exame do covid19
+- Posso fazer o teste pra ver se tenho corona? sou jovem
+- [em qual situação](quando) procurar o exame médico do vírus
+- devo [em qual situação](quando) o exame do virus
+- é pra ir [quando](quando) o teste do covid19
+- [em qual situação](quando) fazer o exame da doença
+- fazer [quando](quando) o exame médico do covid-19
+- [em qual situação](quando) devo procurar o exame médico do corona
+- [quando](quando) devo procurar o teste do vírus
+- [em qual situação](quando) devo fazer o exame
+- [em qual situação](quando) devo fazer o exame do vírus
+- [quando](quando) devo o exame médico do vírus
+- [em qual situação](quando) ir o teste do coronavírus
+- ir [quando](quando) o exame médico da doença
+- procurar [quando](quando) o teste da doença
+- [em qual situação](quando) devo fazer o teste do covid19
+- [em qual situação](quando) procurar o exame médico do coronavírus
+- [em qual situação](quando) fazer o exame do vírus
+- [em qual situação](quando) devo o exame médico
+- devo fazer [quando](quando) o teste do covid-19
+- [quando](quando) procurar o teste
+- [quando](quando) ir o exame médico do corona
+- devo ir [em qual situação](quando) o exame do covid19
+- [quando](quando) faço o teste do covid19
+- [quando](quando) ir o teste do virus
+- [em qual situação](quando) devo o teste do covid-19
+- [em qual situação](quando) devo procurar o exame médico do vírus
+- devo fazer [quando](quando) o teste
+- [em qual situação](quando) procurar o teste
+- [quando](quando) devo procurar o exame médico do corona
+- [em qual situação](quando) ir o exame médico da doença
+- [em qual situação](quando) devo fazer o teste do corona
+- é pra ir [em qual situação](quando) o teste do vírus
+- Recebi o teste e deu negativo.
+- devo fazer [em qual situação](quando) o exame médico da doença
+- [em qual situação](quando) fazer o exame do coronavírus
+- [em qual situação](quando) ir o teste do covid19
+- [em qual situação](quando) devo fazer o teste da doença
+- [em qual situação](quando) faço o teste do virus
+- [em qual situação](quando) é pra ir o exame médico do covid19
+- Eu gostaria de saber como posso fazer o teste
+- Desmarcar agendamento
+- devo ir [em qual situação](quando) o exame médico do covid
+- [em qual situação](quando) devo procurar o exame do covid
+- é pra ir [quando](quando) o exame médico do covid19
+- devo [quando](quando) o teste
+- [quando](quando) fazer o exame médico do virus
+- [quando](quando) devo fazer o exame do coronavírus
+- [quando](quando) fazer o exame da doença
+- [em qual situação](quando) devo ir o teste do coronavírus
+- [em qual situação](quando) devo fazer o exame médico
+- devo ir [em qual situação](quando) o exame médico da doença
+- [quando](quando) devo procurar o teste do covid
+- [em qual situação](quando) devo ir o exame médico do virus
+- [quando](quando) devo fazer o exame do covid19
+- fazer [quando](quando) o exame do vírus
+- devo procurar [quando](quando) o exame médico do coronavírus
+- é pra ir [em qual situação](quando) o exame médico da doença
+- [quando](quando) é pra ir o teste do corona
+- [quando](quando) devo fazer o teste do coronavírus
+- E precisa de quer pra fazer o testes
+- [em qual situação](quando) faço o exame médico do covid
+- [em qual situação](quando) devo procurar o exame do coronavírus
+- faço [em qual situação](quando) o exame do vírus
+- procurar [quando](quando) o teste
+- [quando](quando) procurar o exame médico do covid
+- [em qual situação](quando) ir o exame médico do covid-19
+- devo fazer [em qual situação](quando) o exame do covid
+- devo fazer [quando](quando) o exame da doença
+- [em qual situação](quando) devo procurar o exame da doença
+- [em qual situação](quando) fazer o teste do covid19
+- Já começou os testes em.frente  HGF
+- [quando](quando) ir o exame médico do covid
+- [quando](quando) ir o exame médico do virus
+- [quando](quando) devo o teste do coronavírus
+- procurar [em qual situação](quando) o exame do virus
+- faço [em qual situação](quando) o exame do covid19
+- [quando](quando) é pra ir o exame médico do vírus
+- devo fazer [em qual situação](quando) o exame médico do covid-19
+- [quando](quando) devo ir o teste do corona
+- [em qual situação](quando) fazer o teste
+- [em qual situação](quando) devo ir o teste do corona
+- [quando](quando) fazer o exame médico do vírus
+- Como é o procedimento para realizar o teste rápido ?
+- [em qual situação](quando) ir o teste do virus
+- devo [em qual situação](quando) o teste do vírus
+- faço [em qual situação](quando) o teste
+- [em qual situação](quando) faço o teste do coronavírus
+- [em qual situação](quando) devo fazer o exame da doença
+
+## intent:isolamento
+- [quando](quando) deveria fazer me isolar
+- [quando](quando) devo fazer isolamento
+- [em qual situação](quando) ficar de isolamento
+- [em qual situação](quando) devo quarentine
+- [quando](quando) fazer quarentena
+- [quando](quando) fazer me isolar
+- [Quanto tempo](quando) tenho que ficar em casa?
+- [em qual situação](quando) devo me isolar
+- [em qual situação](quando) devemos nos me isolar
+- [em qual situação](quando) fazer isolamento domicilar
+- [quando](quando) devemos nos quarentena
+- [em qual situação](quando) devo isolamento domicilar
+- [quando](quando) fazer isolamento domicilar
+- [o q é](o_que_e) isolamento domicilar?
+- [quando](quando) ficar de me isolar
+- [em qual situação](quando) devemos nos isolamento
+- [em qual situação](quando) deveria fazer isolamento domicilar
+- [em qual situação](quando) deveria fazer isolamento
+- [quando](quando) devo fazer me isolar
+- [em qual situação](quando) devemos nos isolamento domicilar
+- [quando](quando) ficar de isolamento
+- [em qual situação](quando) ficar de quarentena
+- [o que eh](o_que_e) isolamento domicilar?
+- [quando](quando) devo isolamento
+- [quando](quando) deveria isolamento domicilar
+- [em qual situação](quando) faço quarentena
+- [em qual situação](quando) fazer me isolar
+- [quando](quando) devo quarentena
+- [quando](quando) faço quarentena
+- [quando](quando) devo isolamento domicilar
+- [quando](quando) deveria fazer quarentine
+- [quando](quando) devemos nos quarentine
+- preciso me manter em casa [por muito tempo](quando)?
+- [em qual situação](quando) deveria me isolar
+- [quando](quando) fazer quarentine
+- [quando](quando) faço isolamento domicilar
+- [quando](quando) deveria isolamento
+- [em qual situação](quando) devo fazer isolamento
+- [em qual situação](quando) faço isolamento domicilar
+- [quando](quando) devemos nos isolamento
+- [em qual situação](quando) faço me isolar
+- [em qual situação](quando) ficar de isolamento domicilar
+- [em qual situação](quando) fazer quarentine
+- tenho que ficar em casa por [quanto tempo](quando) exatamente
+- [quando](quando) deveria me isolar
+- [em qual situação](quando) ficar de me isolar
+- [quando](quando) faço quarentine
+- [quando](quando) deveria fazer quarentena
+- [em qual situação](quando) faço isolamento
+- [quando](quando) faço isolamento
+- [em qual situação](quando) devo fazer isolamento domicilar
+- [em qual situação](quando) faço quarentine
+- [em qual situação](quando) deveria fazer quarentena
+- [em qual situação](quando) fazer quarentena
+- [quando](quando) devemos nos isolamento domicilar
+- [quando](quando) deveria quarentine
+- [em qual situação](quando) devo fazer quarentena
+- [em qual situação](quando) devo fazer me isolar
+- [quando](quando) faço me isolar
+- [em qual situação](quando) deveria isolamento domicilar
+- [quando](quando) fazer isolamento
+- [em qual situação](quando) deveria fazer me isolar
+- [quando](quando) devo me isolar
+- [quando](quando) devo fazer quarentena
+- [em qual situação](quando) deveria fazer quarentine
+- [em qual situação](quando) devo quarentena
+- [quando](quando) deveria fazer isolamento domicilar
+- Já posso sair de casa não estou sentido nada?
+- [em qual situação](quando) devemos nos quarentena
+- [quando](quando) ficar de quarentine
+- [em qual situação](quando) deveria quarentena
+- [em qual situação](quando) ficar de quarentine
+- [quando](quando) ficar de quarentena
+- [quando](quando) devo quarentine
+- [em qual situação](quando) deveria isolamento
+- [quando](quando) devo fazer isolamento domicilar
+- [quando](quando) deveria fazer isolamento
+- [quando](quando) deveria quarentena
+- por [quanto tempo](quando) é que tenho que me manter em casa
+- [em qual situação](quando) devemos nos quarentine
+- [em qual situação](quando) deveria quarentine
+- [em qual situação](quando) fazer isolamento
+- [em qual situação](quando) devo fazer quarentine
+- [quando](quando) devemos nos me isolar
+- [quando](quando) devo fazer quarentine
+- [o que é](o_que_e) isolamento domicilar?
+- [quando](quando) ficar de isolamento domicilar
+- [em qual situação](quando) devo isolamento
+
+## intent:sintomas
+- estou sentindo [amigdalite](dor_de_garganta), [faço o que](o_que_fazer)
+- preciso ir ao upa?
+- estou com [enjoo](mal_estar), [o que faço](o_que_fazer)
+- estou sentindo [espirrando](coriza), [o que fazer](o_que_fazer)
+- avó está com [febril](febre)
+- estou sentindo [dores nas coxas](dores_no_corpo), [o que fazer](o_que_fazer)
+- qual o tempo médio de incubação do corona virus?
+- estou sentindo [difícil respiração](dificuldade_respiratoria), [o que devo fazer](o_que_fazer)
+- tou com [dor na garganta](dor_de_garganta), [faço o que](o_que_fazer)
+- Estou com dor de barriga e fraqueza [o que eu faço](o_que_fazer)?
+- como saber se deveria ir ao UPA?
+- tenho [difícil respirar](dificuldade_respiratoria), [o que faço](o_que_fazer)
+- tenho [nariz entupido](coriza), [faço o que](o_que_fazer)
+- [dores no joelho](dores_no_corpo), [enjoo](mal_estar), [dor na garganta](dor_de_garganta), [Batimento das asas](alargamento_das_narinas)
+- [nariz espirrando](coriza), [sem respirar](dificuldade_respiratoria), [tosse](tosse) e [dores de cabeça](dor_de_cabeca)
+- tou sentindo [falta de ar](dificuldade_respiratoria), [o que fazer](o_que_fazer)
+- estou sentindo [dificuldade na respirar](dificuldade_respiratoria), [o que fazer](o_que_fazer)
+- estou com [tosses](tosse), [o que devo fazer](o_que_fazer)
+- Com quais sintomas [devo procurar](o_que_fazer) um médico?
+- tou sentindo [difícil respirar](dificuldade_respiratoria), [o que devo fazer](o_que_fazer)
+- estou com [dores nas coxas](dores_no_corpo), [o que fazer](o_que_fazer)
+- estive me sentindo [com diarréia](mal_estar)
+- [dores no joelho](dores_no_corpo), [sentindo mal](mal_estar), [pigarro](dor_de_garganta), [alargamento de narina](alargamento_das_narinas)
+- tô me sentindo doente
+- [dores nas costas](dores_no_corpo) e [sentindo mal](mal_estar)
+- estou com [dificuldades para respiração](dificuldade_respiratoria), [o que devo fazer](o_que_fazer)
+- estou com [nariz escorre](coriza), [o que fazer](o_que_fazer)
+- qual o tempo de incubação do corongavírus?
+- tou sentindo [má respiração](dificuldade_respiratoria), [o que faço](o_que_fazer)
+- estou com [difícil respiração](dificuldade_respiratoria), [o que fazer](o_que_fazer)
+- estava me sentindo [cagando ralo](mal_estar)
+- estava me sentindo com [dores](dores)
+- tou sentindo [fadiga](mal_estar), [faço o que](o_que_fazer)
+- estou sentindo [tossindo](tosse), [o que devo fazer](o_que_fazer)
+- como posso saber se estou infectado com o corongavírus?
+- tou sentindo [má respirar](dificuldade_respiratoria), [o que fazer](o_que_fazer)
+- [espirro](coriza), [dificuldade para respiração](dificuldade_respiratoria), [tosses seca](tosse) e [dor na cabeça](dor_de_cabeca)
+- [febre acima de 39](febre)
+- tou sentindo [sentindo mal](mal_estar), [o que devo fazer](o_que_fazer)
+- tenho [dificuldade na respirar](dificuldade_respiratoria), [o que devo fazer](o_que_fazer)
+- estou com [dificuldade em respiração](dificuldade_respiratoria), [o que devo fazer](o_que_fazer)
+- familia tá com [dores](dores) fortes
+- [dores nas costas](dores_no_corpo), [enjoado](mal_estar), [dor de garganta](dor_de_garganta), [Batimento de asa](alargamento_das_narinas)
+- estou com [má respiração](dificuldade_respiratoria), [o que fazer](o_que_fazer)
+- [quais](quais) sao a condições clínicas do corona vírus?
+- tou sentindo [tosses seca](tosse), [o que devo fazer](o_que_fazer)
+- [dificuldade na respiração](dificuldade_respiratoria) e [tosse](tosse)
+- como saber se preciso ir ao médico?
+- estou sentindo [enjoo](mal_estar), [o que faço](o_que_fazer)
+- tenho [dores de cabeça](dor_de_cabeca), [faço o que](o_que_fazer)
+- tenho [dificuldade na respiração](dificuldade_respiratoria), [o que fazer](o_que_fazer)
+- estou sentindo [dores na coxa](dores_no_corpo), [faço o que](o_que_fazer)
+- [fungando](coriza), [dificuldade para respiração](dificuldade_respiratoria), [tossindo seco](tosse) e [dor na cabeça](dor_de_cabeca)
+- tenho [40º de febre](febre)
+- estou com [falta de respirar](dificuldade_respiratoria), [o que devo fazer](o_que_fazer)
+- estive com [fervendo](febre) forte
+- [dificuldades em respiração](dificuldade_respiratoria) e [tosse](tosse)
+- estou com [dores nos pés](dores_no_corpo), [o que faço](o_que_fazer)
+- estava com [pigarreando](dores) intensas
+- estou com [difícil respiração](dificuldade_respiratoria), [o que faço](o_que_fazer)
+- estou sentindo [mal-estar](mal_estar), faço o que
+- estou sentindo [pigarreando](dor_de_garganta), [o que faço](o_que_fazer)
+- estive me sentindo [dificuldades para respirar](falta_ar)
+- tou com [corrimento](coriza), [o que fazer](o_que_fazer)
+- estou com [quente](febre)
+- [má respirar](dificuldade_respiratoria) e [tosses](tosse)
+- Eu tô com resfriado já faz uma semana
+- estou sentindo [dores nas juntas](dores_no_corpo), [faço o que](o_que_fazer)
+- [nariz entupido](coriza), [dificuldade para respirar](dificuldade_respiratoria), [tosses](tosse) e [dores de cabeça](dor_de_cabeca)
+- estou com [dificuldades em respirar](dificuldade_respiratoria), [o que fazer](o_que_fazer)
+- [dores no corpo](dores_no_corpo) e [sem apetite](mal_estar)
+- tenho [espirro](coriza), [o que fazer](o_que_fazer)
+- o que faço quando sentir os sintomas?
+- tenho [nariz fungando](coriza), [o que faço](o_que_fazer)
+- [dificuldades em respiração](dificuldade_respiratoria) e [tosses seca](tosse)
+- tou com [dificuldades para respirar](dificuldade_respiratoria), [o que faço](o_que_fazer)
+- estava me sentindo [batimento](corisando)
+- tenho [corrimento](coriza), [o que devo fazer](o_que_fazer)
+- [dores nas coxas](dores_no_corpo), [fadiga](mal_estar), [pigarreando](dor_de_garganta), [Batimento de asa](alargamento_das_narinas)
+- como saber se deveria ir ao medico?
+- [dores nos pés](dores_no_corpo) e [fadiga](mal_estar)
+- tenho [alargamento das narinas](alargamento_das_narinas), [faço o que](o_que_fazer)
+- [dores nos pés](dores_no_corpo), [enjoado](mal_estar), [amigdalite](dor_de_garganta), [Batimento de asa](alargamento_das_narinas)
+- qual a lista de sintomas do coronga?
+- tou sentindo [dor na cabeça](dor_de_cabeca), [o que faço](o_que_fazer)
+- tenho [dores nos joelhos](dores_no_corpo), [faço o que](o_que_fazer)
+- [dores no joelho](dores_no_corpo) e [enjoado](mal_estar)
+- tou com [fungando](coriza), [o que devo fazer](o_que_fazer)
+- qual o tempo médio de incubação do novo corona vírus?
+- [sem respirar](dificuldade_respiratoria) e [tossindo](tosse)
+- estou com [febre](febre) muito alta
+- [mal-estar](mal_estar) intenso
+- tenho [dores no joelho](dores_no_corpo), [o que fazer](o_que_fazer)
+- [dores nos ligamentos](dores_no_corpo), [fadiga](mal_estar), [dor de garganta](dor_de_garganta), [alargamento de narina](alargamento_das_narinas)
+- estou sentindo [dores no corpo](dores_no_corpo), [o que faço](o_que_fazer)
+- [quais](quais) os condições clínicas do vírus?
+- estou sentindo [dor de cabeça](dor_de_cabeca), [o que faço](o_que_fazer)
+- [coriza](coriza), [sem respirar](dificuldade_respiratoria), [tossindo](tosse) e [dor de cabeça](dor_de_cabeca)
+- tou com [dores na coxa](dores_no_corpo), [faço o que](o_que_fazer)
+- [dificuldades em respirar](dificuldade_respiratoria) e [tosses seca](tosse)
+- [dores nas juntas](dores_no_corpo) e [enjoo](mal_estar)
+- [difícil respirar](dificuldade_respiratoria) e [tossindo](tosse)
+- tenho [dores nas juntas](dores_no_corpo), [o que faço](o_que_fazer)
+- estou sentindo [mal estar](mal_estar), [faço o que](o_que_fazer)
+- estou sentindo [nariz corisando](coriza), [o que faço](o_que_fazer)
+- estou com [nariz corisando](coriza), [faço o que](o_que_fazer)
+- [quais](quais) o condições clínicas do novo coronavírus?
+- [42 graus de febre](febre)
+- [dores nas costas](dores_no_corpo), [fadiga](mal_estar), [pigarreando](dor_de_garganta), [Batimento de asa](alargamento_das_narinas)
+- estou sentindo [fungando](coriza), [o que devo fazer](o_que_fazer)
+- qual a lista de sintomas do corona?
+- tou sentindo [pigarreando](dor_de_garganta), [o que fazer](o_que_fazer)
+- estou sentindo [dores no corpo](dores_no_corpo), [o que devo fazer](o_que_fazer)
+- qual a lista de condições clínicas do coronga vírus?
+- [dores no corpo](dores_no_corpo) e [fadigado](mal_estar)
+- [quais](quais) são os sintomas do vírus?
+- estou com [nariz espirrando](coriza), [o que fazer](o_que_fazer)
+- [nariz espirrando](coriza), [respiração falhando](dificuldade_respiratoria), [tossindo seco](tosse) e [dores de cabeça](dor_de_cabeca)
+- [dificuldade em respiração](dificuldade_respiratoria) e [tossindo](tosse)
+- como posso saber se estou afetado com o coronavírus?
+- estou com [quente](febre) muito alta
+- [fungando](coriza), [dificuldades em respiração](dificuldade_respiratoria), [tossindo](tosse) e [dores na cabeça](dor_de_cabeca)
+- [respirar falhando](dificuldade_respiratoria) e [tossindo seco](tosse)
+- estou com [espirrando](coriza), [o que faço](o_que_fazer)
+- qual a lista de sintomas do novo corona?
+- tou com [dificuldades na respirar](dificuldade_respiratoria), [faço o que](o_que_fazer)
+- tenho [febril](febre)
+- [quais](quais) os condições clínicas do novo corona virus?
+- estou com [falta de ar](dificuldade_respiratoria), [o que faço](o_que_fazer)
+- tenho [dores na coxa](dores_no_corpo), [faço o que](o_que_fazer)
+- qual o tempo médio de incubação do corona vírus?
+- estou com [dificuldade para respirar](dificuldade_respiratoria), [faço o que](o_que_fazer)
+- [falta de ar](dificuldade_respiratoria) e [tosse](tosse)
+- estou com [difícil respiração](dificuldade_respiratoria), [o que devo fazer](o_que_fazer)
+- tenho [tossindo](tosse), [o que devo fazer](o_que_fazer)
+- [nariz entupido](coriza), [dificuldades na respirar](dificuldade_respiratoria), [tossindo seco](tosse) e [dor de cabeça](dor_de_cabeca)
+- tenho [nariz corisando](coriza), [o que faço](o_que_fazer)
+- como posso saber se estou afetado com o novo coronavirus?
+- tou com [dores na cabeça](dor_de_cabeca), [faço o que](o_que_fazer)
+- tou sentindo [dor na garganta](dor_de_garganta), [o que devo fazer](o_que_fazer)
+- família tá com [42 graus de febre](febre)
+- Tive perda de [olfato e paladar](olfato_paladar)
+- estou com [nariz corizando](coriza), [o que fazer](o_que_fazer)
+- [dores na coxa](dores_no_corpo), [enjoado](mal_estar), [dor na garganta](dor_de_garganta), [alargamento de narina](alargamento_das_narinas)
+- tenho [calafrios](febre)
+- estou com [alargamento das narinas](alargamento_das_narinas), [faço o que](o_que_fazer)
+- como saber se é necessário ir ao upa?
+- tou sentindo [dificuldade para respirar](dificuldade_respiratoria), [o que faço](o_que_fazer)
+- tou sentindo [dores nos ligamentos](dores_no_corpo), [o que faço](o_que_fazer)
+- tou com [tossindo seco](tosse), [faço o que](o_que_fazer)
+- estou sentindo [dificuldade na respiração](dificuldade_respiratoria), [o que fazer](o_que_fazer)
+- tou com [dificuldades para respirar](dificuldade_respiratoria), [o que fazer](o_que_fazer)
+- [sem respiração](dificuldade_respiratoria) e [tosses](tosse)
+- tenho [fervendo](febre)
+- tou sentindo [dor na cabeça](dor_de_cabeca), [o que devo fazer](o_que_fazer)
+- estou sentindo [corisa](coriza), [o que fazer](o_que_fazer)
+- tou sentindo [nariz trancado](coriza), [o que faço](o_que_fazer)
+- tenho [febre acima de 39](febre)
+- estou sentindo [corrimento](coriza), [faço o que](o_que_fazer)
+- estou sentindo [sentindo mal](mal_estar), [o que fazer](o_que_fazer)
+- estou com [tosse](tosse), [faço o que](o_que_fazer)
+- [dores nas costas](dores_no_corpo) e [fadigado](mal_estar)
+- tenho [dificuldades na respiração](dificuldade_respiratoria), [o que fazer](o_que_fazer)
+- estou sentindo [sem apetite](mal_estar), [faço o que](o_que_fazer)
+- [dificuldades em respiração](dificuldade_respiratoria) e [tosse seca](tosse)
+- qual a lista de sintomas do covid 19?
+- tenho [tosse seca](tosse), [o que devo fazer](o_que_fazer)
+- [sem respirar](dificuldade_respiratoria) e [tosses](tosse)
+- tá com [dores](dores) intensas
+- tou sentindo [dor de garganta](dor_de_garganta), [o que devo fazer](o_que_fazer)
+- estava com [calafrios](febre) alta
+- estou sentindo [dores na cabeça](dor_de_cabeca), [o que devo fazer](o_que_fazer)
+- tou com [dores nos joelhos](dores_no_corpo), [o que devo fazer](o_que_fazer)
+- [dores nas costas](dores_no_corpo) e [mal estar](mal_estar)
+- tô com [febril](febre)
+- [dores nas coxas](dores_no_corpo) e [enjoado](mal_estar)
+- [quais](quais) são o condições clínicas do corona virus?
+- [dores nos pés](dores_no_corpo), [sentindo mal](mal_estar), [amigdalite](dor_de_garganta), [alargamento das narinas](alargamento_das_narinas)
+- tou com [dificuldade para respiração](dificuldade_respiratoria), [faço o que](o_que_fazer)
+- [coriza](coriza), [dificuldades para respiração](dificuldade_respiratoria), [tosse seca](tosse) e [dores de cabeça](dor_de_cabeca)
+- qual a lista de sintomas do corona virus?
+- [dores nas costas](dores_no_corpo), [sem apetite](mal_estar), [dores na garganta](dor_de_garganta), [alargamento das narinas](alargamento_das_narinas)
+- tou com [espirro](coriza), [faço o que](o_que_fazer)
+- tou com [dores nos ligamentos](dores_no_corpo), [o que fazer](o_que_fazer)
+- tou sentindo [dores nas juntas](dores_no_corpo), [faço o que](o_que_fazer)
+- estou sentindo [dificuldades em respirar](dificuldade_respiratoria), [o que faço](o_que_fazer)
+- estou com [respirar falhando](dificuldade_respiratoria), [faço o que](o_que_fazer)
+- [febril](febre)
+- [dores nas costas](dores_no_corpo), [sem apetite](mal_estar), [dores de garganta](dor_de_garganta), [alargamento de narina](alargamento_das_narinas)
+- estou com febre
+- tou com [dores nas coxas](dores_no_corpo), [faço o que](o_que_fazer)
+- tou sentindo [dores no joelho](dores_no_corpo), [o que fazer](o_que_fazer)
+- tenho [pigarreando](dor_de_garganta), [o que devo fazer](o_que_fazer)
+- estou com [mal estar](mal_estar), [o que faço](o_que_fazer)
+- [dores no corpo](dores_no_corpo), [sem apetite](mal_estar), [dor de garganta](dor_de_garganta), [alargamento das narinas](alargamento_das_narinas)
+- tou sentindo [dificuldades em respirar](dificuldade_respiratoria), [o que faço](o_que_fazer)
+- [dores nos pés](dores_no_corpo) e [sem apetite](mal_estar)
+- devo ir ao clínica médica?
+- [quais](quais) as sintomas do corongavirus?
+- tou com [dificuldade em respiração](dificuldade_respiratoria), [faço o que](o_que_fazer)
+- deveria ir ao upa?
+- [nariz espirrando](coriza), [dificuldade na respiração](dificuldade_respiratoria), [tossindo](tosse) e [dor na cabeça](dor_de_cabeca)
+- estou sentindo [corrimento](coriza), [o que faço](o_que_fazer)
+- tou sentindo [tosses seca](tosse), [faço o que](o_que_fazer)
+- estou sentindo [nariz corisando](coriza), [o que devo fazer](o_que_fazer)
+- tou com [dores nas coxas](dores_no_corpo), [o que devo fazer](o_que_fazer)
+- [quais](quais) o sintomas do corongavirus?
+- [dores nos pés](dores_no_corpo) e [enjoo](mal_estar)
+- [dores nas coxas](dores_no_corpo) e [fadiga](mal_estar)
+- tou sentindo [dores nas costas](dores_no_corpo), [o que faço](o_que_fazer)
+- esteve com [fervendo](febre) forte
+- tenho [dificuldade na respirar](dificuldade_respiratoria), [o que fazer](o_que_fazer)
+- estou sentindo [nariz escorre](coriza), [o que faço](o_que_fazer)
+- tia está com [quente](febre) alta
+- tou sentindo [nariz escorre](coriza), [o que faço](o_que_fazer)
+- tou com [dores nos pés](dores_no_corpo), [o que faço](o_que_fazer)
+- irmã tá com [42 graus de febre](febre) muito alta
+- tou com [tosses](tosse), [o que fazer](o_que_fazer)
+- [coriza](coriza), [sem respiração](dificuldade_respiratoria), [tosse seca](tosse) e [dor de cabeça](dor_de_cabeca)
+- estou com [dores no joelho](dores_no_corpo), [faço o que](o_que_fazer)
+- [dores nos joelhos](dores_no_corpo), [enjoo](mal_estar), [amigdalite](dor_de_garganta), [alargamento de narina](alargamento_das_narinas)
+- [quais](quais) o sintomas do coronga?
+- estava me sentindo com [amigdalite](dores) intensas
+- [coriza](coriza), [dificuldade para respiração](dificuldade_respiratoria), [tosses](tosse) e [dor na cabeça](dor_de_cabeca)
+- tenho [sem respiração](dificuldade_respiratoria), [o que devo fazer](o_que_fazer)
+- dor e [mal-estar](mal_estar)
+- [nariz escorrendo](coriza), [dificuldades para respirar](dificuldade_respiratoria), [tosses seca](tosse) e [dores na cabeça](dor_de_cabeca)
+- tá com [40º de febre](febre)
+- tenho [espirrando](coriza), [o que devo fazer](o_que_fazer)
+- tenho [nariz corizando](coriza), [faço o que](o_que_fazer)
+- tá com bastante [tossindo](tosse)
+- como saber se devo ir ao posto de saúde?
+- estou sentindo [dores nas costas](dores_no_corpo), [faço o que](o_que_fazer)
+- tenho [nariz corisando](coriza), [o que fazer](o_que_fazer)
+- tou sentindo [respirar falhando](dificuldade_respiratoria), [faço o que](o_que_fazer)
+- [sem respiração](dificuldade_respiratoria) e [tosse](tosse)
+- estou sentindo [dores nos pés](dores_no_corpo), [faço o que](o_que_fazer)
+- tou com [dores nas costas](dores_no_corpo), [o que faço](o_que_fazer)
+- estive me sentindo [fazendo cocô mole](mal_estar)
+- qual o tempo de incubação do coronavirus?
+- devo ir ao hospital?
+- [dores nas coxas](dores_no_corpo), [enjoo](mal_estar), [pigarro](dor_de_garganta), [Batimento de asa](alargamento_das_narinas)
+- tou com [dores nos pés](dores_no_corpo), [o que devo fazer](o_que_fazer)
+- estou sentindo [sem respirar](dificuldade_respiratoria), [o que devo fazer](o_que_fazer)
+- [dificuldade em respiração](dificuldade_respiratoria) e [tossindo seco](tosse)
+- estive [corizando](corisando)
+- tenho [dificuldade em respirar](dificuldade_respiratoria), [o que fazer](o_que_fazer)
+- [dores nas coxas](dores_no_corpo) e [enjoo](mal_estar)
+- tou com [corisa](coriza), [o que fazer](o_que_fazer)
+- [dores nos ligamentos](dores_no_corpo) e [sentindo mal](mal_estar)
+- tenho [42 graus de febre](febre)
+- avô tá com [quente](febre) alta
+- tou sentindo [dores de garganta](dor_de_garganta), [o que faço](o_que_fazer)
+- estava me sentindo com bastante [tossindo](tosse)
+- [respiração falhando](dificuldade_respiratoria) e [tossindo seco](tosse)
+- [dores no joelho](dores_no_corpo), [mal estar](mal_estar), [amigdalite](dor_de_garganta), [alargamento de narina](alargamento_das_narinas)
+- estou me sentindo [cagando ralo](mal_estar)
+- tou sentindo [dificuldade na respiração](dificuldade_respiratoria), [faço o que](o_que_fazer)
+- [dores no corpo](dores_no_corpo), [fadigado](mal_estar), [dor na garganta](dor_de_garganta), [alargamento de narina](alargamento_das_narinas)
+- estou sentindo [pigarreando](dor_de_garganta), [faço o que](o_que_fazer)
+- tou sentindo [nariz entupido](coriza), [faço o que](o_que_fazer)
+- [fungando](coriza), [sem respirar](dificuldade_respiratoria), [tosse seca](tosse) e [dores na cabeça](dor_de_cabeca)
+- [falta de respirar](dificuldade_respiratoria) e [tosse seca](tosse)
+- sintomas da doença
+- preciso ir ao posto de saúde?
+- estou me sentindo [fazendo cocô mole](mal_estar)
+- estou com [fungando](coriza), [o que devo fazer](o_que_fazer)
+- [fungando](coriza), [sem respirar](dificuldade_respiratoria), [tosses](tosse) e [dor na cabeça](dor_de_cabeca)
+- estou com [tosses seca](tosse), [o que fazer](o_que_fazer)
+- [nariz espirrando](coriza), [respirar falhando](dificuldade_respiratoria), [tossindo](tosse) e [dor de cabeça](dor_de_cabeca)
+- [nariz escorrendo](coriza), [dificuldades em respirar](dificuldade_respiratoria), [tosses seca](tosse) e [dor na cabeça](dor_de_cabeca)
+- [dificuldade para respirar](dificuldade_respiratoria) e [tosses seca](tosse)
+- [dores nos joelhos](dores_no_corpo), [sem apetite](mal_estar), [amigdalite](dor_de_garganta), [alargamento de narina](alargamento_das_narinas)
+- estou com bastante [tossindo](tosse)
+- estou com [dores no joelho](dores_no_corpo), [o que fazer](o_que_fazer)
+- [dores na coxa](dores_no_corpo) e [sentindo mal](mal_estar)
+- como posso saber se estou contaminado com o novo coronavirus?
+- estou sentindo [dores na cabeça](dor_de_cabeca), [o que faço](o_que_fazer)
+- estou sentindo [dificuldades para respirar](dificuldade_respiratoria), [o que faço](o_que_fazer)
+- [dificuldade na respiração](dificuldade_respiratoria) e [tossindo](tosse)
+- [quais](quais) são os condições clínicas do vírus?
+- tenho [sentindo mal](mal_estar), [o que devo fazer](o_que_fazer)
+- estou sentindo [dores nos pés](dores_no_corpo), [o que faço](o_que_fazer)
+- [espirrando](coriza), [respirar falhando](dificuldade_respiratoria), [tosses](tosse) e [dores de cabeça](dor_de_cabeca)
+- [dores na coxa](dores_no_corpo), [fadigado](mal_estar), [dores de garganta](dor_de_garganta), [alargamento de narina](alargamento_das_narinas)
+- tio está com [pigarreando](dores)
+- está [com diarréia](mal_estar)
+- [dores na coxa](dores_no_corpo) e [fadiga](mal_estar)
+- tenho [dores nos pés](dores_no_corpo), [o que devo fazer](o_que_fazer)
+- tou com [tossindo](tosse), [o que devo fazer](o_que_fazer)
+- tou com [falta de respiração](dificuldade_respiratoria), [o que fazer](o_que_fazer)
+- estou com [mal estar](mal_estar), [faço o que](o_que_fazer)
+- tenho [febre](febre)
+- [40º de febre](febre)
+- tou sentindo [dificuldades na respiração](dificuldade_respiratoria), [o que devo fazer](o_que_fazer)
+- qual o tempo médio de incubação do corongavirus?
+- [difícil respiração](dificuldade_respiratoria) e [tosse](tosse)
+- tenho [difícil respiração](dificuldade_respiratoria), [o que devo fazer](o_que_fazer)
+- [dores nos ligamentos](dores_no_corpo), [fadiga](mal_estar), [dor na garganta](dor_de_garganta), [alargamento das narinas](alargamento_das_narinas)
+- [dores nos pés](dores_no_corpo), [mal estar](mal_estar), [amigdalite](dor_de_garganta), [alargamento das narinas](alargamento_das_narinas)
+- [coriza](coriza), [dificuldades na respiração](dificuldade_respiratoria), [tosses seca](tosse) e [dor de cabeça](dor_de_cabeca)
+- estou sentindo [dificuldade em respiração](dificuldade_respiratoria), [o que fazer](o_que_fazer)
+- estou sentindo [falta de respiração](dificuldade_respiratoria), [faço o que](o_que_fazer)
+- [fervendo](febre)
+- estou sentindo [dificuldades para respirar](dificuldade_respiratoria), [o que devo fazer](o_que_fazer)
+- condições clínicas da doença
+- tou sentindo [sem respirar](dificuldade_respiratoria), [o que devo fazer](o_que_fazer)
+- estou sentindo [falta de respiração](dificuldade_respiratoria), [o que faço](o_que_fazer)
+- [dores nos ligamentos](dores_no_corpo), [fadiga](mal_estar), [amigdalite](dor_de_garganta), [Batimento de asa](alargamento_das_narinas)
+- estou com [respirar falhando](dificuldade_respiratoria), [o que devo fazer](o_que_fazer)
+- [dores na coxa](dores_no_corpo), [mal estar](mal_estar), [dor de garganta](dor_de_garganta), [alargamento de narina](alargamento_das_narinas)
+- tenho [dificuldade na respiração](dificuldade_respiratoria), [o que devo fazer](o_que_fazer)
+- estou sentindo [dificuldade em respiração](dificuldade_respiratoria), [o que faço](o_que_fazer)
+- estou sentindo [dificuldade na respirar](dificuldade_respiratoria), [o que devo fazer](o_que_fazer)
+- tenho [dificuldades para respiração](dificuldade_respiratoria), [o que devo fazer](o_que_fazer)
+- tenho [tosses seca](tosse), [o que devo fazer](o_que_fazer)
+- tou sentindo [dores no joelho](dores_no_corpo), [faço o que](o_que_fazer)
+- [nariz fungando](coriza), [dificuldade para respiração](dificuldade_respiratoria), [tosses](tosse) e [dores na cabeça](dor_de_cabeca)
+- [dores nos ligamentos](dores_no_corpo) e [enjoado](mal_estar)
+- [corisa](coriza), [dificuldades para respirar](dificuldade_respiratoria), [tossindo](tosse) e [dor de cabeça](dor_de_cabeca)
+- estou me sentindo com [febre](febre)
+- [quais](quais) sao as condições clínicas do corona virus?
+- estou sentindo [dores de cabeça](dor_de_cabeca), [o que faço](o_que_fazer)
+- tou com [dificuldade em respirar](dificuldade_respiratoria), [faço o que](o_que_fazer)
+- estou sentindo [nariz trancado](coriza), [o que fazer](o_que_fazer)
+- [febre](febre)
+- familia estava com [febril](febre)
+- [dores nos pés](dores_no_corpo), [sem apetite](mal_estar), [dor de garganta](dor_de_garganta), [alargamento de narina](alargamento_das_narinas)
+- [dificuldades na respiração](dificuldade_respiratoria) e [tossindo seco](tosse)
+- irmã esteve com [calafrios](febre) alta
+- [dificuldade em respirar](dificuldade_respiratoria) e [tosses seca](tosse)
+- estou com [pigarro](dor_de_garganta), [o que fazer](o_que_fazer)
+- tou sentindo [alargamento de narina](alargamento_das_narinas), [o que faço](o_que_fazer)
+- como posso saber se estou contaminado com o novo corona?
+- [quais](quais) são as sintomas do coronavirus?
+- estava [sinusite](falta_ar)
+- estou me sentindo [respiração falhando](falta_ar)
+- como posso saber se estou infectado com o coronga virus?
+- tou com [dores nos joelhos](dores_no_corpo), [o que fazer](o_que_fazer)
+- tenho [dor de garganta](dor_de_garganta), [faço o que](o_que_fazer)
+- tou com [tossindo seco](tosse), [o que fazer](o_que_fazer)
+- estou sentindo [tosses seca](tosse), [o que devo fazer](o_que_fazer)
+- [dores nos joelhos](dores_no_corpo) e [sem apetite](mal_estar)
+- estou sentindo [Batimento das asas](alargamento_das_narinas), [faço o que](o_que_fazer)
+- tio está com [calafrios](febre) forte
+- esteve com muita [tosse](tosse)
+- [dores no joelho](dores_no_corpo), [sentindo mal](mal_estar), [dores na garganta](dor_de_garganta), [Batimento das asas](alargamento_das_narinas)
+- tou com [dificuldades em respiração](dificuldade_respiratoria), [o que faço](o_que_fazer)
+- tou com [nariz espirrando](coriza), [o que faço](o_que_fazer)
+- tou sentindo [espirrando](coriza), [o que fazer](o_que_fazer)
+- [dores nos ligamentos](dores_no_corpo) e [mal estar](mal_estar)
+- [dores na coxa](dores_no_corpo) e [mal estar](mal_estar)
+- estou com [respirar falhando](dificuldade_respiratoria), [o que faço](o_que_fazer)
+- estive com [amigdalite](dores) intensas
+- tou com [alargamento das narinas](alargamento_das_narinas), [o que fazer](o_que_fazer)
+- [dificuldades para respirar](dificuldade_respiratoria) e [tosses](tosse)
+- tou sentindo [dores nas coxas](dores_no_corpo), [o que faço](o_que_fazer)
+- estou sentindo [enjoado](mal_estar), [o que fazer](o_que_fazer)
+- tou sentindo [dores na garganta](dor_de_garganta), [o que fazer](o_que_fazer)
+- tou sentindo [sem apetite](mal_estar), [o que faço](o_que_fazer)
+- tou sentindo [alargamento das narinas](alargamento_das_narinas), [o que faço](o_que_fazer)
+- como posso saber se estou afetado com o vírus?
+- tenho [dificuldade para respirar](dificuldade_respiratoria), [o que devo fazer](o_que_fazer)
+- tou com [dores no corpo](dores_no_corpo), [o que devo fazer](o_que_fazer)
+- [quais](quais) são o sintomas do covid-19?
+- tou sentindo [difícil respirar](dificuldade_respiratoria), [o que faço](o_que_fazer)
+- tenho [amigdalite](dor_de_garganta), [o que devo fazer](o_que_fazer)
+- estou com [sem apetite](mal_estar), [faço o que](o_que_fazer)
+- [nariz entupido](coriza), [difícil respiração](dificuldade_respiratoria), [tossindo seco](tosse) e [dores de cabeça](dor_de_cabeca)
+- devo ir ao medico?
+- Não me sinto bem. [Devo procurar](o_que_fazer) um médico?
+- tou sentindo [dores na cabeça](dor_de_cabeca), [o que faço](o_que_fazer)
+- estava [apetite](mal_estar)
+- tenho [tossindo seco](tosse), [o que fazer](o_que_fazer)
+- estou com [nariz espirrando](coriza), [faço o que](o_que_fazer)
+- tou com [enjoo](mal_estar), [faço o que](o_que_fazer)
+- Não estou sentido [gosto](olfato_paladar) das coisa
+- está [mal](mal_estar)
+- [corrimento](coriza), [dificuldades em respirar](dificuldade_respiratoria), [tosse](tosse) e [dor na cabeça](dor_de_cabeca)
+- tio estava com muita [tossindo](tosse)
+- tou com [sem respirar](dificuldade_respiratoria), [faço o que](o_que_fazer)
+- estive [sem ar](falta_ar)
+- qual o tempo de incubação do corona vírus?
+- tenho [sem respirar](dificuldade_respiratoria), [o que faço](o_que_fazer)
+- estou com [enjoado](mal_estar), [o que faço](o_que_fazer)
+- estava [mal estar](mal_estar)
+- [dores nas costas](dores_no_corpo), [fadiga](mal_estar), [dor na garganta](dor_de_garganta), [Batimento das asas](alargamento_das_narinas)
+- tou com [dificuldade para respiração](dificuldade_respiratoria), [o que faço](o_que_fazer)
+- tou sentindo [dores na garganta](dor_de_garganta), [o que faço](o_que_fazer)
+- temperaturas [acima de 38ºC](febre)
+- [difícil respirar](dificuldade_respiratoria) e [tosses seca](tosse)
+- [dores na coxa](dores_no_corpo) e [enjoado](mal_estar)
+- tou com [dificuldades em respirar](dificuldade_respiratoria), [o que fazer](o_que_fazer)
+- família esteve com muita [tossindo](tosse)
+- estou sentindo [dores nos pés](dores_no_corpo), [o que fazer](o_que_fazer)
+- tenho [fadigado](mal_estar), [o que fazer](o_que_fazer)
+- tou com [difícil respiração](dificuldade_respiratoria), [o que fazer](o_que_fazer)
+- [dores no joelho](dores_no_corpo) e [enjoo](mal_estar)
+- qual a lista de sintomas do COVID-19?
+- [calafrios](febre)
+- [dificuldade para respirar](dificuldade_respiratoria) e [tosse](tosse)
+- tou com [falta de respiração](dificuldade_respiratoria), [faço o que](o_que_fazer)
+- tou sentindo [dores nas costas](dores_no_corpo), [o que fazer](o_que_fazer)
+- [corrimento](coriza), [falta de respirar](dificuldade_respiratoria), [tossindo seco](tosse) e [dor de cabeça](dor_de_cabeca)
+- [Mal-estar](mal_estar) intenso como cuidar
+- [dores nas costas](dores_no_corpo) e [sem apetite](mal_estar)
+- tou com [respiração falhando](dificuldade_respiratoria), [o que faço](o_que_fazer)
+- tenho [Batimento de asa](alargamento_das_narinas), [faço o que](o_que_fazer)
+- esteve me sentindo com [febril](febre) forte
+- como posso saber se estou infectado com o corona?
+- [nariz escorrendo](coriza), [dificuldade na respirar](dificuldade_respiratoria), [tosse](tosse) e [dores na cabeça](dor_de_cabeca)
+- [dores no corpo](dores_no_corpo) e [enjoado](mal_estar)
+- tenho [dores na garganta](dor_de_garganta), [o que fazer](o_que_fazer)
+- estou sentindo [tosse seca](tosse), [o que fazer](o_que_fazer)
+- tou sentindo [dores nas coxas](dores_no_corpo), [o que devo fazer](o_que_fazer)
+- tenho [difícil respiração](dificuldade_respiratoria), [o que faço](o_que_fazer)
+- é necessário ir ao posto de saúde?
+- qual o tempo médio de incubação do novo coronavírus?
+- como posso saber se estou contaminado com o virus?
+- qual o tempo de incubação do novo corona virus?
+- [dificuldades em respiração](dificuldade_respiratoria) e [tossindo](tosse)
+- estive com muita [tosse](tosse)
+
+## intent:covid_positivo
+- quanto tempo uma pessoa com covid positivo pode transmitir
+- Peguei coronavirus [o que posso tomar](remedio)
+- To com covid moro com minha [família](familia)
+- Quem tem covid pode [sair de casa](isolamento)
+- positivo para corona [o que eu faço](o_que_fazer)
+- testei positivo, [o que fazer](o_que_fazer)
+- posso ficar [doente mais uma vez](doenca_novamente)
+- Tenho covid quantos [dias em casa](isolamento)
+- Estou com corona virus! [Com quantos dias](isolamento) eu não posso mais transmitir para outra pessoa
+- sou caso confirmado
+- exame deu positivo [o que eu faço](o_que_fazer)
+- Fui confirmado com coronavírus quando posso [sair de casa](isolamento)
+- recuperei da doença, posso [ficar doente de novo](doenca_novamente)
+- Coronavírus confirmado [isolamento](isolamento) quanto tempo
+- Peguei o corona como eu [me cuido](cuidados)
+- estou com covid quais [cuidados](cuidados) tomar
+- minha [esposa](familia) está com corona
+- posso [pegar a doença mais uma vez](doenca_novamente)
+- Estou com coronavirus minha [familia](familia) vai pegar
+- posso cuidar do meu [pai](familia) que tem corona
+- meu [esposo](familia) está com corona
+- contato com a pessoa que testou positivo pra covid
+- estou com coronavirus
+- Me ajuda fui no posto e dissaram que eu estou com o corona virus
+- recuperei da doença, [estou imune](doenca_novamente)
+- estou com covid
+- Estou com coronavirus [o que eu faço](o_que_fazer)
+- to com covid
+- To com coronavirus [como me cuidar](cuidados)
+- tem como pegar coronavirus [2 vezes](doenca_novamente)
+- quem pega covid [fica imune](doenca_novamente)
+- moro com alguém contaminado, preciso [separar o lixo](cuidados)
+- Peguei o corona quanto tempo [isolamento](isolamento)
+- tive contato com alguém positivo
+- Peguei o corona quanto tempo [ficar em casa](isolamento)
+- o teste deu positivo mas estou sem sintomas
+- meu [avô](familia) fez o exame e deu positivo
+- peguei coronga [o que fazer](o_que_fazer)
+- Posso ter a doença do novo Coronavírus [mais de uma vez](doenca_novamente)
+- to com corona posso tomar [cloroquina](remedio)
+- Estou com coronavirus [o que preciso fazer](o_que_fazer)
+- recuperei do corona virus, [estou imune](doenca_novamente)
+- estou covid positivo [o que fazer](o_que_fazer)
+- posso tomar [hidroxocloroquina](remedio)
+- to com corona [o que fazer](o_que_fazer)
+- posso [usar o mesmo banheiro](cuidados) que alguém positivo
+- divulgar alguém positivo para o covid
+- [o q eu faço](o_que_fazer) peguei covius
+- testou positivo
+- posso [compartilhar talheres](cuidados) com alguém que está com covid
+- minha [avó](familia) está com coronga
+- dá pra pegar corona [de novo](doenca_novamente)
+- Estou com covid quanto tempo [ficar em casa](isolamento)
+- caso confirmado pode usar [cloroquina](remedio)
+- testei positivo, quanto tempo fico em [isolamento](isolamento)
+- to com coronga [o que eu faço](o_que_fazer)
+- resultado positivo
+- testei positivo [como me cuido](cuidados)
+- [minha irmã](familia) testou positivo
+- estou com corona [como lidar](cuidados)
+- [o que eu faço](o_que_fazer) to com coronavirus
+- da pra [pegar corona duas vezes](doenca_novamente)
+- testei positivo, quanto tempo fico em [quarentena](isolamento)
+- peguei coronavirus devo tomar [cloroquina](remedio)
+- [cloroquina](remedio)
+- to com coronga
+- [minha mae](familia) deu positivo
+- posso ter covid [duas vezes](doenca_novamente)
+- positivo para corona
+- posso tomar [remédio](remedio) pro corona
+- [meu pai](familia) está com covid
+- da pra [pegar corona pela segunda vez](doenca_novamente)
+- quanto tempo leva para ter alta
+- to com corona [como devo me cuidar](cuidados)
+- posso [pegar coronavirus de novo](doenca_novamente)
+- testei positivo, como proteger minha [familia](familia)
+- Tenho coronavírus preciso de [isolamento](isolamento)
+- [meu irmão](familia) está com corona
+- constatou positivo [o que eu faço](o_que_fazer)
+- Tenho coronavirus [como me tratar](o_que_fazer)
+- tive coronavirus [posso pegar de novo](doenca_novamente)
+- to com corona
+- Meu caso foi confirmado [e agora](o_que_fazer)
+- tenho coronavirus [e agora](o_que_fazer)
+- covid positivo [o que fazer](o_que_fazer)
+- Sou confirmado com covid quais os [cuidados](cuidados)
+- tenho um exame positivo covid [o que fazer](o_que_fazer)
+- exame positivo
+- [O que eu faço](o_que_fazer) pra curar o coronavirus
+- quem tem coronavirus tem que [faze o que](o_que_fazer)
+- teste deu positivo [o que fazer](o_que_fazer)
+- Fiz o teste e deu positivo pro coronavirus
+- qual [remedio](remedio) [cura](remedio) corona
+- To com coronavirus preciso [ficar em casa](isolamento)
+- to com corona [tomo](remedio) o que
+- Preciso [ficar em casa](isolamento) porque tenho corona
+- peguei corona
+- To com corona como me [tratar](remedio)
+
+## intent:internamento
+- todo caso de corona precisa ficar internado
+- todo caso da doença precisa de internamento
+- todo caso de vírus precisa ir para UTI
+- todo caso de virus precisa ficar no hospital
+- todo caso da doença tem que de internamento
+- todo caso deve ficar internado
+- todo caso do covid-19 deve de internamento
+- todo caso da doença tem que ir para UTI
+- todo caso de covid19 deve ficar no hospital
+- todo caso de corona precisa de internacao
+- todo caso de coronavírus precisa ser internado
+- todo caso de covid19 tem que ir para UTI
+- todo caso precisa de internacao
+- todo caso de corona precisa ficar no hospital
+- todo caso de covid19 deve ser internado
+- todo caso de vírus deve ficar internado
+- todo caso do covid-19 é hospitalar?
+- todo caso da doença tem que ficar no hospital
+- todo caso de vírus deve de internamento
+- todo caso de covid tem que ficar no hospital
+- todo caso de virus deve de internacao
+- todo caso de covid19 deve de internacao
+- todo caso precisa ir para UTI
+- todo caso de covid tem que ir para UTI
+- todo caso de covid deve ser internado
+- todo caso de corona é hospitalar?
+- todo caso da doença tem que ficar na UTI
+- todo caso do covid-19 precisa de internamento
+- todo caso precisa ficar no hospital
+- todo caso da doença tem que ser internado
+- Estou com [falta de ar](dificuldade_respiratoria) tenho que ir no hospital?
+- todo caso de corona precisa ficar na UTI
+- todo caso de coronavírus deve ficar na UTI
+- todo caso de corona tem que de internacao
+- todo caso de vírus deve ser internado
+- todo caso de coronavírus deve ir para UTI
+- todo caso do covid-19 deve ser internado
+- todo caso de covid19 tem que ficar internado
+- devo ir ao hospital?
+- todo caso de virus precisa ir para UTI
+- todo caso de virus deve ser internado
+- todo caso de corona deve ir para UTI
+- todo caso de corona deve ficar internado
+- devo ir pro hospital?
+- todo caso do covid-19 tem que de internacao
+- todo caso de covid19 tem que de internacao
+- todo caso de virus tem que ficar no hospital
+- todo caso de vírus precisa ser internado
+- quando preciso ir ao hospital?
+- todo caso de virus precisa ficar na UTI
+- todo caso de coronavírus tem que ficar no hospital
+- todo caso de covid19 tem que ser internado
+- todo caso do covid-19 precisa ficar no hospital
+- todo caso de covid tem que de internamento
+- todo caso de virus tem que de internamento
+- todo caso deve de internacao
+- todo caso da doença deve ficar na UTI
+- todo caso de vírus tem que ficar na UTI
+- todo caso da doença deve ficar no hospital
+- todo caso de coronavírus tem que ir para UTI
+- todo caso de covid19 deve ir para UTI
+- todo caso de vírus tem que ficar internado
+- todo caso de coronavírus precisa ficar na UTI
+- todo caso de covid deve de internamento
+- todo caso tem que ficar no hospital
+- todo caso de corona tem que ficar no hospital
+- todo caso da doença deve de internamento
+- todo caso de covid deve ficar no hospital
+- todo caso do covid-19 deve ficar no hospital
+- todo caso de vírus precisa ficar internado
+- todo caso de covid19 precisa ficar no hospital
+- todo caso de virus deve ficar na UTI
+- todo caso do covid-19 tem que ir para UTI
+- todo caso do covid-19 precisa ficar na UTI
+- todo caso da doença precisa ficar internado
+- todo caso de covid precisa ficar no hospital
+- todo caso de covid deve ir para UTI
+- todo caso de covid19 deve ficar na UTI
+- todo caso da doença precisa ficar no hospital
+- preciso ir ao hospital?
+- todo caso da doença é hospitalar?
+- todo caso de covid deve de internacao
+- todo caso de covid tem que ficar na UTI
+- todo caso de virus tem que ficar internado
+- todo caso de vírus precisa ficar na UTI
+- todo caso de coronavírus é hospitalar?
+- todo caso tem que de internamento
+- todo caso de coronavírus tem que de internamento
+- todo caso da doença deve ser internado
+- todo caso da doença deve ficar internado
+- todo caso tem que ficar internado
+- todo caso de corona tem que de internamento
+- todo caso do covid-19 tem que ficar internado
+- todo caso do covid-19 deve ficar na UTI
+- todo caso de coronavírus precisa ficar internado
+- todo caso de coronavírus tem que de internacao
+- todo caso de virus tem que de internacao
+- todo caso de coronavírus deve de internacao
+- todo caso de covid precisa ficar internado
+- todo caso de coronavírus precisa de internamento
+- todo caso de corona precisa ser internado
+- todo caso deve ir para UTI
+- todo caso de vírus tem que de internacao
+- todo caso de coronavírus deve ficar no hospital
+- todo caso de covid precisa ser internado
+
+## intent:mitos
+- rumores comuns sobre o corongavirus
+- posso [encomendar roupa](importacao) do japão?
+- posso [importar roupa](importacao) da ásia?
+- Quero denuncia [noticia falsa](fake_news)
+- posso [importar acessórios](importacao) da alemanha?
+- o novo coronavírus (COVID-19) não resiste ao [altas temperaturas](calor)?
+- posso [pedir encomenda](importacao) da china?
+- o covid19 não aguenta o [altas temperaturas](calor)?
+- posso [adquirir roupas](importacao) da alemanha?
+- posso [comprar um celular](importacao) da china?
+- Onde denunciar [fake news](fake_news)
+- o covid19 [pode matar](mata)?
+- posso [pedir acessórios](importacao) do japão?
+- posso [pedir](importacao) de fora?
+- há uma [remédio](remedio) para coronga?
+- Quero site [fake](fake_news)
+- posso [encomendar encomenda](importacao) da china?
+- posso pegar o corona virus por [gatinho](animal)?
+- posso [adquirir eletrônicos](importacao) do japão?
+- posso [comprar encomendas](importacao) dos estados unidos?
+- Onde denunciar [noticias falsas](fake_news)
+- denuncia [mentira](fake_news)
+- o novo coronavírus [é letal](mata)?
+- existem [remédio](remedio) para o coronga virus?
+- posso [adquirir roupa](importacao) da china?
+- o covid19 não tolera o [alta temperatura](calor)?
+- o covid-19 [pode matar](mata)?
+- posso [importar](importacao) dos EUA?
+- minha família é [velhinhos](idosos) eles morrem pelo virus?
+- denunciar [noticia falsa](fake_news)
+- o virus não sobrevive ao [temperaturas quentes](calor)?
+- posso [importar eletrônicos](importacao) de países com casos confirmados da doença?
+- o vírus não tolera o [temperaturas quentes](calor)?
+- posso [encomendar](importacao) da itália?
+- há algum [remédio](remedio) feita em casa para curar COVID-19?
+- Quero ver [fake](fake_news)
+- o virus não sobrevive ao [alta temperatura](calor)?
+- posso [encomendar](importacao) de outros continentes?
+- posso [comprar mercadoria](importacao) de países com casos confirmados?
+- posso [comprar mercadoria](importacao) de outros países?
+- posso [encomendar eletrônicos](importacao) dos EUA?
+- posso [importar](importacao) de países com casos confirmados da doença?
+- [criancinhas](jovem) não são contaminados pro coronga vírus?
+- posso [encomendar](importacao) de outros países?
+- posso [adquirir eletrônicos](importacao) da china?
+- denuncia [fake news](fake_news)
+- o covid-19 não resiste ao [temperaturas quentes](calor)?
+- posso [pedir encomendas](importacao) da itália?
+- posso [pedir roupas](importacao) da frança?
+- o covid19 não resiste ao [alta temperatura](calor)?
+- o vírus não sobrevive ao [temperaturas quentes](calor)?
+- posso [pedir roupa](importacao) de países com casos confirmados da doença?
+- posso [adquirir encomendas](importacao) de fora?
+- meu [animal](animal) pode me [infectar](infectar) com o covid-19?
+- posso [adquirir encomenda](importacao) de outros países?
+- Quero checar [fake](fake_news)
+- o vírus não aguenta o [alta temperatura](calor)?
+- Onde site [fake news](fake_news)
+- o virus [pode matar](mata)?
+- posso [encomendar mercadoria](importacao) de países com casos confirmados?
+- posso [adquirir roupas](importacao) da europa?
+- checar [faique](fake_news)
+- [adolescente](jovem) não são infectados para corongavirus?
+- o novo coronavírus (COVID-19) não aguenta o [alta temperatura](calor)?
+- posso [adquirir roupas](importacao) da china?
+- meu [cachorro](animal) pode me [afetar](infectar) com o coronga vírus?
+- posso [adquirir roupa](importacao) de outros países?
+- posso [importar](importacao) da europa?
+- posso [importar](importacao) da frança?
+- posso [encomendar](importacao) da europa?
+- fake news comuns sobre o coronavirus
+- posso [importar](importacao) da ásia?
+- posso [importar roupa](importacao) da itália?
+- quero [comprar um xiaomi](importacao)?
+- posso [importar encomendas](importacao) da frança?
+- minha pai é [velhinha](idosos) eles são afetados pelo corona?
+- saber [fake news](fake_news)
+- ver [fake](fake_news)
+- o novo coronavírus não aguenta o [temperaturas quentes](calor)?
+- o virus não tolera o [calor](calor)?
+- posso [pedir](importacao) da ásia?
+- posso [adquirir eletrônicos](importacao) da europa?
+- o novo coronavírus não sobrevive ao [calor](calor)?
+- posso [encomendar acessórios](importacao) dos estados unidos?
+- posso [pedir](importacao) dos estados unidos?
+- posso [comprar roupa](importacao) do japão?
+- posso [importar roupa](importacao) dos estados unidos?
+- meu [gatos](animal) de estimação pode me [ser afetado](infectar) com o coronga?
+- o corona não tolera o [calor](calor)?
+- posso [comprar mercadoria](importacao) dos estados unidos?
+- posso [comprar](importacao) de outros países?
+- o covid-19 não sobrevive ao [temperaturas quentes](calor)?
+- posso [encomendar](importacao) do japão?
+- o virus não resiste ao [altas temperaturas](calor)?
+- o coronavírus não sobrevive ao [altas temperaturas](calor)?
+- minha avó é [velho](idosos) eles são contaminados pelo novo corona vírus?
+- posso [pedir encomenda](importacao) da itália?
+- o covid não resiste ao [temperaturas quentes](calor)?
+- [criança](jovem) não são afetados pra coronga?
+- posso [encomendar mercadoria](importacao) da frança?
+- posso [encomendar acessórios](importacao) da alemanha?
+- posso [encomendar](importacao) de fora?
+- posso [encomendar](importacao) de países com casos confirmados da doença?
+- o covid-19 não aguenta o [calor](calor)?
+- o vírus não sobrevive ao [alta temperatura](calor)?
+- notícias falsas comuns sobre o corongavirus
+- o covid não aguenta o [alta temperatura](calor)?
+- humanos podem ser infectados com o COVID-19 por [animais](animal)?
+- posso [adquirir encomenda](importacao) dos EUA?
+- posso [comprar mercadoria](importacao) da itália?
+- meu [gato](animal) de estimação pode me [ser afetado](infectar) com o virus?
+- posso [comprar](importacao) da frança?
+- o vírus não resiste ao [temperaturas quentes](calor)?
+- o novo coronavírus não sobrevive ao [altas temperaturas](calor)?
+- denuncia [fake](fake_news)
+- o vírus não sobrevive ao [calor](calor)?
+- posso [comprar acessórios](importacao) da ásia?
+- o coronavírus não resiste ao [temperaturas quentes](calor)?
+- o covid não resiste ao [calor](calor)?
+- o virus não tolera o [temperaturas quentes](calor)?
+- posso pegar o virus pelo [animal](animal) de estimação?
+- tem [cura](remedio) caseiro para curar covid-19?
+- o covid [pode matar](mata)?
+- posso [importar encomenda](importacao) de outros continentes?
+- humanos podem ser infectados com o COVID-19 pelo [cachorrinho](animal) de estimação?
+- posso [importar acessórios](importacao) da europa?
+- existe alguma maneira de se curar do COVID-19?
+- posso [importar acessórios](importacao) da frança?
+- apenas [velhinhas](idosos) pegam para corona virus?
+- existem mito sobre corona virus?
+- posso [adquirir roupas](importacao) dos estados unidos?
+- Quero checar [fake news](fake_news)
+- o novo coronavírus (COVID-19) não aguenta o [altas temperaturas](calor)?
+- o coronavírus [pode matar](mata)?
+- posso [importar roupas](importacao) dos EUA?
+- posso [pedir](importacao) do japão?
+- posso [encomendar encomenda](importacao) de países com casos confirmados da doença?
+- posso [pedir mercadoria](importacao) da china?
+- em caso de suspeita, é seguro usar [anti bióticos](antibioticos)?
+- posso [pedir encomenda](importacao) de países com casos confirmados da doença?
+- É verdade que todo mudno que pega coronavirus tá [morrendo](mata)
+- posso [encomendar encomenda](importacao) da ásia?
+- apenas [velhos](idosos) morrem coronga?
+- o covid19 não resiste ao [temperaturas quentes](calor)?
+- o covid [é letal](mata)?
+- adianta usar [anti bióticos](antibioticos)?
+- site [noticias falsas](fake_news)
+- ver [faique](fake_news)
+- Posso denunciar [noticias falsas](fake_news)
+- o coronavírus não resiste ao [alta temperatura](calor)?
+- meu [bixinhos](animal) pode me [ser contaminado](infectar) com o coronga vírus?
+- o vírus não resiste ao [calor](calor)?
+- o novo coronavírus (COVID-19) não resiste ao [temperaturas quentes](calor)?
+- posso [adquirir](importacao) de países com casos confirmados da doença?
+- posso [adquirir](importacao) de fora?
+- Como checar [fake news](fake_news)
+- minha irmão é [velhas](idosos) eles morrem pelo coronga vírus?
+- o novo coronavírus não tolera o [alta temperatura](calor)?
+- tem uma [remédio](remedio) pro coronga vírus?
+- o novo coronavírus não resiste ao [altas temperaturas](calor)?
+- [quais](quais) são mitos mais comuns?
+- denunciar [mentira](fake_news)
+- Onde denunciar [fake](fake_news)
+- posso [adquirir encomenda](importacao) da itália?
+- apenas [velha](idosos) morrem para COVID-19?
+- há uma [cura](remedio) para o corona virus?
+- o covid19 não aguenta o [temperaturas quentes](calor)?
+- posso [comprar](importacao) da ásia?
+- o covid19 não sobrevive ao [altas temperaturas](calor)?
+- o [remedio](remedio) [cloroquina](remedio) cura o corona?
+- posso [comprar](importacao) de fora?
+- Quero ver [noticias falsas](fake_news)
+- posso [adquirir](importacao) da ásia?
+- meu [gata](animal) de estimação pode me [transmitir](infectar) com o novo coronavirus?
+- o novo coronavírus não sobrevive ao [alta temperatura](calor)?
+- [cloroquina](remedio) que nao cura o corona
+- o virus [é letal](mata)?
+- posso [pedir encomendas](importacao) da frança?
+- posso [importar](importacao) de outros países?
+- posso [comprar acessórios](importacao) de outros países?
+- existe uma [vacina](remedio) para novo corona virus?
+- o coronavírus não aguenta o [altas temperaturas](calor)?
+- Quero saber [fake](fake_news)
+- existe [vacina](remedio) pra covid-19?
+- ver [mentira](fake_news)
+- o covid [mata](mata)?
+- posso [encomendar mercadorias](importacao) da europa?
+- posso [pedir eletrônicos](importacao) da alemanha?
+- o covid-19 não tolera o [temperaturas quentes](calor)?
+- apenas [velhas](idosos) são afetados pro covid-19?
+- [gatos](animal) pode me [afetar](infectar)?
+- notícias falsas comuns sobre o coronavirus
+- Posso checar [mentira](fake_news)
+- há [vacina](remedio) pra coronga virus?
+- o covid não aguenta o [altas temperaturas](calor)?
+- posso [importar encomendas](importacao) dos estados unidos?
+- posso [comprar roupa](importacao) da ásia?
+- mitos sobre o corona
+- o novo coronavírus não tolera o [temperaturas quentes](calor)?
+- Posso site [noticias falsas](fake_news)
+- ver [noticias falsas](fake_news)
+- o virus não resiste ao [alta temperatura](calor)?
+- minha avô é [idoso](idosos) eles são contaminados pelo covid 19?
+- Onde denuncia [noticia falsa](fake_news)
+- posso [importar roupas](importacao) dos estados unidos?
+- Como denunciar [noticia falsa](fake_news)
+- o virus não resiste ao [temperaturas quentes](calor)?
+- minha pai é [idosa](idosos) eles são infectados pelo corona virus?
+- [antibióticos](antibioticos) funcionam?
+- posso [encomendar encomenda](importacao) da alemanha?
+- o covid19 [é letal](mata)?
+- posso [importar mercadoria](importacao) de países com casos confirmados?
+- Onde saber [noticia falsa](fake_news)
+- posso [adquirir](importacao) da europa?
+- posso [comprar acessórios](importacao) de fora?
+- o novo coronavírus (COVID-19) não sobrevive ao [calor](calor)?
+- posso [encomendar encomenda](importacao) da europa?
+- o coronavírus não resiste ao [calor](calor)?
+- meu [cadela](animal) de estimação pode me [transmitir](infectar) com o covid 19?
+- Onde site [mentira](fake_news)
+- posso [adquirir mercadorias](importacao) dos estados unidos?
+- Como ver [noticia falsa](fake_news)
+- o covid-19 não sobrevive ao [alta temperatura](calor)?
+- posso [encomendar](importacao) dos estados unidos?
+- existem mito sobre novo corona?
+- posso [encomendar mercadorias](importacao) de fora?
+- Posso ver [faique](fake_news)
+- o coronavírus não tolera o [temperaturas quentes](calor)?
+- o covid-19 não resiste ao [calor](calor)?
+- em caso de suspeita, é seguro usar [anti bioticos](antibioticos)?
+- o coronavírus não aguenta o [alta temperatura](calor)?
+- adianta tomar [anti bioticos](antibioticos)?
+- Quanto tempo o novo Coronavírus sobrevive em [superfícies](calor)?
+- o covid-19 não aguenta o [alta temperatura](calor)?
+- posso [importar](importacao) dos estados unidos?
+- posso [importar](importacao) da itália?
+- o novo coronavírus não aguenta o [alta temperatura](calor)?
+- só [velhinhas](idosos) são infectados virus?
+- existem mito sobre COVID-19?
+- meu [gatinho](animal) pode me [contaminar](infectar) com o corona?
+- posso [importar mercadorias](importacao) da ásia?
+- o novo coronavírus não aguenta o [calor](calor)?
+- posso [encomendar encomenda](importacao) de fora?
+- [criancinhas](jovem) não ficam doente pra novo corona?
+- o covid não resiste ao [altas temperaturas](calor)?
+- checar [noticias falsas](fake_news)
+- posso [encomendar mercadorias](importacao) de países com casos confirmados da doença?
+- Quero saber noticia [falsa](fake_news)
+- posso [encomendar encomendas](importacao) da china?
+- o novo coronavírus não tolera o [calor](calor)?
+- o covid não tolera o [temperaturas quentes](calor)?
+- posso [pedir mercadorias](importacao) da frança?
+- posso [adquirir](importacao) da china?
+- o novo coronavírus não aguenta o [altas temperaturas](calor)?
+- posso [encomendar mercadorias](importacao) da ásia?
+- o covid-19 [mata](mata)?
+- posso [comprar mercadorias](importacao) do japão?
+- o corona não sobrevive ao [altas temperaturas](calor)?
+- notícias de mentira comuns sobre o covid 19
+- o vírus não resiste ao [alta temperatura](calor)?
+- o corona não aguenta o [altas temperaturas](calor)?
+- posso [encomendar mercadorias](importacao) dos estados unidos?
+- o covid-19 não tolera o [calor](calor)?
+- o vírus não resiste ao [altas temperaturas](calor)?
+- existem um [vacina](remedio) caseira para curar covid-19?
+- meu [bixinhos](animal) pode me [ser contaminado](infectar) com o virus?
+- posso [morrer](mata) de coronavirus?
+- o novo coronavírus não sobrevive ao [temperaturas quentes](calor)?
+- o novo coronavírus não resiste ao [calor](calor)?
+- o novo coronavírus (COVID-19) não resiste ao [alta temperatura](calor)?
+- tem [remedio](remedio) pro novo corona vírus?
+- o covid19 não aguenta o [calor](calor)?
+- posso [adquirir acessórios](importacao) do japão?
+- o covid não sobrevive ao [altas temperaturas](calor)?
+- humanos podem ser infectados com o novo coronavírus por [animal](animal) de estimação?
+- posso [adquirir](importacao) dos estados unidos?
+- o novo coronavírus [pode matar](mata)?
+- posso [comprar encomendas](importacao) de países com casos confirmados?
+- humanos podem ser infectados com o vírus por [animais](animal)?
+- Mitos e verdades sobre a doença ⁉️
+- posso [comprar acessórios](importacao) da itália?
+- posso [comprar encomendas](importacao) da itália?
+- existe uma [vacina](remedio) pro coronavírus?
+- Posso site [faique](fake_news)
+- mito comuns sobre o vírus
+- posso [comprar roupa](importacao) dos estados unidos?
+- minha família é [velhinho](idosos) eles ficam doente pelo novo corona?
+- apenas [velhinhas](idosos) pegam para coronavírus?
+- [cachorrinho](animal) pode me [afetar](infectar)?
+- o vírus não tolera o [altas temperaturas](calor)?
+- Onde ver [noticias falsas](fake_news)
+- adianta usar [antibióticos](antibioticos)?
+- o covid19 não sobrevive ao [temperaturas quentes](calor)?
+- posso [encomendar](importacao) da alemanha?
+- meu [gato](animal) de estimação pode me [transmitir](infectar) com o coronavírus?
+- em caso de suspeita, é seguro tomar [anti bióticos](antibioticos)?
+- posso [pedir mercadoria](importacao) dos estados unidos?
+- Quero saber [fake news](fake_news)
+- o covid não aguenta o [calor](calor)?
+- Onde ver [fake news](fake_news)
+- saber [noticias falsas](fake_news)
+- há uma maneira de se curar do coronavirus?
+- posso [encomendar](importacao) da ásia?
+- posso [comprar](importacao) de países com casos confirmados da doença?
+- o uso de [anti-bioticos](antibioticos) é indicado?
+- posso [encomendar mercadorias](importacao) da itália?
+- posso [adquirir eletrônicos](importacao) da ásia?
+- existem noticias falsas sobre corongavirus?
+- existem notícias falsas sobre novo corona?
+- posso [comprar eletrônicos](importacao) da alemanha?
+- Como ver [faique](fake_news)
+- posso [comprar mercadorias](importacao) de países com casos confirmados?
+- tem [remedio](remedio) pra coronavirus?
+- posso [adquirir](importacao) de outros países?
+- posso pegar o novo coronavírus pelo [cadela](animal)?
+- o novo coronavírus (COVID-19) não aguenta o [calor](calor)?
+- meu [bixinhos](animal) pode me [ser afetado](infectar) com o coronga vírus?
+- posso [importar](importacao) de outros continentes?
+- o vírus não aguenta o [altas temperaturas](calor)?
+- o covid não tolera o [calor](calor)?
+- posso [pedir](importacao) dos EUA?
+- posso [adquirir encomendas](importacao) de países com casos confirmados?
+- meu [gato](animal) de estimação pode me [afetar](infectar) com o novo corona virus?
+- o virus não aguenta o [alta temperatura](calor)?
+- adianta tomar [anti-bióticos](antibioticos)?
+- só [idoso](idosos) morrem novo coronavírus?
+- o corona não resiste ao [alta temperatura](calor)?
+- checar [fake](fake_news)
+- minha avó é [idosas](idosos) eles são contaminados pelo novo corona vírus?
+- só [idosas](idosos) ficam doente para novo coronavírus?
+- posso [encomendar mercadoria](importacao) da alemanha?
+- [jovens](jovem) não são contaminados pra COVID-19?
+- Onde checar [mentira](fake_news)
+- posso [encomendar](importacao) dos EUA?
+- posso [adquirir roupa](importacao) do japão?
+- posso [encomendar encomenda](importacao) de outros países?
+- o corona [é letal](mata)?
+- posso [importar](importacao) do japão?
+- posso [importar](importacao) de países com casos confirmados?
+- posso [importar acessórios](importacao) de outros continentes?
+- o coronavírus não tolera o [altas temperaturas](calor)?
+- posso [comprar mercadorias](importacao) dos EUA?
+- apenas [velha](idosos) são afetados para o novo corona?
+- o coronavírus não aguenta o [calor](calor)?
+- em caso de suspeita, é seguro tomar [antibióticos](antibioticos)?
+- posso [importar](importacao) da china?
+- posso [pedir](importacao) da frança?
+- posso [importar mercadorias](importacao) da china?
+- meu [cachorro](animal) tem coronavirus eu vi no zap
+- o covid19 não tolera o [altas temperaturas](calor)?
+- o corona não sobrevive ao [alta temperatura](calor)?
+- saber [noticia falsa](fake_news)
+- o covid19 não resiste ao [altas temperaturas](calor)?
+- posso [adquirir](importacao) dos EUA?
+- o novo coronavírus (COVID-19) [pode matar](mata)?
+- posso [comprar](importacao) da europa?
+- posso pegar o corongavirus por [gato](animal) de estimação?
+- humanos podem ser infectados com o novo coronavírus através de [cachorros](animal) de estimação?
+- posso [pedir encomendas](importacao) de outros continentes?
+- posso [comprar encomendas](importacao) de outros países?
+- em caso de suspeita, é seguro tomar [anti-bioticos](antibioticos)?
+- É verdade que todo mudno que pega coronavirus tá [morrendo](mata)?
+- posso pegar o corongavírus por [animal](animal) de estimação?
+- posso [comprar](importacao) de outros continentes?
+- adianta usar [antibioticos](antibioticos)?
+- posso [pedir encomenda](importacao) da europa?
+- posso [adquirir mercadoria](importacao) da europa?
+- minha avó é [idosa](idosos) eles ficam doente pelo coronga virus?
+- existem notícias falsas sobre corongavirus?
+- posso [importar encomenda](importacao) da itália?
+- o novo coronavírus (COVID-19) não resiste ao [calor](calor)?
+- saber [fake](fake_news)
+- posso [adquirir roupa](importacao) de países com casos confirmados?
+- saber [faique](fake_news)
+- posso pegar o covid-19 pelo [gato](animal)?
+- posso pegar o corona através de [gatinha](animal) de estimação?
+- há algum [cura](remedio) feito em casa para curar covid 19?
+- existe uma [vacina](remedio) pra coronga virus?
+- apenas [velhinha](idosos) pegam pro covid-19?
+- Posso site [fake news](fake_news)
+- o novo coronavírus (COVID-19) não tolera o [alta temperatura](calor)?
+- posso [encomendar roupas](importacao) de países com casos confirmados da doença?
+- o corona não aguenta o [calor](calor)?
+- posso [pedir](importacao) de países com casos confirmados da doença?
+- Posso denunciar [fake news](fake_news)
+- Quais são os mitos? ⁉
+- posso [adquirir](importacao) da alemanha?
+- posso [adquirir mercadoria](importacao) da itália?
+- existem fake news sobre novo corona vírus?
+- posso [pedir eletrônicos](importacao) dos estados unidos?
+- posso [comprar](importacao) dos EUA?
+- posso [comprar roupa](importacao) de países com casos confirmados da doença?
+- posso [encomendar acessórios](importacao) de fora?
+- posso [encomendar roupa](importacao) da china?
+- posso [pedir mercadoria](importacao) da alemanha?
+- posso [comprar encomendas](importacao) do japão?
+- posso [pedir](importacao) de outros países?
+- Quero denunciar [fake](fake_news)
+- o covid-19 não sobrevive ao [calor](calor)?
+- Como site [fake](fake_news)
+- [jovens](jovem) não ficam doente pro vírus?
+- o corona não sobrevive ao [temperaturas quentes](calor)?
+- posso [adquirir](importacao) de outros continentes?
+- posso [pedir](importacao) da itália?
+- posso [pedir acessórios](importacao) de outros países?
+- existem um [cura](remedio) feito em casa para curar coronga virus?
+- tem [remedio](remedio) pra coronga?
+- o novo coronavírus (COVID-19) não tolera o [altas temperaturas](calor)?
+- em caso de suspeita, é seguro tomar [antibioticos](antibioticos)?
+- existem uma forma de se curar do coronga virus?
+- só [idoso](idosos) morrem pro coronga?
+- posso pegar o coronavírus pelo [bixinhos](animal)?
+
+## intent:distanciamento_social
+- pq o shopping fechou
+- por que o colégio estão fechadas
+- porque a escola não está funcionando
+- pq as lojas está fechada
+- por que a escola está fechada
+- por que o colégio não abriu
+- pq o colégio estão fechadas
+- por que as lojas estão fechadas
+- porque a escola não funciona
+- porque o colégio fechou
+- porque as lojas fechou
+- porque o shopping não abriu
+- por que o shopping está fechada
+- pq o comércio estão fechadas
+- por que o comércio não funciona
+- porque as lojas não está funcionando
+- porque restaurante não funciona
+- por que o colégio está fechada
+- por que o comércio não abriu
+- porque o colégio estão fechadas
+- por que a escola fechou
+- [o q é](o_que_e) distanciamento social?
+- pq o shopping está fechada
+- pq meu trabalho não abriu
+- pq o comércio não abriu
+- por que o comércio fechou
+- porque meu trabalho está fechado
+- por que restaurante estão fechadas
+- pq as lojas estão fechadas
+- por que as lojas está fechada
+- por que o colégio não funciona
+- porque o comércio fechou
+- por que meu trabalho está fechado
+- pq o shopping não abriu
+- por que as lojas não está funcionando
+- pq meu trabalho não funciona
+- por que a escola não está funcionando
+- porque meu trabalho não abriu
+- porque o shopping não está funcionando
+- porque restaurante fechou
+- por que o comércio estão fechadas
+- pq restaurante não funciona
+- porque o shopping fechou
+- por que o shopping não abriu
+- pq a escola não funciona
+- porque o colégio está fechado
+- pq o comércio não funciona
+- pq restaurante fechou
+- porque as lojas está fechada
+- porque o colégio não abriu
+- porque o comércio não abriu
+- porque meu trabalho estão fechadas
+- por que o comércio está fechada
+- pq as lojas está fechado
+- por que o colégio não está funcionando
+- porque restaurante não está funcionando
+- pq o comércio fechou
+- pq o colégio fechou
+- por que a escola não funciona
+- pq a escola não abriu
+- pq o shopping estão fechadas
+- por que meu trabalho não funciona
+- porque as lojas não funciona
+- porque a escola está fechada
+- pq as lojas não está funcionando
+- pq o shopping não está funcionando
+- pq o comércio não está funcionando
+- por que o shopping não está funcionando
+- porque a escola fechou
+- pq restaurante está fechada
+- por que meu trabalho fechou
+- pq o colégio não está funcionando
+- porque meu trabalho não funciona
+- pq restaurante está fechado
+- porque o colégio está fechada
+- pq restaurante não está funcionando
+- [o que é](o_que_e) distanciamento social?
+- por que restaurante não funciona
+- porque as lojas estão fechadas
+- por que restaurante está fechado
+- por que meu trabalho estão fechadas
+- pq o colégio está fechada
+- Me falaram que não posso ficar perto das pesssoas é verdade?
+- por que meu trabalho não está funcionando
+- pq a escola está fechada
+- pq a escola estão fechadas
+- pq a escola está fechado
+- pq as lojas não funciona
+- por que meu trabalho está fechada
+- pq restaurante estão fechadas
+- pq o shopping está fechado
+- porque o shopping está fechada
+- porque meu trabalho fechou
+- por que restaurante está fechada
+- porque meu trabalho não está funcionando
+- por que o shopping não funciona
+- porque restaurante está fechada
+- por que o colégio está fechado
+- por que as lojas fechou
+- por que as lojas está fechado
+- porque restaurante não abriu
+
+## intent:prevenir
+- [quais](quais) maneira de impendir pro COVID-19?
+- [quais](quais) jeito de se prevenir para coronavírus?
+- [quais](quais) maneira de cuidados pra vírus?
+- [quais](quais) maneira de cuidado pro vírus?
+- [quais](quais) forma de cuidado COVID-19?
+- [quais](quais) jeito de cuidado pra novo corona?
+- [quais](quais) maneira de se precaver pro coronga virus?
+- [quais](quais) jeito de evitar pro corona?
+- [quais](quais) forma de se cuidar para corona vírus?
+- [quais](quais) forma de prevencao pro coronga?
+- [quais](quais) jeito de cuidados para o novo corona virus?
+- Como é a prevenção?
+- [quais](quais) jeito de impendir corona virus?
+- [quais](quais) jeito de prevencao pra covid 19?
+- [quais](quais) jeito de se resguardar pro covid-19?
+- [quais](quais) forma de cuidado para o corona virus?
+- como me previno
+- [quais](quais) jeito de se cuidar para corona vírus?
+- [quais](quais) forma de cuidados para o novo corona vírus?
+- [quais](quais) forma de evitar pro corongavírus?
+- [quais](quais) forma de prevencao pro vírus?
+- [quais](quais) jeito de prevencao para o coronga vírus?
+- [quais](quais) jeito de impendir pra corona virus?
+- [quais](quais) jeito de se cuidar corona vírus?
+- tem algo que eu possa fazer para não infectar outros?
+- [quais](quais) forma de se cuidar para covid 19?
+- [quais](quais) maneira de se cuidar pro corongavirus?
+- [quais](quais) maneira de cuidado para o corona vírus?
+- [quais](quais) forma de se prevenir pro corona vírus?
+- [quais](quais) forma de se resguardar para covid 19?
+- [quais](quais) jeito de cuidados pro COVID-19?
+- [quais](quais) maneira de se cuidar pra corongavírus?
+- [quais](quais) jeito de impendir covid-19?
+- [quais](quais) maneira de cuidados COVID-19?
+- [quais](quais) jeito de se resguardar pra coronga?
+- [quais](quais) maneira de cuidados para corona vírus?
+- [quais](quais) maneira de cuidados pro coronavirus?
+- [quais](quais) forma de se prevenir pro coronga vírus?
+- [quais](quais) jeito de cuidados pra novo coronavirus?
+- [quais](quais) forma de se resguardar pro coronavirus?
+- [quais](quais) maneira de cuidados pro COVID-19?
+- [quais](quais) forma de se prevenir pro corona virus?
+- [quais](quais) maneira de se precaver novo coronavírus?
+- [quais](quais) forma de cuidado para novo coronavirus?
+- [quais](quais) forma de se prevenir para o corona vírus?
+- [quais](quais) maneira de impendir para o novo coronavírus?
+- [quais](quais) jeito de cuidado para corongavírus?
+- [quais](quais) maneira de prevencao pro novo coronavírus?
+- [quais](quais) forma de se precaver pro COVID-19?
+- [quais](quais) jeito de prevencao para coronga vírus?
+- [quais](quais) maneira de evitar para o covid 19?
+- [quais](quais) maneira de se cuidar coronavírus?
+- [quais](quais) forma de impendir coronga virus?
+- [quais](quais) jeito de cuidado para o coronga?
+- [quais](quais) maneira de se prevenir covid-19?
+- [quais](quais) forma de cuidados coronga vírus?
+- [quais](quais) forma de evitar pro virus?
+- [quais](quais) maneira de se resguardar coronga?
+- [quais](quais) forma de se resguardar para corona virus?
+- [quais](quais) forma de impendir pra vírus?
+- [quais](quais) maneira de cuidado para coronga vírus?
+- [quais](quais) maneira de se precaver para corona?
+- [quais](quais) forma de evitar pra corongavirus?
+- [quais](quais) jeito de se cuidar coronga?
+- [quais](quais) jeito de se precaver pro novo coronavirus?
+- [quais](quais) jeito de se cuidar pro novo corona vírus?
+- [quais](quais) forma de se resguardar pro COVID-19?
+- [quais](quais) maneira de se precaver pro corongavírus?
+- [quais](quais) forma de evitar para novo corona?
+- como me prevenir?
+- [quais](quais) maneira de cuidado pra novo corona?
+- [quais](quais) jeito de cuidado novo corona?
+- [quais](quais) forma de se precaver para corongavirus?
+- como me privino
+- [quais](quais) forma de se resguardar pra novo corona vírus?
+- [quais](quais) forma de se precaver para corona?
+- [quais](quais) maneira de se resguardar pra corona virus?
+- [quais](quais) maneira de se cuidar pra corona vírus?
+- [quais](quais) maneira de se cuidar pro novo corona virus?
+- [quais](quais) forma de se resguardar pra novo corona virus?
+- [quais](quais) maneira de se resguardar para o coronavirus?
+- [quais](quais) forma de se precaver pra novo corona vírus?
+- [quais](quais) forma de cuidado pro coronga vírus?
+- [quais](quais) jeito de cuidado pro novo coronavírus?
+- [quais](quais) jeito de impendir para covid 19?
+- [quais](quais) forma de se precaver corongavírus?
+- qual melhor maneira de método antisseptico?
+- [quais](quais) maneira de se cuidar para novo coronavirus?
+- [quais](quais) maneira de cuidados pra novo corona?
+- [quais](quais) jeito de se resguardar para o corongavírus?
+- [quais](quais) maneira de se prevenir pro novo coronavírus?
+- [quais](quais) jeito de prevencao para COVID-19?
+- [quais](quais) jeito de se prevenir virus?
+- [quais](quais) jeito de prevencao novo coronavirus?
+- [quais](quais) jeito de cuidados pra novo corona virus?
+- [quais](quais) forma de cuidados para coronavírus?
+- [quais](quais) maneira de prevencao pra covid-19?
+- [quais](quais) maneira de impendir pro coronga?
+- [quais](quais) maneira de se prevenir para o vírus?
+- [quais](quais) forma de prevencao corongavirus?
+- [quais](quais) jeito de se precaver pro novo coronavírus?
+- [quais](quais) jeito de prevencao para o corongavírus?
+- [quais](quais) jeito de se precaver para o coronavírus?
+
+## intent:bias
+- obrigada
+- Matheus Enrique
+- Tive
+- Ok, obrigada!
+- estou
+- é
+- Não
+- Boa noite
+- jessika
+- coronavirus
+- start
+- Sim
+- com
+- bom dia
+- Ações do Governo do Ceará ✅
+- posso
+- boa tarde
+- certo
+- o
+- Cristiane
+- Bolsonaro liberou
+
+## intent:imunidade
+- as [criancas](jovem) são imunição ao covid 19
+- as [adolescente](jovem) são imune ao
+- as [adolescentes](jovem) são imunição ao corona vírus
+- as [seres humanos](pessoas) são imune ao coronga
+- as [criancas](jovem) são imunição ao
+- as [jovens](jovem) são imunes ao novo coronavírus
+- as [pessoas](pessoas) são imune ao coronga vírus
+- as [pessoas](pessoas) são imune ao coronga virus
+- as [criancas](jovem) são imunes ao coronavirus
+- as [criancinhas](jovem) são imunição ao corona vírus
+- as [adolescentes](jovem) são imunidade ao corongavírus
+- as [criancinhas](jovem) são imunes ao coronavírus
+- as [criancinhas](jovem) são imunes ao
+- as [crianças](jovem) são imunição ao
+- as [pessoas](pessoas) são imunidade ao corongavírus
+- as [adolescente](jovem) são imunes ao novo coronavírus
+- as [criancinhas](jovem) são imunição ao
+- as [pessoas](pessoas) são imune ao novo coronavirus
+- as [adolescentes](jovem) são imunição ao covid 19
+- as [crianças](jovem) são imunição ao COVID-19
+- as [seres humanos](pessoas) são imunes ao COVID-19
+- as [criancas](jovem) são imune ao corongavírus
+- as [pessoa](pessoas) são imunes ao coronga vírus
+- as [crianças](jovem) são imunição ao coronga
+- as [seres humanos](pessoas) são imune ao coronga virus
+- as [crianca](jovem) são imunidade ao novo corona
+- as [adolescente](jovem) são imune ao novo coronavirus
+- as [jovem](jovem) são imunição ao novo coronavírus
+- as [adolescentes](jovem) são imunição ao corona virus
+- as [adolescente](jovem) são imunidade ao corongavírus
+- as [seres humanos](pessoas) são imune ao covid-19
+- as [adolescentes](jovem) são imunidade ao
+- as [crianças](jovem) são imunes ao coronavirus
+- as [jovens](jovem) são imunição ao corona vírus
+- as [jovem](jovem) são imunes ao coronavirus
+- as [pessoa](pessoas) são imunes ao coronavirus
+- as [seres humanos](pessoas) são imune ao corona virus
+- as [jovem](jovem) são imunição ao corongavírus
+- as [criancinha](jovem) são imunes ao corongavirus
+- as [criancinhas](jovem) são imune ao corongavírus
+- as [adolescentes](jovem) são imunes ao coronga vírus
+- as [jovens](jovem) são imunidade ao coronga vírus
+- as [seres humanos](pessoas) são imune ao coronga vírus
+- as [crianca](jovem) são imunidade ao
+- as [pessoa](pessoas) são imunes ao covid 19
+- as [jovens](jovem) são imune ao corongavirus
+- as [crianças](jovem) são imunes ao covid-19
+- as [pessoa](pessoas) são imune ao novo corona vírus
+- as [jovem](jovem) são imunidade ao novo coronavírus
+- as [crianças](jovem) são imune ao corongavírus
+- as [criancinha](jovem) são imunidade ao covid-19
+- as [criancinhas](jovem) são imunidade ao novo corona
+- as [crianças](jovem) são imunidade ao vírus
+- as [adolescentes](jovem) são imune ao vírus
+- as [jovem](jovem) são imunição ao coronavírus
+- as [pessoa](pessoas) são imune ao coronga virus
+- as [adolescentes](jovem) são imunes ao novo corona vírus
+- as [crianca](jovem) são imunes ao covid 19
+- as [pessoa](pessoas) são imunição ao coronga vírus
+- as [criança](jovem) são imunição ao covid-19
+- as [crianca](jovem) são imune ao covid-19
+- [criancinhas](jovem) imune
+- as [crianca](jovem) são imune ao novo corona
+- as [adolescente](jovem) são imune ao corongavirus
+- as [crianças](jovem) são imunição ao coronga vírus
+- as [pessoas](pessoas) são imune ao
+- as [criança](jovem) são imunidade ao corona
+- as [criancinhas](jovem) são imunidade ao
+- as [criancinhas](jovem) são imune ao novo corona
+- as [criancinha](jovem) são imunição ao coronga virus
+- as [pessoa](pessoas) são imunidade ao novo corona virus
+- as [criancinhas](jovem) são imune ao novo coronavírus
+- as [criancinha](jovem) são imunição ao coronavírus
+- as [pessoa](pessoas) são imune ao corongavirus
+- as [criancinhas](jovem) são imune ao novo corona virus
+- as [crianca](jovem) são imunidade ao corongavirus
+- as [criança](jovem) são imunição ao coronavirus
+- as [adolescente](jovem) são imunição ao novo coronavirus
+- as [pessoas](pessoas) são imunes ao coronga
+- as [criancinhas](jovem) são imunição ao novo corona virus
+- as [crianca](jovem) são imunes ao virus
+- as [criancinha](jovem) são imune ao vírus
+- as [pessoa](pessoas) são imunição ao corona
+- as [pessoa](pessoas) são imunes ao
+- [criança](jovem) imunes
+- as [jovem](jovem) são imunes ao corona
+- as [criancas](jovem) são imunes ao novo corona vírus
+- as [seres humanos](pessoas) são imunidade ao coronga
+- as [criança](jovem) são imune ao corongavírus
+- as [pessoas](pessoas) são imunidade ao covid 19
+- as [jovens](jovem) são imunes ao novo corona
+- as [jovens](jovem) são imunes ao coronga virus
+- as [seres humanos](pessoas) são imunes ao corongavírus
+- as [crianca](jovem) são imunição ao coronga vírus
+- as [criancinhas](jovem) são imune ao novo corona vírus
+- as [crianças](jovem) são imunição ao corona vírus
+- as [criancas](jovem) são imune ao
+- as [seres humanos](pessoas) são imunição ao novo corona vírus
+- as [pessoas](pessoas) são imunição ao
+- as [adolescente](jovem) são imunes ao covid-19
+
+## intent:lockdown
+- [Como assim](o_que_e) locdom
+- padaria fica aberta no lockdown
+- onde vale lockdown
+- posso sair no lockdown
+- entrega lockdown
+- onde vale locdom
+- [Como assim](o_que_e) isolameno rígido
+- [Como assim](o_que_e) loquedom
+- sair lockdown
+- [como é](o_que_e) isolamento rígido
+- [O que é](o_que_e) loquedoum
+- padaria fica aberta no loquedom
+- [O que significa](o_que_e) loquedom
+- [O que significa](o_que_e) locdom
+- [Como assim](o_que_e) lockdown
+- Locdom posso sair
+- Loquedom posso fazer compra
+- [O que significa](o_que_e) isolamento rígido
+- Me explica [o que é](o_que_e) lockdown
+- [que que é](o_que_e) lockdown
+- [Como funciona](o_que_e) lockdown
+- entrega loquedom
+- onibus lockdown
+- Como é o lockdown
+- [O que](o_que_e) significa locdoum
+- [o que é](o_que_e) isolamento rígido
+- [o que é](o_que_e) esse lockdown
+- locdom banco
+- escola loquedom
+- local com locdom
+- escola lockdown
+- Loquedoum sair de casa
+- Isolamento rídigo posso sair de casa
+- posso sair no locdom
+- loquedom posso ir na academia
+- tele entrega lockdown
+- ifood locdown
+- isolamento rígido [como funciona](o_que_e)
+- local com lockdown
+- Falaram que vai ter lockdown [o que é](o_que_e) isso?
+- posso sair no loquedom
+- lockdown bancos
+- Locdom [o que é](o_que_e)
+- lockdown academia
+- funciona onibus no lockdown
+- Lockdown sair de casa
+- [Como é](o_que_e) loquedoum
+- Como sair no lockdown
+- Lockdown é obrigatório
+- ifood lockdown
+- loquedom posso sair de casa
+- [O que é](o_que_e) lockdown? Como isso me protege da doença?
+- [que que é](o_que_e) isolamento rígido
+- lockdown posso fazer compras
+- onde vale loquedom
+- lockdown [como é isso](o_que_e)
+- escola locdom
+- Locdom é proibido sair
+- [o que](o_que_e) significa lockdown
+
+## intent:atendimento
+- aonde procuro atendimento médico
+- aonde buscar atendimento médico
+- aonde busco ajuda
+- aonde busco médico
+- aonde devo ir médico
+- onde devo ir atendimento médico
+- onde procuro ajuda
+- onde encontro ajuda
+- onde busco médico
+- como posso ter atendimento?
+- onde encontro atendimento médico
+- aonde buscar ajuda
+- aonde encontro médico
+- aonde procuro médico
+- aonde vou atendimento
+- onde busco ajuda
+- aonde devo ir ajuda
+- aonde busco atendimento
+- aonde buscar atendimento
+- onde acho ajuda
+- onde procuro médico
+- aonde encontro atendimento
+- Não estou me sentindo bem onde preciso ir pra ser atendido?
+- aonde vou ajuda
+- aonde procuro ajuda
+- onde vou ajuda
+- onde devo ir ajuda
+- onde procuro atendimento médico
+- aonde acho atendimento médico
+- aonde vou atendimento médico
+- onde buscar médico
+- onde vou médico
+- aonde acho ajuda
+- aonde procuro atendimento
+- onde procuro atendimento
+- onde acho atendimento
+- onde busco atendimento
+- onde buscar atendimento médico
+- aonde acho médico
+- aonde devo ir atendimento médico
+- onde encontro médico
+- aonde vou médico
+- onde vou atendimento
+- onde acho atendimento médico
+- aonde devo ir atendimento
+- onde vou atendimento médico
+- onde acho médico
+- onde encontro atendimento
+- aonde buscar médico
+- onde devo ir atendimento
+- aonde busco atendimento médico
+- aonde acho atendimento
+- onde buscar atendimento
+- onde busco atendimento médico
+- onde buscar ajuda
+- onde devo ir médico
+- aonde encontro atendimento médico
+- aonde encontro ajuda
+
+## intent:preocupacoes
+- dessossego em torno do coronga vírus
+- atormentamento gravidez
+- aperrear em torno do novo coronavírus
+- preocupação em torno do doença
+- aflição em torno do
+- dessossego com doença
+- aterrorizar sobre coronga virus
+- desassossego em torno do corona vírus
+- agonia sobre coronavirus
+- aterrorizar com corona vírus
+- preocupar em torno do corona
+- agonia em torno do doença
+- medo com doença
+- atormentamento sobre coronavirus
+- angústia sobre saúde
+- ansiedade com vida
+- aperrear em torno do covid-19
+- ansiedade com coronavírus
+- aflição com novo corona virus
+- ansiedade em torno do covid 19
+- medo com novo corona
+- atormentamento em torno do corona vírus
+- inquietação com vírus
+- inquietação sobre corona virus
+- atormentamento com covid-19
+- aflição sobre COVID-19
+- ansiedade em torno do coronga
+- angústia sobre novo coronavirus
+- cuidado com novo corona vírus
+- angústia sobre coronga
+- dessossego sobre coronavirus
+- dessossego sobre novo coronavírus
+- preocupação em torno do saúde
+- que medo
+- preocupação com saúde
+- agonia em torno do coronavirus
+- por que medo
+- medo sobre coronga virus
+- angústia sobre doença
+- preocupar em torno do novo coronavirus
+- o que inquietação
+- preocupação sobre coronga vírus
+- aterrorizar com covid 19
+- atormentamento sobre novo coronavírus
+- angústia em torno do novo corona vírus
+- agonia gravidez
+- atormentamento com corongavirus
+- cuidado sobre corona virus
+- preocupação com novo corona vírus
+- agonia em torno do coronga vírus
+- dessossego com saúde
+- atormentamento com COVID-19
+- aperrear com doença
+- aperrear sobre
+- preocupação sobre coronavirus
+- preocupar sobre corona virus
+- dessossego em torno do doença
+- preocupar com COVID-19
+- o quê efervescência
+- inquietação em torno do corona vírus
+- atormentamento sobre novo corona virus
+- desassossego sobre vírus
+- cuidado em torno do novo corona virus
+- estou com muito medo
+- medo sobre morte
+- efervescência sobre morte
+- cuidado em torno do corongavírus
+- dessossego sobre doença
+- atormentamento em torno do SARS
+- desassossego em torno do novo corona
+- agonia sobre morte
+- aflição com corona virus
+- preocupar com
+- ansiedade sobre vírus
+- dessossego gravidez
+- preocupar sobre novo corona vírus
+- aperrear sobre doença
+- preocupar com coronga virus
+- inquietação com morte
+- dessossego sobre SARS
+- tenho muito medo de pegar
+- angústia em torno do doença
+- cuidado sobre novo corona
+- aflição sobre covid-19
+- inquietação sobre corona vírus
+- inquietação em torno do virus
+- angústia sobre
+- Estou com muito medo de ter coronavirus
+- aterrorizar com saúde
+- agonia sobre corona vírus
+- inquietação sobre novo corona vírus
+- cuidado com vida
+- angústia sobre coronavírus
+- aperrear em torno do
+- aperrear em torno do corona virus
+- por que aterrorizar
+- que efervescência
+- cuidado sobre
+- medo com
+- cuidado sobre morte
+- angústia sobre coronga virus
+- aflição em torno do coronga virus
+- ansiedade com novo corona virus
+
+## intent:risco
+- Como a virus [surge](apresenta)
+- minha avô tem hipertensão, está no grupos de risco?
+- nosso pai tem diabete, está no perigo?
+- minha avó tem problema imunológico
+- Como o covid-19 [se mostra](apresenta)
+- minha familia tem problemas respiratórios
+- Como a covid-19 [surge](apresenta)
+- nossa tio tem pressão alta, está no grupos de risco?
+- tinha [rinite](doenca_respiratoria)
+- meu mãe tem asma, está no perigo?
+- tinha [diabete](diabetes)
+- Como a covid-19 [se mostra](apresenta)
+- Como esse coronavirus [manifesta](apresenta)
+- Como essa covid-19 [apresenta](apresenta)
+- [quem](quem) está no [grupo de risco](grupo_de_risco)?
+- tenho [rins](problema_no_rins)
+- Como essa corona [surge](apresenta)
+- tem [idoso](idosos) no [grupo de risco](grupo_de_risco)
+- Como a doença [manifesta](apresenta)
+- minha irmão tem diabete, está no perigo?
+- [idosos](idosos) são [grupo de risco](grupo_de_risco)
+- nossa irmão tem hipertensão, está no grupo de risco?
+- nosso avó tem problema no pulmão
+- tenho [rim](problema_no_rins)
+- meu família tem hipertencao, está no grupo de risco?
+- [realizei transplante](problemas_de_imunidade)
+- tenho [problema respiratório](doenca_respiratoria)
+- [hipertensão](hipertensao)
+- [rinite](doenca_respiratoria)
+- Como essa corona [apresenta](apresenta)
+- tem [gripe H1N1](doenca_respiratoria)
+- Como o covid19 [manifesta](apresenta)
+- Como essa corona [se mostra](apresenta)
+- Como esse covid19 [manifesta](apresenta)
+- nossa irmão tem problema do coração, está no perigo?
+- [problemas de imunidade](problemas_de_imunidade)
+- meu mãe tem diabete
+- nosso avó tem diabete, está no perigo?
+- nossa família tem problemas respiratórios
+- tem [tratamento contra câncer](problemas_de_imunidade)
+- meu mãe tem hipertencao, está no grupo de risco?
+- [velhinhas](idosos) são dos grupos de risco?
+- minha tio tem hiper tensao, está no grupo de risco?
+- nosso mãe tem asma
+- Como o covid-19 [aparece](apresenta)
+- Como essa covid-19 [aparece](apresenta)
+- minha tio tem problema do coração
+- Como essa virus [manifesta](apresenta)
+- pessoas com arritmia
+- Como o covid19 [apresenta](apresenta)
+- [diabetes tipo 2](diabetes)
+- tinha [portadora de HIV](problemas_de_imunidade)
+- meu irmã tem arritmia, está no perigo?
+- tenho [problema de pressão](hipertensao)
+- tenho [diabetica](diabetes)
+- Como essa doença [aparece](apresenta)
+- Como o doença [se mostra](apresenta)
+- Como o doença [manifesta](apresenta)
+- Como o covid [apresenta](apresenta)
+- tinha [pré-diabetes](diabetes)
+- Como essa virus [aparece](apresenta)
+- tem [problema de coração](doenca_cardiaca)
+- Como a covid19 [apresenta](apresenta)
+- nossa família tem asma, está no grupo de risco?
+- Como essa covid19 [apresenta](apresenta)
+- Como a doença [apresenta](apresenta)
+- Como esse covid-19 [apresenta](apresenta)
+- [gripe H1N1](doenca_respiratoria)
+- como o vírus se [apresenta](apresenta)?
+- Como o covid [manifesta](apresenta)
+- minha família tem problema imunológico, está no grupo de risco?
+- Como esse corona [aparece](apresenta)
+- tenho [diabetes](diabetes)
+- nosso pai tem problema no pulmão, está no perigo?
+- Como o virus [aparece](apresenta)
+- Como a virus [aparece](apresenta)
+- tem [doença pulmonar obstrutiva crônica](doenca_respiratoria)
+- [portadora de HIV](problemas_de_imunidade)
+- nossa avô está no grupos de risco?
+- [quem](quem) pode estar no [grupo de risco](grupo_de_risco)?
+- tinha [insuficiência cardíaca](doenca_cardiaca)
+- nossa avô tem asma, está no perigo?
+- tenho [artrose](doenca_cardiaca)
+- Como a doença [surge](apresenta)
+- tenho [sopro no coração](doenca_cardiaca)
+- tem [estenose pulmonar](doenca_cardiaca)
+- Como esse covid19 [apresenta](apresenta)
+- tinha [diabetes](diabetes)
+- pessoas com problemas respiratórios são em perigo?
+- meu irmã tem problema no pulmão
+- minha família tem diabétes, está no grupos de risco?
+- meu pai tem hipertencao
+- Como esse coronavirus [apresenta](apresenta)
+- Como essa coronavirus [apresenta](apresenta)
+- nosso tio tem diabétes
+- tinha [pressão alta](hipertensao)
+- tinha [angina instável](doenca_cardiaca)
+- Como o coronavirus [surge](apresenta)
+- minha avó tem problema do coração, está no grupo de risco?
+- nosso familia tem hiper tensao, está no grupo de risco?
+- meu mãe tem hipertensão, está no grupo de risco?
+- nosso tia tem diabete, está no grupos de risco?
+- nosso tio tem hipertensão, está no grupos de risco?
+- Tenho [diabetes](diabetes), estou em perigo?
+- Como a coronavirus [aparece](apresenta)
+- minha irmã tem hipertencao, está no perigo?
+- nosso tio tem hipertensão
+- tinha [angina estável](doenca_cardiaca)
+- nosso irmã tem problema do coração, está no grupos de risco?
+- [estenose mitral](doenca_cardiaca)
+- [de idade](idosos) são em perigo?
+- Como a covid19 [se mostra](apresenta)
+- Como essa covid [manifesta](apresenta)
+- Como essa covid19 [surge](apresenta)
+- tenho [cardiopatia congênita](doenca_cardiaca)
+- nosso tia tem hiper tensao
+- tenho [cardiomiopatia](doenca_cardiaca)
+- nosso irmã tem hipertensão, está no perigo?
+- nosso avô tem hipertencao, está no grupo de risco?
+- meu irmão tem problemas respiratórios, está no grupo de risco?
+- tem [DPOC](doenca_respiratoria)
+- como essa covid se [apresenta](apresenta)?
+- Como esse covid-19 [manifesta](apresenta)
+- Como essa covid [apresenta](apresenta)
+- nosso irmã tem diabétes, está no grupo de risco?
+- meu irmã tem hipertencao, está no perigo?
+- Como o covid19 [se mostra](apresenta)
+- minha familia está no grupo de risco?
+- minha tia tem problema do coração, está no grupos de risco?
+- [criancas](jovem) são do perigo?
+- Como essa virus [apresenta](apresenta)
+- Como essa covid19 [se mostra](apresenta)
+- [quem](quem) pertence ao [grupo de risco](grupo_de_risco)?
+- nossa irmão tem problemas respiratórios, está no grupo de risco?
+- tem [problema nos rins](problema_no_rins)
+- [doença arterial periférica](doenca_cardiaca)
+- tem [doença respiratória](doenca_respiratoria)
+- Como essa coronavirus [se mostra](apresenta)
+- meu pai tem diabete, está no perigo?
+- tem [doença cardíaca coronária](doenca_cardiaca)
+- tinha [asma](doenca_respiratoria)
+- Como esse coronavirus [surge](apresenta)
+- Como essa covid [se mostra](apresenta)
+- tem [diabete](diabetes)
+- [quem](quem) se encontra no [grupo de risco](grupo_de_risco)?
+- Como esse coronavirus [aparece](apresenta)
+- meu tia tem arritmia, está no perigo?
+- nosso avô tem problemas respiratórios, está no perigo?
+- nosso família tem arritmia, está no perigo?
+- Como esse virus [aparece](apresenta)
+- Como essa covid19 [aparece](apresenta)
+- tenho [DPOC](doenca_respiratoria)
+- nossa tio tem diabete, está no grupo de risco?
+- tinha [pneumotórax](doenca_respiratoria)
+- Como o covid-19 [apresenta](apresenta)
+- Como a covid-19 [manifesta](apresenta)
+- nosso familia tem diabétes
+- nosso irmão tem problema no pulmão
+- Como a covid19 [surge](apresenta)
+- Como esse covid-19 [aparece](apresenta)
+- doentes estão no [grupo de risco](grupo_de_risco)
+- tinha [problema cardíaco](doenca_cardiaca)
+- Como o covid [aparece](apresenta)
+- Como a corona [manifesta](apresenta)
+- Como esse corona [manifesta](apresenta)
+- [insuficiência cardíaca](doenca_cardiaca)
+- meu tio tem problemas respiratórios
+- [imunidade baixa](problemas_de_imunidade)
+- Como o virus [apresenta](apresenta)
+- tinha [diabetes tipo 2](diabetes)
+- tem [pneumotórax](doenca_respiratoria)
+- Como esse doença [apresenta](apresenta)
+- nosso familia está no grupos de risco?
+- tem [imunidade baixa](problemas_de_imunidade)
+- Como essa virus [se mostra](apresenta)
+- [idosos](idosos) estão no [grupo de risco](grupo_de_risco)?
+- meu avó está no grupos de risco?
+- [bronquite](doenca_respiratoria)
+- [quem](quem) é [grupo de risco](grupo_de_risco)?
+- Como o coronavirus [manifesta](apresenta)
+- [velhinhas](idosos) estão no grupo de risco?
+- idosos vão [morrer](mata)?
+- Como esse corona [apresenta](apresenta)
+- tenho [gripe H1N1](doenca_respiratoria)
+- nosso família tem diabétes, está no grupos de risco?
+- Como a covid [surge](apresenta)
+- nossa avó tem problema do coração, está no perigo?
+- minha tio tem arritmia, está no grupo de risco?
+- Como essa covid [surge](apresenta)
+- [laringite](doenca_respiratoria)
+- tenho [estenose pulmonar](doenca_cardiaca)
+- tinha [realizei transplante](problemas_de_imunidade)
+- Como esse covid [se mostra](apresenta)
+- tinha [pneumonia](doenca_respiratoria)
+- Como a doença [se mostra](apresenta)
+- meu tio tem arritmia, está no grupo de risco?
+- tem [diabetes tipo 1](diabetes)
+- Como o covid [se mostra](apresenta)
+- Como essa doença [manifesta](apresenta)
+- nosso tia tem asma, está no perigo?
+- tinha [fibrilação atrial](doenca_cardiaca)
+- Como a corona [aparece](apresenta)
+- [arritmia cardíaca](doenca_cardiaca)
+- nossa avô tem hipertencao, está no perigo?
+- pessoas com diabete são dos grupos de risco?
+- tinha [problemas de imunidade](problemas_de_imunidade)
+- minha mãe tem asma, está no grupos de risco?
+- nossa avó tem hipertencao
+- nosso familia tem pressão alta, está no perigo?
+- Como esse covid [apresenta](apresenta)
+- [taquicardia Ventricular](doenca_cardiaca)
+- Como esse virus [manifesta](apresenta)
+- Como essa covid [aparece](apresenta)
+- tenho [doença respiratória](doenca_respiratoria)
+- minha tia tem problemas respiratórios, está no grupo de risco?
+- meu irmão tem hipertensão, está no grupo de risco?
+- tem [sinusite](doenca_respiratoria)
+- tinha [fibrose pulmonar](doenca_respiratoria)
+- meu irmão tem arritmia, está no grupos de risco?
+- tenho [pneumonia](doenca_respiratoria)
+- tenho [portador de HIV](problemas_de_imunidade)
+- [problema de pressão](hipertensao)
+- Como esse covid19 [se mostra](apresenta)
+- nossa mãe tem arritmia, está no perigo?
+- meu família tem problema do coração
+- nossa pai tem problema no pulmão
+- tenho [hipertensa](hipertensao)
+- Como a corona [apresenta](apresenta)
+- tinha [gripe H1N1](doenca_respiratoria)
+- [sopro no coração](doenca_cardiaca)
+- meu tio tem diabete, está no grupo de risco?
+- [fibrilação atrial](doenca_cardiaca)
+- tenho [doença cardíaca coronária](doenca_cardiaca)
+- nosso pai tem diabétes, está no grupos de risco?
+- tem [problema de pressão](hipertensao)
+- [Quais](quais) são os riscos?
+- [diabetica](diabetes)
+- tenho [HIV](problemas_de_imunidade)
+- tinha [sopro no coração](doenca_cardiaca)
+- Como o covid [surge](apresenta)
+- Como esse covid19 [surge](apresenta)
+- tinha [DPOC](doenca_respiratoria)
+- tem [sopro no coração](doenca_cardiaca)
+- Como esse covid19 [aparece](apresenta)
+- meu irmã tem problema imunológico
+- nossa mãe tem diabétes, está no grupo de risco?
+- [infarto](doenca_cardiaca)
+- meu familia tem hiper tensao, está no grupos de risco?
+- Como a covid [manifesta](apresenta)
+- minha avô está no grupos de risco?
+- tinha [câncer de pulmão](doenca_respiratoria)
+- tenho [hipotensão](doenca_cardiaca)
+- [hipertensa](hipertensao)
+- nossa avô tem diabete
+- meu irmão tem diabétes, está no grupo de risco?
+- tenho [fibrose pulmonar](doenca_respiratoria)
+- tem [problema respiratório](doenca_respiratoria)
+- Como esse coronavirus [se mostra](apresenta)
+- Como esse doença [manifesta](apresenta)
+- Como esse covid [surge](apresenta)
+- como o vírus [aparece](apresenta)?
+- [doença respiratória](doenca_respiratoria)
+- tinha [prolapso da válvula mitral](doenca_cardiaca)
+- [quem](quem) é o [grupo de risco](grupo_de_risco)?
+- Como o corona [aparece](apresenta)
+- minha avô tem hipertensão, está no perigo?
+- meu avô tem hipertensão
+- tem [pressão alta](hipertensao)
+- nossa avó tem problema imunológico
+- idosos estão em perigo?
+- meu família tem hipertensão, está no grupos de risco?
+- tenho [doença arterial periférica](doenca_cardiaca)
+- meu irmão tem problema imunológico, está no grupo de risco?
+- nossa irmão tem diabete, está no perigo?
+- Como o virus [se mostra](apresenta)
+- nossa avó tem hipertensão, está no perigo?
+- Como esse covid-19 [surge](apresenta)
+- minha avô tem diabete, está no grupos de risco?
+- tenho [problema cardíaco](doenca_cardiaca)
+- tinha [hipertenso](hipertensao)
+- tinha [pericardite](doenca_cardiaca)
+- Como o coronavirus [apresenta](apresenta)
+- tinha [doença arterial periférica](doenca_cardiaca)
+- Como a covid [se mostra](apresenta)
+- tinha [diabetes tipo 1](diabetes)
+- minha familia tem hiper tensao, está no perigo?
+- nosso tio tem hipertencao
+- tenho [aterosclerose](doenca_cardiaca)
+- Como a covid-19 [apresenta](apresenta)
+- [tuberculose](doenca_respiratoria)
+- tenho [hipertenso](hipertensao)
+- Como a corona [surge](apresenta)
+- Como o corona [surge](apresenta)
+- tinha [problema respiratório](doenca_respiratoria)
+- tinha [tratamento contra câncer](problemas_de_imunidade)
+- Como a coronavirus [se mostra](apresenta)
+- minha avó tem diabete, está no grupos de risco?
+- Como o corona [apresenta](apresenta)
+- tenho [angina estável](doenca_cardiaca)
+- [artrose](doenca_cardiaca)
+- nosso pai tem problema do coração
+- como o vírus [surge](apresenta)?
+- Como o doença [apresenta](apresenta)
+- [estenose pulmonar](doenca_cardiaca)
+- tenho [angina instável](doenca_cardiaca)
+- Como a covid19 [aparece](apresenta)
+- [quem](quem) faz parte do [grupo de risco](grupo_de_risco)?
+- meu avó está no grupo de risco?
+- nosso tia tem problema imunológico, está no grupos de risco?
+- minha tia tem problema no pulmão, está no perigo?
+- Como o virus [surge](apresenta)
+- tenho [realizei transplante](problemas_de_imunidade)
+
+## intent:o_que
+- preciso saber [o que eh](o_que_e) o novo coronavírus
+- preciso entender [o que é](o_que_e) novo coronavírus
+- quero compreender [o que eh](o_que_e) coronavírus
+- preciso compreender [o que eh](o_que_e) o corona
+- quero entender [o que é](o_que_e) coronavírus
+- preciso compreender [o q é](o_que_e) coronavírus
+- quero compreender [o que eh](o_que_e) o coronavírus
+- preciso compreender [o que eh](o_que_e) novo coronavírus
+- quero entender [o que é](o_que_e) corona
+- preciso compreender [o que é](o_que_e) coronavírus
+- [o q é](o_que_e) o corona
+- quero entender [o que eh](o_que_e) o coronavírus
+- quero compreender [o que é](o_que_e) covid-19
+- quero compreender [o q é](o_que_e) covid
+- quero entender [o que é](o_que_e) o novo coronavírus
+- preciso saber [o que é](o_que_e) corona
+- [o que é](o_que_e) corona
+- preciso compreender [o q é](o_que_e) novo coronavírus (COVID-19)
+- preciso compreender [o que eh](o_que_e) novo coronavírus (COVID-19)
+- preciso saber [o que é](o_que_e) covid-19
+- preciso entender [o que é](o_que_e) o novo coronavírus (COVID-19)
+- quero compreender [o q é](o_que_e) covid19
+- [o que eh](o_que_e) o corona
+- quero entender [o que eh](o_que_e) novo coronavírus
+- quero entender [o que eh](o_que_e) covid
+- quero saber [o que é](o_que_e) covid
+- quero entender [o q é](o_que_e) o covid-19
+- quero saber [o que eh](o_que_e) corona
+- quero saber [o que eh](o_que_e) o covid-19
+- quero compreender [o que eh](o_que_e) o novo coronavírus
+- preciso compreender [o q é](o_que_e) covid19
+- quero entender [o q é](o_que_e) corona
+- preciso entender [o que eh](o_que_e) coronavírus
+- preciso saber [o que eh](o_que_e) corona
+- quero compreender [o que é](o_que_e) covid19
+- preciso entender [o que eh](o_que_e) novo coronavírus (COVID-19)
+- preciso entender [o que é](o_que_e) corona
+- quero entender [o q é](o_que_e) o covid19
+- preciso entender [o que eh](o_que_e) covid
+- quero saber [o q é](o_que_e) o covid19
+- quero saber [o que eh](o_que_e) novo coronavírus
+- [o que eh](o_que_e) covid19
+- quero compreender [o q é](o_que_e) covid-19
+- preciso entender [o que eh](o_que_e) o covid19
+- preciso compreender [o q é](o_que_e) o covid
+- preciso entender [o q é](o_que_e) covid
+- preciso compreender [o q é](o_que_e) o covid19
+- preciso saber [o que eh](o_que_e) novo coronavírus (COVID-19)
+- quero saber [o que é](o_que_e) novo coronavírus (COVID-19)
+- [o q é](o_que_e) o coronavírus
+- quero compreender [o que é](o_que_e) o covid-19
+- quero compreender [o que eh](o_que_e) o covid19
+- preciso compreender [o que eh](o_que_e) o covid19
+- [O que é](o_que_e) corona virus?
+- preciso entender [o que eh](o_que_e) o novo coronavírus
+- preciso saber [o que é](o_que_e) o covid-19
+- quero saber [o que é](o_que_e) o covid-19
+- quero compreender [o q é](o_que_e) o novo coronavírus (COVID-19)
+- quero saber [o que eh](o_que_e) novo coronavírus (COVID-19)
+- preciso entender [o q é](o_que_e) o covid-19
+- preciso compreender [o que eh](o_que_e) corona
+- quero compreender [o que eh](o_que_e) novo coronavírus
+- quero entender [o que é](o_que_e) covid-19
+- quero compreender [o que é](o_que_e) covid
+- quero compreender [o q é](o_que_e) novo coronavírus
+- [o que é](o_que_e) o coronavírus
+- preciso compreender [o que eh](o_que_e) covid-19
+- quero compreender [o que é](o_que_e) corona
+- preciso saber [o que eh](o_que_e) covid-19
+- preciso saber [o que é](o_que_e) novo coronavírus (COVID-19)
+- preciso saber [o que eh](o_que_e) o corona
+- quero saber [o que é](o_que_e) novo coronavírus
+- quero compreender [o q é](o_que_e) o novo coronavírus
+- preciso entender [o que é](o_que_e) o corona
+- [o q é](o_que_e) o covid
+- [o que eh](o_que_e) coronavírus
+- preciso entender [o que eh](o_que_e) corona
+- quero saber [o que é](o_que_e) o novo coronavírus (COVID-19)
+- [o que é](o_que_e) esse tal de corona virus?
+- preciso saber [o que eh](o_que_e) o coronavírus
+- preciso compreender [o que eh](o_que_e) o coronavírus
+- preciso entender [o q é](o_que_e) novo coronavírus
+- preciso saber [o que é](o_que_e) coronavírus
+- preciso entender [o que é](o_que_e) covid19
+- preciso compreender [o que é](o_que_e) corona
+- quero compreender [o q é](o_que_e) o corona
+- quero entender [o que é](o_que_e) o covid
+- [o que eh](o_que_e) covid-19
+- [o que eh](o_que_e) o novo coronavírus (COVID-19)
+- [o que é](o_que_e) novo coronavírus
+- preciso saber [o que eh](o_que_e) covid19
+- quero compreender [o que é](o_que_e) o coronavírus
+- quero saber [o q é](o_que_e) o covid
+- quero saber [o que é](o_que_e) o novo coronavírus
+- preciso saber [o que eh](o_que_e) novo coronavírus
+- preciso saber [o que eh](o_que_e) coronavírus
+- quero entender [o que é](o_que_e) o coronavírus
+- preciso saber [o que é](o_que_e) covid19
+- preciso compreender [o que é](o_que_e) covid19
+- quero entender [o que eh](o_que_e) o novo coronavírus (COVID-19)
+- [o q é](o_que_e) novo coronavírus (COVID-19)
+- preciso entender [o q é](o_que_e) o covid
+
+## intent:diagnostico
+- como fazer o diagnóstico do virus
+- como é feito a identificação do covid19
+- como é feito o diagnóstico do covid
+- como fazer a identificação
+- como fazer o diagnóstico da doença
+- como fazer a identificação da doença
+- como é feito o diagnóstico do covid-19
+- como fazer a identificação do virus
+- como fazer o diagnóstico do vírus
+- como é feito a identificação da doença
+- como é feito a identificação do coronavírus
+- como é feito o diagnóstico do coronavírus
+- como é feito o diagnóstico do vírus
+- como fazer a identificação do covid-19
+- como fazer o diagnóstico
+- como fazer o diagnóstico do coronavírus
+- como é feito o diagnóstico do virus
+- como fazer a identificação do corona
+- como é feito o diagnóstico do covid19
+- como é feito o diagnóstico da doença
+- como fazer a identificação do covid19
+- como é feito a identificação do covid-19
+- como fazer o diagnóstico do covid-19
+- como é feito o diagnóstico
+- como é feito a identificação do covid
+- como é feito a identificação
+- como fazer o diagnóstico do covid
+- como fazer a identificação do covid
+- como é feito a identificação do virus
+- como é feito a identificação do corona
+- como fazer o diagnóstico do covid19
+- Como é o teste do corona virus?
+- como é feito o diagnóstico do corona
+- como fazer a identificação do coronavírus
+- como fazer a identificação do vírus
+- como é feito a identificação do vírus
+- como fazer o diagnóstico do corona
+
+## intent:tratamento
+- tem [remédio](remedio) para o coronga vírus?
+- existe [remedio](remedio) para o COVID-19?
+- há [remédio](remedio) para o coronavirus?
+- existem [remédio](remedio) para o vírus?
+- existem [remedio](remedio) para o novo corona vírus?
+- há [remédio](remedio) para o novo corona virus?
+- posso tomar algum [remedio](remedio) para prevenir ou tratar o covid-19?
+- Como curar o coronavirus?
+- existe [remedio](remedio) para o novo corona vírus?
+- posso tomar algum [vacina](remedio) para prevenir ou tratar o virus?
+- tem [remedio](remedio) para o novo corona virus?
+- existem [vacina](remedio) para o novo coronavírus?
+- há [vacina](remedio) para o coronga vírus?
+- posso tomar algum [remedio](remedio) para prevenir ou tratar o coronga virus?
+- existe [remédio](remedio) para o coronga virus?
+- há [cura](remedio) para o coronavírus?
+- existem [vacina](remedio) para o covid 19?
+- posso tomar algum [remédio](remedio) para prevenir ou tratar o novo coronavirus?
+- há [remédio](remedio) para o covid 19?
+- posso tomar algum [remedio](remedio) para prevenir ou tratar o novo coronavirus?
+- o coronavirus pode ser tratado?
+- existem [cura](remedio) para o coronga?
+- tem [cura](remedio) para o coronga vírus?
+- existe [vacina](remedio) para o novo corona?
+- existe [remédio](remedio) para o coronavírus?
+- como o coronavirus é tratado?
+- tem [vacina](remedio) para o coronga vírus?
+- existe [cura](remedio) para o corongavírus?
+- como posso me recuperar do corona vírus?
+- posso tomar algum [cura](remedio) para prevenir ou tratar o corona virus?
+- existe [cura](remedio) para o coronga virus?
+- como o corona é tratado?
+- tem [cura](remedio) para o virus?
+- há [remedio](remedio) para o covid-19?
+- existem [cura](remedio) para o novo coronavirus?
+- há [vacina](remedio) para o corongavírus?
+- qual é o tratamento para o vírus?
+- qual é o tratamento para o corongavírus?
+- há [remedio](remedio) para o novo corona virus?
+- como o corongavirus é cuidado?
+- tem [remedio](remedio) para o covid 19?
+- existe [cura](remedio) para o covid 19?
+- qual o tratamento?
+- existem [remédio](remedio) para o covid 19?
+- posso tomar algum [remédio](remedio) para prevenir ou tratar o corongavírus?
+- tem [remédio](remedio) para o coronavírus?
+- posso tomar algum [remedio](remedio) para prevenir ou tratar o corongavirus?
+- existem [remédio](remedio) para o novo coronavirus?
+- existe [remedio](remedio) para o novo coronavirus?
+- qual é o medicamento para o corona vírus?
+- existe [vacina](remedio) para o covid-19?
+- o vírus pode ser tratado?
+- o coronga vírus pode ser tratado?
+- o corona vírus pode ser tratado?
+- existem [cura](remedio) para o novo corona?
+- tem [remedio](remedio) para o novo corona vírus?
+- tem [remedio](remedio) para o coronga virus?
+- tem [remédio](remedio) para o virus?
+- existem [cura](remedio) para o virus?
+- existem [cura](remedio) para o corongavírus?
+- existe [vacina](remedio) para o COVID-19?
+- tem [cura](remedio) para o novo corona virus?
+- como o coronga vírus é cuidado?
+- posso tomar algum [vacina](remedio) para prevenir ou tratar o corongavírus?
+- posso tomar algum [cura](remedio) para prevenir ou tratar o novo coronavírus?
+- há [remédio](remedio) para o novo coronavirus?
+- tem [remedio](remedio) para o novo coronavírus?
+- tem cura pra covid
+- tem [remédio](remedio) para o COVID-19?
+- qual é o medicamento para o novo corona?
+- existem [vacina](remedio) para o novo corona?
+- como o novo coronavirus é tratado?
+- existe [cura](remedio) para o novo corona vírus?
+- existe [remedio](remedio) para o novo coronavírus?
+- há [cura](remedio) para o coronga?
+- há [remédio](remedio) para o coronavírus?
+- posso tomar algum [vacina](remedio) para prevenir ou tratar o corona virus?
+- há [remedio](remedio) para o vírus?
+- há [remédio](remedio) para o coronga vírus?
+- há [cura](remedio) para o coronga vírus?
+- existem [cura](remedio) para o vírus?
+- existe [cura](remedio) para o vírus?
+- tem [remédio](remedio) para o novo coronavírus?
+- existe [vacina](remedio) para o coronga virus?
+- posso tomar algum [remédio](remedio) para prevenir ou tratar o corongavirus?
+- posso tomar algum [remédio](remedio) para prevenir ou tratar o novo corona?
+- posso tomar algum [remedio](remedio) para prevenir ou tratar o novo corona virus?
+- existem [remedio](remedio) para o vírus?
+- existe [remedio](remedio) para o coronavirus?
+- tem [vacina](remedio) para o corona?
+- tem [remédio](remedio) para o corongavirus?
+- há [remédio](remedio) para o corona vírus?
+- há [cura](remedio) para o covid 19?
+- como posso me recuperar do novo coronavírus?
+- tem [cura](remedio) para o corona vírus?
+
+## intent:proteger
+- como fazer cuidar [a mim mesmo](eu_mesmo) do novo corona vírus?
+- as [máscaras](mascara) [com tnt](mascara_caseira) pode ser [utilizadas novamente](mascara_caseira_reuso)?
+- botar [mascara](mascara) serve
+- como [as médicas](profissional_saude) podem se proteger do covid-19?
+- vestir [máscara](mascara) é bom contra o covid-19
+- como faço proteger [outras pessoas](outros)?
+- como [os enfermeiros](profissional_saude) faz para se proteger do covid19?
+- [máscara](mascara) [caseiras](mascara_caseira) serve contra o covid19
+- como posso [purificar a mão](lavar_maos)
+- as [máscaras](mascara) [com tnt](mascara_caseira) pode ser [reutilizadas](mascara_caseira_reuso)?
+- as [máscara](mascara) [com tnt](mascara_caseira) podem ser [reaproveitada](mascara_caseira_reuso)?
+- tem prblema em [usar mais de uma vez](mascara_caseira_reuso) a [máscara](mascara) [de tnt](mascara_caseira)?
+- o que devo usar pra [enxaguar a mao](lavar_maos)?
+- como fazer para auxiliar [si próprio](eu_mesmo) do covid 19?
+- de q maneira deve ser uma [mascara](mascara) [de tnt](mascara_caseira)
+- o que devo usar pa [purificar a mão](lavar_maos)?
+- a [mascaras](mascara) [de pano](mascara_caseira) podem ser [usar mais de uma vez](mascara_caseira_reuso)?
+- como faço pro ajudar [eu mesmo](eu_mesmo)?
+- como ajudar [si próprio](eu_mesmo)?
+- como [a profissional da saúde](profissional_saude) faz para se proteger do covid19?
+- como fazer para ajudar [a mim mesmo](eu_mesmo) do novo corona?
+- [máscaras](mascara) [feitas em casa](mascara_caseira) previne contra o covid19
+- de que forma faço uma [máscaras](mascara) [de tnt](mascara_caseira)?
+- é permitido [utilizar novamente](mascara_caseira_reuso) a [mascaras](mascara) [com tnt](mascara_caseira)?
+- utilizar [mascara](mascara) previne contra o covid19
+- o que devo usar pra [ensaboar as maos](lavar_maos)?
+- o que devo usar para [lava a mao](lavar_maos)?
+- as [máscara](mascara) [feita em casa](mascara_caseira) realmente funcionam?
+- botar [máscara](mascara) ajuda
+- melhor jeito para [limpar a mao](lavar_maos)
+- melhor jeito pra [lava as maos](lavar_maos)
+- como protejo os [outros](outros)
+- a [mascaras](mascara) [caseiras](mascara_caseira) pode ser [usada de novo](mascara_caseira_reuso)?
+- como faço para cuidar [eu mesmo](eu_mesmo) do novo corona virus?
+- a [máscaras](mascara) [de pano](mascara_caseira) pode ser [usar mais de uma vez](mascara_caseira_reuso)?
+- é permitido [reaproveitar](mascara_caseira_reuso) a [mascaras](mascara) [feitas em casa](mascara_caseira)?
+- [mascaras](mascara) [de lenco](mascara_caseira) previne contra o vírus
+- colocar [máscaras](mascara) melhora contra o covid-19
+- posso [reusar](mascara_caseira_reuso) a [mascaras](mascara) [feita em casa](mascara_caseira)?
+- vestir [máscara](mascara) ajuda
+- [mascara](mascara) auxiliam [outros](outros)?
+- é de boa [usar de novo](mascara_caseira_reuso) a [mascaras](mascara) [de lenço](mascara_caseira)?
+- como é que consigo fazer uma [mascara](mascara) [feitas em casa](mascara_caseira)?
+- é permitido [usar de novo](mascara_caseira_reuso) a [mascaras](mascara) [de lenco](mascara_caseira)?
+- como devo [banhar as mãos](lavar_maos)
+- utilizar [máscara](mascara) previne contra o corona
+- utilizar [máscaras](mascara) protege
+- é de boa [utilizar de novo](mascara_caseira_reuso) a [máscaras](mascara) [feitas em casa](mascara_caseira)?
+- colocar [mascara](mascara) protege
+- onde encontro [mascaras](mascara)?
+- de que forma tem q ser uma [máscara](mascara) [feita em casa](mascara_caseira)
+- as [máscara](mascara) [de tnt](mascara_caseira) pode ser [reusar](mascara_caseira_reuso)?
+- como fazer pra cuidar [outros](outros)?
+- melhor jeito pra [ensaboar a mão](lavar_maos)
+- como faço para o proteger [a mim mesmo](eu_mesmo) do coronavirus?
+- colocar [mascaras](mascara) protege
+- é cabível [usar novamente](mascara_caseira_reuso) a [mascara](mascara) [feita em casa](mascara_caseira)?
+- como faço pra auxiliar [pai](outros)?
+- tem prblema em [usar novamente](mascara_caseira_reuso) a [máscara](mascara) [de lenco](mascara_caseira)?
+- vestir [mascara](mascara) é bom
+- as [mascara](mascara) [de lenço](mascara_caseira) podem ser [usada novamente](mascara_caseira_reuso)?
+- a [mascara](mascara) [com tnt](mascara_caseira) pode ser [utilizadas novamente](mascara_caseira_reuso)?
+- vestir [máscara](mascara) melhora contra o vírus
+- é permitido [reaproveitar](mascara_caseira_reuso) a [máscara](mascara) [caseira](mascara_caseira)?
+- botar [máscaras](mascara) melhora
+- usar [máscara](mascara) melhora
+- [máscaras](mascara) [de tnt](mascara_caseira) serve contra o covid19
+- [mascara](mascara) [de pano](mascara_caseira) serve contra o covid19
+- [mascaras](mascara) ajudar do covid 19?
+- as [mascaras](mascara) [de pano](mascara_caseira) podem ser [usar mais de uma vez](mascara_caseira_reuso)?
+- colocar [mascara](mascara) serve
+- pode [reusar](mascara_caseira_reuso) a [máscara](mascara) [com tnt](mascara_caseira)?
+- como [lava as maos](lavar_maos)
+- como fazer para o ajudar [si próprio](eu_mesmo) do novo corona vírus?
+- como [os enfermeiros](profissional_saude) faz pra se proteger do vírus?
+- de que forma tem que ser uma [mascaras](mascara) [com tecido](mascara_caseira)
+- melhor jeito pra [limpa as mãos](lavar_maos)
+- é de boa [reutilizar](mascara_caseira_reuso) a [máscaras](mascara) [caseira](mascara_caseira)?
+- como tem que ser uma [máscaras](mascara) [de pano](mascara_caseira)
+- [mascaras](mascara) [caseira](mascara_caseira) é bom contra o covid19
+- utilizar [mascaras](mascara) ajuda contra o covid19
+- como fazer pra cuidar [a mim mesmo](eu_mesmo) do corona vírus?
+- como fazer proteger [si próprio](eu_mesmo) do covid-19?
+- usar [máscara](mascara) é bom contra o virus
+- como fazer pra proteger [eu mesmo](eu_mesmo) do novo corona?
+- como fazer pra auxiliar [eu mesmo](eu_mesmo) do corona virus?
+- é aceitável [utilizar novamente](mascara_caseira_reuso) a [mascara](mascara) [de lenco](mascara_caseira)?
+- pode [usar de novo](mascara_caseira_reuso) a [máscaras](mascara) [de lenco](mascara_caseira)?
+- é aceitável [utilizar novamente](mascara_caseira_reuso) a [máscara](mascara) [feitas em casa](mascara_caseira)?
+- é de boa [utilizar de novo](mascara_caseira_reuso) a [mascaras](mascara) [de lenco](mascara_caseira)?
+- vestir [máscara](mascara) protege contra o covid-19
+- como [a médica](profissional_saude) deve se proteger do vírus?
+- como posso [lava as mãos](lavar_maos)
+- é permitido [reaproveitar](mascara_caseira_reuso) a [máscaras](mascara) [caseiras](mascara_caseira)?
+- botar [máscara](mascara) serve contra o covid19
+- a [mascaras](mascara) [de lenço](mascara_caseira) podem ser [reusar](mascara_caseira_reuso)?
+- as [máscaras](mascara) [de pano](mascara_caseira) podem ser [usada de novo](mascara_caseira_reuso)?
+- [reutilizar](mascara_caseira_reuso) a [mascara](mascara) [com tecido](mascara_caseira)
+- vestir [máscara](mascara) melhora
+- utilizar [mascaras](mascara) protege contra o covid
+- como fazer pra auxiliar [a mim mesmo](eu_mesmo)?
+- como fazer para ajudar [si próprio](eu_mesmo) do corongavirus?
+- como [a profissional da saúde](profissional_saude) pode se proteger do covid19?
+- as [mascaras](mascara) [com tnt](mascara_caseira) pode ser [utilizada de novo](mascara_caseira_reuso)?
+- de que forma consigo fazer uma [máscara](mascara) [de lenco](mascara_caseira)?
+- a [mascara](mascara) [de lenço](mascara_caseira) pode ser [reaproveitadas](mascara_caseira_reuso)?
+- como faco uma [máscara](mascara) [caseiras](mascara_caseira)?
+- de q maneira consigo fazer uma [máscara](mascara) [com tnt](mascara_caseira)?
+- como devo [lava a mão](lavar_maos)
+- o que devo usar pa [limpar a mao](lavar_maos)?
+- como posso [lavar a mao](lavar_maos)
+- colocar [mascara](mascara) é bom contra o virus
+- a [mascaras](mascara) [de pano](mascara_caseira) pode ser [reaproveitadas](mascara_caseira_reuso)?
+- como faço proteger [si próprio](eu_mesmo) do coronga?
+- as [mascara](mascara) [caseira](mascara_caseira) pode ser [reaproveitadas](mascara_caseira_reuso)?
+- como fazer pro cuidar [tia](outros)?
+- pode [usar novamente](mascara_caseira_reuso) a [mascara](mascara) [feita em casa](mascara_caseira)?
+- como fazer para cuidar [eu mesmo](eu_mesmo) do coronga?
+- como posso proteger [si próprio](eu_mesmo) do coronga virus?
+- as [máscaras](mascara) [de tnt](mascara_caseira) pode ser [reutilizadas](mascara_caseira_reuso)?
+- melhor jeito pra [ensaboar a mao](lavar_maos)
+- como é que tem que ser uma [mascara](mascara) [feita em casa](mascara_caseira)
+- é cabível [reusar](mascara_caseira_reuso) a [máscaras](mascara) [de lenco](mascara_caseira)?
+- como [os enfermeiros](profissional_saude) faz para se proteger do virus?
+- [máscaras](mascara) auxiliam [si próprio](eu_mesmo)?
+- como posso ajudar [irmão](outros)?
+- como [os médicos](profissional_saude) faz pra se proteger do coronavírus?
+- melhor jeito pa [purificar as maos](lavar_maos)
+- utilizar [máscaras](mascara) melhora
+- [máscara](mascara) [de lenco](mascara_caseira) é bom contra o corona
+- utilizar [mascara](mascara) é bom contra o corona
+- [mascaras](mascara) [de lenco](mascara_caseira) ajuda contra o virus
+- posso [usar de novo](mascara_caseira_reuso) a [máscara](mascara) [feitas em casa](mascara_caseira)?
+- o que devo usar pra [lava a mao](lavar_maos)?
+- a [máscara](mascara) [feitas em casa](mascara_caseira) podem ser [usada de novo](mascara_caseira_reuso)?
+- é cabível [usar mais de uma vez](mascara_caseira_reuso) a [máscara](mascara) [com tecido](mascara_caseira)?
+- como devo [enxaguar as mãos](lavar_maos)
+- [máscara](mascara) auxilia do novo coronavirus?
+- tem prblema em [reutilizar](mascara_caseira_reuso) a [máscaras](mascara) [caseira](mascara_caseira)?
+- como [me](eu_mesmo) proteger?
+- vestir [mascaras](mascara) protege contra o covid19
+- melhor jeito pa [limpar a mao](lavar_maos)
+- colocar [mascaras](mascara) é bom
+- a [máscara](mascara) [feita em casa](mascara_caseira) podem ser [reaproveitadas](mascara_caseira_reuso)?
+- [máscara](mascara) [de tnt](mascara_caseira) serve contra o vírus
+- vestir [máscaras](mascara) serve contra o covid
+- o que devo usar pa [lavar a mao](lavar_maos)?
+- pode [reaproveitar](mascara_caseira_reuso) a [mascara](mascara) [caseiras](mascara_caseira)?
+- é aceitavel [usar novamente](mascara_caseira_reuso) a [mascaras](mascara) [de pano](mascara_caseira)?
+- é cabível [utilizar novamente](mascara_caseira_reuso) a [máscara](mascara) [de lenco](mascara_caseira)?
+- a [máscaras](mascara) [de tnt](mascara_caseira) podem ser [reusar](mascara_caseira_reuso)?
+- usar [máscaras](mascara) serve
+- vestir [máscaras](mascara) melhora
+- tem prblema em [utilizar novamente](mascara_caseira_reuso) a [máscara](mascara) [feita em casa](mascara_caseira)?
+- botar [mascaras](mascara) melhora contra o virus
+- as [máscara](mascara) [caseiras](mascara_caseira) pode ser [reusar](mascara_caseira_reuso)?
+- [máscara](mascara) [com tecido](mascara_caseira) é bom contra o covid-19
+- as [máscara](mascara) [de tnt](mascara_caseira) podem ser [usada de novo](mascara_caseira_reuso)?
+- onde encontro [mascara](mascara)?
+- a [máscaras](mascara) [de lenço](mascara_caseira) podem ser [utilizadas de novo](mascara_caseira_reuso)?
+- como fazer para proteger [eu mesmo](eu_mesmo) do coronga vírus?
+- como faço para o cuidar [si próprio](eu_mesmo) do novo corona virus?
+- colocar [mascara](mascara) previne
+- é aceitável [usar novamente](mascara_caseira_reuso) a [mascaras](mascara) [de lenço](mascara_caseira)?
+- a [máscaras](mascara) [feitas em casa](mascara_caseira) pode ser [usada de novo](mascara_caseira_reuso)?
+- como devo [limpar as maos](lavar_maos)
+- como [o médico](profissional_saude) pode se proteger do coronavírus?
+- como faço pra auxiliar [a mim mesmo](eu_mesmo) do corongavírus?
+- a [mascaras](mascara) [de lenco](mascara_caseira) podem ser [utilizada de novo](mascara_caseira_reuso)?
+- melhor jeito pra [purificar as maos](lavar_maos)
+- [máscara](mascara) [de pano](mascara_caseira) é bom contra o covid19
+- [mascaras](mascara) [com tnt](mascara_caseira) previne contra o covid19
+- melhor jeito para [purificar as maos](lavar_maos)
+- como [os médicos](profissional_saude) faz pa se proteger do covid-19?
+- vestir [máscara](mascara) melhora contra o covid19
+- como [o profissional da saúde](profissional_saude) faz pra se proteger do vírus?
+- é aceitável [usar de novo](mascara_caseira_reuso) a [máscaras](mascara) [de tnt](mascara_caseira)?
+- como faço pra cuidar [si próprio](eu_mesmo) do novo coronavirus?
+- como é que faço uma [máscaras](mascara) [caseiras](mascara_caseira)?
+- é permitido [utilizar novamente](mascara_caseira_reuso) a [máscaras](mascara) [feitas em casa](mascara_caseira)?
+- o que devo usar pa [lava a mão](lavar_maos)?
+- a [máscaras](mascara) [de lenco](mascara_caseira) podem ser [reutilizada](mascara_caseira_reuso)?
+- como [limpar as mãos](lavar_maos)
+- [reutilizar](mascara_caseira_reuso) a [mascaras](mascara) [feitas em casa](mascara_caseira)
+- é aceitável [usar mais de uma vez](mascara_caseira_reuso) a [máscaras](mascara) [de lenco](mascara_caseira)?
+- melhor jeito pra [enxaguar as maos](lavar_maos)
+- as [máscara](mascara) [feitas em casa](mascara_caseira) funcionam?
+- usar [máscara](mascara) ajuda contra o covid19
+- jeitos de auxiliar [a mim mesmo](eu_mesmo)
+- como faço pra auxiliar [a mim mesmo](eu_mesmo) do coronga vírus?
+- melhor jeito pra [lavar as mãos](lavar_maos)
+- a [máscaras](mascara) [de lenco](mascara_caseira) pode ser [usar mais de uma vez](mascara_caseira_reuso)?
+- vestir [mascaras](mascara) ajuda contra o corona
+- de q maneira consigo fazer uma [mascaras](mascara) [feitas em casa](mascara_caseira)?
+- usar [máscara](mascara) serve contra o virus
+- [máscaras](mascara) protege do novo coronavirus?
+- a [mascara](mascara) [feita em casa](mascara_caseira) podem ser [reusar](mascara_caseira_reuso)?
+- a [mascaras](mascara) [feita em casa](mascara_caseira) pode ser [reutilizadas](mascara_caseira_reuso)?
+- utilizar [máscara](mascara) melhora contra o vírus
+- como é que tem q ser uma [máscara](mascara) [feita em casa](mascara_caseira)
+- melhor jeito pa [lava a mão](lavar_maos)
+- como fazer pra proteger [pai](outros)?
+- vestir [mascaras](mascara) melhora
+- utilizar [máscara](mascara) ajuda contra o coronavírus
+- maneiras de proteger [outros](outros)
+- utilizar [mascaras](mascara) é bom?
+- vestir [máscaras](mascara) ajuda contra o covid
+- como faço para o cuidar [avó](outros)?
+- é aceitavel [utilizar novamente](mascara_caseira_reuso) a [mascara](mascara) [caseira](mascara_caseira)?
+- melhor jeito pa [limpar as maos](lavar_maos)
+- a [máscaras](mascara) [de tnt](mascara_caseira) podem ser [usada de novo](mascara_caseira_reuso)?
+- a [mascaras](mascara) [com tnt](mascara_caseira) podem ser [utilizada novamente](mascara_caseira_reuso)?
+- utilizar [máscara](mascara) melhora contra o virus
+- Devo usar [máscara](mascara)?
+- como [a médica](profissional_saude) faz para se proteger do covid19?
+- posso [usar novamente](mascara_caseira_reuso) a [mascara](mascara) [com tnt](mascara_caseira)?
+- melhor jeito para [lava a mão](lavar_maos)
+- como é que tem q ser uma [máscara](mascara) [de lenco](mascara_caseira)
+- as [mascara](mascara) [de tnt](mascara_caseira) podem ser [usada de novo](mascara_caseira_reuso)?
+- colocar [máscaras](mascara) ajuda
+- como [as profissionais de saúde](profissional_saude) devem se proteger do covid19?
+- como faço pro auxiliar [si próprio](eu_mesmo) do novo corona?
+- melhor jeito pra [lavar a mao](lavar_maos)
+- como fazer pra auxiliar [si próprio](eu_mesmo) do covid 19?
+- a [máscaras](mascara) [feitas em casa](mascara_caseira) pode ser [usada novamente](mascara_caseira_reuso)?
+- de q maneira deve ser uma [mascara](mascara) [com tecido](mascara_caseira)
+- como posso cuidar [a mim mesmo](eu_mesmo) do covid-19?
+- posso [reaproveitar](mascara_caseira_reuso) a [máscara](mascara) [caseira](mascara_caseira)?
+- como fazer para cuidar [avô](outros)?
+- como [as médicas](profissional_saude) deve se proteger do covid19?
+- pode [usar novamente](mascara_caseira_reuso) a [máscaras](mascara) [feita em casa](mascara_caseira)?
+- como faço auxiliar [si próprio](eu_mesmo) do coronga vírus?
+- a [máscaras](mascara) [caseiras](mascara_caseira) pode ser [reaproveitada](mascara_caseira_reuso)?
+- usar [mascara](mascara) protege
+- [máscaras](mascara) [caseira](mascara_caseira) serve contra o vírus
+- colocar [mascara](mascara) ajuda
+- [mascaras](mascara) [de lenco](mascara_caseira) é bom contra o covid
+- vestir [mascaras](mascara) é bom contra o vírus
+- usar [máscara](mascara) protege contra o virus
+- como deve ser uma [máscara](mascara) [de tnt](mascara_caseira)
+- como tem q ser uma [mascaras](mascara) [de pano](mascara_caseira)
+- o que devo usar para [lavar a mão](lavar_maos)?
+- usar [máscaras](mascara) é bom contra o virus
+- como faço pra proteger [as pessoas](outros)?
+- formas de ajudar [irmã](outros)
+- formas de ajudar [família](outros)
+- vestir [mascara](mascara) serve
+- utilizar [máscara](mascara) serve
+- [mascaras](mascara) [com tnt](mascara_caseira) é bom contra o vírus
+- usar [máscara](mascara) é bom contra o covid19
+- usar [máscara](mascara) ajuda contra o virus
+- melhor jeito pra [limpa a mão](lavar_maos)
+- botar [mascara](mascara) protege contra o covid19
+- a [máscara](mascara) [de lenco](mascara_caseira) podem ser [reutilizada](mascara_caseira_reuso)?
+- como devo [purificar as maos](lavar_maos)
+- como [a enfermeira](profissional_saude) devem se proteger do vírus?
+- é de boa [usar novamente](mascara_caseira_reuso) a [mascara](mascara) [caseiras](mascara_caseira)?
+- como fazer auxiliar [as pessoas](outros)?
+- [mascara](mascara) ajudam [as pessoas](outros)?
+- como posso [enxaguar as mãos](lavar_maos)
+- como faço proteger [si próprio](eu_mesmo) do vírus?
+- [máscara](mascara) [de lenço](mascara_caseira) é bom contra o covid
+- as [mascara](mascara) [caseira](mascara_caseira) podem ser [usada novamente](mascara_caseira_reuso)?
+- é cabível [reutilizar](mascara_caseira_reuso) a [mascara](mascara) [feitas em casa](mascara_caseira)?
+- as [máscaras](mascara) [caseira](mascara_caseira) podem ser [utilizada de novo](mascara_caseira_reuso)?
+- como [a enfermeira](profissional_saude) deve se proteger do coronavírus?
+- tenho que usar [mascara](mascara)
+- utilizar [máscara](mascara) é bom
+- como faço proteger [eu mesmo](eu_mesmo) do coronavirus?
+- botar [máscara](mascara) ajuda contra o coronavírus
+- como ajudar [si próprio](eu_mesmo) do virus?
+- melhor jeito pra [purificar a mão](lavar_maos)
+- devo lavar as [mãos](lavar_maos)?
+- de que forma deve ser uma [máscaras](mascara) [com tecido](mascara_caseira)
+- a [máscara](mascara) [com tecido](mascara_caseira) podem ser [reaproveitada](mascara_caseira_reuso)?
+- como [a enfermeira](profissional_saude) devem se proteger do virus?
+- como fazer para proteger [a mim mesmo](eu_mesmo) do virus?
+- é de boa [utilizar novamente](mascara_caseira_reuso) a [máscara](mascara) [de lenço](mascara_caseira)?
+- as [máscara](mascara) [caseiras](mascara_caseira) pode ser [usada novamente](mascara_caseira_reuso)?
+- é aceitável [usar mais de uma vez](mascara_caseira_reuso) a [mascaras](mascara) [com tecido](mascara_caseira)?
+- melhor jeito para [enxaguar a mão](lavar_maos)
+- melhor jeito pa [limpa a mão](lavar_maos)
+- o que devo usar para [limpa a mão](lavar_maos)?
+- como [o médico](profissional_saude) deve se proteger do virus?
+- [máscara](mascara) [de tnt](mascara_caseira) protege contra o covid19
+- como fazer pro cuidar [a mim mesmo](eu_mesmo) do corongavirus?
+- a [mascara](mascara) [de lenco](mascara_caseira) pode ser [utilizada de novo](mascara_caseira_reuso)?
+- como [as médicas](profissional_saude) pode se proteger do coronavírus?
+- a [mascara](mascara) [caseiras](mascara_caseira) podem ser [reaproveitada](mascara_caseira_reuso)?
+- é de boa [reutilizar](mascara_caseira_reuso) a [máscara](mascara) [de lenço](mascara_caseira)?
+- como faço pro auxiliar [irmã](outros)?
+- como faço pra proteger [a mim mesmo](eu_mesmo) do covid-19?
+- posso [utilizar novamente](mascara_caseira_reuso) a [mascaras](mascara) [de tnt](mascara_caseira)?
+- como [as enfermeiras](profissional_saude) podem se proteger do coronavírus?
+- preciso colocar [mascaras](mascara)?
+- como [a profissional da saúde](profissional_saude) faz para se proteger do corona?
+- [mascara](mascara) [feitas em casa](mascara_caseira) previne contra o covid-19
+- tenho que utilizar as [mascaras](mascara)
+- botar [mascara](mascara) previne
+- [máscaras](mascara) auxiliam?
+- como faço para cuidar [si próprio](eu_mesmo) do corona virus?
+- a [máscara](mascara) [feitas em casa](mascara_caseira) pode ser [usada novamente](mascara_caseira_reuso)?
+- [mascaras](mascara) [com tnt](mascara_caseira) é bom contra o covid19
+- usar [mascaras](mascara) melhora
+- como fazer pro auxiliar [eu mesmo](eu_mesmo) do novo coronavirus?
+- como faço pra auxiliar [eu mesmo](eu_mesmo) do coronga vírus?
+- maneiras de auxiliar [si próprio](eu_mesmo)
+- [máscaras](mascara) [caseira](mascara_caseira) previne contra o corona
+- [proteção facial](mascara) auxiliam [outras pessoas](outros)?
+- a [máscara](mascara) [de tnt](mascara_caseira) podem ser [usada de novo](mascara_caseira_reuso)?
+- tem prblema em [usar novamente](mascara_caseira_reuso) a [máscara](mascara) [feita em casa](mascara_caseira)?
+- como [os profissionais de saúde](profissional_saude) faz pa se proteger do coronavírus?
+- como posso [ensaboar a mão](lavar_maos)
+- tenho que vestir [mascaras](mascara)?
+- é cabível [usar mais de uma vez](mascara_caseira_reuso) a [mascaras](mascara) [com tecido](mascara_caseira)?
+- melhor jeito pra [banhar as mãos](lavar_maos)
+- usar [mascara](mascara) ajuda
+- é permitido [reaproveitar](mascara_caseira_reuso) a [máscara](mascara) [feitas em casa](mascara_caseira)?
+- melhor jeito pa [purificar a mao](lavar_maos)
+- como fazer pro cuidar [eu mesmo](eu_mesmo) do novo corona virus?
+- é permitido [usar mais de uma vez](mascara_caseira_reuso) a [máscaras](mascara) [feitas em casa](mascara_caseira)?
+- as [máscaras](mascara) [de pano](mascara_caseira) servem mesmo?
+- como [a enfermeira](profissional_saude) faz pra se proteger do coronavírus?
+- pode [reutilizar](mascara_caseira_reuso) a [mascaras](mascara) [feitas em casa](mascara_caseira)?
+- posso [usar novamente](mascara_caseira_reuso) a [máscara](mascara) [feita em casa](mascara_caseira)?
+- posso [usar mais de uma vez](mascara_caseira_reuso) a [mascaras](mascara) [feitas em casa](mascara_caseira)?
+- [máscara](mascara) protege do covid 19?
+- as [mascaras](mascara) [caseiras](mascara_caseira) server msm?
+- as [mascara](mascara) [feitas em casa](mascara_caseira) realmente funcionam?
+- como é que consigo fazer uma [máscaras](mascara) [de lenco](mascara_caseira)?
+- é permitido [reusar](mascara_caseira_reuso) a [mascara](mascara) [de tnt](mascara_caseira)?
+- pode [reutilizar](mascara_caseira_reuso) a [mascara](mascara) [de tnt](mascara_caseira)?
+- [mascaras](mascara) [feitas em casa](mascara_caseira) é bom contra o coronaví­rus
+- as [mascaras](mascara) [de lenco](mascara_caseira) pode ser [reutilizadas](mascara_caseira_reuso)?
+- [mascaras](mascara) [de tnt](mascara_caseira) serve contra o coronaví­rus
+- Tenho uma [máscara que minha mãe fez](mascara_caseira) posso usar?
+- a [mascaras](mascara) [de tnt](mascara_caseira) pode ser [reutilizada](mascara_caseira_reuso)?
+- [mascara](mascara) ajudam [irmão](outros)?
+- colocar [máscaras](mascara) previne contra o covid19
+- as [máscaras](mascara) [de pano](mascara_caseira) pode ser [usada de novo](mascara_caseira_reuso)?
+- botar [máscaras](mascara) previne
+- as [mascara](mascara) [feitas em casa](mascara_caseira) pode ser [utilizadas de novo](mascara_caseira_reuso)?
+- como é que consigo fazer uma [mascara](mascara) [de tnt](mascara_caseira)?
+- como [os médicos](profissional_saude) deve se proteger do covid19?
+- como [o médico](profissional_saude) devem se proteger do covid?
+- como faço pro auxiliar [irmão](outros)?
+- [máscara](mascara) [de lenço](mascara_caseira) serve contra o coronaví­rus
+- é permitido [utilizar novamente](mascara_caseira_reuso) a [mascaras](mascara) [caseiras](mascara_caseira)?
+- [mascaras](mascara) [com tnt](mascara_caseira) serve contra o vírus
+- colocar [mascara](mascara) serve contra o corona
+- maneiras de proteger [mãe](outros)
+- como fazer pra proteger [eu mesmo](eu_mesmo) do novo coronavirus?
+- tem prblema em [usar novamente](mascara_caseira_reuso) a [mascara](mascara) [com tnt](mascara_caseira)?
+- como faço pra cuidar [eu mesmo](eu_mesmo) do coronga virus?
+- a [mascaras](mascara) [de lenço](mascara_caseira) pode ser [reusar](mascara_caseira_reuso)?
+- é cabível [reusar](mascara_caseira_reuso) a [mascara](mascara) [com tecido](mascara_caseira)?
+- como [as profissionais de saúde](profissional_saude) faz pa se proteger do corona?
+- pode [utilizar novamente](mascara_caseira_reuso) a [mascara](mascara) [caseira](mascara_caseira)?
+- vestir [máscara](mascara) é bom contra o virus
+- como faço pro cuidar [eu mesmo](eu_mesmo) do coronga?
+- as [mascara](mascara) [de lenco](mascara_caseira) podem ser [usada de novo](mascara_caseira_reuso)?
+- o que devo usar pra [ensaboar a mao](lavar_maos)?
+- [máscara](mascara) auxilia do COVID-19?
+- as [mascara](mascara) [com tnt](mascara_caseira) podem ser [utilizadas novamente](mascara_caseira_reuso)?
+- é cabível [utilizar de novo](mascara_caseira_reuso) a [mascaras](mascara) [feita em casa](mascara_caseira)?
+- usar [máscaras](mascara) melhora
+- utilizar [mascaras](mascara) protege
+- de q maneira tem q ser uma [mascaras](mascara) [feitas em casa](mascara_caseira)
+- a [máscara](mascara) [caseira](mascara_caseira) pode ser [reutilizadas](mascara_caseira_reuso)?
+- [mascaras](mascara) [caseira](mascara_caseira) protege contra o vírus
+- tenho que lavar minhas [maos](lavar_maos)?
+- posso [utilizar novamente](mascara_caseira_reuso) a [mascara](mascara) [caseira](mascara_caseira)?
+- utilizar [máscara](mascara) previne contra o vírus
+- a [mascaras](mascara) [caseira](mascara_caseira) pode ser [reusar](mascara_caseira_reuso)?
+- é permitido [usar novamente](mascara_caseira_reuso) a [máscaras](mascara) [com tnt](mascara_caseira)?
+- a [mascara](mascara) [com tecido](mascara_caseira) pode ser [usada de novo](mascara_caseira_reuso)?
+- como faço proteger [avó](outros)?
+- vestir [mascaras](mascara) protege contra o covid
+- é aceitavel [usar novamente](mascara_caseira_reuso) a [máscara](mascara) [de tnt](mascara_caseira)?
+- é de boa [reutilizar](mascara_caseira_reuso) a [máscaras](mascara) [feita em casa](mascara_caseira)?
+- usar [máscara](mascara) protege
+- [máscaras](mascara) [com tecido](mascara_caseira) ajuda contra o vírus
+- como posso [banhar a mao](lavar_maos)
+- é aceitavel [usar novamente](mascara_caseira_reuso) a [máscaras](mascara) [com tecido](mascara_caseira)?
+- como proteger [familia](outros)?
+- como posso [purificar as mãos](lavar_maos)
+- o que devo usar pra [lava a mão](lavar_maos)?
+- a [máscara](mascara) [de pano](mascara_caseira) pode ser [utilizada de novo](mascara_caseira_reuso)?
+- as [mascara](mascara) [com tnt](mascara_caseira) podem ser [reutilizadas](mascara_caseira_reuso)?
+- colocar [máscara](mascara) serve contra o virus
+- [luva](mascara) auxilia do covid 19?
+- como faço pro cuidar [pai](outros)?
+- como fazer proteger [si próprio](eu_mesmo) do covid 19?
+- botar [máscara](mascara) serve
+- [mascara](mascara) [de lenco](mascara_caseira) protege contra o covid-19
+- vestir [mascara](mascara) serve contra o coronavírus
+- utilizar [máscaras](mascara) ajuda contra o covid
+- [máscaras](mascara) [feitas em casa](mascara_caseira) ajuda contra o coronaví­rus
+- a [máscara](mascara) [de lenço](mascara_caseira) pode ser [reaproveitadas](mascara_caseira_reuso)?
+- como [os enfermeiros](profissional_saude) deve se proteger do corona?
+- pode [reusar](mascara_caseira_reuso) a [mascaras](mascara) [com tecido](mascara_caseira)?
+- as [máscaras](mascara) servem msm?
+- como [as profissionais de saúde](profissional_saude) faz pa se proteger do coronavírus?
+- Posso [reutilizar](mascara_caseira_reuso) uma [mascara](mascara) [caseira](mascara_caseira)
+- como fazer para o cuidar [si próprio](eu_mesmo) do corona?
+- devo usar [máscara](mascara)?
+- como fazer pra cuidar [a mim mesmo](eu_mesmo) do novo coronavirus?
+- como [a médica](profissional_saude) faz pra se proteger do coronavírus?
+- utilizar [mascara](mascara) ajuda contra o corona
+- como [o enfermeiro](profissional_saude) pode se proteger do virus?
+- usar [máscara](mascara) é bom contra o vírus
+- como [as profissionais de saúde](profissional_saude) pode se proteger do covid19?
+- como fazer para o cuidar [eu mesmo](eu_mesmo) do corona?
+- como posso [purificar as maos](lavar_maos)
+- melhor jeito pa [enxaguar as mãos](lavar_maos)
+- botar [máscara](mascara) é bom
+- as [máscaras](mascara) [feita em casa](mascara_caseira) pode ser [utilizadas novamente](mascara_caseira_reuso)?
+- é permitido [reaproveitar](mascara_caseira_reuso) a [máscara](mascara) [feita em casa](mascara_caseira)?
+- jeitos de proteger [avô](outros)
+- como devo [purificar a mao](lavar_maos)
+- a [mascara](mascara) [com tecido](mascara_caseira) podem ser [usada novamente](mascara_caseira_reuso)?
+- usar [mascaras](mascara) é bom contra o covid-19
+- melhor jeito para [limpar as mãos](lavar_maos)
+- como [os médicos](profissional_saude) deve se proteger do virus?
+- usar [mascaras](mascara) ajuda
+- como [o médico](profissional_saude) deve se proteger do vírus?
+- como faço para o proteger [eu mesmo](eu_mesmo) do novo coronavírus?
+- [máscaras](mascara) [de lenço](mascara_caseira) previne contra o covid-19
+- pode [usar novamente](mascara_caseira_reuso) a [mascara](mascara) [de pano](mascara_caseira)?
+- como faço para o proteger [irmão](outros)?
+- vestir [mascaras](mascara) é bom
+- colocar [mascara](mascara) é bom contra o covid-19
+- usar [mascara](mascara) melhora
+- melhor jeito pra [enxaguar as mãos](lavar_maos)
+- é cabível [utilizar de novo](mascara_caseira_reuso) a [máscaras](mascara) [de lenco](mascara_caseira)?
+- botar [máscara](mascara) melhora contra o virus
+- botar [mascaras](mascara) é bom contra o vírus
+- vestir [máscara](mascara) ajuda contra o covid-19
+- [mascaras](mascara) [feita em casa](mascara_caseira) protege contra o virus
+- a [mascara](mascara) [feitas em casa](mascara_caseira) podem ser [reusar](mascara_caseira_reuso)?
+- as [máscaras](mascara) [de tnt](mascara_caseira) pode ser [reaproveitada](mascara_caseira_reuso)?
+- [máscaras](mascara) [com tnt](mascara_caseira) ajuda contra o coronaví­rus
+- é de boa [reusar](mascara_caseira_reuso) a [máscaras](mascara) [de pano](mascara_caseira)?
+- como consigo fazer uma [máscara](mascara) [de tnt](mascara_caseira)?
+- o que devo usar para [enxaguar as maos](lavar_maos)?
+- as [máscara](mascara) [feitas em casa](mascara_caseira) podem ser [reaproveitadas](mascara_caseira_reuso)?
+- devo botar [máscaras](mascara)?
+- é cabível [reutilizar](mascara_caseira_reuso) a [máscara](mascara) [caseira](mascara_caseira)?
+- como lavo minhas [maos](lavar_maos)?
+- [mascaras](mascara) protegem?
+- a [mascaras](mascara) [de pano](mascara_caseira) pode ser [reutilizada](mascara_caseira_reuso)?
+- utilizar [máscara](mascara) protege
+- como posso proteger [si próprio](eu_mesmo) do novo corona vírus?
+- maneiras de cuidar [irmão](outros)
+- como [as profissionais de saúde](profissional_saude) faz pa se proteger do virus?
+- como faço pra proteger [familia](outros)?
+- [luva](mascara) auxilia do coronavirus?
+- [mascara](mascara) [de lenço](mascara_caseira) ajuda contra o covid
+- como fazer cuidar [eu mesmo](eu_mesmo)?
+- como fazer para ajudar [eu mesmo](eu_mesmo) do coronga vírus?
+- [máscaras](mascara) [caseiras](mascara_caseira) protege contra o corona
+- melhor jeito pa [lava as mãos](lavar_maos)
+- como faço auxiliar [família](outros)?
+- como proteger [outras pessoas](outros)?
+- a [máscaras](mascara) [com tecido](mascara_caseira) pode ser [usada novamente](mascara_caseira_reuso)?
+- usar [mascaras](mascara) é bom contra o covid19
+- as [máscaras](mascara) [de tnt](mascara_caseira) pode ser [utilizadas de novo](mascara_caseira_reuso)?
+- preciso botar [mascaras](mascara)?
+- [máscaras](mascara) [de tnt](mascara_caseira) protege contra o virus
+- o que devo usar para [enxaguar a mao](lavar_maos)?
+- como fazer pro proteger [a mim mesmo](eu_mesmo) do covid-19?
+- [máscara](mascara) [de pano](mascara_caseira) serve contra o virus
+- [reutilizar](mascara_caseira_reuso) a [mascaras](mascara) [com tecido](mascara_caseira)
+- de q maneira consigo fazer uma [mascaras](mascara) [com tnt](mascara_caseira)?
+- colocar [mascara](mascara) ajuda contra o covid19
+- como [o enfermeiro](profissional_saude) devem se proteger do covid19?
+- é aceitavel [utilizar novamente](mascara_caseira_reuso) a [mascara](mascara) [com tnt](mascara_caseira)?
+- como [ensaboar a mao](lavar_maos)
+- como posso [limpa a mao](lavar_maos)
+- a [mascaras](mascara) [de lenço](mascara_caseira) podem ser [reutilizada](mascara_caseira_reuso)?
+- é cabível [reusar](mascara_caseira_reuso) a [mascara](mascara) [feitas em casa](mascara_caseira)?
+- como fazer ajudar [a mim mesmo](eu_mesmo)?
+- de que forma deve ser uma [máscaras](mascara) [feitas em casa](mascara_caseira)
+- como [as enfermeiras](profissional_saude) faz pa se proteger do coronavírus?
+- as [mascaras](mascara) [de pano](mascara_caseira) pode ser [usar mais de uma vez](mascara_caseira_reuso)?
+- [máscaras](mascara) [feitas em casa](mascara_caseira) protege contra o coronaví­rus
+- [máscaras](mascara) ajudar do coronga vírus?
+- colocar [máscaras](mascara) previne contra o corona
+- [mascaras](mascara) [feita em casa](mascara_caseira) é bom contra o covid
+- usar [mascara](mascara) ajuda contra o virus
+- como fazer para o cuidar [avô](outros)?
+- utilizar [máscara](mascara) é bom contra o coronavírus
+- as [mascaras](mascara) [caseiras](mascara_caseira) podem ser [reutilizada](mascara_caseira_reuso)?
+- como [as profissionais de saúde](profissional_saude) podem se proteger do corona?
+- o que devo usar pa [ensaboar a mão](lavar_maos)?
+- [mascara](mascara) [caseira](mascara_caseira) ajuda contra o covid
+- tem prblema em [usar novamente](mascara_caseira_reuso) a [máscara](mascara) [de tnt](mascara_caseira)?
+- a [máscaras](mascara) [feita em casa](mascara_caseira) podem ser [usada de novo](mascara_caseira_reuso)?
+- colocar [máscara](mascara) melhora
+- como fazer para o cuidar [eu mesmo](eu_mesmo) do coronga vírus?
+- é permitido [reusar](mascara_caseira_reuso) a [máscara](mascara) [de lenco](mascara_caseira)?
+- a [máscaras](mascara) [caseiras](mascara_caseira) pode ser [usada novamente](mascara_caseira_reuso)?
+- [máscara](mascara) [caseira](mascara_caseira) previne contra o vírus
+- como [os médicos](profissional_saude) faz pa se proteger do virus?
+- como é que tem que ser uma [mascaras](mascara) [de tnt](mascara_caseira)
+- [proteção facial](mascara) auxiliam [família](outros)?
+- botar [mascaras](mascara) serve contra o vírus
+- como [os médicos](profissional_saude) podem se proteger do corona?
+- vestir [mascara](mascara) serve contra o corona
+- como cuidar [a mim mesmo](eu_mesmo) do virus?
+- botar [máscara](mascara) melhora
+- como fazer para o auxiliar [a mim mesmo](eu_mesmo) do novo coronavirus?
+- de q maneira deve ser uma [mascaras](mascara) [com tecido](mascara_caseira)
+- como faço pro cuidar [a mim mesmo](eu_mesmo) do corongavírus?
+- maneiras de auxiliar [as pessoas](outros)
+- como tem q ser uma [máscara](mascara) [de pano](mascara_caseira)
+- as [máscara](mascara) [caseiras](mascara_caseira) podem ser [usada novamente](mascara_caseira_reuso)?
+- de que forma consigo fazer uma [mascara](mascara) [feitas em casa](mascara_caseira)?
+- utilizar [mascaras](mascara) serve
+- botar [mascara](mascara) melhora contra o covid
+- as [mascaras](mascara) [de lenco](mascara_caseira) podem ser [reusar](mascara_caseira_reuso)?
+- [máscara](mascara) [de tnt](mascara_caseira) ajuda contra o covid-19
+- a [máscara](mascara) [caseira](mascara_caseira) pode ser [usada de novo](mascara_caseira_reuso)?
+- botar [mascaras](mascara) serve
+- as [máscaras](mascara) [de lenço](mascara_caseira) pode ser [reaproveitadas](mascara_caseira_reuso)?
+- é aceitável [reaproveitar](mascara_caseira_reuso) a [máscaras](mascara) [de tnt](mascara_caseira)?
+- [máscara](mascara) [caseira](mascara_caseira) serve contra o corona
+- botar [mascaras](mascara) é bom
+- é de boa [utilizar de novo](mascara_caseira_reuso) a [mascara](mascara) [de lenço](mascara_caseira)?
+- colocar [máscaras](mascara) é bom contra o virus
+- o que devo usar pa [limpa as mãos](lavar_maos)?
+- o que devo usar pra [ensaboar as mãos](lavar_maos)?
+- a [mascara](mascara) [caseira](mascara_caseira) funciona?
+- é permitido [utilizar novamente](mascara_caseira_reuso) a [mascara](mascara) [feitas em casa](mascara_caseira)?
+- como fazer proteger [os outros](outros)?
+- o que devo usar para [purificar as maos](lavar_maos)?
+- como [me](eu_mesmo) protejo?
+- como fazer para proteger [tio](outros)?
+- [mascaras](mascara) [de lenço](mascara_caseira) serve contra o corona
+- as [mascaras](mascara) [feitas em casa](mascara_caseira) pode ser [utilizada de novo](mascara_caseira_reuso)?
+- a [máscaras](mascara) [de pano](mascara_caseira) pode ser [utilizadas de novo](mascara_caseira_reuso)?

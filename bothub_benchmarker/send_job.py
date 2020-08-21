@@ -52,7 +52,7 @@ def send_job_train_ai_platform(job_id, configs_path, datasets_dir, use_spacy=Fal
 
 
 if __name__ == '__main__':
-    send_job_train_ai_platform('transformer_diet_benchmark_tensorboard_fix',
+    send_job_train_ai_platform('crossval_parameters',
                                posixpath.join('benchmark_sources', 'configs'),
                                posixpath.join('benchmark_sources', 'data_to_evaluate'),
-                               use_spacy=False, use_tensorboard=True)
+                               use_spacy=False, use_tensorboard=False)

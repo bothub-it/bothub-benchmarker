@@ -1,0 +1,189 @@
+
+## intent:complain
+- queixa
+- reivindicacão
+- contestaçao
+- queixa compra
+- reivindicar
+- reivindicaçao
+- reclamação sobre comprar
+- reivindicação de compra da passagem
+- queixa bilhete
+- reclamacoes
+- queixas em relação a compra da carteirinha
+- reividicação
+- contestar compra passagem
+- contestação transporte
+- contestação do curso do onibus
+- reivindicação sobre o cartão cidadão
+- reclamaçao
+- queixas em relação da passagem
+- contestar cartao
+- contestação onibus
+- contestacao
+- reclamaçoes
+- reivindicação cartão
+- reclamação carteirinha
+- reclamação sobre a compra de um cartão
+- queixas em relação ao itinerário
+- reclamacao
+- queixa vale transporte
+- sobre reclamação do trajeto
+- reclamação viagem
+- contestar
+- reclamações
+- sobre queixas em relação a rota
+- queixa percurso
+- contestação sobre a compra da passagem
+- reclamar
+- queixas em relação itinerário do onibus
+- reclamação compra
+- reivindicação compra
+- reivindicação
+- contestação
+- reclamação sobre viagem
+- quero fazer uma reclamaçao sobre a viagem
+- é uma reclamação
+- uma reclamação
+- reivindicação trajeto
+- contestar rota
+- reclamação sobre compra
+- contestacão
+
+## intent:schedules
+- me fala o horário dos onibus daqui de onde eu moro
+- preciso estar no médico amanhã de 9hrs mas meu onibus so passa as 8hrs e 45min, tem algum outro onibus que eu possa pegar?, ou esse onibus passa em algum horário mais cedo?
+- horáriu
+- horario atendido
+- horarios funcionamento
+- que horas passa meu buzão?
+- horarios
+- horareo
+- o onibus que vai para o centro passa as 7hrs da manhã?
+- horas atendem
+- horas atendido
+- horas funciona
+- horas
+- tenho uma viagem para amanha mas n sei o horario
+- hrs
+- horário viagem
+- hrs viajem
+- de q hrs o ônibus sai?
+- horario atendida
+- horaz
+- horário atendimento
+- horas viajo
+- tem algum horário em que eu possa ser atendido
+- q hrs eu tenho atendimento
+- hora atendido
+- horários
+- posso viajar de que horas?
+- que horas eu posso viajar?
+- a minha viagem ficou pra que horas msm
+- horário funcionamento
+
+## intent:card
+- sobre cartão de transporte
+- carteirinha onibus
+- cartao cidadao
+- quero outra passagem
+- vale transporte
+- cartao transporte
+- quero outra carteirinha
+- sobre a carteirinha de onibus
+- outro cartão
+- cartão onibus
+- bilhete
+- outra carteirinha
+- passagem
+- cartao
+- carteirinha
+
+## intent:travel
+- viajar cidade
+- rota
+- jornada
+- sobre outro curso
+- outro curso
+- viagem estado
+- itinerário
+- sobre viagem
+- viajar para outro municipio
+- outras rotas
+- viajar de onibus para outro país
+- viagem onibus
+- como viajar para outro país?
+- outro percurso
+- percurso
+- viaja
+- passeio
+- trajeto
+- saber de outro percurso
+- sobre oura rota
+- viagem cidade
+- sobre o itinerario do onibus
+- sobre a rota do onibus tal
+- viajem
+- viajar para outro estado
+- percurso onibus
+- curso
+- viajar
+- caminho
+- roteiro
+- continente
+- excursao
+- saber de outras rotas
+- saber como viajar de onibus
+- viagem municipio
+- viagens
+- viajar país
+- roteiro onibus
+- excursão
+- viagem
+- como viajar para um país diferente?
+
+## intent:buy
+- compras viagem
+- sobre ter um cartão diferente
+- sobre comprar vale transporte de onibus
+- compra
+- sobre compras
+- sobre comprar uma passagem de ônibus
+- comprar passagem
+- sobre compra de carteirinha do onibus
+- comprar vale transporte
+- obter viagem
+- saber como comprar uma passagem
+- comprar
+- sobre compra de passagem
+- comprar carteirinha
+- ter viagem
+- sobre comprar cartão de onibus
+- comprar outra passagem
+- comprar bilhete do onibus
+- compras
+- sobre compra de cartão de transporte
+- adiquirir
+- sobre compras de viagem
+- conseguir
+- eu quero comprar um cartão de viagem
+- conseguir viagem
+- ter
+- adquirir viagem
+- obter
+- compra cartão
+- sobre conseguir uma viagem para outra cidade
+- comprar viagem
+- adquirir
+
+## intent:other
+- sobre um país diferente
+- outra
+- outras
+- outros
+- diferente
+- outro
+- outro assunto
+- sobre outro país
+- assunto diferente
+- sobre outro municipio

@@ -1,0 +1,113 @@
+
+## intent:negacao
+- estou [correto nas mensalidades](adimplente)
+- [nem tenho contrato](naocliente) com vcs
+- [n devo](adimplente) a essa construtora
+- enviou mensagem pra [pessoa errada](naocliente)
+- houve um engano. estou [adimplente](adimplente).
+- minhas [parcelas n tao atrasadas](adimplente)
+- vocês me cobraram e eu não estou devendo
+- [n sou eu](naocliente) n
+- estou [em dia](adimplente)
+- não é minha essa dívida
+- [adimplente](adimplente)
+- que loucura é essa? [não estou devendo](adimplente) esse valor
+- vcs estão enganados
+- engano
+- nunca nem vi essa empresa
+- [não tô inadimplente](adimplente).
+- [n sou cliente](naocliente) da Rocha
+- essa divida n e minha
+- [nao sou devedor](adimplente)
+- número errado
+- [n devo](adimplente) a ngm
+- email errado
+- nunca fechei contrato com a Fireman
+- eu [nao devo](adimplente)
+- estou [adimplente](adimplente).
+- que porra é essa?
+- [não estou devendo](adimplente) a vocês
+- oxe, [n to devendo](adimplente)
+- vocês estão loucos?
+- [não estou em atraso](adimplente)
+- quero saber de onde vem essa dívida, não é minha
+- desculpe, eu não sou essa pessoa
+- [não to devendo](adimplente) porra nenhuma
+
+## intent:devedor
+- não pode [ficar mais barato](negociacao)?
+- [renegociar](negociacao) dívida
+- [boleto](boleto)
+- [reimpressão](2via)
+- preciso de [outro boleto](2via)
+- to [sem dinheiro](negociacao) pra pagar
+- [2via](2via)
+- [n posso pagar](negociacao) agora
+- hm! ok. me mande o [boleto](boleto)
+- queria [parcelar](negociacao) este valor
+- quero [segunda via](2via)
+- [to devendo](inadimplente), mas [n posso pagar](negociacao)
+- quero conversar com alguém pra fazer [negociação](negociacao)
+- como eu poderia [negociar](negociacao) esse valor?
+- eu [n to devendo](adimplente)
+- devo. não nego. [pago quando puder](negociacao)
+- [outra impressão](2via)
+- me mande a [fatura](boleto)
+- preciso [imprimir de novo](2via) o boleto
+- preciso da [segunda-via](2via)
+- pode me mandar o [boleto](boleto)?
+- [caríssimo](negociacao). [n tenho esse valor](negociacao)
+- [não tenho esse valor](negociacao)
+- opa! quero [negociar](negociacao) o valor
+- [Não tenho como](inadimplente) pagar
+- eu sei, mas [n tenho dinheiro](negociacao)
+- manda a [fatura](boleto) pro meu email
+- eita! [esqueci de pagar](inadimplente)
+- como [negocio](negociacao)?
+- envia o [boleto](boleto) para meu e-mail, por favor
+- [tinha esquecido a data](inadimplente)
+- to sem [fatura](boleto)
+- me manda a [fatura](boleto), por favor
+- [reimprimir](2via) fatura
+- agora, [nao da](negociacao)
+- [boleto perdido](2via)
+- preciso da impressão de uma [2ª Via](2via)
+- [n consigo pagar](negociacao) isso
+- [tenho mais não esse boleto](2via)
+- [n serei capaz de realizar o pagamento](negociacao)
+- [perdi o boleto](2via)
+- [reimprimir](2via)
+- [segunda via](2via)
+- é possível [renegociar](negociacao)?
+- [parcelar divida](negociacao)
+- [não posso pagar](negociacao)
+- tem como [imprimir outra vez](2via) o boleto?
+- [reimpressão](2via) fatura
+- ta [mt caro](negociacao)
+- [formas de pagamento](negociacao)
+- to devendo, mas [não posso pagar](negociacao)
+- [fatura](boleto)
+- nossa! [tá muito cara](negociacao) essa parcela
+- tem como [diminuir o valor](negociacao)?
+- [2ª via](2via)
+- gerar [outro boleto](2via)
+- quero imprimir a [fatura de novo](2via)
+- eu perdi o [boleto](boleto). vc pode me [reenviar](2via)?
+- [n dá pra pagar](negociacao) esse mês
+- preciso do [boleto de novo](2via)
+- [não dá pra pagar](negociacao) isso
+- [reimpressão](2via) boleto
+- gostaria de [negociar](negociacao) essa dívida
+- [imprimir de novo](2via)
+- to precisando da [2via](2via)
+- quero [negociar](negociacao)
+- to sem o [boleto](boleto)
+- quero [segundavia](2via)
+- estou [sem condições](negociacao) de pagar este valor
+- [não será possível realizar o pagamento](negociacao) este mês
+- [imprimir novamente](2via) boleto
+- [não tenho mais a fatura](2via)
+- talvez se [ficasse mais barato](negociacao) eu pudesse pagar
+- quero [imprimir a fatura de novo](2via)
+- pode [dividir minha dívida](negociacao)?
+- [perdi a fatura](2via)

@@ -1,0 +1,42 @@
+
+## intent:farewell
+- cancelar
+- não fale comigo
+- saindo
+- pare conversando
+- sair
+- flw
+- finalizar conversa
+- xau
+- estou saindo
+- beleza, xau
+- tchau
+- adeus
+- parar chat
+- parar conversa
+- finalizar
+- até logo
+- pare conversar
+- até breve
+- pare chat
+
+## intent:greetings
+- continue conversando
+- olá
+- iniciar chat
+- estou aqui
+- iniciar conversa
+- iniciar
+- saudações
+- oie
+- iniciando
+- retomar
+- bom dia
+- beleza, olá
+- boa tarde
+- está aí
+- bom te ver
+- eaí
+- ótimo te ver
+- oi
+- comece conversar

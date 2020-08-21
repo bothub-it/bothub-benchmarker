@@ -1,0 +1,123 @@
+
+## intent:card_lock
+- bloqueio cartão
+- fui bloqueada, não posso mais usar meu cartão
+- sofri bloqueio do cartão, como posso reverter essa situação
+- travaram cartão
+- bloqueada
+- impossibilitada cartão
+- cartão bloqueou
+- cartão block
+- debloqueio
+- bloquiado cartão
+- bloquear carteira
+- bloqueou cartão
+- como posso desbloquear meu cartão?
+- estou passando por uma situação difícil e minha conta foi bloqueada, como posso fazer para usar meu cartão agora?
+- obstrução cartão
+- tenho que resolver um bloqueio em meu cartão
+- bloquearmos cartões
+- bloqueado
+- desbloquear
+- cartao travou
+- cartão bloqueado
+- bloqueio
+- impossível cartão
+- tem como desbloquear cartões por aqui
+- cartão obstruido
+- bloqueavam cartaozin
+- bloqueei cartão
+- como posso fazer o desbloqueio do meu cartão
+- desbloqueio
+- travado cartãozinho
+- impossibilitado cartão
+- meu cartão foi bloqueado, e agora
+- estou impossiblitado de utilizar meu cartão, como posso fazer para concertar isso
+- tive meu cartão bloqueado hoje de manhã
+
+## intent:redue
+- perdi carteirinha
+- quero o boleto do mes passado
+- preciso tirar outra via daquele meu boleto
+- segunda via carteirinha
+- 2º via boleto
+- encontrar 2da via
+- tirar segunda via do boleto da minha carteirinha
+- 2a via boleto
+- como consigo a segunda via do meu boleto?
+- 2ºvia
+- 2ª Via
+- reenviar boleto
+- boletos
+- seguinte.... estou precisando URGENTE da segunda via do pagamento do mes que vem para que eu possa adiantar ele
+- o que faço para conseguir gerar um novo boleto por aqui?
+- 2da via boleto
+- 2via
+- carteirinha perdida
+- acessar segunda via boleto
+- estou precisando do meu boleto
+- via2
+- perca cartão
+- segunda via
+- reenvia boleto
+- segunda via boleto
+- boleto
+- 2da via
+- conferir fatura
+- como posso conseguir a 2a via do boleto
+- quero outra via da minha parcela
+- preciso segunda via
+- como eu consigo a 2ºvia referente ao pagamento deste mes
+- fartura
+- fatura
+
+## intent:update_registration
+- recadastrar cartão
+- atualizar
+- recadastrar cartção
+- atualizacao cadastral
+- atualizacao
+- atualiza
+- to precisando atualizar meus dados
+- atualização de dados do meu cartão, aonde eu faço?
+- preciso carrega cartao nao consigo
+- estou sem crédito
+- recadastramento carteirinha
+- preciso carregar o cartão e não consigo
+- atualizada
+- recadastro registro do banco
+- atualização
+- Atualização Cadastral
+- atualização de dados
+- atualiza cadastral
+- recadastrarei
+- quero fazer o recadastro do meu cartão
+- como faço a atualização dos meus dados cadastrais
+- renovação
+- novo cadastro
+- renova
+- renovar
+- renovarei
+- Atualização
+- recadastramento
+- recadastro
+- atualização cartão
+- requalificar
+- atualizar cadastro
+- cadastrar denovo
+- registro novamente
+- recadastrar
+- renovando
+- atualiuzo
+- esto sem credito
+- recadastro cartão
+- atualiza cadastro
+- estou sem credito
+- atualiso
+- cadastrar novamente
+- como recadastrar
+- quero atualizar
+- renovacao
+- queria dar uma atualizada em meus dados
+- recadastramento da carteirinha
+- recadastrar registro

@@ -1,0 +1,467 @@
+
+## intent:doubt
+- acredito q sim
+- talvez
+- preciso pensar
+- mais ou menos
+- acho que sim
+- eu não sei
+- não tenho certeza
+- tenho minhas dúvidas
+- n to certa disso
+- n to tao segura
+- num sei
+- nem sei
+- O prazer é todo meu
+- acho q s
+- nao sei
+- pode ser que sim, pode ser que não
+- tô na dúvida
+- acho que com uma amiga minha
+- sei n viu
+- acredito que nao
+- as vezes
+- creio q s
+- acho que uma amiga
+- Quero saber como faço pra iniciar as vendas com a maquina
+- tenho que pensar
+- não sei
+- mais ou menos, pq?
+- mas não foi muito bom
+- creio que não
+- mais ou menos, porque?
+- creio que sim!
+- acho que faço isso
+- não entendi
+- sei la mano
+- n to segura
+- to naum... mas nunca se sabe
+- talvez sim
+- eu não tenho certeza
+- sei n
+- não entendo
+- talvez não
+- não estou seguro
+- hmm, n sei
+- to pensando
+
+## intent:bias
+- eu também estou num relacionamento abusivo
+- meu namorado me bateu
+- minha família
+- relacionamento
+- estou em um relacionamento abusivo
+- futebol
+- dificuldade para respirar
+- suporte
+- matrícula
+- não ne!! meu namorado bateu na minha cara
+- docs
+- empreendimentos
+- me
+- inclui ceromero?
+- extrato
+- quero morrer agora
+- ola
+- sofro abuso emocional
+- relacionamento abusivo
+- e buco maxilar facial?
+- gosto de futebol
+- vazamento
+- agrediu
+- morrer
+- assuntos financeiros
+- comprar um apartamento
+- fui estrupada
+- crédito
+- hoje já estou num relacionamento abusivo
+- fissura
+- agride
+- fatura vencida
+- dor de garganta
+- nariz entupido
+- financeiro
+- sac
+- preciso de ajuda
+- que
+- infiltração
+- meu namorado esta me batendo
+- Adriana
+- nariz escorrendo
+- mas minha amiga esta sofrendo com abuso. O namorado dela grita com ele
+- hoje estou num relacionamento abusivo
+- Campina grande
+- voces fazem coroa dentaria ?
+- o plano inclui ceromero?
+- estou sendo estrupada
+- Eu posso usar meu cartão como cartão de crédito ?
+- suporte técnico
+- Fredhair1@hotmail.com
+- desplacamento
+- buco maxilar
+- mal estar geral
+- coroa dentaria
+- Valdecir
+- meu namorado bateu na minha cara
+- porra
+- humano
+- abuso emocional
+- assistência técnica
+- também relacionamento abusivo
+- declividade
+- quitação
+- Manoel Eduardo
+- dor de cabeça
+- parcelas em atraso
+- listar empreendimentos
+- débito
+- Qual o valor do ap
+- eja
+- meu namorou bateu na minha cara
+- 2 via
+- atendimento
+- empreendimento
+- segunda via de boleto
+- negociação de dívida
+- tosse
+- o plano inclui
+- coroa
+- estuprada
+- fui agredida
+- buco
+- Quero a maquina de 106,90 que recebe com chip
+- minha familia
+- falar com alguém
+- Estou com um problema com a maquininha ele está rejeitando todos os cartões
+- terceiros
+- oi
+- dentaria
+- morte
+- me bateu
+- sac digital
+- matricula
+- bom dia
+- dores pelo corpo
+- minha familia me apoia
+- assistência
+
+## intent:negative
+- não sou
+- eu não acredito
+- eu não posso
+- não posso fazer isso
+- tudo horrível
+- tudo horrivel
+- n n
+- não mesmo
+- quero não
+- quero mais não
+- nn
+- quero não, cancele
+- não aceito
+- não queria ter que dizer isso
+- eu não gostaria
+- nenhum
+- de forma alguma
+- nao
+- na
+- pessimo
+- n
+- negativo
+- n gosto disso
+- nã
+- naam
+- nao tenho
+- nnn
+- nonono
+- acho que não
+- nem queria dizer isso
+- não gostaria
+- não estou feliz
+- sem condições
+- naum neh
+- não, não faço
+- noo
+- fazer cancelamento
+- não quero mais isso
+- não, eu não sou
+- cancelar
+- nenhuma
+- não gostei daquele dia
+- não ne!! estou apanhando demais
+- não, como faço para reconhecer?
+- cancelamento
+- não estou namorando
+- não tenho email
+- não quero
+- só isso
+- funcionou não
+- no
+- não consigo
+- não, como podemos proceder?
+- melhor não
+- mal
+- to naum... mas ja namorei um porquinho?
+- pior que nao
+- to naum...
+- nunca passei por isso
+- nem
+- uma merda
+- Não estou bem
+- não posso
+- eu não faço
+- nam
+- não, como faço?
+- nem pintado de ouro
+- jamais
+- nem deve ser tão bom assim
+- deixa para lá
+- não estou
+- acho q n
+- claro que não
+- eu não creio
+- não
+- nem tenho
+- Nunca namorei
+- de jeito nenhum
+- tudo pessimo
+- nada horrivel
+- Não estou bem hoje
+- nem a pau
+- para com isso, não pode
+- pior que nunca
+- pior que não
+- to naum
+- nunca por isso
+- não é
+- deus me livre
+- melhor nao falar nada
+- naum
+- não ne
+- nunca passei
+- nope
+- quero n
+- tudo uma merda
+- não me apoia
+- não gostei
+- negativo cara
+- talvez nao
+- nem pensar
+- vou nem mentir
+- de jeito maneira
+- estou mau
+- nops
+- nem que a vaca tussa
+- vamo não
+- nunca
+- desistir
+- eu não quero
+- nop
+- horrivel demais
+- nop deixa de onda
+- apenas isso
+- não, isso é demais pra mim
+- pior que não tenho
+- nem rola
+- não inventa história
+- nnnn
+- naa
+- não tenho
+- nõa
+- não né
+- horrivel
+- não ne!!
+- evidente que não
+- non
+- n quero
+
+## intent:affirmative
+- beleza!
+- eu sei
+- sim, eu faço
+- claro que estou disponivel
+- quero sim
+- issoo
+- eu quero
+- quero fazer
+- belezaaaaa
+- muito bom, aceito
+- tudo
+- tudo bem
+- estou já
+- conta comigo
+- eu também
+- si
+- quero muito
+- já to
+- certo
+- já
+- vdd
+- ótima ideia
+- isso
+- óbvio
+- umhum
+- pode contar comigo
+- QUERO
+- posso sim
+- evidente
+- pode ser
+- tenho sim
+- Ok
+- sim, tou namorando
+- tá certo
+- quer
+- ahan
+- a ta sei
+- positivo
+- posso fazer isso
+- sim sim
+- posso sim! me confirma a data
+- sim 👍
+- vamos
+- eu acredito
+- assim mesmo
+- sim unhum
+- é
+- mas é claro
+- também estou
+- pior que ja
+- selado
+- eu fui estruprada
+- conheço
+- dá sim
+- eu estou bem
+- vamos sim
+- consigo
+- pode com força
+- smm
+- pode pá
+- to namorando
+- certinho
+- eu faço
+- e apois
+- tenho ctz
+- estou namorando..
+- tendi
+- exatamente!
+- to namorando sim
+- verdade
+- já mas
+- isso mesmo
+- gostaria
+- sim, preciso de ajuda
+- quero si
+- eh
+- estou em um lugar como esse
+- tudo otimo
+- quero bastante
+- consigo sin
+- entendi
+- isso aí
+- ótima ideia, concordo
+- podemos marcar sim
+- pode me mandar sim
+- afirmativo!
+- sim, gostei disso
+- okayy
+- claro, pode com certeza
+- tranquilo
+- adorei a ideia vamos sim
+- obviamente
+- por favor
+- eu realmente quero
+- estou fincando
+- tenho com certeza
+- é possivel
+- já estou
+- já mas não foi muito bom
+- pior que já
+- pode crer
+- to dentro
+- é, pode ser
+- afirmativo
+- aham aham
+- tenho concerteza
+- ctz
+- Aguardo
+- pode me enviar sim, por favor
+- é, você está certo sim
+- ok
+- prometoo
+- tudo ótimo
+- certamente
+- desejo
+- ja
+- sim estou namorando
+- sim, quero isso
+- claro que sim
+- já namorei
+- ehh
+- anham
+- aceito sim, muito obrigado
+- eu concordo
+- tenho
+- aceito
+- ctz q sim
+- persiste
+- sim, gostei da ideia
+- certeza!
+- tudo para mim
+- sempre
+- consigu
+- querp
+- tá massa!
+- too namorando
+- com certeza
+- ja namorei
+- afirmativo, pode me mandar sim!
+- entendo
+- eu quero isso
+- seria legal se fossemos
+- simn
+- uhum
+- sinm
+- estou
+- ta beleza
+- unhum
+- conte comigo sempre
+- que otimo
+- ta
+- um pouco
+- aceito sim
+- otimo
+- quero
+- tá ok
+- varias vezes
+- estou bem
+- eu gostaria
+- sim
+- sim, quero o documento
+- estou namorando
+- aham
+- claro
+- iapois
+- sim, desejo isso
+- eu quero sim
+- sim estou disponível
+- sim, preciso daquilo
+- realizar
+- ss
+- eu sei disso
+- okk
+- tudo bem, então
+- eu também estou
+- s
+- sim, eu sou
+- siim
+- exatoo
+- okay
+- que legal, gosto sim
+- namoro
+- pode po
+- tou namorando
+- tenho agora
+- obvio que sim
+- é óbvio!
+- acredito
+- umhum claro
