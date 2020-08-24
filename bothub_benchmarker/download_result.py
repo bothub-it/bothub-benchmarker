@@ -35,6 +35,6 @@ def download_benchmark_result(job_id, dl_path):
 
 if __name__ == '__main__':
     os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "bothub-273521-b2134fc6b1df.json"
-    job_id = 'transformer_diet_benchmark_tensorboard_fix'
+    job_id = 'crossval_parameters'
     dl_path = 'benchmark_output'
     download_benchmark_result(job_id, posixpath.join(dl_path, job_id))

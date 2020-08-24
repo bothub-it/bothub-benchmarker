@@ -6,7 +6,7 @@ from googleapiclient import errors
 from utils import upload_folder_to_bucket, connect_to_storage
 
 
-def send_job_train_ai_platform(job_id, configs_path, datasets_dir, use_spacy=False, use_tensorboard=False):
+def send_job_train_ai_platform(job_id, configs_path, datasets_dir, use_spacy=False, use_tensorboard=False, false_positive_benchmark=False):
     os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "bothub-273521-b2134fc6b1df.json"
 
     bucket = connect_to_storage('bothub_benchmark')
@@ -19,14 +19,17 @@ def send_job_train_ai_platform(job_id, configs_path, datasets_dir, use_spacy=Fal
         package_uris.append("gs://bothub_benchmark/pt_nilc_word2vec_cbow_600-1.0.0.zip")
 
     training_inputs = {
-        "scaleTier": "BASIC_GPU",
+        "scaleTier": "CUSTOM",
+        "masterType": "standard_p100",
         "package_uris": package_uris,
         "pythonModule": "bothub_benchmarker.ai_plataform_benchmark",
         "args": [
             '--job-id',
             job_id,
             '--use-tensorboard',
-            str(use_tensorboard)
+            str(use_tensorboard),
+            '--false-positive-benchmark',
+            str(false_positive_benchmark)
         ],
         "region": "us-east1",
         "jobDir": "gs://bothub_benchmark",
@@ -52,7 +55,7 @@ def send_job_train_ai_platform(job_id, configs_path, datasets_dir, use_spacy=Fal
 
 
 if __name__ == '__main__':
-    send_job_train_ai_platform('crossval_parameters',
+    send_job_train_ai_platform('false_positive_v1_1',
                                posixpath.join('benchmark_sources', 'configs'),
-                               posixpath.join('benchmark_sources', 'data_to_evaluate'),
-                               use_spacy=False, use_tensorboard=False)
+                               posixpath.join('benchmark_sources', 'false_positive_data'),
+                               use_spacy=False, use_tensorboard=False, false_positive_benchmark=True)

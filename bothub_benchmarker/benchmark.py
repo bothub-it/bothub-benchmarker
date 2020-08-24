@@ -1,6 +1,7 @@
+import os
 import json
 import posixpath
-import os
+import logging
 from timeit import default_timer as timer
 from rasa.nlu.test import *
 from rasa.nlu.components import Component
@@ -121,15 +122,15 @@ def save_result_by_group(datasets_results, n_fold, out_config_directory, dataset
     if len(small_results) > 0:
         small_result = sum_results(small_results)
         small_result['datasets'] = small_names
-        utils.write_json_to_file(out_config_directory + 'Small_Datasets_Mean_Result', small_result)
+        utils.write_json_to_file(posixpath.join(out_config_directory, 'small_datasets_mean_result'), small_result)
     if len(medium_results) > 0:
         medium_result = sum_results(medium_results)
         medium_result['datasets'] = medium_names
-        utils.write_json_to_file(out_config_directory + 'Medium_Datasets_Mean_Result', medium_result)
+        utils.write_json_to_file(posixpath.join(out_config_directory, 'medium_datasets_mean_result'), medium_result)
     if len(big_results) > 0:
         big_result = sum_results(big_results)
         big_result['datasets'] = big_names
-        utils.write_json_to_file(out_config_directory + 'Big_Datasets_Mean_Result', big_result)
+        utils.write_json_to_file(posixpath.join(out_config_directory, 'big_datasets_mean_result'), big_result)
 
 
 def sum_results(results, collect_report=False, has_entity_eval=False):
@@ -295,13 +296,14 @@ def benchmark(out_directory, config_directory, dataset_directory, n_folds=3, buc
 
     out_directory_temp = out_directory
     if not os.path.exists(out_directory):
-        os.mkdir(out_directory)
+        os.makedirs(out_directory, exist_ok=True)
     else:
         count = 0
         while os.path.exists(out_directory_temp):
             out_directory_temp = out_directory + str(count)
             count += 1
         os.mkdir(out_directory_temp)
+    out_directory = out_directory_temp
 
     config_size = len(os.listdir(config_directory))
     count_config = 0
@@ -317,9 +319,9 @@ def benchmark(out_directory, config_directory, dataset_directory, n_folds=3, buc
             out_config_directory = posixpath.join(out_directory_temp, config_name)
             if not os.path.exists(out_config_directory):
                 os.mkdir(out_config_directory)
-            datasets_dir_out = 'Datasets_Results/'
-            if not os.path.exists(out_config_directory + datasets_dir_out):
-                os.mkdir(out_config_directory + datasets_dir_out)
+            datasets_dir_out = 'datasets_results/'
+            if not os.path.exists(posixpath.join(out_config_directory, datasets_dir_out)):
+                os.mkdir(posixpath.join(out_config_directory, datasets_dir_out))
 
             nlu_config = config.load(config_path)
             try:
@@ -330,7 +332,12 @@ def benchmark(out_directory, config_directory, dataset_directory, n_folds=3, buc
             datasets_results = []
             datasets_names = []
 
+            datasets_size = len(os.listdir(dataset_directory))
+            count_dataset = 0
             for dataset_filename in os.listdir(dataset_directory):
+                count_dataset += 1
+                logger.info(f'CURRENT CONFIG : {config_filename} PROGRESS: {count_config}/{config_size}')
+                logger.info(f'CURRENT DATASET : {dataset_filename} PROGRESS: {count_dataset}/{datasets_size}')
                 if dataset_filename.endswith(".json") or dataset_filename.endswith(".md"):
                     dataset_path = os.path.join(dataset_directory, dataset_filename)
                     dataset_name = dataset_filename.split('.')[0]
@@ -339,7 +346,7 @@ def benchmark(out_directory, config_directory, dataset_directory, n_folds=3, buc
                     # utils.write_json_to_file('new_result_test', cross_val_results)
 
                     dataset_result = sum_results(cross_val_results, collect_report=True)
-                    utils.write_json_to_file(out_config_directory + datasets_dir_out + dataset_name + '_Benchmark',
+                    utils.write_json_to_file(posixpath.join(out_config_directory, datasets_dir_out, dataset_name + '_benchmark'),
                                              dataset_result)
                     datasets_results.append(dataset_result)
                     datasets_names.append(dataset_filename)
@@ -347,9 +354,10 @@ def benchmark(out_directory, config_directory, dataset_directory, n_folds=3, buc
             overhaul_result = sum_results(datasets_results)
             end_config = timer()
             overhaul_result['time'] = str(end_config)
-            utils.write_json_to_file(out_config_directory + 'Datasets_Mean_Result', overhaul_result)
+            utils.write_json_to_file(posixpath.join(out_config_directory, 'datasets_mean_result'), overhaul_result)
             if bucket is not None:
-                upload_folder_to_bucket(bucket, out_directory, posixpath.join('results', out_directory))
+                logger.info(f'##########  SAVING TO : {out_config_directory} ###############')
+                upload_folder_to_bucket(bucket, out_config_directory, posixpath.join('results', out_config_directory))
     end = timer()
     logger.info("Finished evaluation in: " + str(end - start))
 
@@ -387,22 +395,23 @@ def tensorboard_benchmark(out_directory, config_directory, dataset_directory):
     count_config = 0
     for config_filename in os.listdir(config_directory):
         count_config += 1
-        print('######################################')
-        print('CURRENT CONFIG :', config_filename, ' PROGRESS:', count_config, '/', config_size)
-        print('######################################')
         start_config = timer()
         if config_filename.endswith(".yml"):
             config_path = os.path.join(config_directory, config_filename)
             config_name = config_filename.split('.')[0]
-            out_config_directory = out_directory_temp + '/' + config_name + '/'
+            out_config_directory = posixpath.join(out_directory_temp, config_name)
             if not os.path.exists(out_config_directory):
                 os.mkdir(out_config_directory)
-            datasets_dir_out = 'Datasets_Results/'
-            if not os.path.exists(out_config_directory + datasets_dir_out):
-                os.mkdir(out_config_directory + datasets_dir_out)
+            datasets_dir_out = 'datasets_results/'
+            if not os.path.exists(posixpath.join(out_config_directory, datasets_dir_out)):
+                os.mkdir(posixpath.join(out_config_directory, datasets_dir_out))
 
+            datasets_size = len(os.listdir(dataset_directory))
+            count_dataset = 0
             for dataset_filename in os.listdir(dataset_directory):
-
+                count_dataset += 1
+                logger.info(f'CURRENT CONFIG : {config_filename} PROGRESS: {count_config}/{config_size}')
+                logger.info(f'CURRENT DATASET : {dataset_filename} PROGRESS: {count_dataset}/{datasets_size}')
                 if dataset_filename.endswith(".json") or dataset_filename.endswith(".md"):
                     dataset_path = os.path.join(dataset_directory, dataset_filename)
                     dataset_name = dataset_filename.split('.')[0]
@@ -433,9 +442,10 @@ def tensorboard_benchmark(out_directory, config_directory, dataset_directory):
 
 if __name__ == '__main__':
     print("start benchmark")
-    out_directory = 'benchmark_output_test1'
-    config_directory = 'benchmark_sources/configs/'
-    dataset_directory = 'benchmark_sources/data_to_evaluate/'
-    tensorboard_benchmark(out_directory, config_directory, dataset_directory)
+    out_directory = 'benchmark_output/crossval_test_final'
+    config_directory = 'benchmark_sources/configs'
+    dataset_directory = 'benchmark_sources/data_to_evaluate'
+    benchmark(out_directory, config_directory, dataset_directory)
+    # tensorboard_benchmark(out_directory, config_directory, dataset_directory)
     # false_positive_dataset_directory = 'benchmark_sources/oldvsoldold'
     # false_positive_benchmark(out_directory, config_directory, false_positive_dataset_directory)

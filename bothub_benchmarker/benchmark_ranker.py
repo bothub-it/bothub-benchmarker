@@ -59,4 +59,4 @@ def benchmark_ranker(output_folder):
 
 
 if __name__ == '__main__':
-    benchmark_ranker('./benchmark_output/benchmark_transformer_english')
+    benchmark_ranker('./benchmark_output/crossval_parameters')
