@@ -378,7 +378,7 @@ def set_tensorboard(nlu_config, out_directory, eval_examples=100):
     return RasaNLUModelConfig(nlu_config)
 
 
-def tensorboard_benchmark(out_directory, config_directory, dataset_directory):
+def tensorboard_benchmark(out_directory, config_directory, dataset_directory, bucket=None):
     start = timer()
 
     out_directory_temp = out_directory
@@ -395,7 +395,6 @@ def tensorboard_benchmark(out_directory, config_directory, dataset_directory):
     count_config = 0
     for config_filename in os.listdir(config_directory):
         count_config += 1
-        start_config = timer()
         if config_filename.endswith(".yml"):
             config_path = os.path.join(config_directory, config_filename)
             config_name = config_filename.split('.')[0]
@@ -434,7 +433,9 @@ def tensorboard_benchmark(out_directory, config_directory, dataset_directory):
 
                     trainer.train(data)
 
-            end_config = timer()
+            if bucket is not None:
+                logger.info(f'##########  SAVING TO : {out_config_directory} ###############')
+                upload_folder_to_bucket(bucket, out_config_directory, posixpath.join('results', out_config_directory))
 
     end = timer()
     logger.info("Finished evaluation in: " + str(end - start))
