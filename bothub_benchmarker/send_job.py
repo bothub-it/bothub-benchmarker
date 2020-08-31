@@ -4,6 +4,7 @@ import posixpath
 from googleapiclient import discovery
 from googleapiclient import errors
 from utils import upload_folder_to_bucket, connect_to_storage
+from argparse import ArgumentParser
 
 
 def send_job_train_ai_platform(job_id, configs_path, datasets_dir, use_spacy=False, use_tensorboard=False, false_positive_benchmark=False):
@@ -55,7 +56,35 @@ def send_job_train_ai_platform(job_id, configs_path, datasets_dir, use_spacy=Fal
 
 
 if __name__ == '__main__':
-    send_job_train_ai_platform('false_positive_v1_1',
-                               posixpath.join('benchmark_sources', 'configs'),
-                               posixpath.join('benchmark_sources', 'false_positive_data'),
-                               use_spacy=False, use_tensorboard=False, false_positive_benchmark=True)
+    parser = ArgumentParser()
+    parser.add_argument("-id", "--job-id", dest="job_id",
+                        help="Unique job id", required=True)
+    parser.add_argument("-b", "--benchmark", dest="benchmark_method",
+                        help="crossvalidation [cv] | tensorboard [tb] | falsepositive [fp]", required=True)
+    parser.add_argument("-s", "--spacy", dest="use_spacy",
+                        help="Load spacy", action='store_true')
+    parser.set_defaults(use_spacy=False)
+
+    args = vars(parser.parse_args())
+
+    args_id = args.get("job_id")
+    args_benchmark_method = args.get("benchmark_method")
+    args_spacy = args.get("use_spacy")
+
+    # Default cross-validation
+    args_use_tensorboard = False
+    args_false_positive_benchmark = False
+    data_path = "data_to_evaluate"
+
+    if args_benchmark_method == "tensorboard" or args_benchmark_method == "tb":
+        args_use_tensorboard = True
+    elif args_benchmark_method == "falsepositive" or args_benchmark_method == "fp":
+        args_false_positive_benchmark = True
+        data_path = "false_positive_data"
+
+    print(args_id, args_spacy, args_use_tensorboard, args_false_positive_benchmark)
+    # send_job_train_ai_platform(args_id,
+    #                            posixpath.join('benchmark_sources', 'configs'),
+    #                            posixpath.join('benchmark_sources', data_path),
+    #                            use_spacy=args_spacy, use_tensorboard=args_use_tensorboard,
+    #                            false_positive_benchmark=args_false_positive_benchmark)
