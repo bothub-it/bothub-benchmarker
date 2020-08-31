@@ -2,7 +2,7 @@ import time
 import os
 import posixpath
 from utils import get_train_job_status, download_folder_structure_from_bucket, connect_to_storage, bothub_bucket
-
+from argparse import ArgumentParser
 
 def download_benchmark_result(job_id, dl_path):
     status = {
@@ -34,7 +34,16 @@ def download_benchmark_result(job_id, dl_path):
 
 
 if __name__ == '__main__':
+    parser = ArgumentParser()
+    parser.add_argument("-id", "--job-id", dest="job_id",
+                        help="Job id to look for", required=True)
+    parser.add_argument("-out", "--output", dest="output", default="downloaded_results",
+                        help="Downloading directory path")
+
+    args = vars(parser.parse_args())
+
     os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "bothub-273521-b2134fc6b1df.json"
-    job_id = 'crossval_parameters'
-    dl_path = 'benchmark_output'
+    job_id = args.get('job_id')
+    dl_path = args.get('output')
+
     download_benchmark_result(job_id, posixpath.join(dl_path, job_id))
