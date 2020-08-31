@@ -39,9 +39,9 @@ def ai_plataform():
     download_bucket_folder(bucket, data_dir, posixpath.join('data', arguments.job_id, 'data_to_evaluate'))
 
     if arguments.use_tensorboard == "True":
-        tensorboard_benchmark(arguments.job_id, configs_dir, data_dir)
+        tensorboard_benchmark(arguments.job_id, configs_dir, data_dir, bucket=bucket)
     elif arguments.false_positive_benchmark == "True":
-        false_positive_benchmark(arguments.job_id, configs_dir, data_dir,  bucket=bucket)
+        false_positive_benchmark(arguments.job_id, configs_dir, data_dir, bucket=bucket)
     else:
         benchmark(arguments.job_id, configs_dir, data_dir, bucket=bucket)
 
