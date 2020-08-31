@@ -82,9 +82,8 @@ if __name__ == '__main__':
         args_false_positive_benchmark = True
         data_path = "false_positive_data"
 
-    print(args_id, args_spacy, args_use_tensorboard, args_false_positive_benchmark)
-    # send_job_train_ai_platform(args_id,
-    #                            posixpath.join('benchmark_sources', 'configs'),
-    #                            posixpath.join('benchmark_sources', data_path),
-    #                            use_spacy=args_spacy, use_tensorboard=args_use_tensorboard,
-    #                            false_positive_benchmark=args_false_positive_benchmark)
+    send_job_train_ai_platform(args_id,
+                               posixpath.join('benchmark_sources', 'configs'),
+                               posixpath.join('benchmark_sources', data_path),
+                               use_spacy=args_spacy, use_tensorboard=args_use_tensorboard,
+                               false_positive_benchmark=args_false_positive_benchmark)
