@@ -32,18 +32,21 @@ def ai_plataform():
 
     configs_dir = 'benchmark_sources/configs/'
     data_dir = 'benchmark_sources/data_to_evaluate/'
+    lookup_table_dir = 'benchmark_sources/lookup_tables/'
+
     os.makedirs(configs_dir, exist_ok=True)
     os.makedirs(data_dir, exist_ok=True)
 
     download_bucket_folder(bucket, configs_dir, posixpath.join('data', arguments.job_id, 'configs'))
     download_bucket_folder(bucket, data_dir, posixpath.join('data', arguments.job_id, 'data_to_evaluate'))
+    download_bucket_folder(bucket, lookup_table_dir, posixpath.join('data', arguments.job_id, 'lookup_tables'))
 
     if arguments.use_tensorboard == "True":
-        tensorboard_benchmark(arguments.job_id, configs_dir, data_dir, bucket=bucket)
+        tensorboard_benchmark(arguments.job_id, configs_dir, data_dir, lookup_table_dir, bucket=bucket)
     elif arguments.false_positive_benchmark == "True":
-        false_positive_benchmark(arguments.job_id, configs_dir, data_dir, bucket=bucket)
+        false_positive_benchmark(arguments.job_id, configs_dir, data_dir, lookup_table_dir, bucket=bucket)
     else:
-        benchmark(arguments.job_id, configs_dir, data_dir, bucket=bucket)
+        benchmark(arguments.job_id, configs_dir, data_dir, lookup_table_dir, bucket=bucket)
 
 
 if __name__ == '__main__':

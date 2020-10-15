@@ -52,6 +52,7 @@ class RegexFeaturizerCustom(RegexFeaturizer):
                         new_element = preprocessor.preprocess(new_element)
                         elements_to_regex.append(new_element)
 
+        print("Loaded from lookup table: ", elements_to_regex)
         # sanitize the regex, escape special characters
         elements_sanitized = [re.escape(e) for e in elements_to_regex]
 

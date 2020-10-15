@@ -291,7 +291,7 @@ def remove_pretrained_extractors(pipeline: List[Component]) -> List[Component]:
     return pipeline
 
 
-def benchmark(out_directory, config_directory, dataset_directory, n_folds=3, bucket=None, job_id=None):
+def benchmark(out_directory, config_directory, dataset_directory, lookup_tables_dir, n_folds=3, bucket=None, job_id=None):
     start = timer()
 
     out_directory_temp = out_directory
@@ -378,7 +378,7 @@ def set_tensorboard(nlu_config, out_directory, eval_examples=100):
     return RasaNLUModelConfig(nlu_config)
 
 
-def tensorboard_benchmark(out_directory, config_directory, dataset_directory, bucket=None):
+def tensorboard_benchmark(out_directory, config_directory, dataset_directory, lookup_tables_dir, bucket=None):
     start = timer()
 
     out_directory_temp = out_directory
@@ -415,8 +415,21 @@ def tensorboard_benchmark(out_directory, config_directory, dataset_directory, bu
                     dataset_path = os.path.join(dataset_directory, dataset_filename)
                     dataset_name = dataset_filename.split('.')[0]
 
-                    print(dataset_path)
+                    lookup_tables = []
+                    for lookup_table in os.listdir(lookup_tables_dir):
+                        if lookup_table.endswith(".txt"):
+                            name = lookup_table.split('.')[0]
+                            table_dir = posixpath.join(lookup_tables_dir, lookup_table)
+                            lookup_tables.append(
+                                {'name': name, 'elements': table_dir}
+                            )
+                    print("Lookup Tables: ", lookup_tables)
+
                     data = training_data.load_data(dataset_path)
+                    lookup_tables = TrainingData(lookup_tables=lookup_tables)
+
+                    data = data.merge(lookup_tables)
+
                     eval_data_size = int(len(data.intent_examples)*0.25)
 
                     nlu_config = config.load(config_path)
@@ -443,10 +456,10 @@ def tensorboard_benchmark(out_directory, config_directory, dataset_directory, bu
 
 if __name__ == '__main__':
     print("start benchmark")
-    out_directory = 'benchmark_output/crossval_test_final'
+    out_directory = 'regex_multilang_withtables'
     config_directory = 'benchmark_sources/configs'
     dataset_directory = 'benchmark_sources/data_to_evaluate'
-    benchmark(out_directory, config_directory, dataset_directory)
+    tensorboard_benchmark(out_directory, config_directory, dataset_directory)
     # tensorboard_benchmark(out_directory, config_directory, dataset_directory)
     # false_positive_dataset_directory = 'benchmark_sources/oldvsoldold'
     # false_positive_benchmark(out_directory, config_directory, false_positive_dataset_directory)

@@ -89,7 +89,7 @@ def sum_results(datasets_results, config_name):
     return benchmark_result
 
 
-def false_positive_benchmark(out_directory, config_directory, dataset_directory, bucket=None):
+def false_positive_benchmark(out_directory, config_directory, dataset_directory, lookup_tables_dir, bucket=None):
     if not os.path.exists(out_directory):
         os.mkdir(out_directory)
     else:
