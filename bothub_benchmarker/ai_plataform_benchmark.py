@@ -45,7 +45,7 @@ def ai_plataform():
     if arguments.use_tensorboard == "True":
         tensorboard_benchmark(arguments.job_id, configs_dir, data_dir, lookup_table_dir, bucket=bucket)
     elif arguments.false_positive_benchmark == "True":
-        false_positive_benchmark(arguments.job_id, configs_dir, data_dir, lookup_table_dir, bucket=bucket)
+        false_positive_benchmark(arguments.job_id, configs_dir, data_dir, bucket=bucket)
     else:
         benchmark(arguments.job_id, configs_dir, data_dir, lookup_table_dir, bucket=bucket)
 
