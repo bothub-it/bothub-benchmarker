@@ -36,6 +36,7 @@ def ai_plataform():
 
     os.makedirs(configs_dir, exist_ok=True)
     os.makedirs(data_dir, exist_ok=True)
+    os.makedirs(lookup_table_dir, exist_ok=True)
 
     download_bucket_folder(bucket, configs_dir, posixpath.join('data', arguments.job_id, 'configs'))
     download_bucket_folder(bucket, data_dir, posixpath.join('data', arguments.job_id, 'data_to_evaluate'))

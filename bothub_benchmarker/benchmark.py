@@ -238,9 +238,22 @@ def generate_folds(
         )
 
 
-def run_benchmark(data_path, n_folds, trainer):  # pragma: no cover
+def run_benchmark(data_path, lookup_tables_dir, n_folds, trainer):  # pragma: no cover
     """Evaluate intent classification and entity extraction."""
+    lookup_tables = []
+    for lookup_table in os.listdir(lookup_tables_dir):
+        if lookup_table.endswith(".txt"):
+            name = lookup_table.split('.')[0]
+            table_dir = posixpath.join(lookup_tables_dir, lookup_table)
+            lookup_tables.append(
+                {'name': name, 'elements': table_dir}
+            )
+    print("Lookup Tables: ", lookup_tables)
+
     data = training_data.load_data(data_path)
+    lookup_tables = TrainingData(lookup_tables=lookup_tables)
+
+    data = data.merge(lookup_tables)
     # data_to_evaluate = drop_intents_below_freq(data_to_evaluate, cutoff=5)
     # get the metadata config from the package data_to_evaluate
     count = 0
@@ -342,7 +355,7 @@ def benchmark(out_directory, config_directory, dataset_directory, lookup_tables_
                     dataset_path = os.path.join(dataset_directory, dataset_filename)
                     dataset_name = dataset_filename.split('.')[0]
 
-                    cross_val_results = run_benchmark(dataset_path, n_folds, trainer)
+                    cross_val_results = run_benchmark(dataset_path, lookup_tables_dir, n_folds, trainer)
                     # utils.write_json_to_file('new_result_test', cross_val_results)
 
                     dataset_result = sum_results(cross_val_results, collect_report=True)
