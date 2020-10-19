@@ -6,5 +6,3 @@ google-cloud-storage==1.29.0
 unidecode==1.1.1
 torch
 torchvision
-google-cloud-storage
-google-api-python-client
