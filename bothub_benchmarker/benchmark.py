@@ -391,7 +391,7 @@ def set_tensorboard(nlu_config, out_directory, eval_examples=100):
     return RasaNLUModelConfig(nlu_config)
 
 
-def tensorboard_benchmark(out_directory, config_directory, dataset_directory, lookup_tables_dir, bucket=None):
+def tensorboard_benchmark(out_directory, config_directory, dataset_directory, lookup_tables_dir=None, bucket=None):
     start = timer()
 
     out_directory_temp = out_directory
@@ -429,13 +429,14 @@ def tensorboard_benchmark(out_directory, config_directory, dataset_directory, lo
                     dataset_name = dataset_filename.split('.')[0]
 
                     lookup_tables = []
-                    for lookup_table in os.listdir(lookup_tables_dir):
-                        if lookup_table.endswith(".txt"):
-                            name = lookup_table.split('.')[0]
-                            table_dir = posixpath.join(lookup_tables_dir, lookup_table)
-                            lookup_tables.append(
-                                {'name': name, 'elements': table_dir}
-                            )
+                    if lookup_tables_dir:
+                        for lookup_table in os.listdir(lookup_tables_dir):
+                            if lookup_table.endswith(".txt"):
+                                name = lookup_table.split('.')[0]
+                                table_dir = posixpath.join(lookup_tables_dir, lookup_table)
+                                lookup_tables.append(
+                                    {'name': name, 'elements': table_dir}
+                                )
                     print("Lookup Tables: ", lookup_tables)
 
                     data = training_data.load_data(dataset_path)
@@ -472,7 +473,8 @@ if __name__ == '__main__':
     out_directory = 'regex_multilang_withtables'
     config_directory = 'benchmark_sources/configs'
     dataset_directory = 'benchmark_sources/data_to_evaluate'
-    tensorboard_benchmark(out_directory, config_directory, dataset_directory)
+    lookup_table_directory = 'benchmark_sources/lookup_tables'
+    tensorboard_benchmark(out_directory, config_directory, dataset_directory, lookup_tables_dir=lookup_table_directory)
     # tensorboard_benchmark(out_directory, config_directory, dataset_directory)
     # false_positive_dataset_directory = 'benchmark_sources/oldvsoldold'
     # false_positive_benchmark(out_directory, config_directory, false_positive_dataset_directory)
