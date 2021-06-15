@@ -1,0 +1,28 @@
+language: "pt_br"
+
+pipeline:
+  - name: "benchmark_sources.components.preprocessing.Preprocessing"
+    language: "pt_br"
+  - name: "benchmark_sources.components.hf_transformer.HFTransformersNLPCustom"
+    model_name: "bert_portuguese"
+  - name: "benchmark_sources.components.lm_tokenizer.LanguageModelTokenizerCustom"
+    "intent_tokenization_flag": False
+    "intent_split_symbol": "_"
+  - name: "benchmark_sources.components.lm_featurizer.LanguageModelFeaturizerCustom"
+  - name: CountVectorsFeaturizer
+    token_pattern: (?u)\b\w+\b
+  - name: "benchmark_sources.components.regex_featurizer.RegexFeaturizerCustom"
+    case_sensitive: False
+  - name: "benchmark_sources.components.diet_classifier.DIETClassifierCustom"
+    random_seed: 11
+    epochs: 100
+    entity_recognition: True
+    BILOU_flag: False
+    number_of_transformer_layers: 2
+    transformer_size: 256
+    drop_rate: 0.2
+    weight_sparcity: 0.8
+    batch_size: [64, 256]
+    embedding_dimension: 20
+    hidden_layer_sizes:
+      text: [256, 64]
