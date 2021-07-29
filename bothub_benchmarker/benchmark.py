@@ -5,7 +5,7 @@ import logging
 from timeit import default_timer as timer
 from rasa.nlu.test import *
 from rasa.nlu.components import Component
-from bothub_benchmarker.utils import upload_folder_to_bucket
+# from bothub_benchmarker.utils import upload_folder_to_bucket
 # from false_positive_benchmark import false_positive_benchmark
 
 
@@ -470,11 +470,11 @@ def tensorboard_benchmark(out_directory, config_directory, dataset_directory, lo
 
 if __name__ == '__main__':
     print("start benchmark")
-    out_directory = 'regex_multilang_withtables'
+    out_directory = 'Test_multilang'
     config_directory = 'benchmark_sources/configs'
     dataset_directory = 'benchmark_sources/data_to_evaluate'
     lookup_table_directory = 'benchmark_sources/lookup_tables'
-    tensorboard_benchmark(out_directory, config_directory, dataset_directory, lookup_tables_dir=lookup_table_directory)
-    # tensorboard_benchmark(out_directory, config_directory, dataset_directory)
+    # tensorboard_benchmark(out_directory, config_directory, dataset_directory, lookup_tables_dir=lookup_table_directory)
+    tensorboard_benchmark(out_directory, config_directory, dataset_directory)
     # false_positive_dataset_directory = 'benchmark_sources/oldvsoldold'
     # false_positive_benchmark(out_directory, config_directory, false_positive_dataset_directory)
