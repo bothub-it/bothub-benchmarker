@@ -24,12 +24,9 @@ class Preprocessing(Component):
     # and should be able to create reasonable results with the defaults.
     defaults = {"language": None}
 
-    def __init__(
-        self, component_config: Optional[Dict[Text, Any]] = None
-    ) -> None:
-        super().__init__(component_config)
-        self.language = component_config["language"]
-
+    def __init__(self, component_config: Optional[Dict[Text, Any]] = None) -> None:
+        super(Preprocessing, self).__init__(component_config)
+        self.language = self.component_config["language"]
 
     @classmethod
     def create(
@@ -47,8 +44,8 @@ class Preprocessing(Component):
             curr_ent = sorted_entities[i]
             next_ent = sorted_entities[i + 1]
             if (
-                    next_ent["start"] < curr_ent["end"]
-                    and next_ent["entity"] != curr_ent["entity"]
+                next_ent["start"] < curr_ent["end"]
+                and next_ent["entity"] != curr_ent["entity"]
             ):
                 return True
         return False
@@ -59,9 +56,21 @@ class Preprocessing(Component):
         for i in range(len(entities)):
             overlap = False
             for j in range(len(entities)):
-                if i != j and (entities[i]['start'] >= entities[j]['start'] and entities[i]['end'] <= entities[j]['end']):
+                if i != j and (
+                    entities[i]["start"] >= entities[j]["start"]
+                    and entities[i]["end"] <= entities[j]["end"]
+                ):
                     overlap = True
-                elif i != j and ((entities[i]['end'] > entities[j]['start'] and entities[i]['start'] < entities[j]['end']) and not (entities[j]['start'] >= entities[i]['start'] and entities[j]['end'] <= entities[i]['end'])):
+                elif i != j and (
+                    (
+                        entities[i]["end"] > entities[j]["start"]
+                        and entities[i]["start"] < entities[j]["end"]
+                    )
+                    and not (
+                        entities[j]["start"] >= entities[i]["start"]
+                        and entities[j]["end"] <= entities[i]["end"]
+                    )
+                ):
                     overlap = True
             if not overlap:
                 new_entities.append(entities[i])
@@ -77,35 +86,32 @@ class Preprocessing(Component):
         not_repeated_phrases = set()
         size = len(training_data.training_examples)
         subtract_idx = 0
-
-        PREPROCESS_FACTORY = PreprocessingFactory().get_preprocess(self.language)
+        language_preprocessor = PreprocessingFactory(self.language).factory()
 
         for idx in range(size):
             example = training_data.training_examples[idx - subtract_idx]
 
-            if 'entities' in example.data and self.do_entities_overlap(example.data['entities']):
-                example.data['entities'] = self.remove_overlapping_entities(example.data['entities'])
-                
-            example_text = example.text
+            if "entities" in example.data and self.do_entities_overlap(
+                example.data["entities"]
+            ):
+                example.data["entities"] = self.remove_overlapping_entities(
+                    example.data["entities"]
+                )
 
-            PREPROCESS_FACTORY.preprocess(example_text)
+            example = language_preprocessor.preprocess(example)
 
-            if example_text in not_repeated_phrases:
+            if example.text in not_repeated_phrases:
                 # remove example at this index from training_examples
                 training_data.training_examples.pop(idx - subtract_idx)
                 subtract_idx += 1
             else:
-                not_repeated_phrases.add(example_text)
-                training_data.training_examples[idx - subtract_idx].text = example_text
+                not_repeated_phrases.add(example.text)
+                training_data.training_examples[idx - subtract_idx].text = example.text
 
     def process(self, message: Message, **kwargs: Any) -> None:
         """Process an incoming message."""
-        APOSTROPHE_OPTIONS = ["'", "`"]
 
-        # remove apostrophe from the phrase (important be first than s_regex regex)
-        for APOSTROPHE in APOSTROPHE_OPTIONS:
-            message.text = message.text.replace(APOSTROPHE, "")
-        
-        PREPROCESS_FACTORY = PreprocessingFactory().get_preprocess(self.language)
-
-        message.text = PREPROCESS_FACTORY.preprocess(message.text)
+        language_preprocessor = PreprocessingFactory(self.language).factory()
+        _message = language_preprocessor.preprocess(message)
+        message.text = _message.text
+        message.data = _message.data

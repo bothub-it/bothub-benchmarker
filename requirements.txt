@@ -6,3 +6,4 @@ google-cloud-storage==1.29.0
 unidecode==1.1.1
 torch
 torchvision
+emoji==0.6.0
