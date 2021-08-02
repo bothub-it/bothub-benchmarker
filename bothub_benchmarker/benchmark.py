@@ -238,7 +238,7 @@ def generate_folds(
         )
 
 
-def run_benchmark(data_path, lookup_tables_dir, n_folds, trainer):  # pragma: no cover
+def run_benchmark(data_path, lookup_tables_dir, n_folds, trainer, path_dataset_log):  # pragma: no cover
     """Evaluate intent classification and entity extraction."""
     lookup_tables = []
     for lookup_table in os.listdir(lookup_tables_dir):
@@ -258,6 +258,7 @@ def run_benchmark(data_path, lookup_tables_dir, n_folds, trainer):  # pragma: no
     # get the metadata config from the package data_to_evaluate
     count = 0
     results = []
+    plot_confidence = []
     for train, test in generate_folds(n_folds, data):
         count += 1
         interpreter = trainer.train(train)
@@ -276,6 +277,7 @@ def run_benchmark(data_path, lookup_tables_dir, n_folds, trainer):  # pragma: no
         successes = True
         errors = True
         if intent_results:
+            plot_confidence.extend(intent_results)
             logger.info("Intent evaluation results:")
             result["intent_evaluation"] = evaluate_intents(
                 intent_results, None, successes, errors
@@ -294,6 +296,10 @@ def run_benchmark(data_path, lookup_tables_dir, n_folds, trainer):  # pragma: no
                 entity_results, extractors, None, False, False
             )
         results.append(result)
+
+    plot_attribute_confidences(
+        plot_confidence, f"{path_dataset_log}_conf.png", "intent_target", "intent_prediction"
+    )
     return results
 
 
@@ -355,12 +361,12 @@ def benchmark(out_directory, config_directory, dataset_directory, lookup_tables_
                     dataset_path = os.path.join(dataset_directory, dataset_filename)
                     dataset_name = dataset_filename.split('.')[0]
 
-                    cross_val_results = run_benchmark(dataset_path, lookup_tables_dir, n_folds, trainer)
+                    path_dataset_log = posixpath.join(out_config_directory, datasets_dir_out, dataset_name)
+                    cross_val_results = run_benchmark(dataset_path, lookup_tables_dir, n_folds, trainer, path_dataset_log)
                     # utils.write_json_to_file('new_result_test', cross_val_results)
-
                     dataset_result = sum_results(cross_val_results, collect_report=True)
-                    utils.write_json_to_file(posixpath.join(out_config_directory, datasets_dir_out, dataset_name + '_benchmark'),
-                                             dataset_result)
+                    utils.write_json_to_file(path_dataset_log + '_benchmark', dataset_result)
+
                     datasets_results.append(dataset_result)
                     datasets_names.append(dataset_filename)
             save_result_by_group(datasets_results, n_folds, out_config_directory, datasets_names)
@@ -470,11 +476,12 @@ def tensorboard_benchmark(out_directory, config_directory, dataset_directory, lo
 
 if __name__ == '__main__':
     print("start benchmark")
-    out_directory = 'Test_multilang'
+    out_directory = 'cross_validation_jazmin_es'
     config_directory = 'benchmark_sources/configs'
     dataset_directory = 'benchmark_sources/data_to_evaluate'
     lookup_table_directory = 'benchmark_sources/lookup_tables'
     # tensorboard_benchmark(out_directory, config_directory, dataset_directory, lookup_tables_dir=lookup_table_directory)
-    tensorboard_benchmark(out_directory, config_directory, dataset_directory)
+    # tensorboard_benchmark(out_directory, config_directory, dataset_directory)
+    benchmark(out_directory, config_directory, dataset_directory, lookup_table_directory, n_folds=5)
     # false_positive_dataset_directory = 'benchmark_sources/oldvsoldold'
     # false_positive_benchmark(out_directory, config_directory, false_positive_dataset_directory)
