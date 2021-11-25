@@ -89,8 +89,6 @@ class HFTransformersNLPCustom(HFTransformersNLP):
                 cache_dir=None,
                 from_pt=from_pt_dict.get(self.model_name, False),
             )
-        from pprint import pprint
-
 
         # Use a universal pad token since all transformer architectures do not have a
         # consistent token. Instead of pad_token_id we use unk_token_id because
@@ -365,4 +363,4 @@ class HFTransformersNLPCustom(HFTransformersNLP):
                     ex.set(LANGUAGE_MODEL_DOCS[attribute], batch_docs[index])
 
                 batch_start_index += batch_size
-                print(f"Current batched: {batch_start_index}")
+                logger.debug(f"Current batched: {batch_start_index}")
