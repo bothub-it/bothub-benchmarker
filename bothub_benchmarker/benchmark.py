@@ -1,11 +1,12 @@
 import os
 import json
 import posixpath
+import pathlib
 import logging
 from timeit import default_timer as timer
 from rasa.nlu.test import *
 from rasa.nlu.components import Component
-# from bothub_benchmarker.utils import upload_folder_to_bucket
+from bothub_benchmarker.utils import upload_folder_to_bucket
 # from false_positive_benchmark import false_positive_benchmark
 
 
@@ -39,8 +40,7 @@ def targets_predictions_from(
     return zip(*[(getattr(r, target_key), getattr(r, prediction_key)) for r in results])
 
 
-# Override
-def evaluate_intents(
+def custom_evaluate_intents(
     intent_results: List[IntentEvaluationResult],
     output_directory: Optional[Text],
     successes: bool,
@@ -258,7 +258,10 @@ def run_benchmark(data_path, lookup_tables_dir, n_folds, trainer, path_dataset_l
     # get the metadata config from the package data_to_evaluate
     count = 0
     results = []
-    plot_confidence = []
+    overall_intents_results = []
+    successes = True
+    errors = True
+
     for train, test in generate_folds(n_folds, data):
         count += 1
         interpreter = trainer.train(train)
@@ -274,12 +277,11 @@ def run_benchmark(data_path, lookup_tables_dir, n_folds, trainer, path_dataset_l
         intent_results, response_selection_results, entity_results, = get_eval_data(
             interpreter, test
         )
-        successes = True
-        errors = True
+
         if intent_results:
-            plot_confidence.extend(intent_results)
+            overall_intents_results.extend(intent_results)
             logger.info("Intent evaluation results:")
-            result["intent_evaluation"] = evaluate_intents(
+            result["intent_evaluation"] = custom_evaluate_intents(
                 intent_results, None, successes, errors
             )
 
@@ -297,8 +299,14 @@ def run_benchmark(data_path, lookup_tables_dir, n_folds, trainer, path_dataset_l
             )
         results.append(result)
 
-    plot_attribute_confidences(
-        plot_confidence, f"{path_dataset_log}_conf.png", "intent_target", "intent_prediction"
+    evaluate_intents(
+        overall_intents_results,
+        f"{path_dataset_log}",
+        successes,
+        errors,
+        "confmat.png",
+        "confhist.png",
+        False
     )
     return results
 
@@ -362,7 +370,10 @@ def benchmark(out_directory, config_directory, dataset_directory, lookup_tables_
                     dataset_name = dataset_filename.split('.')[0]
 
                     path_dataset_log = posixpath.join(out_config_directory, datasets_dir_out, dataset_name)
-                    cross_val_results = run_benchmark(dataset_path, lookup_tables_dir, n_folds, trainer, path_dataset_log)
+                    pathlib.Path(path_dataset_log).mkdir(parents=True, exist_ok=True)
+                    cross_val_results = run_benchmark(
+                        dataset_path, lookup_tables_dir, n_folds, trainer, path_dataset_log
+                    )
                     # utils.write_json_to_file('new_result_test', cross_val_results)
                     dataset_result = sum_results(cross_val_results, collect_report=True)
                     utils.write_json_to_file(path_dataset_log + '_benchmark', dataset_result)
@@ -476,12 +487,18 @@ def tensorboard_benchmark(out_directory, config_directory, dataset_directory, lo
 
 if __name__ == '__main__':
     print("start benchmark")
-    out_directory = 'cross_validation_jazmin_es'
+    out_directory = 'hb_bulgarian'
     config_directory = 'benchmark_sources/configs'
     dataset_directory = 'benchmark_sources/data_to_evaluate'
     lookup_table_directory = 'benchmark_sources/lookup_tables'
-    # tensorboard_benchmark(out_directory, config_directory, dataset_directory, lookup_tables_dir=lookup_table_directory)
+
+    # tensorboard_benchmark(
+    #     out_directory,
+    #     config_directory,
+    #     dataset_directory,
+    #     lookup_tables_dir=lookup_table_directory
+    # )
     # tensorboard_benchmark(out_directory, config_directory, dataset_directory)
-    benchmark(out_directory, config_directory, dataset_directory, lookup_table_directory, n_folds=5)
+    # benchmark(out_directory, config_directory, dataset_directory, lookup_table_directory, n_folds=3)
     # false_positive_dataset_directory = 'benchmark_sources/oldvsoldold'
     # false_positive_benchmark(out_directory, config_directory, false_positive_dataset_directory)

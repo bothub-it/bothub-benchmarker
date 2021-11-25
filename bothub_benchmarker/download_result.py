@@ -4,6 +4,7 @@ import posixpath
 from utils import get_train_job_status, download_folder_structure_from_bucket, connect_to_storage, bothub_bucket
 from argparse import ArgumentParser
 
+
 def download_benchmark_result(job_id, dl_path):
     status = {
         "QUEUED": 1,

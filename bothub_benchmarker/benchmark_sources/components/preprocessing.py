@@ -1,4 +1,3 @@
-import re
 from typing import Any, Optional, Text, Dict, List, Type
 
 from rasa.nlu.components import Component

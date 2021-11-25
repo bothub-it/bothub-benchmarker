@@ -21,11 +21,26 @@ def send_job_train_ai_platform(
 
     bucket = connect_to_storage('bothub_benchmark')
 
-    upload_folder_to_bucket(bucket, configs_dir, posixpath.join('data', job_id, 'configs'), recursive_upload=False)
-    upload_folder_to_bucket(bucket, datasets_dir, posixpath.join('data', job_id, 'data_to_evaluate'), recursive_upload=False)
-    upload_folder_to_bucket(bucket, lookup_tables_dir, posixpath.join('data', job_id, 'lookup_tables'), recursive_upload=False)
+    upload_folder_to_bucket(
+        bucket,
+        configs_dir,
+        posixpath.join('data', job_id, 'configs'),
+        recursive_upload=False
+    )
+    upload_folder_to_bucket(
+        bucket,
+        datasets_dir,
+        posixpath.join('data', job_id, 'data_to_evaluate'),
+        recursive_upload=False
+    )
+    upload_folder_to_bucket(
+        bucket,
+        lookup_tables_dir,
+        posixpath.join('data', job_id, 'lookup_tables'),
+        recursive_upload=False
+    )
 
-    package_uris = ["gs://bothub_benchmark/bothub_benchmarker-1.0.0.tar.gz"]
+    package_uris = ["gs://bothub_benchmark/bothub_benchmarker-1.1.0.tar.gz"]
     if use_spacy:
         package_uris.append("gs://bothub_benchmark/pt_nilc_word2vec_cbow_600-1.0.0.zip")
 
