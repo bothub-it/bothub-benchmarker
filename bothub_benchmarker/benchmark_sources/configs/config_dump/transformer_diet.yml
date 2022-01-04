@@ -1,0 +1,13 @@
+language: "pt_br"
+
+pipeline:
+  - name: "benchmark_sources.components.preprocessing.Preprocessing"
+    language: "pt_br"
+  - name: WhitespaceTokenizer
+  - name: CountVectorsFeaturizer
+    token_pattern: (?u)\b\w+\b
+  - name: "benchmark_sources.components.diet_classifier.DIETClassifierCustom"
+    epochs: 150
+    entity_recognition: True
+    BILOU_flag: False
+    random_seed: 15

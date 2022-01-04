@@ -1,0 +1,700 @@
+
+## intent:sexual_exploitation
+- exploração sexual [adolescente](teenager)
+- explorada sexualmente
+- [pena](punishment) [quem](who) contrata prostituta
+- [denunciar](report) exploraçao sexual [criança](child)
+- exploraçao sexual
+- sexo dinheiro
+- [Brasil](brazil) crime relação sexual dinheiro
+- prostituição [brasil](brazil)
+- [pena](punishment) [quem](who) prostitui
+- prostituicao [infantil](child)
+- garoto programa
+- exploraçao secxual
+- [falar policia](report) [onde](where) exploração sexual
+- prostituicao
+- Eu posso ser preso por me [prostituir](sexual_violence)
+- prostituição [medo presa](punishment)
+- Eu estou preso por me [prostituir](sexual_violence)
+- Preciso de ajuda para sair da [prostituição](sexual_violence), mas tenho medo de ser preso
+- meu vizinho é um [cafetão](sexual_violence)
+- pontos prostituição
+- exploração sexual [menores](child)
+- contratar prostituta
+- perto da minha casa tem [prostituição](sexual_violence) [infantil](child)
+- Posso relatar um ponto de [prostituição](sexual_violence) anonimamente
+- prostituição [juvenil](teenager) [brasil](brazil)
+- idade pessoa [brasil](brazil) prostituir
+- prostituição legal
+- prostituição dinheiro [brasil](brazil)
+- [reportar](report) exploração sexual
+- exploração sexcual
+- Ser [prostituta](sexual_violence) no Brasil é crime
+- [presa](punishment) prostituir [brasil](brazil)
+- ponto exploração sexual
+- prostituição
+- onde posso denunciar [exploração sexual](sexual_violence) [infantil](child)
+- prostituir
+- prostituicao [infantil](child) [brasil](brazil)
+- [denunciar](report) exploração sexual
+- [onde](where) [denunciar](report) cafetinagem
+- sexo [adolescente](teenager) dinheiro [pais](parents)
+- local exploração sexual
+- [preso](punishment) contratar prostituta
+- cafetinagem
+- prostituição [infantil](child)
+- explorado sexualmente
+- prostituição legal [brasil](brazil)
+- garota programa
+- Acho que meu vizinho está [explorando](sexual_violence) sua [enteada](child)
+- relação sexual dinheiro
+- [falar policia](report) [onde](where) prostituição
+- [prostituição](sexual_violence) legalizada
+- exploração sexual [infantil](child)
+- [adolescente](teenager) sexo dinheiro
+
+## intent:violence
+- não posso denunciar [dependo](financial_dependence) dele
+- [perseguindo internet](virtual_aggression)
+- [quais os tipos](what_kind)?
+- [dependo](financial_dependence) dele para viver
+- policia [punir](punishment) [marido](husband)
+- [depender](financial_dependence)
+- [onde](where) [denunciar](report) [padrasto](father_in_law)
+- [quando](when) [denunciar](report)
+- [onde](where) [denuncia](report)
+- bater [filhos](children)
+- [agredida lesbica](homophobia)
+- [o que é](what) [violencia de genero](gender_violence)
+- [abusada](sexual_violence)
+- [violência criança](child_violence)
+- marido agrediu público
+- esfaqueado
+- [quando](when) [denunciar](report) [abuso sexual](sexual_violence)
+- [ir hospital](medical_care) [estupro](sexual_violence)
+- violência [adolescentes](teenager)
+- [padrasto bateu](domestic_violence)
+- agredida [socorro](medical_care)
+- [adolecentes](teenager)
+- [abusada](sexual_violence) [recorrer](report)
+- [dependência](financial_dependence)
+- [dependente](financial_dependence)
+- doeu
+- [atendimento](medical_care) [violência sexual](sexual_violence)
+- esmurrou
+- [denunciar](report) [marido](husband) [estuprar](sexual_violence) [filha](daughter) [adolescente](teenager)
+- [vizinha](neighbor) espanca [filhos](children)
+- [agrediu casa](domestic_violence)
+- [violencia domestica](domestic_violence)
+- quais tipos [violencia domestica](domestic_violence)
+- vitima [homofobia](homophobia)
+- [violencia redes sociais](virtual_aggression)
+- [sexual contra mulheres](sexual_violence)
+- surra [irmão](brother)
+- [caluniar internet](virtual_aggression)
+- [agressão em casa](domestic_violence)
+- pisaram
+- [dependencia](financial_dependence)
+- [denunciar](report) [pai](father) [violencia domestica](domestic_violence)
+- [eu quero fazer denuncia](report)
+- [estuprada](sexual_violence) [atendimento](medical_care)
+- [assistencia](free_legal_assistance)
+- sangrando
+- [Sexual contra mulheres](sexual_violence)
+- vizinho [violentou](sexual_violence) [adolescente](teenager)
+- [filha](daughter) [abusada](sexual_violence)
+- [calunia internet](virtual_aggression)
+- [menor de idade](child)
+- [onde](where) encontrar apoio
+- [infantil](child)
+- violência [infantiu](child)
+- [vazar nudes](virtual_aggression)
+- levei tiro
+- quebrado dentes
+- [marido machucou](domestic_violence)
+- [denuncia-lo](report) [dependo](financial_dependence)
+- [agredido pelo pai](domestic_violence)
+- [advogado graça](free_legal_assistance)
+- [pai bate](domestic_violence) [mãe](mother)
+- [pena](punishment) por agressão
+- agredida [atendimento](medical_care)
+- [vizinho](neighbor) [violenta](sexual_violence) [filho](son)
+- [adolecente](teenager)
+- [punir](punishment) violência
+- [maria da penha](maria_da_penha)
+- [falou mal internet](virtual_aggression)
+- [Sexual contra](sexual_violence) [adolescentes](teenager)
+- [quem](who) [maria da penha](maria_da_penha)
+- [penas](punishment) agressor
+- [medida protetiva](protection)
+- fui machucada [pai](father)
+- [difamou internet](virtual_aggression)
+- [filho espancado](child_violence) escola
+- [mãe](mother) [depende](financial_dependence) [pai](father) sobreviver
+- [pai](father) [espancou gay](homophobia)
+- [esposo](husband)
+- [dependência financeira](financial_dependence)
+- [o que](what) [violencia sexual](sexual_violence)
+- [denunciar](report) [marido](husband)
+- facadas [adolescente](teenager)
+- presenciei caso violência
+- [filha](daughter) [caluniada internet](virtual_aggression)
+- [agredido pela mãe](domestic_violence)
+- [denunciar](report) [estupro](sexual_violence)
+- [provar](aggression_evidences) [pai bateu](domestic_violence)
+- [marido](husband)
+- [violência domestica](domestic_violence)
+- [violencia sexual](sexual_violence)
+- [quais tipos](what_kind) [violencia domestica](domestic_violence)
+- [advogado](free_legal_assistance) [denunciar](report) violencia
+- violencia [infantil](child)
+- [como](how) [denunciar](report) [padrasto](father_in_law)
+- [o que é](what) [violencia sexual](sexual_violence)
+- [como](how) [medida protetiva](protection)
+- [denunciar](report) [esposo](husband) [violentar](sexual_violence)
+- [tio](uncle) bateu
+- violência
+- [denunciar](report) [filhos abandonados](child_abandonment)
+- xingaram
+- a criança foi [espancada](domestic_violence) na frente dos pais
+- [dependo dele](financial_dependence)
+- [sexual contra](sexual_violence)
+- [denunciar](report) [violencia domestica](domestic_violence)
+- esfaquearam [pequeno](child)
+- Eu sou um imigrante e meu filho é [atacado](child_violence) na escola
+- e se eu for homofóbico com alguém
+- [denunciar](report) [violência doméstica](domestic_violence)
+- [provar](aggression_evidences) bateu
+- [vizinho](neighbor) [violentou](sexual_violence) [adolescente](teenager)
+- [denunciá-lo](report)
+- [assistência](free_legal_assistance)
+- [como](how) [denunciar](report) [pai](father)
+- [perseguição trans](homophobia)
+- Eles me disseram que se eu voltasse eles me espancariam até a morte
+- [como](how) [criança](child) [abusada](sexual_violence)
+- [assistencia legal](free_legal_assistance)
+- surra [pai](father)
+- [filha](daughter) [adolescente](teenager) [abusada](sexual_violence)
+- [médico cortou](medical_care)
+- [apanhar gay](homophobia)
+- [violencia doméstica](domestic_violence)
+- [onde](where) encontrar [apoio](protection)
+- violência [infantil](child)
+- [expor internet](virtual_aggression)
+- chicotadas
+- bateu [bb](child)
+- [medicamentos](medicine) [estupro](sexual_violence)
+- ele [violentou](sexual_violence) [minha menina](daughter)
+- [denunciar](report)
+- [proteção](protection) [denunciar](report) [parceiro](husband)
+- [agressão doméstica](domestic_violence)
+- violencia
+- [violencia mulher](gender_violence)
+- [agredido sexualidade](homophobia)
+- [violentou](sexual_violence)
+- [marido](husband) [expor internet](virtual_aggression)
+- sexual contra [adolescentes](teenager)
+- coragem bater [criança](child)
+- Eu estava bêbado e eles me [estupraram](sexual_violence)
+- [onde](where) [denunciar](report)
+- [profilexia pós-exposição](medical_care) [estupro](sexual_violence)
+- [machismo](gender_violence)
+- [quais tipos](what_kind) [violencia genero](gender_violence)
+- [provar](aggression_evidences) [marido bateu](domestic_violence)
+- [denunciar](report) meu [marido](husband)
+- [transfobia](homophobia)
+- [infantiu](child)
+- [filhos abandonados](child_abandonment)
+- [vazar conversa internet](virtual_aggression)
+- [Lei 11340](maria_da_penha)
+- bater [criança](child)
+- [pai bateu](domestic_violence)
+- [difamação internet](virtual_aggression)
+- [denunciar](report) violencia [criança](child)
+- quebraram braço
+- [tio quebrou perna](domestic_violence) minha
+- [vazar internet](virtual_aggression)
+- [filha](daughter) [violentada](sexual_violence)
+- [quando](when) posso [denunciar](report)
+- [o que é](what) [maria da penha](maria_da_penha)
+- [vizinha](neighbor) abandona [criança](child)
+- [dependencia financeira](financial_dependence)
+- [assistencia legal](free_legal_assistance) agressão
+- [filhos abandonados](child_violence)
+- tiro
+- [punição](punishment) violencia
+- [penas](punishment) agressão
+- [provar agressão](aggression_evidences)
+- [o que](what) [violencia domestica](domestic_violence)
+- [denuncia anonima](report)
+- [denunciar](report) [mãe](mother) [violencia domestica](domestic_violence)
+- cortou
+- [ex marido](ex_husband) [protecao](protection)
+- o que é [violência domestica](domestic_violence)
+- [violência em casa](domestic_violence)
+- [apoio juridico](free_legal_assistance) [denunciar](report) agressão
+- [denunciar](report) [violencia sexual](sexual_violence)
+- [mae](mother) [homofobica](homophobia)
+- [denunciar](report) [abuso](sexual_violence)
+- [homofobia](homophobia) [brasil](brazil)
+- [proteção](protection) contra [ex marido](ex_husband)
+- sofreu agressão verbal por ser imigrante
+- bateram
+- [apanhei gay](homophobia)
+- violência contra [adolescentes](teenager)
+- [fui violentada](sexual_violence) [atendimento médico](medical_care)
+- [doméstica](domestic_violence)
+- [irmão](brother) bateu
+- medo [denunciar](report)
+
+## intent:pregnancy
+- Estou grávida e preciso de um [médico](medical_care)
+- [ir maternidade](medical_care)
+- [bolsa rompeu](medical_care)
+- [fazer pre-natal](medical_care)
+- ter filho
+- placenta
+- [atendimento](medical_care) gravidez
+- Não tenho [documentos brasileiros](brazilian_document) mas preciso fazer pré-natal
+- Eu preciso registrar um [recém-nascido](child)
+- [bolsa estourou](medical_care)
+- [gravida meses](medical_care)
+- contrações
+- estou grávida
+- Eu engravidei minha namorada cedo
+- aborto
+- [esposa](mother) grávida [atendimento médico](medical_care)
+- grávida
+- [documentos brasileiros](brazilian_document) bebê
+- [documentos](brazilian_document) pre natal
+- Eu preciso encontrar um [hospital](medical_care) para ter um [filho](child)
+- dar a luz
+- Tenho que registrar um [recém-nascido](child), mas estou sem meus documentos
+- minhas contrações são fortes
+- engravidou [filho](children)
+- gravidez [adolescencia](teenager)
+- [parto](medical_care)
+- abordo espontaneo
+- nascimento
+- [documentos](brazilian_document) [parir](medical_care) [filho](son)
+- como faço para dar luz
+- menstruação atrasada
+- [medico](medical_care) gravida
+- [atendimento](medical_care) gravida
+- Um [bebê](child) nascido no Brasil tem direitos brasileiros
+- [pre natal](medical_care) [filho](son)
+- hospital filho
+- prematuro
+- nascer
+- [dar luz](medical_care)
+- meus pais são estrangeiros, quais são os meus direitos
+- [médico gravida](medical_care)
+- parar menstruar
+- [filha](daughter) embuchou
+- dar a luz [filho](son) [brasil](brazil)
+- [obstetra](medical_care)
+- [direitos](free_legal_assistance) bebe nascer [brasil](brazil)
+- gravidas usar [preservativos](condoms)
+- [pré-natal](medical_care)
+- [pre natal](medical_care)
+- Eu preciso de [assistência médica](medical_care) porque estou grávida
+- gravidas [preservativo](condoms)
+- parar de menstruar es normal
+- hospital dar luz
+- [maternidade](medical_care)
+- meu bebê está nascendo
+- ter [bebe](son) [brasil](brazil)
+- Fui [estuprada](sexual_violence) e estou grávida, não quero o [bebê](child)
+- [maternidade atende sus](medical_care)
+- [documentos brasileiros](brazilian_document) [fazer pré-natal](medical_care)
+- Eu posso ir para qualquer maternidade
+- [placenta estourou](medical_care)
+- namorada bolsa rompeu
+- engravidei [filho](children)
+- [trabalho parto](medical_care)
+- o teste de gravidez é confiável
+- [filho](children) nasceu
+- [previnir gravidez](condoms)
+- [placenta estourada](medical_care)
+- Eu posso fazer meu parto em casa
+- estou em trabalho de parto
+- [teste gravidez](medical_care)
+- [obstetrícia](medical_care)
+- [filho](children) nascer [brasil](brazil)
+- onde encontro teste de gravidez
+- engravidou
+- estou gravida
+- minha esposa está em trabalho de parto
+- Que documentos devo trazer para a maternidade
+- infertilidade
+- [sangramento](medical_care) gravidez
+- cordão umbilical
+- Sou estrangeiro e meu filho nasceu no Brasil, quais são os direitos dele
+- [documentos brasileiros](brazilian_document) [pré-natal](medical_care)
+- hospital parir
+- recem nascido
+- buchuda [camisinha](condoms)
+- namorada buchuda vestir [camisinha](condoms)?
+- ter [bebe](son)
+
+## intent:immigration
+- [condição refugiado](refuge)
+- [parente](relative) [abrigo](refuge)
+- [doação roupas](clothes_donation)
+- [filho](son) [atendimento médico](medical_care)
+- [desnutrição](medical_care)
+- [alojamento](refuge)
+- [posto de saúde](medical_care)
+- mudar [brasil](brazil)
+- [vacinação](vaccination)
+- achar [emprego](work)
+- [emprego](work)
+- [trabalharei](work)
+- [mudar de cidade](relocation)
+- [CPF](brazilian_document)
+- [trabalhar](work) [como](how) [medico](medical_care)?
+- cidadania brasileira
+- [quanto tempo](how_long)
+- [cpf](brazilian_document)
+- [refugiar](refuge)
+- [CPF](brazilian_document) [quanto custa](how_much)
+- [quantos dias](how_many)
+- [doação calças](clothes_donation)
+- [trabalho](work)
+- [alojamento passagem](refuge)
+- [camisa](clothes_donation)
+- cidadao
+- [abrigar](refuge)
+- [trabalho](work) brasil
+- [em que local](where)
+- fronteira brasil
+- [camisas](clothes_donation) e [bermudas](clothes_donation)
+- [custa](how_much) [documentos](brazilian_document)
+- estou [sem roupas](clothes_donation)
+- [camisas](clothes_donation) para [doação](clothes_donation)
+- [empregar](work)
+- esou [precisando de roupas](clothes_donation)
+- [trazer](refuge) [filhos](children)
+- trazer [familia](family)
+- [vacinacão](vaccination)
+- [realocação](relocation)
+- [lugar p dormir](refuge)
+- [certidão de nascimento](brazilian_document) [filho](son)
+- [doação camisas](clothes_donation)
+- [até quando](when) brasil
+- tirar [rg](brazilian_document)
+- onde posso ter acesso a [serviços médicos](medical_care) gratuitos
+- [quebrei perna](medical_care)
+- [documentação](brazilian_document)
+- [carteira de trabalho](brazilian_document)
+- [posto de saúde](medical_care) brasil
+- [serviço médico](medical_care) gratuito
+- [trabalhar](work)
+- [vacinaçao](vaccination)
+- [abrigo](refuge) país
+- [posto de saude](medical_care)
+- [quanto custa](how_much) [RG](brazilian_document)
+- Como posso regularizar minha situação no Brasil
+- [refugio](refuge) para [familia](family)
+- [passando mal](medical_care)
+- [regularização](brazilian_document) situação
+- cheguei brasil
+- [quantos meses](how_long)
+- [trazer](refuge) [pais](parents)
+- [doar calsas](clothes_donation)
+- permanecer
+- Estou separada da minha familia no brasil
+- [refugio](refuge) p/ [familia](family)
+- [familia](family) [lugar pra dormir](refuge)
+- morar pais
+- [vacinacao](vaccination)
+- [irmão](brother) precisa [identidade](brazilian_document)
+- mudar [familia](family)
+- [abrigado](refuge)
+- [familia](family) [mudar cidade](relocation)
+- imigracao
+- [O que significa](what_kind) ser um solicitante de refúgio no Brasil
+- [refúgio](refuge) para [família](family)
+- o [Brasil](brazil) [recebe imigrantes](refuge)
+- [onde](where) [posto de saude](medical_care) [vacinação](vaccination)
+- [roupas doadas](clothes_donation)
+- permanecer brasil
+- [refúgio](refuge)
+- [local para descansar](refuge)
+- [trabalhando](work)
+- [vacina](vaccination) [filha](daughter)
+- imigrante [aquecer](clothes_donation)
+- onde posso obter [medicamentos](medical_care)
+- [solicitante refugio](refuge)
+- [vacinar](vaccination) [filho](son)
+- [posto de saude](medical_care) [sus](brazilian_document)
+- [vacinação](vaccination) [pai](father) [mãe](mother)
+- morar brasil
+- cidadão brasileiro
+- [medicamento](medicine)
+- [solicitante refugio](refuge) [brasil](brazil)
+- morar [quando](when)
+- encontrar [emprego](work)
+- [refúgio](refuge) país
+- [regularizar](brazilian_document)
+- [quem](who) imigrar
+- [ctps](brazilian_document)
+- [carteira motorista](brazilian_document)
+- [família](family) [abrigo](refuge)
+- [como](how) [documentos brasileiros](brazilian_document)
+- [tratamentos médicos](medical_care)
+- quais organizações podem me ajudar no brasil
+- [mudar de pais](relocation)
+- [quantos](how_many)
+- [refugio](refuge) brasil
+- [quais](what_kind) solicitações
+- permanece país
+- [consulta](medical_care)
+- [realocar](relocation)
+- [parentes](relative) [lencóis](clothes_donation)
+- [remédios](medicine)
+- [certidão](brazilian_document)
+- [agalashos](clothes_donation) e [lençois](clothes_donation)
+- indo pais
+- [medicamentos](medicine)
+- [como](how) faço [mudar para](relocation)
+- [preciso roupas](clothes_donation)
+- [desnutrido](medical_care)
+- [quais](what_kind) etapas solicitação [refúgio](refuge)
+- [calças doar](clothes_donation)
+- [cert de nascimento](brazilian_document)
+- atravessar fronteira
+- [família](family) [documentos](brazilian_document) [remedios](medicine)
+- [documentação exigida](brazilian_document)
+- vou pais
+- [lugar pra dormir](refuge)
+- [certidao de nascimento](brazilian_document)
+- [acesso medicação](medicine)
+- [remédio](medicine)
+- [realocacao](relocation)
+- [cnh](brazilian_document)
+- qual é a diferença entre solicitar o status de refugiado e solicitar residência temporária
+- [lençois](clothes_donation)
+- [doacao roupas](clothes_donation)
+- [familia](family) [medicamentos](medicine)
+- [vacina](medicine)
+- [acesso medico](medical_care)
+- [família](family) [roupas](clothes_donation)
+- [trazer](refuge) [familia](family)
+- [quais](what_kind) passos [regularização](brazilian_document)
+- trazer [parente](relative)
+- [onde](where) [atendimento](medical_care)?
+- [tratamento hospitalar](medical_care)
+- [cuidados](medical_care)
+- [abrigo](refuge) morar
+- indo brasil
+- pagar [documentos](brazilian_document)
+- [vacina](vaccination)
+- [doar roupas](clothes_donation)
+- [quais](what_kind) processos [regularização](brazilian_document)
+- cidadã pais
+- [crianças](children) [ficaram](refuge)
+- imigração
+- [registro geral](brazilian_document)
+- cheguei pais
+- [alojados](refuge)
+- [agasalhos](clothes_donation)
+- [empregador](work)
+- [irregular](brazilian_document)
+- [remedio](medicine) graça
+- [filha](daughter) [SUS](brazilian_document)
+- [cadastro pessoa fisica](brazilian_document)
+- [aquecer](clothes_donation)
+- [local p descansar](refuge)
+- [local para dormir](refuge) brasil
+- para ficar no brasil é preciso [vacinar](vaccination)
+- vou brasil
+- [rg](brazilian_document)
+- [lençol](clothes_donation)
+- mudar [pais](family)
+- [doar camisa](clothes_donation)
+- [Cpf](brazilian_document)
+- [o que](what) atravessar fronteira
+- [agasalho](clothes_donation)
+- [medicamentos gratuitos](medicine)
+
+## intent:bias
+- [quais](what_kind)
+- de
+- da
+- não quero
+- nao
+- [o que é](what)
+- no
+- pelo
+- não
+- em casa
+- em
+
+## intent:hiv
+- [tratamento](medical_care) aids hiv
+- [apoio sus](medical_care) aids
+- [teste aids](medical_care)
+- [tratamento soro positivo](medicine)
+- [profilaxia](medicine)
+- pagar [tratamento hiv](medical_care) [brasil](brazil)
+- sintomas aids
+- [teste hiv](medical_care)
+- pagar [tratamento](medical_care) hiv aids
+- AIDS
+- [sexualmente transmissível](medical_care)
+- ist
+- [Profilaxia Pós-Exposição](medicine)
+- [coquetel antirretroviral](medicine)
+- sintomas hiv
+- [remedio](medicine) aids
+- [prep](medicine)
+- [tratar](medical_care) aids
+- apoio hiv
+- prevenção aids
+- Eu fiz sexo sem camisinha e acho que meu parceiro está [doente](medical_care)
+- como tomar coquetel
+- hiv
+- [profilaxia pos exposição](medicine)
+- prevenção hiv
+- dst
+- [profilaxia pre exposição](medicine)
+- como eu sei que a preparação foi bem sucedida
+- [tratamento](medical_care) brasileiro HIV
+- [coquetel](medicine) hiv aids
+- [pep](medicine)
+- [onde](where) [prep](medicine)
+- soro positivo
+- sexo proteção doente
+- direito [tratamento](medical_care) aids
+- [remedio](medicine) hiv
+- [apoio](medical_care) [governo brasileiro](brazil) hiv
+- [tomar coquetel](medicine)
+- tenho hiv
+- sexo sem proteção
+- [tratamento](medical_care) HIV AIDS
+- [onde](where) [tomar coquetel](medicine)
+- [Profilaxia Pré-Exposição](medicine)
+- [prep posto saude](medicine)
+- vivo hiv
+
+## intent:lgbti
+- [expulsou casa](refuge) gay
+- bissexual
+- como funciona el pedido de refugio para gays
+- Eu quero fazer uma [reclamação](report) de homofobia
+- [homofobia](homophobia) crime
+- [perseguição gay](homophobia)
+- [agredida lesbica](homophobia)
+- [neofaloplastia](medical_care)
+- [tratamento hormonal](hormonal_treatment)
+- [familia](family) [homofobica](homophobia)
+- [denunciar](report) [homofobia](homophobia)
+- lgbtqi+
+- [direito](protection) lgbti
+- [depressão](medical_care) gay
+- gls
+- [vizinho](neighbor) [homofobico](homophobia)
+- Eu quero fazer transgenitalização pelo [SUS](medical_care)
+- [denunciar](report) preconceito
+- [remedio](medicine) transição sexo
+- Antes de morar no Brasil fiz tratamento hormonal
+- [família](family) [homofóbica](homophobia)
+- nao binario
+- vitima [homofobia](homophobia)
+- gay [abrigo](refuge)
+- [perseguição sexualidade](homophobia)
+- [agredido gay](homophobia)
+- [agressão gay](homophobia)
+- [tratamento depressão](medical_care) gay
+- lgbti
+- sapatão
+- [tratamento](medical_care) [brasil](brazil)
+- [readequação sexual](medical_care)
+- [brasil](brazil) não binario
+- [tratamento hormonal](hormonal_treatment) [brasil](brazil) sus
+- [direitos lgbti](protection)
+- [transgenitalização](medical_care)
+- [onde](where) [denunciar](report) [homofobia](homophobia)
+- [tratamento hormonal](hormonal_treatment) [brasil](brazil)
+- [documento](brazilian_document) [mudança sexo](medical_care)
+- drag
+- [onde](where) [abrigo](refuge) gay
+- [brasil](brazil) [tratamento hormonal](hormonal_treatment)
+- [pai](father) [espancou gay](homophobia)
+- homossexual
+- [onde](where) [denunciar](report) [homofobia?](homophobia)?
+- Sofri [assédio](sexual_violence) no meu país por causa da minha sexualidade
+- [abrigo](refuge) gay
+- [transfobia](hormonal_treatment)
+- direitos lgbt [brasil](brazil)
+- [transição genero](medical_care)
+- [documentos](brazilian_document) transição
+- [refugio](refuge) gay
+- persseguição gay
+- [pai](father) [homofobico](homophobia)
+- [preconceito gay](homophobia)
+- bicha
+- [pais](parents) [homofóbicos](homophobia)
+- lesbica
+- Como me identificar no Brasil, não sou binária
+- lgbt
+- [processo transição genero](medical_care)
+- [direito](protection) gay
+- [Metoidioplastia](medical_care)
+- [redesignaçao genero](medical_care)
+- auxilio [tratamento hormonal](hormonal_treatment)
+- quais [documentos](brazilian_document) são necessários para fazer uma transição sexual
+- fazer tratamento hormonal [brasil](brazil)
+- casamento lgbti
+- [mudanca genero](medical_care) sus
+- auxilio [brasileiro](brazil) [tratamento hormonal](hormonal_treatment)
+- continuar [tratamento hormonal](hormonal_treatment)
+- [expulso gay](homophobia)
+- lgbtq
+- [piadinhas trans](homophobia)
+- [perseguição trans](homophobia)
+- casamento gay
+- gays
+- [emprego](work) trans
+- Como posso iniciar o processo de transição de gênero
+- [bullying gay](homophobia)
+- [apanhar gay](homophobia)
+- [ambulatoriais transsexuais](medical_care)
+- gay
+- [agredido sexualidade](homophobia)
+- lesbicas
+- tratamento hormonal graça
+- [apanhar ser gay](homophobia)
+- [tratamento hormonal](hormonal_treatment) sus
+- deprimido gay
+- [homofobia](homophobia)
+- [readequação sexual](medical_care) sus
+- gay saber [onde](where) encontrar apoio
+- [denunciar](report) [transfobia](homophobia)
+- quais são as [cirurgias](medical_care) de mudança de sexo disponíveis no brasil
+- ser [homofobico](homophobia)
+- [piadinhas lesbica](homophobia)
+- [readequação sexual tratamento](medical_care)
+- [mudar gênero](hormonal_treatment)
+- pedir [tratamento hormonal](hormonal_treatment) sus
+- [tratamento para hormônio](hormonal_treatment)
+- travesti
+- [o que é](what) [tratamento hormonal](hormonal_treatment)
+- [tratamento hormonal](hormonal_treatment) trans
+- [mudança sexo](medical_care)
+- [piadinhas gay](homophobia)
+- queer
+- [apanhei homossexual](homophobia)
+- gender fluid
+- [continuar tratamento hormonal](hormonal_treatment)
+- [mae](mother) [homofobica](homophobia)
+- [homofobia](homophobia) [brasil](brazil)
+- [apanhei gay](homophobia)
+- [homofobicos](homophobia)
+- [mastectomia](medical_care)
+- perseguição lgbti
+- vítima [homofobia](homophobia)
+- lgbtqi
+- [brasil](brazil) [refugio](refuge) gay

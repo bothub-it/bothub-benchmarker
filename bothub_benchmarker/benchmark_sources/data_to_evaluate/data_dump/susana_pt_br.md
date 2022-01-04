@@ -1,0 +1,1414 @@
+
+## intent:change
+- editar cpf
+- [trocar](change) de [cnpj](document)
+- outro contrato
+- meu documento precisa ser mudado
+- preciso mudar os meus dados
+- é necessário uma mudança nos meus dados
+- [mudar](change) de [cpf](document)
+- atualizo dados
+- onde atualizo meus dados
+- mudar dados
+- Troca o dia de  vencimento
+- [mudar](change) de [contrato](contract)
+- tem algo errado no meu cpf
+- [trocar](change) de [cpf](document)
+- errado cpf
+- como mudo o numero de contato?
+- Quero outro [contrato](contract)
+- trocar contato
+- mudar o vencimento de fatura
+- quero [trocar](change)
+- como faço para alterar meus dados
+- preciso mudar os dados
+- quero alternar o número do cpf
+- alterar cpf
+- alterar dados
+- mudança dados
+- outro contato
+- quero editar o meu cpf
+- posso [mudar](change)?
+- [troca](change) [cpf](document)
+- quero trocar meu documento
+- preciso mudar o meu cnpj
+- cpf inválido
+- Pedi para mudar a data fo meu boleto  e nao mudaram
+- atualizar documento
+- [mudança](change) de [cnpj](document)
+- Trocar Contrato
+- [trocar](change) [contrato](contract)
+- o meu cnpj está invalido
+- quero mudar meu cpf
+- posso atualizar o meu documento
+
+## intent:compliment
+- voce está de parabens
+- muito [bonitinha](compliments) você é viu gata
+- muito obrigado [amor](compliments)
+- você é muito [linda](compliments)
+- que inteligência [arrasadora](compliments)
+- Já foi resolvido já obrigado
+- [muito bom](compliments)
+- nota 10
+- Nossa que [legal](compliments)
+- vc é um [amor](compliments)
+- [muito bom](compliments) parabéns
+- amei as coisas
+- [bonita](compliments) demais vei
+- adorei o seu trabalho
+- mt bom
+- [arrasadora](compliments)
+- uma [querida](compliments) vc
+- que [bonita](compliments) sua roupa
+- amei
+- você é bastante [eficaz](compliments)
+- me ajudou bastante
+- obrigada por me ajudar
+- bem legal adorei
+- linda
+- ótimo susana
+- a conversa foi muito boa
+- muito obrigado, você é dez!
+- oba! q [legal](compliments)
+- Que [maravilha](compliments)!
+- você está de [parabéns](compliments)
+- Nossa [adorei](compliments) isso
+- valeu pela ajuda
+- gostei muito do resultado
+- muito bem
+- botou pocando!! valeu
+- obgd
+- [querida](compliments) eu preciso de ajuda
+- [linda](compliments)
+- vocês tem um projeto maravilhoso, parabens
+- muito [interessante](compliments)
+- obrigada pelo cuidado
+- muito obrigado [linda](compliments)
+- Ok agradeço!
+- isso é bastante [interessante](compliments)
+- a conversa foi mto boa
+- esse robo é muito [eficiente](compliments)
+- Esta serto obrigado
+- parece [eficaz](compliments)
+- Ok obrigada !
+- muito bom, adorei
+- tão de parabens
+- [fofa](compliments)
+- serviço está de parabéns
+- nota dez
+- Obrigado
+- muito [eficiente](compliments)
+- vc [arrasa](compliments)!
+- desenrolada
+- bom atendimento
+- você é muito [fofa](compliments)
+- nossa! que [maravilhosaaa](compliments)
+- você é linda
+- nao obrigado
+- [excelente](compliments)!
+- [incrível](compliments)!
+- oi susana você é muito simpática
+- valeu
+- serviço muito bom
+- obrigada
+- Obg
+- muito bem, deu tudo certo
+- [adorei](compliments)!
+- você é [maravilhosa](compliments)
+- obrigado pela eficiência
+- sua [linda](compliments)
+- [gostei](compliments) muito do serviço
+- parabens
+- Nossa que chatbot [incrível](compliments)
+- que [excelente](compliments) ideia
+- [Parabéns](compliments)!
+- Foi engano obrigada
+- massa demais viu, linda
+- você é perfeita
+- Grata
+- me ajudou muito
+- massa demais
+- Deus abençoe
+- Obrigado esqueça.
+- maravilha
+- muito eficiente
+- foi massa
+- adorei seu serviço
+- Ai que [maravilha](compliments)
+- [gostei](compliments) bastante
+- vai lá e [arrasa](compliments)
+- melhor impossível
+- vc é 10
+- Ok  obrigado
+- Grato de sua atenção.
+
+## intent:financial_position
+- Posiçao finaçeira
+- [posição financeira](financial_position) por favor
+- ver minha situação financeira
+- minha posição financeira está boa?
+- [posicao financeira](financial_position) por favor
+- ver status financeiro
+- [posicao financeira](financial_position)
+- como está minha posição financeira
+- qual a situação das minhas finanças
+- e a situação das finanças? como está?
+- minhas [finanças](financial_position)
+- quero saber minha situação financeira
+- informações financeiras
+- informações contrato
+- quero saber informações sobre o meu [contrato](invoice)
+- Quero Saber a Situação Financeira
+- e as finanças? preciso de uma posição
+- Posição finaceira
+- quero minha situação financeira agora
+- como está o meu financeiro?
+- como está as minhas finanças?
+- situação finanças
+- informações do meu contrato
+- [posição financeira](financial_position)
+- posso ver minha [posição financeira](financial_position)
+- quero saber a minha situação financeira
+- Posição de financiamento
+- [olá](hi), quero saber minha [posição financeira](financial_position)
+
+## intent:conversation_exit
+- vou indo, [até mais](goodbye)
+- adeus amiga
+- [Flw](goodbye) bicho
+- Já foi resolvido já
+- até depois
+- [adeus](goodbye)
+- quero [cancelar](exit)
+- [tchauzinho](goodbye)
+- até a próxima querida
+- deixa proxima
+- [adeus](goodbye) susana
+- posso [cancelar](exit) operação?
+- [sair](exit) quero
+- não vou flar
+- flw
+- por favor, [sair](exit)
+- [tchau](goodbye)
+- [cancelar](exit) passo
+- tchau doido
+- já vou indo
+- não, quero [sair](exit)
+- não quero falar
+- quero saber de tu não
+- quero [sair](exit)
+- Não quero mais
+- [flw](goodbye)
+- até breve
+- [cancelar](exit), pois irei [sair](exit)
+- não quero mais falar
+- tchau susana
+- deixa pra próxima
+- até próxima
+- desejo [sair](exit)
+
+## intent:general_statement
+- como recebo meu extrato detalhado
+- preciso do [extrato geral](general_statement)
+- Gostaria de saber q valor é esse que aparece no meu extrato de 8 mil?
+- retirar [extrato](general_statement)
+- Tô precisando do [extrato](general_statement)
+- por favor, o extrato
+- me manda o extrato ai
+- quero saber meu [estrato](general_statement)
+- extrato detalhado já está disponivel?
+- preciso do extrato o mais rápido possivel
+- me desenrola o extrato por favor
+- preciso do meu extrato detalhado quando der
+- adoraria receber meu extrato detalhado
+- [Extrato](general_statement) da minha conta
+- [Extrato detalhado](general_statement), por favor?
+- dá pra mandar meu extrato detalhado por favor?
+- ja da pra gerar meu extrato?
+- [extrado detalhado](general_statement)
+- [extrato detalhado](general_statement)
+- [extrato](general_statement)
+- preciso do meu extrato o mais rápido possivel
+- estou precisando de um extrato
+- preciso do detalhamento do meu extrato
+- meu [extrato](general_statement)
+- quero um extrato detalhado
+- extrado detalhado
+- Extrato detalhado
+- quero retirar [extrato detalhado](general_statement)
+- tô querendo o [extrato detalhado](general_statement)
+
+## intent:customer_service
+- quero ser redirecionado para o [atendimento](human_attending)
+- Pode me encaminhar para um atendente?
+- não quero falar com robô, quero [falar com humano](human_attending)
+- Aonde este atendente
+- n quero falar com um robô
+- quero falar com o gerente
+- Gostaria de ser atendida pela blogueira da morar mais por gentileza
+- quero ser atendido por humano
+- preciso de um atendente real
+- [atendimento ao cliente](human_attending)
+- Falar com
+- me mande para algum [atendente](human_attending). por favor
+- atendente
+- Me  encaminhar para um atendente
+- falar com humano
+- quero falar com alguém humano
+- preciso falar com algum humano
+- quero falar com fulano
+- quero falar com uma [pessoa](human_attending)
+- preciso atendente
+- quero falar com atendente
+- quero atendimento humano
+- quero ser atendido por um [humano atendente](human_attending)
+- não quero ser atendimento por um robo
+- Pode encaminhar
+- pode me encaminhar para alguém?
+- quero falar com [Arquiana](human_attending)
+- quero falar com um humano
+- quero falar com um [atendente](human_attending), de preferência a cláudia
+- me recuso a falar com bot
+- Com quem eu falo?
+- Tem algum atendente físico que possa me atender?
+- pode me direcionar para um [atendente humano](human_attending)?
+- Nao quero telefone! Quero falar por mensagem
+- não quero falar com um robô
+- pode me redirecionar para um humano?
+- pode me direcionar para a creusa?
+- preciso falar com fulana
+- preciso falar com [atendente humano](human_attending)
+- preciso falar com um humano
+- quero falar com alguem de vdd
+- pode me direcionar para alguém?
+- me mande para um [atendente](human_attending), por favor
+
+## intent:estate_broker
+- sou [corretora](estate_broker) gostaria de receber a [tabela](price_table) e disp
+- Onde consigo a [tabela](price_table) do pier 750?
+- sou um [corretor](estate_broker) e quero saber sobre a [tabela de preços](price_table)
+- Quero a [tabela de preços](price_table)
+- sou [corretor](estate_broker) e gostaria da [tabela](price_table) [atualizada](updated).
+- Quero [Tabela](price_table) e imagens dos empreendimento de vcs, sou [consultor imobiliário](estate_broker)
+- Preciso [tabela](price_table) condomínio Tetris
+- sou da [corretoria](estate_broker) e gostaria de conferir a [tabela de preços](price_table) [atualizada](updated)
+- Sou [corretor](estate_broker) Fulano e quero [tabela](price_table) do condomínio tetris
+- sou [corretora](estate_broker) e quero a [tabela](price_table) [atualizada](updated)
+- sou [corretora](estate_broker) de imóveis, você pode enviar a [tabela de valores](price_table)
+- sou [corretora](estate_broker) me chamo Neide, gostaria de saber a disponibilidade do Residencial Miramar.
+- Sou [corretor](estate_broker) de imóveis e estou com um cliente interessado
+- quero [tabela](price_table) atual do apartamento tetris
+- sou [corretora](estate_broker), gostaria por gentileza de encontrar a [tabela](price_table) do edf. pier 750
+- Sou Maria [corretora](estate_broker) de imóveis, por gentileza me encaminhe as [tabelas](price_table).
+
+## intent:greeting
+- olarrr
+- [tudo tranquilo?](hi)?
+- [oienn](hi)
+- eita eae
+- [good night](good_night)
+- [olares](hi)
+- [hola](hi)!
+- [e aí](hi)
+- iai
+- [olá](hi)
+- [oi](hi), more
+- ola, [tudo bem?](hi)?
+- eu estou muito bem e você [como está?](hi)?
+- ola bom dia
+- [hello](hi)
+- [ola](hi)
+- Obrigada
+- [hey](hi)
+- Bom dia!
+- [oieeeeee](hi)
+- [olareeess](hi)
+- ta [td bem](hi)?
+- [BOA NOITE](good_night)
+- Olá.
+- uma [bela tarde](good_afternoon)
+- Olá bom dia
+- [opa](hi)!
+- BOM dia
+- oi! [tudo bom?](hi)?
+- [Hellooo](hi)
+- [turu pom?](hi)?
+- [Bom dia!](good_morning)
+- ola?
+- [olar](hi)
+- [opaaa](hi)
+- [oizinho](hi)
+- olá
+- [eaiii](hi)
+- Ola bom dia
+- [oiiii](hi)
+- uma [otima tarde](good_afternoon)
+- como [vc está?](hi)?
+- [olááá](hi)
+- [eainn](hi)
+- [olaar](hi)
+- OLÁ
+- tudo bem ?
+- Bomm dia!
+- Oi
+- [oie](hi)
+- [Hello](hi), girl
+- Bom dia !
+- Boa tarde !
+- fala!
+- [td certinho?](hi)?
+- Ola boa tarde
+- Boa noite!!
+- Bom dia Susana
+- [morning](good_morning)
+- [opa! bom dia](good_morning)
+- [boa noitinhaa](good_night), querida
+- [ei](hi)
+- [bdia](good_morning)
+- eae
+- [oi](hi), [bom dia](good_morning)
+- [bum diaaa](good_morning)
+- [fala comigo](hi)
+- fala ae
+- oi tudo bom?
+- txow
+- [oinnn](hi)
+- [olaa](hi)
+- Olá Manu
+- [olazíneo](hi)
+- [e ai](hi) colega?
+- Olá boa noite
+- OLA
+- eae po
+- [oláá](hi)
+- Olá boa tarde
+- [boa noiteeee](good_night)
+- [olarzinho](hi)
+- [wow](hi)
+- OI
+- Bom dia prezados
+- oi
+- [boa tarde](good_afternoon)
+- [buenos dias](good_morning)
+- [bomdia](good_morning)
+- olaris
+- [olá](hi) Aidê
+- boa tared
+- Oie
+- olá, gostaria de informações sobre meu contrato
+- boa tarde
+
+## intent:bias
+- covid
+- falo
+- E estou informando que será pago no dia 10/10/19
+- corona virus
+- até 1 Milhão e 900 Mil
+- franborgess10@gmail.com
+- 3846
+- 92 981640933/991926863
+- 981205757
+- 2897398299
+- 6/2019
+- 02/2020
+- novo corona virus
+- caso não atenda é que estou no serviço
+- 34710957215
+- Sim pode
+- Bom dia quero informações meu número 91 98260 8298
+- 222.222.222.22
+- vc consegue ver pra mim e dar baixa
+- Fiz o destrato estou aguardando o pagamento que era pra ter feito fia 09/10/2019
+- https://s3.amazonaws.com/rapidpro-courier/udo_media/whatsapp/
+- 91 985018080
+- Pensei q tinha acabado minhas prestacoes
+- 92991686179
+- para solicitar chamado de serviços
+- Não deu certo o numero 2267
+- Prissilasantos@hotmail.com
+- a
+- 992219909
+- P poder pagar hj
+- Essa de 100% em maio 2020 é real para o?
+- 213488
+- Que pago pra vcs
+- Gostaria de saber q valor é esse que aparece no meu de 8 mil?
+- lilian.porfirio2@gmail.com
+- da
+- 92994103780
+- Então ele queria saber se está tudo ok com os pagamentos dele pq diz q não recebeu nenhuma confirmaçãoEntão ele queria saber se está tudo ok com os pagamentos dele pq diz q não recebeu nenhuma confirmação
+- Vou levar pro advogado
+- referente a parcela do dia 20?09
+- 213586
+- você pode informar o
+- Quero saber se o meu está tudo certinho
+- 15/09/2019
+- Meu numero é  92 992930812
+- Voces estao me cobrando ja foi pago o boleto
+- 05/09
+- 982587482
+- 10/2018
+- 09/2018
+- Estou esperando isso
+- Poderiam concertar a infiltraÇao do meu apartamento
+- Falta so irem trocar a porta do meu apartamento que ja esta na terceira semana ja foi dois técnicos e nenhum resolveu se nao trocarem vou suspender o p
+- Como faço??
+- 91-98891-3824
+- era so se tivesse a informação msm
+- 6546332310
+- VC trabalha no rh da empresa capital
+- Francisco@inpa.gov.br.
+- Ola05/10/2019
+- Oi tudo bem? Gostaria de saber
+- 2769
+- dados
+- caminopublicacoes@gmail.com
+- 9528
+- Já paguei ontem a noite
+- Quero paga minha comta
+- 016 35152200
+- Na lotérica  no dia 30
+- demais
+- Vou enviar meus áudios
+- quero saber sobre
+- outros
+- Quais os documentos pra fazer uma avaliação
+- O meu boleto vence hoje se caso pagar amanhã pago os R$ 6.08 de juros?
+- 984659136
+- para saber da assinatura junto a caixa com anda a proposta
+- 92 99320 5767
+- Vou aguardar meu nome ir pro SPC e vou ao Procon. Bom dia
+- contato 993730633 ou 988174974
+- cobraram
+- 03/2020
+- 5640
+- rosanasilvanunes2018@gmail.com
+- nao quero
+- 65937570200
+- 4888
+- Sou aposentada
+- oliveira-bricio@hotmail.com
+- breve
+- Efetuei o pagamento desse boleto pelo e-mail q vcs me enviaram gostaria de confirmar se esse e-mail procedeu de vcs
+- Nem o valor atualizado não tem né??
+- fazer
+- Que eu saiba está tudo em dia
+- Eu ainda cnsigo pegar a chave hj msmoo
+- Bom dia amiga gostaria de saber se vocês estão contratando pintor profissional meu esposo ele e pintor profissional ele  está  precisando urgentemente de um trabalho porque está eu ele  sem trabalho nós estamos passando por uma situação muito difícil  amiga dê essa oportunidade pra ele mostra o serviço dele para vocês que  não vão se arrepender me ajudar por favor
+- Mas tarde
+- Bom dia negativado porque?
+- Bom dia gostaria de sobre
+- Meu Nome Williams AP BL I 305
+- proxima
+- Foi pago sim
+- Sim sou a Edenir
+- Olha o pagamento foi efetuado no último dia 03 /10  e mesmo assim estou sendo cobrado! Vocês conseguem resolver isso pra mim por favor?
+- 91982243616
+- Ontem voces mandaram mensagem pra mim
+- Mês que vem começo a pagar a caixa
+- 92 993645931
+- Não chegou
+- A do mês 9 ainda vou pagar .obrigado
+- 9182243616
+- Nossos produtos têm 03 anos de garantia contra defeitos de fabricação Oferecemos treinamento para capacitação nos equipamentos BSKY gratuito em nossa empresa Nossa área de suporte técnico também está sempre pronta para atendê-lo Visite o nosso site: www.stingeNossos produtos têm 03 anos de garantia contra defeitos de fabricação Oferecemos treinamento para capacitação nos equipamentos BSKY gratuito em nossa empresa Nossa área de suporte técnico também está sempre pronta para atendê-lo Visite o nosso site: www.stinge
+- 214381
+- por email
+- Olha o que está acontecendo
+- 51751313204
+- meu email é peter@ilhasoft.com.br
+- 527331228
+- Estou liberada pra pegar a chave ?
+- Nao se corrigiram o meu email
+- marashrl@gmail.com
+- 888575222-53
+- 98471-3939
+- 03/2019
+- 7235
+- 55917976287
+- vocês
+- 20/2018
+- Esta programado para dia 09
+- agamento dessas parcelas e vamos resolver na justiÇa.
+- até
+- 27354849200
+- me chamo
+- Como funciona..
+- 850936020
+- Tenho um imóvel minha casa minha vida no meu nome mas é da minha irmã É ela que paga. Preciso tirar do meu nome mas não sei como ainda.
+- Minhas contas com a Capital estao pagas
+- meu nome é
+- Eu já estou pagando
+- Cumpro meus compromissos e vcs deveriam fazer o mesmo
+- cobrar
+- Eu vou é processar voces
+- prefiro saber por aqui
+- Não né
+- por telefone
+- Estão cobrando indevidamente
+- tudo
+- 200
+- Eu gostaria de saber tem que eu posso ?
+- Serviços
+- 8233
+- 4490
+- Boa tarde gostaria de atualizar meu email
+- 3633
+- 62639102249
+- https://s3.amazonaws.com/rapidpro-courier/udo_media/whatsapp/5f28/5582981319945/C494D60C8BF69639382B40C78DD0E341.ogg
+- E meus juros de obra nem chegaram ah 300 reais ainda
+- To me irritando
+- moraesmichele623@gmail.com
+- Nikolassantos688@gmail.com
+- toda
+- 82999489287
+- 91985305047
+- 8802
+- 2887
+- 92981205757
+- Tem vaga para empreiteiro
+- filha de uma puta
+- 51175126268
+- Cada um com uma data e um valor
+- Na construtora
+- 243
+- Só que o valor correto seria mais de 300.00 pq será feito um aditivo no contrato
+- Atendimento péssimo
+- 092 994309386
+- jxsena789@gmail.com
+- com
+- Quanto aos valores da entrega de chaves?
+- 34755330220
+- Já estar pago sim
+- Vou verificar aqui mas não estava ciente disso
+- Nao e q ta atrasada uma prestação da minha entrada
+- Maryguga.ribeiro@gmail.com
+- Quem é
+- Mandei os comprovantes de pagamento
+- 1287
+- 2897
+- ???Já realizei todos os pagamentos anteriores e pendentes setembro em
+- covid-19
+- 9/2019
+- No momento em nada qualquer coisa te falo.
+- acessar o portal do cliente
+- Quando vcs passam os documentos para caixa
+- como posso fazer para enviar ?para uma possivel de emprego em seguraça do .
+- 982243616
+- já paguei
+- Chegou bem m emeil pra min dizendo que não foi fei o pagamento da parcela do mês 9
+- Trabalho com venda de compensado Ser vc pode me ajuda divulgado eu agradeço
+- Consigo pegar as chaves normal..?
+- Gostaria de saber se é na área do cliente que realiza chamados?
+- próxima
+- Eles querem receber de mim
+- Por em quanto tudo certo
+- Que processo.e esse.
+- A mão de obra também ja ta quitada né
+- Mauro.homelige@gmail.com
+- não estou conseguindo baixar
+- 20/07
+- Preciso fazer um cadastro
+- Será que eles estao ciente de tudo ?vc cobra eles pessoalmente ou por email?
+- passar
+- Quero sabe que processo é estes.pagamento
+- pri201940@gmail.com
+- 92 992768327
+- (92)99509-1872
+- Esse que passei
+- 01/05
+- eu não to entende
+- 53834690287
+- 213489
+- Fases da obra
+- 70162451288
+- Não tenho telefone
+- Quando recebemos?
+- porra
+- Olá queria saber o sobre a retenção que eu trabalho na rottas
+- Nao chegoy psfs meu email
+- 213989
+- Nossos produtos têm 03 anos de garantia contra defeitos de fabricação Oferecemos treinamento para capacitação nos equipamentos BSKY gratuito em nossa empresa Nossa área de suporte técnico também está sempre pronta para atendê-lo Visite o nosso site: www.stinge
+- 7702
+- 9461
+- Tem vaga disponível
+- Deus me livre de você
+- abertura de protocolo
+- 92 994659877
+- Que pagamento.de quer.que vence dia 15.
+- QUERO DO
+- Estou com 2 juros de obras atrasados porém esta dentro do meu limita na conta da caixa... Consigo retirar as chaves normalmente amanhã?
+- Não entendo essa mensagem
+- ef.erickson.ferreira@hotmail.com
+- Pode sim
+- E novo esse email
+- Já sei
+- Ja foi pago
+- sou cliente já
+- Gostaria de saber se há vaga de emprego disponível
+- sobre
+- 1
+- Boa noite  trabalhamos com quentinhas a partir de 5 00 reais entregamos a partir de 20 unidades pagamento a vista ou no cartao 995185163
+- nao ta imprimindo
+- quero
+- Nem paguei ainda
+- epidemia
+- Vcz me mandaram uma msg
+- 20/10
+- Conversei com meu advogado
+- Este é o nunero dela
+- Problema não resolvido  sobre o interfone
+- 16996115451
+- Mas eles não repassem pra nós
+- Marilia_fta@hotmail.com
+- 1967890285
+- pandemia
+- 90822668220
+- 75504995272
+- Meu e-Mail está com problemas no momento eu uso do meu esposo
+- 01/2020
+- Pode ser
+- 8991
+- Ja realizei o pagamento
+- 92991184262
+- Estou no aguardo do mesmo a Muito tempo
+- 4238
+- Weliton-nego@hotmail.com
+- https://rapidpro-courier.s3.amazonaws.com/udo_media/385/0e15/6224/0e156224-9aa0-4c90-8d7c-9c16f4912077.pdf
+- para o email
+- 1098
+- Quero resolver isso
+- 11 986672162
+- 678005214
+- 6523
+- Tô aguardando
+- bom dia  eita amigos!! Não consigo mesmo vou fazer o pagamento amanhã que cai meu pagamento
+- Para encerrar seu atendimento
+- me liga bb
+- Já paguei os boletos
+- deixa
+- saber
+- Por favor ne
+- 9427
+- Vou a vestiria pois já está agendado
+- caralho
+- pago entradas mensalmente
+- ta ok
+- Fiz o cadastramento no site mais a senha nao caiu no meu e-mail
+- qual
+- Att Paula Garcia  Tel (28)99936-2976whats ou (28)3521-2539
+- Estou em busca de uma oportunidade para operado de rolo ou retro tenho curso meu watss  (994300592).
+- 92 984659136
+- meu
+- atualizados
+- Estou no aguardo
+- 84050560259
+- Eu já efetuei o pagamento do mês de setembro
+- Eu queria ver c da pra pra mim poder vocês
+- 8500
+- ocianneoliveira@gmail.com
+- Quero enviar um Curriculum para o Rh da empresa
+- 76780007234
+- Qual são os planos
+- cobrança
+- outro
+- Olá preciso resolver a situação do meu interfone.
+- Dizem q pague de 33 parcelas de $261 pague pelo menos 15 parcelas para depois verem
+- No momento não estou presisando não
+- Oi alguma novidade
+- tudo certo
+- Já resolvi era o juros de obra q estava em atraso
+- Rotas@fogas.com.br
+- Vocês que entraram em contato comigo
+- https://s3.amazonaws.com/rapidpro-courier/udo_media/whatsapp/61a5/5542999909259/71DDFFE037879B32AAD949BC8C9AB8A1.ogg
+- por favor
+- Não precisa
+- A minha ida ao banco para a assinatura do contrato
+- 02/09/2019
+- 235199
+- Deny011208@gmail.com
+- de 243
+- Eu fiz um acordo
+- Não agora
+- Queria saber
+- coronavirus
+- Deste mês vou quitar amanhã
+- situação
+- 214865
+- DESCULPA CREIO QUE NÃO É COM VOC~E MAS PRECISO ABRIR UM CHAMADO. COMO FAÇO?
+- minhas
+- 8793
+- depois
+- 17803312074
+- Pode ser nesse horário
+- Só quero meus direitos
+- o meu cpf é 02560578263
+- meu número é
+- 8877
+- neldonferreira@gmail.com
+- Acessar área do cliente
+- 994659877
+- Bom dia Susana estou com alguns meses correto
+- Meu email é outro
+- São 2
+- Com quem eu posso ajudar
+- Como faço?
+- pare esse mesmo
+- Seja bem-vindo(a) sou Leonardo Matozinho e você está a um passo de mudar de vida e conquistar o seu imóvel! Estou ansioso para atendê-lo(a).🍀🤝🏻💁🏻‍♂
+- para
+- Eu posso ir ao apartamento sexta sempre tem gente la
+- Enviar comprovante de pagamento
+- 446 631 508 61
+- 28574346268
+- Meu numero é 92 992930812
+- 992768327
+- jeansoftware67@gmail.com
+- Tem como agenda pra eles vim aqui no condomínio bosques do ipês
+- Eu não sou essa pessoa que vocês tão cobrando
+- 9763
+- 7736
+- quantas
+- nada
+- quero queru
+- Q ria saber se estão fichando pessoas pra trabalhar aí com vcs
+- Eu ja paguei essa fatura
+- 328784
+- 214382
+- 4715
+- siim pode
+- O DD é 092 MEU contato 995117933
+- Incluir mensagem de expiração da Susana
+- Quero enviar um currículo. Como faço?
+- do dia 20/2019
+- 92995185163
+- eu fui na caixa e paguei tudo oque devia
+- Preciso que alguém vem resolver o problema do interfone que está mudo
+- ja tem algo definido?
+- é da VL
+- 985018080
+- 92 994100114
+- Eu tenho o seu telefone segunda eu ligo
+- 98125-6509
+- Olá. Boa tarde. Eu já sou moradora
+- 92 99484 5172
+- Preciso saber se a minha via da promessa se já esta assinada
+- Esta selecionando corretores
+- 5376
+- Gostaria de saber o nome da rua aonde eu comprei pra pode ligar a energia
+- Meu amor em horário de trabalho não posso está atendendo ou fazendo ligações
+- Como é o plano de vcs
+- 92153640210
+- Abrir chamado
+- Se continuarem me cobrando e colocarem meu nome  no SPC eu vou processar voces
+- 137.162.802-59
+- outra
+- 026332858.99
+- quando será liberado para
+- 71765204291
+- Alterar email
+- Por gentileza se poder corrigir agradeço
+- Esse número não pertence a Sra- Natally!!
+- Consigo algum tipo de financiamento com nome restrito?
+- ate quantas parcela eu posso atrassar
+- 91992944221
+- Nao! Ja foi pago o boleto.
+- Não estou negando de pagar
+- 241278
+- Quero minha chave
+- beatrizpaixaoferreira@gmail.com
+- outras
+- 92 98125-6509
+- é
+- 213418
+- susana
+- nao enviaram
+- 70748098291
+- O que .que eu devo .
+- 8854
+- pode
+- coronavírus
+- 8754
+- É cobranÇa é deque.
+- E
+- Olá Suzana! Estou com uma em relação ao Home Clube 2. A em setembro será semana que vem.
+- rcbandeira74@gmail.com
+- Então ele queria saber se está tudo ok com os pagamentos dele  pq diz q não recebeu nenhuma confirmação
+- Já foi pago
+- 731.732.742-53
+- Tem como me ligar 980228809
+- Vcs não podem ter minha chave
+- 4920702450
+- Estou informando que ha foi feito o pagamento
+- liberar
+- corona
+- queria quero
+- Foi com a empresa COBRABEM
+- prefiro conversar por aqui
+- teste@teste.com
+- O dia
+- Preciso do papel entrega da chave
+- 981640933
+- mudar
+- 82996680436
+- 79438300244
+- não vou não uso ja fora de contrato
+- Também já passei o email
+- covid 19
+- (92) 99221-9909
+- 8588
+- mim encaminhe
+- johndcc@gmail.com
+- não
+- Não eu recebi uma mensagem de confirmação de um pagamento que fiz.
+- quando
+- Qual o endereÇo da construtora capital.Morar Mais.
+- 9832
+- 903.723.792-49
+- aberto
+- Esse mês esta pago?
+- Já pagaram pra vcs
+- 5789
+- 235198
+- Já faz tempo que era pra ser descontado mais até agora n descontaram nada
+- o meu cpf e 0256057826322222222
+- Pois é
+- 92995117933
+- enfia
+- Oi tudo bem? Gostaria de saber !
+- Do Porto Marina
+- 995185163
+- jancris.32@hotmail.com
+- pode sim
+- covid19
+- Quero consultar da cidade de Tabatinga sp
+- Bomm dia ! Mais  ja fiz pagamento
+- 8523
+- informar
+- 6320
+- Como está a obra
+- Granito da varanda do 1101A.
+- deu operação concluida
+- você
+- Falta mais alguma coisa?
+- ducila@oi.com.br
+- 2078
+
+## intent:commercial
+- tô precisando de um novo [cafofo](residential)
+- Ainda tem
+- Queria saber quando q vai ser entregue as casas do porto olivia
+- Manu eu adquirir um imovel a 3 meses que foi o smart vista do sol lirio do vale
+- ainda tem apartamento no Life flores?
+- Gostaria de saber o valor da casa no bairro planejado em Iranduba que está em lançamento
+- quero empreender em questão de imóveis
+- como obter [empreendimento](enterprise) [comercial](commercial) para minha empresa?
+- Gostaria de saber sobre os valores do Atentico Batista campos
+- fazendo o apt
+- Ok me dê o endereço
+- Atualmente passamos nossas pastas pela Real imóveis.
+- Qual o valor com dois dormitórios??
+- adoraria começar a empreender em imóveis
+- Bom dia Susana tudo bem? Gostaria de saber se tem previsão para entrega do Condomínio Porto Olívia.
+- Essa previsão de 100% em maio 2020 é real para o Jacarandás ?
+- se refere ao proto
+- desejo comprar [empreendimento imobiliário](enterprise)
+- Quero comprar um apartamento
+- estava prevista a entrega para o final deste ano
+- Eu gostaria de saber se no condomínio Porto Olivia tem casa decorada que eu posso visitar?
+- residencial
+- Você tam algum projeto pra Cidade de Orlândia SP... ou região?
+- Gostaria de saber se a construtora tem algum empreendimento novo
+- quero empreender
+- vocês tem [empreendimento](enterprise)?
+- Olá gostaria de saber sobre as casas
+- [lotes](allotment) para empreender
+- Quero saber sobre os loteamentos do empreendimento Porto Marina
+- Queria fazer uma simulação do empreendimento
+- Boa noite. Eu quero fotos atualizada do smart vista do sol
+- metragem do apartamento
+- so queria saber mesmo quando mais o menos vai ser a entrega da casa
+- o local não faço muita questão só quero um lugar mais calmo que São Paulo
+- quanto é o preço dos imóveis?
+- Valores
+- Quando vão começar as obras do Alamedas Ouro Verde
+- me da uma ajudinha com meus [empreendimentos](enterprise) por favor
+- dê endereço
+- queria saber se já tem lote a venda no Atenas Park?
+- como posso empreender de forma comercial
+- Não quero um empreendimento em São Paulo pois já tenho um
+- O é de vocês?
+- informações sobre construção de casa
+- algum projeto pra Cidade região
+- entregue o parque
+- tenho experiência de ajudante pratico e servente e servico gerais
+- Consigo algum tipo de financiamento com nome restrito?
+- preciso de uma [casa](residential)
+- Bom dia vcs tem habitacoes de casas?
+- tabela de preço de seus empreendimentos
+- PRECISO DE INFORMAÇÕES
+- Bom dia. Sabe me informar se o Parque
+- Bom dia quero informações sobre o empreendimento de Ananindeua Belém PA
+- Num teria apartamentos com 2 dormitórios no valor mais ou menos de 180mil usando o FGTS de 30mil
+- Qual o valor do porto Marina maguari
+- Eu gostaria de saber sobre empreendimentos.
+- Como visitar apartamento
+- quero saber sobre o up 400
+- gostaria de saber as condiçoes de compra
+- quero mudar de [casa](residential) para [apartamento](residential)
+- Boa tarde ! Kelly você poderia me tirar uma dúvida sobre a entrega das casas do porto sabia amanhã?
+- Qual contato de voces
+- imóveis disponíveis para compra
+- interessado [imóvel](enterprise) desta construtora
+- [empreendimento](enterprise) [residencial](residential) [apartamento](residential) e [casa](residential)
+- [empreendimento](enterprise) lote
+- Quando vão começar as obras do
+- quero empreender em um [empreendimento](enterprise)
+- quero comprar o meu barraco
+- desejo adquirir [apartamento](residential)
+- [empreendimento](enterprise) familiar
+- O Easy Itapurâ é de vocÊs?
+- E sobre a entrega?
+- empreender em [loteamento](allotment)
+- Gostaria de informacoes sobre o Authentic Recife
+- quero fazer um financiamento
+- adquirir [imóvel](enterprise)
+- Quanto está custando direto c a construtora um apartamento  no london
+- adoraria empreender com imóveis
+- fazer uma simulação
+- Quero consultar casas minha vida da cidade de
+- Entrega quando
+- Gostaria de marcar uma visita na unidade Vila Real
+- Boa noite por favor mandar tabela de preço de seus empreendimentos. Grato de sua atenção.
+- quero comprar um [ape](residential)
+- empreender
+- poderia me infomar os [preços](price_table) do [empreendimento](enterprise) [empresariais](commercial)
+- estou pensando em mudar de [lar](residential)
+- quero comprar um empreendimento
+- Comprei um terreno no residencial amor e gostaria de saber a previsão de liberação
+- marcar uma visita na unidade
+- Gostaria de saber se a sua construtora tem alguma obra
+- quero ver os empreendimentos
+- quando vai ser entregue as casas do
+- Quando vai liberar para construir
+- como conseguir minha própria casa
+- posso empreender [comercialmente](commercial)?
+- Queria informação
+- Tem previsão pra entregar
+- empreender em um [residencial](residential)
+- Quando o smart arvoredo começará a ser construído?
+- Ok tem algum mais em conta
+- quero [empreendimento](enterprise) [comercial](commercial)
+- Valor do lote
+- Gostaria de saber se tem previsão para entrega do Condomínio
+- Bom dia gostaria de informações sobre o Hotel Samba
+- Pra comprar.essa casa na Marina
+- eu posso comprar apartamento
+- Oi tudo bem? Gostaria de saber mais!
+- simular compra
+- saber mais!
+- Boa tarde ....gostaria de informações sobre construção de casa
+- Gostaria de saber se tem alguma previsão para a entrega do imóvel ?
+- quero saber de empreendimentos comerciais
+- como posso empreender com imóveis?
+- Qual o cond vai entregar mais rapido?
+- Oi tudo bem? Gostaria de saber mais
+- ja foi entregue o parque gonçalves ledo ?
+- Quero fincanciar um ap
+- [loteamento](allotment)
+- [empreendimento](enterprise) [lote](allotment)
+- Bom dia. Sabe me informar se o Parque Gonçalves ledo tem fachada revestida ou pintura?
+- quanto custa o apto
+- preços dos [empreendimentos](enterprise) [comerciais](commercial)
+- Olá!!!! Boa tarde. Estou interessada no Smart Arvoredo
+- Gostaria de ver um apartamento de 3 quartos seria qual é quanto de entrada
+- estou interessado em [casas](residential)
+- vocês estão vendendo algum [lote](allotment)?
+- [preços](price_table) [comerciais](commercial)
+- quanto é o apartamento?
+- Já estão fazendo o apt estão limpando né?
+- [empreendimento](enterprise)?
+- Vc pode me confirmar se essa estatística se refere ao proto milazzo atual ??
+- Boa tarde  são casas
+- Apartamentos
+- como começar empreendimentos com imóveis
+- Você tam algum projeto pra Cidade região?
+- quero saber sobre o
+- quero comprar
+- Essa previsão de em maio é real para o
+- São casas ou lotes
+- quero um [apartamento](residential)
+- Eu tenho um terreno e gostaria de saber se vcs fazem construção
+- desejo empreender [comercial](commercial)
+- Tem previsão pra entregar do vila real
+- é possivel empreender em imóveis?
+- quando entrega da casa
+- empreender em um [lote](allotment)
+- Queria me informar sobre
+- sOU CORRETORA ESTOU COM CLIENTE PARA COMPRA DE APARTAMENTO.
+- Quero informações sobre apartamento no condomínio Amannda
+- CLIENTE COMPRA APARTAMENTO
+- adoraria começar a empreender
+- [empreendimento](enterprise) [residencial](residential)
+- quero comprar [empreendimento](enterprise) [empresarial](commercial)
+- precisando de [apartamentos](residential)
+- liberar para construir
+- quero comprar uma casa nova
+- Fotos de casas
+- venda de [empreendimento](enterprise) [comercial](commercial)
+- quero comprar um [empreendimento](enterprise)
+- estou precisando de um [ap](residential)
+- Gostaria de saber se vc aceitam casa como pagamento
+- empreender com imóveis
+- queria saber se ainda tem lotes disponíveis
+- ver os apartamentos
+- Bom dia gostaria de informações sobre o Hotel
+- pode me informar quando acontecer esses lançamentos?
+- Esse empreendimento esta na planta?
+- terreno construção
+- fotos Emprendimento
+- Quando sera liberado para construir ?
+- quero empreendimentos [residenciais](residential)
+- [empreendimento](enterprise) [comercial](commercial) destinado a minha empresa
+- quero uma casa própria
+- Eu tenho um apartamento mais quero vender
+- quero comprar uma casa
+- quero comprar uma [casa](residential)
+- vcs tem fotos atuais do Emprendimento Amor:
+- e não tem nenhum na planta?
+- Queria informações !! Não recebo notícia nenhuma  apenas pago as parcelas
+- vou comprar um novo lar, qual a melhor opção
+- quero comprar um imóvel
+- Quero consultar casas minha vida da cidade de Tabatinga sp
+- metragem do apto
+- Procuro por casa
+- Andamento da obra
+- estou pensando em adiquirir um [empreendimento](enterprise)
+
+## intent:reissue
+- como faço para pagar o boleto
+- 2 via
+- emitir [segunda via](reissue)
+- preciso do boleto atualizado
+- Meus boletos atrasados
+- preciso do boleto para pagamento
+- como consigo minha 2 via?
+- Esse é o email pra mandar os boletos atualizados
+- você tira segunda via?
+- segunda viaa
+- mim encaminhe boletos
+- Tem como fazer um boleto pra pagar na lotérica?
+- quero [2 via](reissue)
+- Oi boa tarde! Estou com dificuldades em imprimir o boleto
+- Tem como mandar um boleto não consegui pagar ontem
+- quero imprimir [boleto](invoice)
+- [segunda via](reissue) da [parcela](installment)
+- Preciso da segunda via das duas parcelas mais atrasadas do cond Vivendas da Cidade bloco N 303 em nome de CLEYDE CARVALHO DE OLIVEIRA
+- pode me enviar o valor da [segunda via](reissue)?
+- como faço a segunda via do doc
+- me desenrola a 2 via ai na moral
+- Poderia me mandar agora
+- 2via
+- não chegou boletos
+- gostaria de boleto 2ª via
+- outros boletos
+- Espero os outros boleros tb
+- quero a segunda via do meu boleto
+- 2 via de boleto
+- não estou conseguindo imprimir o boleto solicitado
+- Envia por gentileza boleto atualizado de setembro. Fui pagar agora mais está desatualizado
+- quero pagar o [boleto](invoice)
+- Boleto s
+- Ainda não chegou os boletos
+- Gostaria que enviassem o boleto para mim efetuar o pagamento
+- Esse foi o último boleto
+- ou vai gerar boleto
+- quero saber sobre o boleto
+- ei, quero retirar [segunda via](reissue)
+- Boletos
+- quero retirar [segunda via](reissue)
+- segunda via boleto
+- Eu quero minha segunda via da fatura
+- QUERIA O BOLETO
+- quero a segunda via da minha conta
+- boleto
+- segundq via fatur
+- se possivel quero o boleto do mes 11/2019 tambem
+- como consigo a segunda via
+- QUERO DO MES 05/2019 TAMBEM
+- [segunda via](reissue) do [boleto](invoice)
+- imprima a [segunda via](reissue)
+- mandar um boleto não consegui pagar
+- envia novamente
+- Boleto mês setembro/2019
+- QUERO DO MES TAMBEM
+- me manda a segunda via por favor
+- quero pagar, mas perdi a via
+- Gostaria de saber como faço para pagar o boleto
+- preciso de uma 2 via
+- GOSTARIAA DA SEGUND VIA DO MEU BOLETO
+- preciso de outra via pra pagar meu boleto
+- quero a [segunda via](reissue) do boleto
+- So preciso do boleto para efetuar o pagamento se puderes mandar pelo email agradeço.
+- quero um boleto para quitar todo o saldo
+- Bom dia!!! Gostaria que me enviasse o boleto 10/2019
+- quero meu boleto
+- Preciso do boleto para pagamento hj
+- O boleto para quitação
+- mandar os boletos atualizados
+- onde ligo para 2 via do boleto
+- eu quero minha segunda via do [cpf](document)
+- Boleto
+- sgeunda via
+- retirar [boleto](invoice)
+- do boleto
+
+## intent:contact
+- como falo com você depois?
+- emails
+- qual o teu numero de telefone?
+- Eu só consigo falar pelo telefone
+- como consigo seu contato
+- número telefone
+- me manda o [número](phone_number) da equitácia
+- Vocês deram uma previsão para outubro. Já estamos praticamente no fim do mês e ninguém entra em contato.
+- Esse contato so pega whats
+- Numero de contato de atendimento
+- Olá queria saber o contato sobre a retenção que eu trabalho na rottas
+- qual o seu [número](phone_number)?
+- Qual a data de entrega do smart Campo belo?
+- O telefone de vocês é 016 35152200 ok
+- contato telefonico
+- Que eles  Entrem em contato  comigo
+- qual o seu [contato](contact)?
+- não tenho mais esse numero
+- Preciso do imail do rh
+- como posso fazer para enviar curriculo?para uma possivel vaga de emprego em seguraça do trabalho.
+- falar vocês
+- Corretores de imoveis
+- Como faco pra ser atendido pelo Whatsapp
+- como consigo o email deles?
+- me passem os dados de [contato](contact) da empresa
+- Sou cliente do smart campo Belo gostaria de saber o prazo para entrega pois o site não atualizou mais.
+- Pois ñ estou conseguindo po email.
+- me passem o [email](email) da empresa
+- Preciso falar com a capital urgente
+- você tem o número de [celular](phone_number) da construtora?
+- Ola Manu tenho um apartamento no reserva morada e preciso entrar dm contato sobre um problema de encanamento que está afetando pelo menos 3 apartamentos no mesmo andar
+- quero o seu contato
+- jpá passei os dados pra vcs e não entraram em contato
+- pode me passar o [contato](contact) da empresa?
+- me passe o [email](email)
+- Gostaria devfazer uma visita ao apto que estou comprando
+- contato
+- Gostaria de saber sobre a entrega das casas da primeira fase do smart campo belo
+- queria algo para falar com vocês depois
+- email email
+- telefone de vcs esta com problema?
+- entrar contato
+- Gostaria de saber sobre a entrega das casas no vila smart campo Belo
+- Só tenho Whats 995117933 joelma
+- me informe o [telefone](phone_number) da empresa
+- email
+- Qual Whatsapp  de vcs
+- qual teu email?
+- Quando vai ser entregue o Smart Vista do Sol primeira etapa
+- preciso contatar vocês
+- Olá queria saber o contato
+- tenho experiência de ajudante pratico e servente e servico gerais
+- será possivel contatar vocês mais tarde?
+- O número de contato ninguem atende.
+- preciso de um email ou telefone
+- quero o [email](email) e [telefone](phone_number) de vocês
+- adoraria o seu email para contato
+- como eu consigo o número de telefone?
+- falo depois
+- contatar
+- Preciso de um telefone para contato em Belem do Pará
+
+## intent:negotiation
+- Mesmo tendo prestações pq ainda não quitei
+- [negocie](negotiation) minha dívida
+- Estou desempregado não estou conseguindo pagar a prestação do meu terreno
+- quitar todo o saldo
+- quitar divida
+- quero negociar minhas parcelas
+- negociar parcela
+- Pra fazer o pgto
+- preciso mudar o valor da minha parcela
+- quanto de juros q da ?
+- da pra mudar minha parcela?
+- vou [negociar](negotiation) o [atraso](late)
+- Queria me informar sobre aquisição
+- quero negociar minha quitação
+- quero quitar minha divida
+- mudar valor parcela
+- Vou fazer aos poucos e te mando o extrato cada depósito q fizer
+- negociar parcelamento
+- posso [negocia](negotiation) a dívida?
+- [pagamento parcial](negotiation) débito vencido
+- Referente ao valor da intercalada se eu posso dividir
+- como faço para negociar a divida
+- preciso negociar minha divida
+- fazer [negociação](installment)
+- Gostaria de quitar a divida restante existe algum desconto pra pagamento a vista
+- Eu queria ver c da pra parcelar pra mim poder pagar vocês
+- quero quitar tudo
+- quitar tudo
+- A mão de obra também ja ta quitada néA mão de obra também ja ta quitada né
+- quero negociar minha divida
+- vocês fazem [negociação](negotiation)?
+- [negociar](negotiation)
+- Como vou fazer o pagamento
+- já fizeram a [negociação](negotiation)
+- Na verdade gostaria de saber como faço o cadastro da empresa na construtora para fazer as vendas.
+- como quitar minha divida
+- posso [negociar](negotiation) minhas [parcelas](installment) [atrasadas](late)?
+- quero [negociar](negotiation) dívida
+
+## intent:search
+- quero [consultar](search) minha [parcela](installment) [futura](next)
+- Gostaria de saber q valor é esse que aparece no meu extrato de 8 mil?
+- [consultar](search) [parcelas](installment) [atrasadas](late)
+- quero [consultar](search) as [atrasadas](late)
+- como consigo acessar minhas novas parcelas
+- qual minha próxima fatura?
+- Tem qntas atrasadas?
+- Oi quero a fatura
+- parcela mes passado
+- minha fatura que esta em atraso
+- Mandaram o email so q nao abriu a fstura
+- Brisas a parcela e apartir de quantos?
+- Bom dia pode me passar o débito atualizado
+- Olá Suzana! Estou com uma pendência em relação ao Home Clube 2. A fatura vencida em setembro será paga semana que vem.
+- [consultar](search) [parcelas](installment) desse mês
+- [próxima](next) [fatura](installment)
+- [consultar](search) [parcelas](installment) [futuras](next)
+- Eu não paguei essa parcela ainda
+- Quero mimha fafura
+- está tudo em dia com minhas parcelas
+- Falar sobre debitos
+- quero consultar minhas pendencias
+- acho que quero [consultar](search) [parcela](installment)
+- Eu gostaria de saber sobre as parcelas que estão em atraso
+- o vencimento da fatura
+- saber minhas dívidas
+- [próximas](next) [faturas](installment)
+- parcela
+- quero [consultar](search) minhas [parcelas](installment)
+- Quero [consultar](search) meus [atrasos](late)
+- ver parcela
+- Consulta de parvelas
+- ver [parcelas](installment)
+- Contrato
+- verificar meu [atraso](late)
+- quero fazer uma [consulta](search)
+- preciso saber das minhas dividas
+- quero consultar minhas parcelas
+- Qual o meu saldo devedor?
+- Quantas parcelas aberto
+- [proximas](next) [parcelas](installment)
+- quais são as próximas parcelas?
+- Ja foi pago o  boleto do dia 30
+- quero ver as parcelas
+- [consultar](search)
+- Parcela AD
+- quero ver minhas próximas parcelas
+- parcelas
+- Bom dia Susana estou com alguns meses em atraso do contrato preciso do valor corretos
+- [consulta](search) [parcela](installment)
+- Queria saber quantos tá meu débito com a construtora?
+- quero consultar minhas pendências
+- QUERO DO MES 05/2019 TAMBEM
+- preciso consultar meus dados
+- Bom dia Susana estou com alguns meses em atraso do contrato preciso do valor correto
+- Gostaria de saber se consta o pagamento dessa parcela
+- quero consultar os meus atrasos
+- quero [consultar](search)
+- Quantas parcelas estou em aberto
+- Prezados boa tarde!  Nao estou com débito paguei adiantado verifiquem o pagamento e parem de me cobrar
+- O dia do vencimento
+- [consultar](search) [próximas](next) [parcelas](installment)
+- Nao tenho parcelas em atraso verifiquem pois pago todas adiantadas.
+- Vc pode informar o saldo
+- Consegues me confirmar se a parcela deste mês já foi paga?
+- Folgo em informar que vcs estao equivocados meu pagamento ja foi realizado
+- parcela deste mes
+- quero [consultar](search) [parcelas](installment)
+- É q nao recebi a fatura p o paganto
+- Tenho uma parcela em aberto do mês 10
+- Oi não estou conseguindo tirar minha fatura
+- quero outro contato
+- De prestação vc fala
+- Consulta da fatura
+
+## intent:bad_words
+- vai se lascar
+- fuder
+- viado
+- ânus
+- quenga
+- faz o que eu mandei burra
+- pau
+- caralho
+- fdp
+- peia
+- cuzona
+- otario
+- xibata
+- pica cu
+- sua imbecil não serve para nada
+- bunda
+- vagabunda
+- filha da puta
+- piranha
+- fuder porra
+- foda-se
+- você é uma idiota
+- você é um lixo
+- arrombada
+- putiane
+- anal
+- pexte
+- puta
+- trepa
+- enfia cu
+- desgraça
+- piroca
+- porra
+- peste
+- imprestável
+- buceta
+- idiota
+- vadia
+- cacete
+- corno
+- viadão
+- pepeca
+- se foda
+- imbecil
+- rapariga
+- miserável
+- chibata
+- xota
+- prikito
+- lascar
+- boquete
+- para de ser trouxa
+- trouxa
+- burra
+- xerecão
+- filha da peste
+- se arrombe
+- enfia a cobrança no cu
+- vai se fuder
+- kenga
+- pepeka
+- lixo
+- escroto
+- bucetinha
+- bom que se arrombe toda
+- retardada
+- cuzona demais
+- vai se fuder porra
+- arrombe
+- safada

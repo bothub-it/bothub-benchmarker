@@ -1,0 +1,20 @@
+language: "pt_br"
+
+pipeline:
+  - name: "bothub_benchmarker.benchmark_sources.components.preprocessing.Preprocessing"
+    language: "pt_br"
+  - name: "bothub_benchmarker.benchmark_sources.components.hf_transformer.HFTransformersNLPCustom"
+    model_name: "bert_portuguese"
+  - name: "bothub_benchmarker.benchmark_sources.components.lm_tokenizer.LanguageModelTokenizerCustom"
+    "intent_tokenization_flag": False
+    "intent_split_symbol": "_"
+  - name: "bothub_benchmarker.benchmark_sources.components.lm_featurizer.LanguageModelFeaturizerCustom"
+  - name: CountVectorsFeaturizer
+    analyzer: char
+    min_ngram: 3
+    max_ngram: 3
+    token_pattern: "(?u)\\b\\w+\\b"
+  - name: "bothub_benchmarker.benchmark_sources.components.diet_classifier.DIETClassifierCustom"
+    epochs: 300
+    entity_recognition: True
+    BILOU_flag: False

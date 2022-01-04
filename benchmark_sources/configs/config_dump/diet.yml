@@ -1,8 +1,0 @@
-
-pipeline:
-  - name: "benchmark_sources.components.preprocessing.Preprocessing"
-  - name: WhitespaceTokenizer
-  - name: RegexFeaturizer
-  - name: LexicalSyntacticFeaturizer
-  - name: CountVectorsFeaturizer
-  - name: DIETClassifier
